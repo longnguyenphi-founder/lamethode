@@ -1,0 +1,611 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>LA METHÓDE — Hiểu mình bằng nguyên mẫu Jung và Tứ Trụ</title>
+<meta name="description" content="Trắc nghiệm 15 câu, 12 nguyên mẫu Jung, đọc cùng Tứ Trụ BaZi. Nhận báo cáo viết bằng giọng người bạn thân hiểu mình.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600&family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,600;1,9..144,400&display=swap" rel="stylesheet">
+<style>
+:root{
+  --navy-900:#0B1230; --navy-800:#111B45; --navy-700:#1A2760;
+  --gold:#D8AE5A; --gold-soft:#F1DFB4; --coral:#FF6F61; --ice:#8FB7FF; --lilac:#C3A6FF;
+  --bg:#F3F2F8; --bg-alt:#FFFFFF; --text:#101A3A; --muted:#4A5273; --line:rgba(16,26,58,.16); --accent:#C63F2F;
+  --f-display:"Fraunces","Playfair Display",Georgia,"Times New Roman",serif;
+  --f-body:"Be Vietnam Pro",system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;
+  box-sizing:border-box;
+  padding-top:env(safe-area-inset-top,0px);
+  padding-bottom:env(safe-area-inset-bottom,0px);
+}
+@media (prefers-color-scheme:dark){
+  :root:not([data-theme="light"]){
+    --bg:#0B1230; --bg-alt:#101940; --text:#EDEAF6; --muted:#A9AFCB; --line:rgba(237,234,246,.18); --accent:#FF8A7D;
+  }
+}
+:root[data-theme="dark"]{
+  --bg:#0B1230; --bg-alt:#101940; --text:#EDEAF6; --muted:#A9AFCB; --line:rgba(237,234,246,.18); --accent:#FF8A7D;
+}
+html{scroll-padding-top:calc(env(safe-area-inset-top,0px) + 76px);scroll-behavior:smooth}
+*,*::before,*::after{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--text);font-family:var(--f-body);font-size:17px;line-height:1.65;-webkit-font-smoothing:antialiased}
+img,svg{max-width:100%}
+a{color:inherit}
+h1,h2,h3,h4{font-family:var(--f-display);font-weight:600;line-height:1.14;margin:0;letter-spacing:-.01em}
+p{margin:0}
+:focus-visible{outline:3px solid var(--coral);outline-offset:3px;border-radius:6px}
+.wrap{width:min(1120px,100% - 40px);margin-inline:auto}
+.sr-only{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
+
+/* buttons */
+.btn{display:inline-flex;align-items:center;justify-content:center;gap:8px;padding:14px 26px;border-radius:999px;font:500 16px/1.2 var(--f-body);text-decoration:none;border:1.5px solid transparent;cursor:pointer;transition:transform .15s ease,background .15s ease}
+.btn:active{transform:scale(.97)}
+.btn-primary{background:var(--coral);color:var(--navy-900)}
+.btn-primary:hover{background:#FF8579}
+.btn-ghost{border-color:var(--gold);color:var(--gold-soft);background:transparent}
+.btn-ghost:hover{background:rgba(216,174,90,.14)}
+.btn-line{border-color:var(--text);color:var(--text);background:transparent}
+.btn-line:hover{background:var(--text);color:var(--bg)}
+
+/* header */
+.site-header{position:sticky;top:env(safe-area-inset-top,0px);z-index:30;background:var(--navy-900);color:#EDEAF6;border-bottom:1px solid rgba(216,174,90,.22)}
+.nav{display:flex;align-items:center;justify-content:space-between;height:68px}
+.logo{display:flex;align-items:center;gap:10px;text-decoration:none;font:600 20px/1 var(--f-display);letter-spacing:.02em;color:#EDEAF6}
+.logo svg{width:26px;height:26px}
+.nav-links{display:flex;align-items:center;gap:28px}
+.nav-links a{text-decoration:none;font-size:15px;color:#C9CCE0}
+.nav-links a:hover{color:var(--gold-soft)}
+.nav-links .btn{padding:10px 20px;font-size:15px;color:var(--navy-900)}
+.menu-btn{display:none;background:none;border:1.5px solid rgba(216,174,90,.5);color:var(--gold-soft);border-radius:10px;padding:8px 14px;font:500 15px var(--f-body);cursor:pointer}
+
+/* hero */
+.hero{background:var(--navy-900);color:#EDEAF6;padding:clamp(48px,8vw,96px) 0 clamp(56px,8vw,104px)}
+.hero-grid{display:grid;grid-template-columns:1.05fr .95fr;gap:clamp(32px,6vw,80px);align-items:center}
+.hero h1{font-size:clamp(40px,6.4vw,76px);line-height:1.04;max-width:12ch}
+.lead{margin-top:24px;font-size:clamp(17px,2vw,20px);color:#C9CCE0;max-width:46ch}
+.cta-row{display:flex;flex-wrap:wrap;gap:14px;margin-top:34px}
+.hero-note{margin-top:18px;font-size:14px;color:#9AA0C2}
+
+/* wheel */
+.wheel-wrap{width:min(100%,470px);margin-inline:auto}
+.wheel{position:relative;width:100%;aspect-ratio:1/1}
+.wheel svg{position:absolute;inset:0;width:100%;height:100%}
+.wheel-center{position:absolute;left:50%;top:50%;transform:translate(-50%,-50%);width:54%;text-align:center}
+.wc-group{font-size:13px;color:var(--gold);min-height:1.4em}
+.wc-name{font:600 clamp(20px,3.4vw,28px)/1.15 var(--f-display);margin-top:6px}
+.wc-tag{font-size:14px;line-height:1.5;color:#B6BAD4;margin-top:8px}
+.node{position:absolute;left:var(--x);top:var(--y);width:26px;height:26px;margin:-13px 0 0 -13px;border-radius:50%;border:0;padding:0;background:var(--c);cursor:pointer;transition:transform .2s ease,box-shadow .2s ease;animation:pop .5s both;animation-delay:calc(var(--i) * 70ms + 200ms)}
+.node::after{content:"";position:absolute;inset:-10px}
+.node:hover{transform:scale(1.25)}
+.node[aria-pressed="true"]{transform:scale(1.5);box-shadow:0 0 0 4px var(--navy-900),0 0 0 6px var(--gold-soft)}
+@keyframes pop{from{opacity:0;transform:scale(.2)}to{opacity:1}}
+.legend{display:flex;flex-wrap:wrap;justify-content:center;gap:8px 20px;list-style:none;margin:26px 0 0;padding:0;font-size:14px;color:#B6BAD4}
+.legend li{display:flex;align-items:center;gap:8px}
+.legend i{width:10px;height:10px;border-radius:50%;background:var(--c)}
+
+/* sections */
+.sec{padding:clamp(60px,9vw,112px) 0}
+.sec-alt{background:var(--bg-alt)}
+.sec-navy{background:var(--navy-900);color:#EDEAF6}
+.sec h2{font-size:clamp(30px,4.4vw,48px);max-width:20ch}
+.sec-intro{margin-top:18px;max-width:56ch;color:var(--muted);font-size:18px}
+.sec-navy .sec-intro{color:#B6BAD4}
+.tag-soon{display:inline-block;font-size:13px;padding:3px 12px;border-radius:999px;border:1px solid var(--gold);color:var(--gold-soft);vertical-align:middle}
+
+/* quiz teaser */
+.quiz-grid{display:grid;grid-template-columns:.8fr 1.2fr;gap:clamp(28px,5vw,72px);align-items:start}
+.quiz-card{background:var(--bg-alt);border:1px solid var(--line);border-radius:22px;padding:clamp(22px,4vw,40px)}
+.sec-alt .quiz-card{background:var(--bg)}
+.q-count{font-size:14px;color:var(--muted)}
+.q-text{font:600 clamp(21px,2.6vw,27px)/1.3 var(--f-display);margin:10px 0 22px}
+.q-options{display:grid;gap:12px}
+.q-opt{text-align:left;font:400 16px/1.5 var(--f-body);color:var(--text);background:transparent;border:1.5px solid var(--line);border-radius:14px;padding:14px 18px;cursor:pointer;transition:border-color .15s,background .15s}
+.q-opt:hover{border-color:var(--text)}
+.q-opt[aria-checked="true"]{border-color:var(--coral);background:rgba(255,111,97,.12)}
+.q-result{display:none;margin-top:24px;padding-top:22px;border-top:1px dashed var(--line)}
+.q-result.show{display:block}
+.q-result p{margin-bottom:16px}
+
+/* steps */
+.steps{list-style:none;margin:48px 0 0;padding:0;display:grid;grid-template-columns:repeat(3,1fr);gap:0;counter-reset:s}
+.steps li{position:relative;padding:0 28px 0 0;counter-increment:s}
+.steps li::before{content:counter(s);display:flex;align-items:center;justify-content:center;width:44px;height:44px;border-radius:50%;background:var(--navy-900);color:var(--gold);font:600 20px var(--f-display);margin-bottom:18px}
+.steps li:not(:last-child)::after{content:"";position:absolute;top:22px;left:56px;right:12px;border-top:1.5px dashed var(--line)}
+.steps h3{font-size:23px;margin-bottom:8px}
+.steps p{color:var(--muted);font-size:16px}
+
+/* archetype bands */
+.bands{margin-top:48px;border-top:1px solid var(--line)}
+.band{display:grid;grid-template-columns:.8fr 2.2fr;gap:28px;padding:34px 0;border-bottom:1px solid var(--line)}
+.band-head h3{font-size:25px;display:flex;align-items:center;gap:12px}
+.band-head h3 i{width:14px;height:14px;border-radius:50%;background:var(--c);flex:none}
+.band-head p{margin-top:10px;color:var(--muted);font-size:15px;max-width:30ch}
+.band-list{display:grid;grid-template-columns:repeat(3,1fr);gap:24px}
+.band-list h4{font-size:19px;margin-bottom:6px}
+.band-list p{font-size:15px;color:var(--muted);line-height:1.55}
+
+/* report */
+.report-grid{display:grid;grid-template-columns:1fr 1fr;gap:clamp(32px,6vw,88px);align-items:center}
+.report-points{list-style:none;margin:28px 0 0;padding:0;display:grid;gap:16px}
+.report-points li{padding-left:22px;position:relative;color:var(--muted)}
+.report-points li::before{content:"";position:absolute;left:0;top:.7em;width:8px;height:8px;border-radius:50%;background:var(--coral)}
+.report-points b{color:var(--text);font-weight:600}
+.report{width:min(100%,360px);margin-inline:auto;background:var(--navy-800);color:#EDEAF6;border-radius:28px;padding:30px 26px;border:1px solid rgba(216,174,90,.5);box-shadow:0 30px 60px -30px rgba(11,18,48,.6)}
+.report .r-chip{display:inline-block;background:var(--coral);color:var(--navy-900);font-size:13px;font-weight:600;padding:4px 14px;border-radius:999px}
+.report h3{font-size:34px;color:var(--gold-soft);margin:18px 0 6px}
+.report .r-sub{font-style:italic;font-family:var(--f-display);color:#C9CCE0;font-size:17px;line-height:1.4}
+.r-block{margin-top:20px;padding-top:16px;border-top:1px solid rgba(216,174,90,.28)}
+.r-block h4{font:600 15px var(--f-body);color:var(--gold);margin-bottom:4px}
+.r-block p{font-size:15px;line-height:1.55;color:#DCDDEC}
+.r-foot{margin-top:22px;display:flex;justify-content:space-between;align-items:center;font-size:13px;color:#9AA0C2}
+.r-foot b{color:var(--coral);font-weight:600}
+
+/* bazi */
+.pillars{display:grid;grid-template-columns:repeat(4,1fr);gap:18px;margin-top:48px}
+.pillar{border:1px solid rgba(216,174,90,.4);border-radius:120px 120px 16px 16px;padding:36px 20px 26px;text-align:center;background:var(--navy-800)}
+.pillar .han{font:400 52px/1 var(--f-display);color:var(--gold);display:block;margin-bottom:16px}
+.pillar h3{font-size:21px;margin-bottom:8px}
+.pillar p{font-size:14.5px;color:#B6BAD4;line-height:1.55}
+.seasons{display:grid;grid-template-columns:repeat(4,1fr);margin-top:64px;border-top:1.5px solid var(--gold);position:relative}
+.season{padding:22px 18px 0 0;position:relative}
+.season::before{content:"";position:absolute;top:-7px;left:0;width:12px;height:12px;border-radius:50%;background:var(--gold)}
+.season h4{font-size:22px;margin-bottom:6px}
+.season p{font-size:14.5px;color:#B6BAD4;line-height:1.55}
+.seasons-note{margin-top:28px;color:#B6BAD4;font-size:16px;max-width:60ch}
+
+/* compare */
+.tbl-wrap{overflow-x:auto;margin-top:40px;border:1px solid var(--line);border-radius:18px}
+table{border-collapse:collapse;width:100%;min-width:620px;font-size:16px}
+th,td{text-align:left;padding:18px 22px;vertical-align:top;border-bottom:1px solid var(--line)}
+tbody tr:last-child th,tbody tr:last-child td{border-bottom:0}
+thead th{font:600 18px var(--f-display);background:var(--bg-alt)}
+thead th:last-child{background:var(--navy-900);color:var(--gold-soft)}
+tbody th{font-weight:500;color:var(--muted);width:20%}
+tbody td:last-child{background:rgba(216,174,90,.12);font-weight:500}
+
+/* plans */
+.plans{display:grid;grid-template-columns:1fr 1fr;gap:24px;margin-top:44px}
+.plan{border:1px solid var(--line);border-radius:22px;padding:34px;display:flex;flex-direction:column}
+.plan.main{background:var(--navy-900);color:#EDEAF6;border-color:rgba(216,174,90,.5)}
+.plan h3{font-size:28px;display:flex;align-items:center;gap:12px;flex-wrap:wrap}
+.plan .p-sub{margin-top:8px;color:var(--muted)}
+.plan.main .p-sub{color:#B6BAD4}
+.plan ul{list-style:none;margin:24px 0 30px;padding:0;display:grid;gap:12px;flex:1}
+.plan li{padding-left:26px;position:relative;font-size:16px}
+.plan li::before{content:"";position:absolute;left:2px;top:.55em;width:10px;height:6px;border-left:2px solid var(--coral);border-bottom:2px solid var(--coral);transform:rotate(-45deg)}
+.plan .btn{align-self:flex-start}
+
+/* hashtag */
+.tag-grid{display:grid;grid-template-columns:.9fr 1.1fr;gap:clamp(28px,5vw,72px);align-items:start}
+.caps{display:grid;gap:14px}
+.cap{background:var(--bg-alt);border:1px solid var(--line);border-radius:16px;padding:18px 20px;display:flex;gap:16px;align-items:flex-start;justify-content:space-between}
+.sec-alt .cap{background:var(--bg)}
+.cap p{font-size:16px}
+.cap button{flex:none;font:500 14px var(--f-body);background:transparent;color:var(--text);border:1.5px solid var(--line);border-radius:999px;padding:7px 16px;cursor:pointer}
+.cap button:hover{border-color:var(--text)}
+.cap-label{font-size:14px;color:var(--muted);margin-bottom:4px}
+
+/* faq */
+.faq{margin-top:40px;border-top:1px solid var(--line);max-width:820px}
+.faq details{border-bottom:1px solid var(--line);padding:6px 0}
+.faq summary{cursor:pointer;list-style:none;display:flex;justify-content:space-between;gap:20px;padding:18px 0;font:600 20px/1.35 var(--f-display)}
+.faq summary::-webkit-details-marker{display:none}
+.faq summary::after{content:"+";font:400 28px/1 var(--f-body);color:var(--accent);flex:none}
+.faq details[open] summary::after{content:"–"}
+.faq details p{padding:0 40px 20px 0;color:var(--muted)}
+
+/* final + footer */
+.final{text-align:center}
+.final h2{margin-inline:auto;max-width:16ch;font-size:clamp(34px,5.4vw,60px)}
+.final p{margin:20px auto 0;max-width:44ch;color:#B6BAD4;font-size:18px}
+.final .btn{margin-top:34px}
+.site-footer{background:#080D24;color:#9AA0C2;padding:40px 0;font-size:14px}
+.foot{display:flex;flex-wrap:wrap;gap:24px;justify-content:space-between;align-items:flex-start}
+.foot nav{display:flex;gap:22px;flex-wrap:wrap}
+.foot a{text-decoration:none;color:#C9CCE0}
+.foot a:hover{color:var(--gold-soft)}
+.disclaimer{margin-top:28px;padding-top:22px;border-top:1px solid rgba(237,234,246,.12);max-width:70ch;line-height:1.6}
+
+/* responsive */
+@media (max-width:900px){
+  .hero-grid,.quiz-grid,.report-grid,.tag-grid{grid-template-columns:1fr}
+  .hero h1{max-width:14ch}
+  .steps{grid-template-columns:1fr;gap:34px}
+  .steps li:not(:last-child)::after{display:none}
+  .band{grid-template-columns:1fr;gap:20px}
+  .pillars{grid-template-columns:repeat(2,1fr)}
+  .seasons{grid-template-columns:repeat(2,1fr);gap:34px 0;border-top:0}
+  .season{border-top:1.5px solid var(--gold)}
+  .plans{grid-template-columns:1fr}
+  .menu-btn{display:block}
+  .nav-links{display:none;position:absolute;left:0;right:0;top:68px;background:var(--navy-900);flex-direction:column;align-items:flex-start;padding:22px 20px 28px;border-bottom:1px solid rgba(216,174,90,.3)}
+  .nav-links.open{display:flex}
+}
+@media (max-width:600px){
+  body{font-size:16px}
+  .band-list{grid-template-columns:1fr}
+  .pillars{grid-template-columns:1fr}
+  .seasons{grid-template-columns:1fr}
+  .cap{flex-direction:column}
+  .plan{padding:26px}
+}
+@media (prefers-reduced-motion:reduce){
+  html{scroll-behavior:auto}
+  *,*::before,*::after{animation:none!important;transition:none!important}
+}
+</style>
+</head>
+<body>
+
+<header class="site-header">
+  <div class="wrap nav">
+    <a class="logo" href="#top" aria-label="LA METHÓDE — về đầu trang">
+      <svg viewBox="0 0 32 32" aria-hidden="true"><circle cx="16" cy="16" r="13" fill="none" stroke="#D8AE5A" stroke-width="1.6"/><circle cx="16" cy="16" r="5" fill="#FF6F61"/><circle cx="16" cy="3" r="2" fill="#D8AE5A"/></svg>
+      LA METHÓDE
+    </a>
+    <button class="menu-btn" id="menuBtn" aria-expanded="false" aria-controls="navLinks">Menu</button>
+    <nav class="nav-links" id="navLinks" aria-label="Điều hướng chính">
+      <a href="#cach-hoat-dong">Cách hoạt động</a>
+      <a href="#nguyen-mau">12 nguyên mẫu</a>
+      <a href="#bazi">Tứ Trụ theo mùa</a>
+      <a href="#goi">Gói</a>
+      <a href="#hoi-dap">Hỏi đáp</a>
+      <a class="btn btn-primary" data-quiz href="#">Làm trắc nghiệm</a>
+    </nav>
+  </div>
+</header>
+
+<main id="top">
+
+<!-- HERO -->
+<section class="hero">
+  <div class="wrap hero-grid">
+    <div class="hero-copy">
+      <h1>Bạn là ai khi không ai đang nhìn?</h1>
+      <p class="lead">15 câu hỏi, 12 nguyên mẫu của Jung, đọc cùng Tứ Trụ BaZi. Bạn nhận về một bản báo cáo viết bằng giọng của người bạn thân hiểu mình.</p>
+      <div class="cta-row">
+        <a class="btn btn-primary" data-quiz href="#">Làm trắc nghiệm miễn phí</a>
+        <a class="btn btn-ghost" href="#bao-cao">Xem báo cáo mẫu</a>
+      </div>
+      <p class="hero-note">15 câu hỏi, mất vài phút. Báo cáo nguyên mẫu miễn phí.</p>
+    </div>
+    <div class="wheel-wrap">
+      <div class="wheel" id="wheel" role="group" aria-label="12 nguyên mẫu. Chọn một chấm để xem.">
+        <svg id="wheelSvg" viewBox="0 0 100 100" aria-hidden="true"></svg>
+        <div class="wheel-center" aria-live="polite">
+          <p class="wc-group" id="wcGroup">12 nguyên mẫu</p>
+          <p class="wc-name" id="wcName">Chọn một chấm</p>
+          <p class="wc-tag" id="wcTag">Ai cũng mang nhiều nguyên mẫu, nhưng chỉ một nguyên mẫu dẫn đầu.</p>
+        </div>
+      </div>
+      <ul class="legend" id="legend" aria-label="Bốn nhóm động lực"></ul>
+    </div>
+  </div>
+</section>
+
+<!-- QUIZ TEASER -->
+<section class="sec" id="thu-cau-dau">
+  <div class="wrap quiz-grid">
+    <div>
+      <h2>Thử câu đầu tiên ngay tại đây</h2>
+      <p class="sec-intro">Không có đáp án đúng hay sai. Chọn điều gần với bạn nhất, đừng chọn điều bạn nghĩ mình nên chọn.</p>
+    </div>
+    <div class="quiz-card">
+      <p class="q-count">Câu 1 trong 15</p>
+      <p class="q-text" id="qText">Cuối tuần hoàn toàn rảnh, bạn muốn làm gì nhất?</p>
+      <div class="q-options" role="radiogroup" aria-labelledby="qText" id="qOptions"></div>
+      <div class="q-result" id="qResult" aria-live="polite">
+        <p id="qResultText"></p>
+        <a class="btn btn-primary" data-quiz href="#">Làm tiếp 14 câu còn lại</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- HOW IT WORKS -->
+<section class="sec sec-alt" id="cach-hoat-dong">
+  <div class="wrap">
+    <h2>Từ 15 câu hỏi đến một bản báo cáo của riêng bạn</h2>
+    <ol class="steps">
+      <li>
+        <h3>Trả lời 15 câu hỏi</h3>
+        <p>Câu hỏi về những tình huống rất đời thường. Bạn trả lời theo phản xạ đầu tiên.</p>
+      </li>
+      <li>
+        <h3>Nhận báo cáo nguyên mẫu</h3>
+        <p>Một trong 12 nguyên mẫu, kèm điểm sáng, điểm mù, cách bạn yêu và cách bạn làm việc.</p>
+      </li>
+      <li>
+        <h3>Mở thêm lớp Tứ Trụ <span class="tag-soon" style="color:var(--accent);border-color:var(--accent)">Sắp ra mắt</span></h3>
+        <p>Ngày sinh của bạn thêm một lớp đọc: năng lượng của từng mùa trong năm đang tác động đến bạn thế nào.</p>
+      </li>
+    </ol>
+  </div>
+</section>
+
+<!-- ARCHETYPES -->
+<section class="sec" id="nguyen-mau">
+  <div class="wrap">
+    <h2>12 nguyên mẫu, 4 nhóm động lực</h2>
+    <p class="sec-intro">Nguyên mẫu không phải một cái nhãn để dán lên người. Đó là kiểu câu chuyện bạn hay vô thức sống theo. Mỗi nhóm bên dưới trả lời một câu: bạn thật sự muốn điều gì?</p>
+    <div class="bands" id="bands"></div>
+  </div>
+</section>
+
+<!-- REPORT -->
+<section class="sec sec-alt" id="bao-cao">
+  <div class="wrap report-grid">
+    <div>
+      <h2>Báo cáo đọc như tin nhắn từ người hiểu bạn</h2>
+      <p class="sec-intro">Không thuật ngữ khó nuốt, không lời khuyên chung chung. Mỗi báo cáo được viết bằng tiếng Việt của người cùng thế hệ, và đủ đẹp để bạn muốn gửi cho bạn thân.</p>
+      <ul class="report-points">
+        <li><b>Điểm sáng.</b> Điều bạn làm tốt đến mức không nhận ra đó là thế mạnh.</li>
+        <li><b>Điểm mù.</b> Cái bẫy bạn hay rơi vào, nói thẳng nhưng không phán xét.</li>
+        <li><b>Khi yêu, khi làm việc.</b> Cách nguyên mẫu của bạn xuất hiện trong từng mối quan hệ.</li>
+        <li><b>Thẻ để chia sẻ.</b> Một tấm thẻ gọn, đúng màu thương hiệu, sẵn sàng đăng lên Threads hoặc TikTok.</li>
+      </ul>
+    </div>
+    <article class="report" aria-label="Bản mẫu báo cáo nguyên mẫu Nhà Kiến Tạo">
+      <span class="r-chip">Bản mẫu</span>
+      <h3>Nhà Kiến Tạo</h3>
+      <p class="r-sub">Bạn không cần hoàn hảo. Bạn cần thứ gì đó là của riêng mình.</p>
+      <div class="r-block"><h4>Điểm sáng</h4><p>Nhìn một khoảng trống là thấy ngay thứ có thể lấp vào.</p></div>
+      <div class="r-block"><h4>Điểm mù</h4><p>Bỏ dở ba dự án vì dự án thứ tư nghe hay hơn.</p></div>
+      <div class="r-block"><h4>Khi yêu</h4><p>Thể hiện bằng việc làm cho người ấy một thứ chỉ riêng họ có.</p></div>
+      <div class="r-foot"><span>LA METHÓDE</span><b>#GetToKnowMe</b></div>
+    </article>
+  </div>
+</section>
+
+<!-- BAZI -->
+<section class="sec sec-navy" id="bazi">
+  <div class="wrap">
+    <h2>Tứ Trụ: bốn lớp của một con người</h2>
+    <p class="sec-intro">Nguyên mẫu cho biết bạn thường sống theo câu chuyện nào. Tứ Trụ, dựa trên ngày giờ sinh, thêm bốn góc nhìn nữa về chính bạn.</p>
+    <div class="pillars">
+      <div class="pillar"><span class="han" aria-hidden="true">年</span><h3>Trụ Năm</h3><p>Bối cảnh bạn lớn lên và điều bạn thừa hưởng.</p></div>
+      <div class="pillar"><span class="han" aria-hidden="true">月</span><h3>Trụ Tháng</h3><p>Cách bạn làm việc và trưởng thành.</p></div>
+      <div class="pillar"><span class="han" aria-hidden="true">日</span><h3>Trụ Ngày</h3><p>Con người thật của bạn, khi không cần giữ hình ảnh.</p></div>
+      <div class="pillar"><span class="han" aria-hidden="true">時</span><h3>Trụ Giờ</h3><p>Điều bạn đang hướng tới.</p></div>
+    </div>
+    <div class="seasons">
+      <div class="season"><h4>Xuân</h4><p>Mùa gieo. Năng lượng của khởi đầu và thử nghiệm.</p></div>
+      <div class="season"><h4>Hạ</h4><p>Mùa bung nở. Năng lượng của hành động và hiện diện.</p></div>
+      <div class="season"><h4>Thu</h4><p>Mùa gặt. Năng lượng của nhìn lại và chọn lọc.</p></div>
+      <div class="season"><h4>Đông</h4><p>Mùa nghỉ. Năng lượng của chậm lại và tích lũy.</p></div>
+    </div>
+    <p class="seasons-note">Nguyên mẫu của bạn ít thay đổi. Năng lượng quanh bạn thì đổi theo mùa, nên báo cáo Tứ Trụ cũng được viết mới theo từng mùa. <span class="tag-soon">Sắp ra mắt</span></p>
+  </div>
+</section>
+
+<!-- COMPARE -->
+<section class="sec" id="khac-biet">
+  <div class="wrap">
+    <h2>Khác gì những bài test tính cách bạn đã làm?</h2>
+    <div class="tbl-wrap">
+      <table>
+        <caption class="sr-only">So sánh bài test tính cách thường gặp với LA METHÓDE</caption>
+        <thead><tr><th scope="col"></th><th scope="col">Bài test thường gặp</th><th scope="col">LA METHÓDE</th></tr></thead>
+        <tbody>
+          <tr><th scope="row">Kết quả</th><td>Một nhãn cố định</td><td>Một nguyên mẫu dẫn đầu, kèm cách nó thể hiện trong tình yêu và công việc</td></tr>
+          <tr><th scope="row">Giọng văn</th><td>Thường dịch từ tiếng Anh</td><td>Tiếng Việt, giọng của người cùng thế hệ</td></tr>
+          <tr><th scope="row">Khung hiểu mình</th><td>Một hệ thống</td><td>Nguyên mẫu Jung kết hợp Tứ Trụ BaZi</td></tr>
+          <tr><th scope="row">Sau khi làm xong</th><td>Đọc một lần là hết</td><td>Báo cáo mới theo từng mùa (sắp ra mắt)</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</section>
+
+<!-- PLANS -->
+<section class="sec sec-alt" id="goi">
+  <div class="wrap">
+    <h2>Bắt đầu miễn phí, đi sâu khi bạn sẵn sàng</h2>
+    <div class="plans">
+      <div class="plan">
+        <h3>Nguyên mẫu</h3>
+        <p class="p-sub">Miễn phí</p>
+        <ul>
+          <li>Trắc nghiệm 15 câu hỏi</li>
+          <li>Báo cáo nguyên mẫu của bạn</li>
+          <li>Thẻ chia sẻ #GetToKnowMe</li>
+        </ul>
+        <a class="btn btn-line" data-quiz href="#">Làm trắc nghiệm</a>
+      </div>
+      <div class="plan main">
+        <h3>Theo mùa <span class="tag-soon">Sắp ra mắt</span></h3>
+        <p class="p-sub">Gói đăng ký, giá sẽ công bố khi mở bán</p>
+        <ul>
+          <li>Mọi thứ trong gói Nguyên mẫu</li>
+          <li>Báo cáo Tứ Trụ viết mới mỗi mùa</li>
+          <li>Đọc nguyên mẫu cùng năng lượng của mùa hiện tại</li>
+        </ul>
+        <a class="btn btn-primary" data-waitlist href="#">Vào danh sách chờ</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- HASHTAG -->
+<section class="sec" id="getToKnowMe">
+  <div class="wrap tag-grid">
+    <div>
+      <h2>Gửi bạn thân tấm thẻ nguyên mẫu của bạn</h2>
+      <p class="sec-intro">Làm xong, đăng thẻ kèm #GetToKnowMe rồi hỏi bạn bè: còn bạn là ai? Đây là vài caption để bạn bắt đầu.</p>
+    </div>
+    <div class="caps" id="caps"></div>
+  </div>
+</section>
+
+<!-- FAQ -->
+<section class="sec sec-alt" id="hoi-dap">
+  <div class="wrap">
+    <h2>Câu hỏi thường gặp</h2>
+    <div class="faq">
+      <details><summary>Làm trắc nghiệm mất bao lâu?</summary><p>15 câu hỏi, thường chỉ mất vài phút. Bạn nên trả lời theo phản xạ đầu tiên, đừng suy nghĩ quá lâu.</p></details>
+      <details><summary>Trắc nghiệm có miễn phí không?</summary><p>Có. Trắc nghiệm và báo cáo nguyên mẫu là miễn phí. Gói Theo mùa với báo cáo Tứ Trụ sẽ ra mắt sau.</p></details>
+      <details><summary>Tôi cần chuẩn bị gì cho phần Tứ Trụ?</summary><p>Ngày tháng năm sinh của bạn. Nếu nhớ giờ sinh, báo cáo sẽ đọc được đủ cả bốn trụ.</p></details>
+      <details><summary>Nguyên mẫu Jung và BaZi có phải khoa học không?</summary><p>Không. Đây là hai khung để bạn tự soi lại mình, không phải chẩn đoán tâm lý hay lời tiên đoán. Hãy dùng chúng như một cuộc trò chuyện với chính mình.</p></details>
+      <details><summary>Kết quả của tôi có thay đổi theo thời gian không?</summary><p>Nguyên mẫu dẫn đầu thường khá ổn định, nhưng cách nó thể hiện thay đổi theo giai đoạn sống. Phần đọc theo mùa của Tứ Trụ được làm ra cho đúng điều này.</p></details>
+    </div>
+  </div>
+</section>
+
+<!-- FINAL CTA -->
+<section class="sec sec-navy final">
+  <div class="wrap">
+    <h2>Hiểu mình hơn một chút so với hôm qua</h2>
+    <p>Mười lăm câu hỏi là đủ để bắt đầu.</p>
+    <a class="btn btn-primary" data-quiz href="#">Làm trắc nghiệm miễn phí</a>
+  </div>
+</section>
+
+</main>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <div class="foot">
+      <a class="logo" href="#top" style="font-size:18px">LA METHÓDE</a>
+      <nav aria-label="Liên kết cuối trang">
+        <a href="#" data-threads>Threads</a>
+        <a href="#" data-tiktok>TikTok</a>
+        <a href="#">Điều khoản</a>
+        <a href="#">Quyền riêng tư</a>
+      </nav>
+    </div>
+    <p class="disclaimer">LA METHÓDE là công cụ để tự khám phá bản thân, không thay thế tư vấn hay trị liệu tâm lý chuyên môn. © <span id="yr">2026</span> LA METHÓDE.</p>
+  </div>
+</footer>
+
+<script>
+/* ===== Cấu hình: thay các link này bằng link thật ===== */
+var QUIZ_URL = "#";       // link trang làm trắc nghiệm
+var WAITLIST_URL = "#";   // link form danh sách chờ (Google Form, Tally...)
+var THREADS_URL = "#";
+var TIKTOK_URL = "#";
+
+document.querySelectorAll("[data-quiz]").forEach(function(a){a.href=QUIZ_URL;});
+document.querySelectorAll("[data-waitlist]").forEach(function(a){a.href=WAITLIST_URL;});
+document.querySelectorAll("[data-threads]").forEach(function(a){a.href=THREADS_URL;});
+document.querySelectorAll("[data-tiktok]").forEach(function(a){a.href=TIKTOK_URL;});
+document.getElementById("yr").textContent = new Date().getFullYear();
+
+/* menu mobile */
+var menuBtn = document.getElementById("menuBtn"), navLinks = document.getElementById("navLinks");
+menuBtn.addEventListener("click", function(){
+  var open = navLinks.classList.toggle("open");
+  menuBtn.setAttribute("aria-expanded", open);
+});
+navLinks.addEventListener("click", function(e){ if(e.target.tagName==="A"){navLinks.classList.remove("open");menuBtn.setAttribute("aria-expanded","false");} });
+
+/* dữ liệu nguyên mẫu */
+var GROUPS = [
+  {n:"Ổn định & chăm lo", s:"Ổn định", d:"Muốn mọi thứ vững vàng, có trật tự và có người để dựa vào.", c:"#D8AE5A"},
+  {n:"Tự do & khám phá", s:"Tự do", d:"Muốn có không gian để tìm hiểu, đi xa và là chính mình.", c:"#8FB7FF"},
+  {n:"Dấu ấn & thử thách", s:"Dấu ấn", d:"Muốn làm nên chuyện và thay đổi điều đã cũ.", c:"#FF6F61"},
+  {n:"Gắn kết & niềm vui", s:"Gắn kết", d:"Muốn thuộc về ai đó và làm cuộc sống nhẹ đi.", c:"#C3A6FF"}
+];
+var ARCH = [
+  {g:0,n:"Người Che Chở",t:"Yêu bằng cách lo cho người khác, và hay quên lo cho mình."},
+  {g:0,n:"Nhà Kiến Tạo",t:"Thấy khoảng trống là muốn làm ra thứ chưa từng có."},
+  {g:0,n:"Người Cầm Lái",t:"Không chịu để mọi thứ rối. Có bạn ở đó, ai cũng thấy yên tâm."},
+  {g:1,n:"Người Hồn Nhiên",t:"Tin rằng mọi chuyện rồi sẽ ổn, và thường là đúng."},
+  {g:1,n:"Người Thông Thái",t:"Cần hiểu tận gốc rồi mới chịu hành động."},
+  {g:1,n:"Người Khám Phá",t:"Ở yên một chỗ quá lâu là thấy ngộp."},
+  {g:2,n:"Người Chiến Binh",t:"Càng khó càng muốn chứng minh mình làm được."},
+  {g:2,n:"Kẻ Phá Luật",t:"Luật nào không hợp lý, bạn là người đầu tiên hỏi vì sao."},
+  {g:2,n:"Nhà Biến Hóa",t:"Biến một ý tưởng mơ hồ thành điều thật sự xảy ra."},
+  {g:3,n:"Người Bạn Đồng Hành",t:"Ở đâu cũng hòa nhập, ai cũng thấy gần."},
+  {g:3,n:"Người Đa Cảm",t:"Sống bằng cảm xúc và nhớ rất lâu những điều nhỏ."},
+  {g:3,n:"Người Pha Trò",t:"Làm cả phòng cười để mọi thứ nhẹ đi."}
+];
+
+/* vòng tròn nguyên mẫu */
+(function(){
+  var wheel = document.getElementById("wheel"), svg = document.getElementById("wheelSvg");
+  var wcGroup = document.getElementById("wcGroup"), wcName = document.getElementById("wcName"), wcTag = document.getElementById("wcTag");
+  var R = 42, r = 28, s = '<circle cx="50" cy="50" r="'+R+'" fill="none" stroke="#D8AE5A" stroke-opacity=".55" stroke-width=".4"/>'
+    + '<circle cx="50" cy="50" r="'+r+'" fill="none" stroke="#D8AE5A" stroke-opacity=".3" stroke-width=".3" stroke-dasharray="1 1.4"/>';
+  for(var i=0;i<12;i++){
+    var a=(-90+i*30)*Math.PI/180;
+    s += '<line x1="'+(50+r*Math.cos(a)).toFixed(2)+'" y1="'+(50+r*Math.sin(a)).toFixed(2)+'" x2="'+(50+R*Math.cos(a)).toFixed(2)+'" y2="'+(50+R*Math.sin(a)).toFixed(2)+'" stroke="#D8AE5A" stroke-opacity=".3" stroke-width=".3"/>';
+  }
+  svg.innerHTML = s;
+  var nodes = [];
+  ARCH.forEach(function(a,i){
+    var ang=(-90+i*30)*Math.PI/180, b=document.createElement("button");
+    b.type="button"; b.className="node"; b.setAttribute("aria-pressed","false"); b.setAttribute("aria-label",a.n+", nhóm "+GROUPS[a.g].s);
+    b.style.setProperty("--x",(50+R*Math.cos(ang)).toFixed(2)+"%");
+    b.style.setProperty("--y",(50+R*Math.sin(ang)).toFixed(2)+"%");
+    b.style.setProperty("--c",GROUPS[a.g].c); b.style.setProperty("--i",i);
+    b.addEventListener("click",function(){
+      nodes.forEach(function(n){n.setAttribute("aria-pressed","false");});
+      b.setAttribute("aria-pressed","true");
+      wcGroup.textContent = GROUPS[a.g].n; wcGroup.style.color = GROUPS[a.g].c;
+      wcName.textContent = a.n; wcTag.textContent = a.t;
+    });
+    nodes.push(b); wheel.appendChild(b);
+  });
+  var lg = document.getElementById("legend");
+  GROUPS.forEach(function(g){
+    var li=document.createElement("li"); li.style.setProperty("--c",g.c);
+    li.innerHTML='<i></i>'+g.s; lg.appendChild(li);
+  });
+})();
+
+/* 4 nhóm nguyên mẫu */
+(function(){
+  var host = document.getElementById("bands");
+  GROUPS.forEach(function(g,gi){
+    var items = ARCH.filter(function(a){return a.g===gi;});
+    var band = document.createElement("div"); band.className="band";
+    band.innerHTML = '<div class="band-head" style="--c:'+g.c+'"><h3><i></i>'+g.n+'</h3><p>'+g.d+'</p></div>'
+      + '<div class="band-list">'+items.map(function(a){return '<div><h4>'+a.n+'</h4><p>'+a.t+'</p></div>';}).join("")+'</div>';
+    host.appendChild(band);
+  });
+})();
+
+/* câu hỏi thử */
+(function(){
+  var opts = [
+    {t:"Dọn lại góc phòng, nấu gì đó cho người thân, hoặc lên kế hoạch cho tuần sau.", g:0},
+    {t:"Bắt một chuyến đi bất chợt hoặc học một thứ mình chưa từng biết.", g:1},
+    {t:"Bắt đầu một thử thách mà ai cũng bảo là khó.", g:2},
+    {t:"Hẹn bạn thân, ngồi nói chuyện đến khuya.", g:3}
+  ];
+  var host=document.getElementById("qOptions"), res=document.getElementById("qResult"), txt=document.getElementById("qResultText"), btns=[];
+  opts.forEach(function(o){
+    var b=document.createElement("button"); b.type="button"; b.className="q-opt"; b.setAttribute("role","radio"); b.setAttribute("aria-checked","false"); b.textContent=o.t;
+    b.addEventListener("click",function(){
+      btns.forEach(function(x){x.setAttribute("aria-checked","false");});
+      b.setAttribute("aria-checked","true");
+      txt.textContent="Lựa chọn này thường nghiêng về nhóm “"+GROUPS[o.g].n+"”. 14 câu còn lại sẽ cho thấy nguyên mẫu cụ thể của bạn.";
+      res.classList.add("show");
+    });
+    btns.push(b); host.appendChild(b);
+  });
+})();
+
+/* caption mẫu */
+(function(){
+  var caps = [
+    "Mình là Nhà Kiến Tạo. Hóa ra bỏ dở không phải lười, mà là mình chưa gặp ý tưởng đủ lớn. #GetToKnowMe",
+    "Test xong mới biết vì sao mình hay làm cả phòng cười rồi tự thấy mệt. #GetToKnowMe",
+    "Bạn thân mình ra Người Cầm Lái. Đúng đến mức không cãi được. Còn bạn là ai? #GetToKnowMe"
+  ];
+  var host=document.getElementById("caps");
+  caps.forEach(function(c){
+    var d=document.createElement("div"); d.className="cap";
+    d.innerHTML='<div><p class="cap-label">Gợi ý caption</p><p></p></div><button type="button">Chép</button>';
+    d.querySelector("p:not(.cap-label)").textContent=c;
+    var btn=d.querySelector("button");
+    btn.addEventListener("click",function(){
+      try{ navigator.clipboard.writeText(c).then(function(){btn.textContent="Đã chép";setTimeout(function(){btn.textContent="Chép";},1600);}); }catch(e){}
+    });
+    host.appendChild(d);
+  });
+})();
+</script>
+</body>
+</html>
