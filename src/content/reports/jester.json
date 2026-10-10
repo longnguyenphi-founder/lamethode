@@ -1,0 +1,937 @@
+{
+  "slug": "jester",
+  "code": "THE",
+  "english": "The Jester",
+  "name": "Chú Hề / Người Vui Vẻ",
+  "intro": [
+    "Bà là đứa mà mỗi khi bước vào phòng, không khí tự động trở nên vui vẻ hơn. Bà có khả năng biến những tình huống căng thẳng nhất thành một trò đùa nhẹ nhàng, khiến ai cũng bật cười dù đang mệt mỏi đến đâu. Với bà, cuộc sống quá ngắn ngủi để lúc nào cũng nghiêm trọng, và niềm vui chính là thứ đáng được ưu tiên hàng đầu. Nhưng có một sự thật mà bà giấu kỹ hơn cả câu chuyện cười chưa kể: đằng sau nụ cười luôn thường trực đó là một nỗi buồn sâu sắc mà bà chưa từng cho phép mình đối diện thật sự.",
+    "Sự thật đau lòng nhất là bà thường dùng sự hài hước như một tấm khiên để né tránh việc phải xử lý những cảm xúc nặng nề, những vấn đề nghiêm trọng trong cuộc sống. Tận sâu bên trong, bà luôn mang một nỗi sợ hoang mang: \"Nếu mình ngừng vui vẻ, ngừng pha trò, liệu người ta có còn muốn ở gần mình nữa không? Hay niềm vui chính là thứ duy nhất khiến mình có giá trị trong mắt người khác?\". Bà cứ liên tục dùng tiếng cười để che giấu nỗi đau, để rồi có những đêm một mình, bà không biết phải làm gì với những cảm xúc thật sự của chính mình."
+  ],
+  "population": 8,
+  "celebrities": [
+    {
+      "name": "Ryan Reynolds",
+      "text": "Nổi tiếng với khả năng biến mọi tình huống, kể cả những thất bại kinh doanh, thành những câu chuyện hài hước tự trào, Ryan Reynolds là biểu tượng của tinh thần lạc quan pha chút châm biếm thông minh."
+    },
+    {
+      "name": "Rebel Wilson",
+      "text": "Với sự nghiệp gắn liền với hình ảnh vui nhộn, dí dỏm trên màn ảnh, Rebel Wilson luôn mang đến tiếng cười cho khán giả trong khi vẫn thể hiện những góc nhìn sâu sắc về cuộc sống qua cách kể chuyện của mình."
+    },
+    {
+      "name": "Yuri (Girls' Generation)",
+      "text": "Được các thành viên nhóm nhắc đến với tính cách vui vẻ, hài hước và khả năng làm dịu không khí trong những tình huống căng thẳng suốt nhiều năm hoạt động cùng nhóm."
+    },
+    {
+      "name": "Ilana Glazer",
+      "text": "Đồng sáng tạo và diễn viên chính của loạt phim hài nổi tiếng, Ilana Glazer sử dụng sự hài hước như một công cụ để bàn luận về những chủ đề xã hội nghiêm túc theo cách gần gũi, dễ tiếp cận."
+    }
+  ],
+  "powers": [
+    {
+      "title": "Bà có Khả Năng Biến Hóa Không Khí Diệu Kỳ",
+      "english": "The Atmosphere Alchemist",
+      "lead": null,
+      "points": [
+        {
+          "title": "Xoa dịu căng thẳng bằng tiếng cười",
+          "text": "Khác với những người dễ bị cuốn vào sự nghiêm trọng, The Jester luôn tìm ra góc nhìn hài hước trong mọi tình huống, giúp mọi người thư giãn hơn."
+        },
+        {
+          "title": "Năng lượng lan tỏa niềm vui tự nhiên",
+          "text": "Các bà có khả năng khiến bất kỳ ai xung quanh cũng cảm thấy nhẹ nhõm hơn, chỉ đơn giản bằng sự hiện diện tràn đầy sức sống của mình."
+        }
+      ]
+    },
+    {
+      "title": "Trí Tuệ Ẩn Sau Tiếng Cười",
+      "english": "The Wisdom Behind Wit",
+      "lead": null,
+      "points": [
+        {
+          "title": "Nhìn thấu vấn đề qua lăng kính hài hước",
+          "text": "Điểm nổi bật nhất của Jester là khả năng nhận ra những nghịch lý, những điều buồn cười trong cuộc sống mà người khác quá nghiêm túc để nhận thấy."
+        },
+        {
+          "title": "Vibe dễ gần, không phán xét",
+          "text": "Ở cạnh một Jester, người ta cảm thấy được là chính mình, không cần phải gồng mình nghiêm túc, vì bà luôn tạo ra một không gian an toàn để thư giãn."
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "id": "portrait",
+      "title": "Chân dung của bạn – Bạn thực sự là ai",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Để tui chẻ nhỏ hai phần \"ăn tiền\" nhưng cũng dễ làm mấy bà \"suy\" nhất: Năng lực cốt lõi (Flex nhẹ skill ẩn) và Góc tối tâm lý (Red flag tự thân)."
+        },
+        {
+          "type": "p",
+          "text": "Bà nào thấy quen quen thì chuẩn bị sẵn giấy bút note lại để tự chấn chỉnh mình nghen!"
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "1. Năng Lực Cốt Lõi (Những thứ làm nên thương hiệu \"linh hồn vui vẻ\")"
+        },
+        {
+          "type": "p",
+          "text": "Đây là những siêu năng lực bẩm sinh khiến The Jester luôn là \"liều thuốc tinh thần\" của rất nhiều người, vì ai cũng cần một chút niềm vui giữa cuộc sống bộn bề:"
+        },
+        {
+          "type": "item",
+          "title": "Khiếu hài hước bẩm sinh (Natural Wit)",
+          "text": "Các bà có khả năng nhìn ra sự hài hước trong những tình huống bình thường nhất, biến những khoảnh khắc nhàm chán thành những kỷ niệm đáng nhớ."
+        },
+        {
+          "type": "item",
+          "title": "Khả năng sống trong hiện tại (Living in the Moment)",
+          "text": "Không giống như những người luôn lo lắng về tương lai hay hối tiếc quá khứ, các bà có khả năng tận hưởng trọn vẹn khoảnh khắc hiện tại."
+        },
+        {
+          "type": "item",
+          "title": "Sự linh hoạt trong tư duy (Cognitive Flexibility)",
+          "text": "Các bà có khả năng nhìn một vấn đề từ nhiều góc độ khác nhau, kể cả góc độ hài hước, giúp tìm ra những giải pháp sáng tạo mà người khác không nghĩ tới."
+        },
+        {
+          "type": "item",
+          "title": "Năng lượng lan tỏa niềm vui (Joy Amplifier)",
+          "text": "Chỉ cần bà xuất hiện, không khí xung quanh tự động trở nên nhẹ nhàng, vui vẻ hơn, như một liều thuốc tinh thần tự nhiên cho những người xung quanh."
+        },
+        {
+          "type": "sub",
+          "icon": "🛑",
+          "title": "2. Góc Tối (Red flag tự thân – Đọc để tỉnh táo nha mấy bà!)"
+        },
+        {
+          "type": "p",
+          "text": "Vui vẻ thì giỏi, nhưng tâm lý của Chú Hề lại rất dễ bị hổng lỗ chỗ vì những \"cái bẫy\" tự mình giăng ra:"
+        },
+        {
+          "type": "item",
+          "title": "Hội chứng \"Trốn tránh cảm xúc thật bằng tiếng cười\" (Humor as Avoidance)",
+          "text": "Đây là bẫy dễ sập nhất! Mỗi khi có cảm xúc khó chịu xuất hiện, phản xạ đầu tiên của các bà là pha trò để né tránh, thay vì thực sự đối diện và xử lý nó."
+        },
+        {
+          "type": "item",
+          "title": "Sợ bị coi là \"không nghiêm túc\" (Fear of Being Taken Lightly)",
+          "text": "Vì luôn gắn liền với hình ảnh vui vẻ, các bà cực kỳ hay lo lắng rằng người khác sẽ không coi trọng ý kiến hay năng lực thực sự của mình."
+        },
+        {
+          "type": "item",
+          "title": "Nỗi buồn ẩn giấu sau tiếng cười (The Sad Clown Syndrome)",
+          "text": "Góc tối \"độc hại\" nhất của Jester là mang một nỗi buồn sâu sắc mà không ai nhìn thấy, vì bà luôn cố gắng thể hiện vẻ ngoài vui vẻ ngay cả khi đang đau khổ nhất."
+        },
+        {
+          "type": "item",
+          "title": "Thiếu trách nhiệm vì ngại sự nghiêm túc (Avoiding Seriousness)",
+          "text": "Cứ liên tục né tránh những cuộc trò chuyện nghiêm túc, những trách nhiệm nặng nề bằng cách biến chúng thành trò đùa, đến lúc cần phải nghiêm túc thì lại không biết cách."
+        },
+        {
+          "type": "item",
+          "title": "Các bà hệ Jester nhớ kỹ nha",
+          "text": "Tiếng cười không có sự chân thật chính là một chiếc mặt nạ ngày càng nặng nề. Hãy mang lại niềm vui bằng một trái tim nhẹ nhàng, nhưng phải cho phép mình được buồn khi cần!"
+        }
+      ]
+    },
+    {
+      "id": "core",
+      "title": "Lõi Tính Cách (Bản chất thật sự bên trong)",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Nếu lõi của The Creator là Khát Vọng Tạo Ra Điều Có Giá Trị Lâu Dài, thì lõi của The Jester chính là Khát Vọng Sống Trọn Vẹn Trong Niềm Vui (The Desire for Joyful Living). Động lực sâu thẳm nhất của các bà được xây dựng trên 3 trụ cột này:"
+        },
+        {
+          "type": "item",
+          "title": "Bản năng tìm kiếm niềm vui (The Joy-Seeking Instinct)",
+          "text": "Các bà nhìn thế giới qua lăng kính của những khoảnh khắc đáng để tận hưởng. Sự nặng nề, u ám kéo dài khiến các bà cảm thấy ngột ngạt, cần phải tìm cách thoát ra."
+        },
+        {
+          "type": "item",
+          "title": "Nỗi sợ sự nhàm chán và nghiêm trọng hóa vấn đề (Fear of Heaviness)",
+          "text": "Nghe hơi \"suy\" nhưng đây là sự thật. Nỗi sợ lớn nhất của Jester không phải là thất bại, mà là cuộc sống trở nên tẻ nhạt, mất đi sự nhẹ nhàng, vui tươi."
+        },
+        {
+          "type": "item",
+          "title": "Niềm tin vào sức mạnh chữa lành của tiếng cười (Faith in Laughter's Healing Power)",
+          "text": "Với các bà, tiếng cười có thể xoa dịu mọi nỗi đau, kết nối mọi người lại với nhau. Đây là động lực khiến bà luôn cố gắng mang lại niềm vui, nhưng cũng là gánh nặng khi phải luôn duy trì hình ảnh đó."
+        },
+        {
+          "type": "sub",
+          "icon": "🛑",
+          "title": "Những Điểm Cần Lưu Ý (Đọc để chấn chỉnh lại nết, bớt khổ nha!)"
+        },
+        {
+          "type": "p",
+          "text": "Mang năng lượng Jester là một điều tuyệt vời, nhưng nếu không biết cách kiểm soát, các bà sẽ tự biến mình thành một người không bao giờ dám thể hiện cảm xúc thật. Nhớ kỹ những cẩm nang sinh tồn này:"
+        },
+        {
+          "type": "item",
+          "title": "Cho phép mình được buồn mà không cần giải thích bằng trò đùa",
+          "text": "Không phải lúc nào bà cũng cần phải vui vẻ. Học cách ngồi với cảm xúc buồn bã mà không cần che giấu nó bằng tiếng cười."
+        },
+        {
+          "type": "item",
+          "title": "Phân biệt hài hước lành mạnh và hài hước để né tránh",
+          "text": "Tự hỏi mình: \"Mình đang đùa vì thực sự thấy vui, hay đang đùa để tránh phải đối diện với điều gì đó khó chịu?\"."
+        },
+        {
+          "type": "item",
+          "title": "Chia sẻ cảm xúc thật với những người tin tưởng",
+          "text": "Tìm một vài người mà bà có thể thể hiện con người thật, không cần phải luôn đóng vai người mang lại niềm vui."
+        },
+        {
+          "type": "item",
+          "title": "Chấp nhận: nghiêm túc không làm bà kém thú vị đi",
+          "text": "Thể hiện sự nghiêm túc khi cần thiết không đồng nghĩa với việc bà đánh mất sự hài hước vốn có. Hai điều này có thể tồn tại song song."
+        },
+        {
+          "type": "p",
+          "text": "Trưởng thành thực sự của một Jester không phải là ngừng mang lại niềm vui cho người khác, mà là biết khi nào cần cởi bỏ chiếc mặt nạ vui vẻ để đối diện với cảm xúc thật của chính mình."
+        }
+      ]
+    },
+    {
+      "id": "love",
+      "title": "Bạn muốn một tình yêu như nào",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "nếu đã mang trong mình hệ điều hành The Jester (Chú Hề / Người Vui Vẻ), thì gu tình yêu và những mong cầu sâu thẳm của các bà thường đi theo một hệ tư tưởng rất đặc thù. Chuyên mục \"Bạn muốn một tình yêu như nào\" lên sóng, lấy sổ tay ra note lại để tỉnh táo lúc yêu nha!"
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "1. Cái các bà TƯỞNG mình muốn (Và rất dễ sập bẫy)"
+        },
+        {
+          "type": "item",
+          "title": "Hệ \"Yêu là phải luôn vui vẻ\"",
+          "text": "Trái tim của The Jester rất dễ tin rằng để giữ chân người yêu, bà phải luôn mang lại tiếng cười, không bao giờ được thể hiện những cảm xúc tiêu cực."
+        },
+        {
+          "type": "item",
+          "title": "Tình yêu kiểu \"Né tránh những cuộc trò chuyện nghiêm túc\"",
+          "text": "Các bà đôi khi dùng sự hài hước để lảng tránh những vấn đề thực sự cần được giải quyết trong mối quan hệ, khiến mâu thuẫn tích tụ mà không được xử lý."
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "2. Cái các bà THỰC SỰ khao khát (Tình yêu lý tưởng giúp bà không bị \"kiệt sức vì phải luôn vui\")"
+        },
+        {
+          "type": "p",
+          "text": "Sự thật là, nếu cứ theo đuổi những thứ ở mục 1, các bà sẽ rất nhanh thấy kiệt quệ vì phải gồng mình. Sâu thẳm bên trong, đây mới là thứ một Jester thực sự cần để thấy an toàn:"
+        },
+        {
+          "type": "item",
+          "title": "Một tình yêu \"Chấp Nhận Cả Nụ Cười Lẫn Nước Mắt\" chứ không phải \"Chỉ Muốn Bà Vui\"",
+          "text": "Các bà cần một người cho phép mình được buồn, được yếu đuối, không chỉ yêu thích phiên bản vui vẻ, hài hước của bà."
+        },
+        {
+          "type": "item",
+          "title": "Sự Nghiêm Túc Khi Cần Thiết (Seriousness When Needed)",
+          "text": "Jester cần một người đủ vững chãi để đối diện với những cuộc trò chuyện khó khăn, không để bà một mình né tránh bằng những câu đùa."
+        },
+        {
+          "type": "item",
+          "title": "Một người thấy được con người thật đằng sau tiếng cười (Seeing Beyond the Humor)",
+          "text": "Không cần ai luôn đòi hỏi bà phải vui vẻ, chỉ cần một người đủ tinh tế để nhận ra khi nào tiếng cười của bà chỉ là một lớp mặt nạ."
+        },
+        {
+          "type": "item",
+          "title": "Sự an toàn để thể hiện cảm xúc thật (Safety for Real Emotions)",
+          "text": "Các bà luôn khao khát một tình yêu đủ vững chãi để bà có thể cởi bỏ chiếc mặt nạ vui vẻ mà không sợ bị đánh giá."
+        },
+        {
+          "type": "tip",
+          "text": "Lời khuyên chốt hạ: Đừng đi tìm người chỉ thích \"phiên bản vui vẻ\" của bà nữa mấy bà ơi! Tình yêu lý tưởng nhất của The Jester là tìm được một người yêu cả những khoảnh khắc bà cười lẫn những khoảnh khắc bà cần được ôm mà không cần nói gì."
+        }
+      ]
+    },
+    {
+      "id": "perception",
+      "title": "Người khác nghĩ gì về bạn",
+      "blocks": [
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "1. Ấn tượng tích cực (Aura chói lóa, điểm 10 uy tín)"
+        },
+        {
+          "type": "item",
+          "title": "\"Linh hồn của bữa tiệc\" mọi lúc mọi nơi",
+          "text": "Trong nhóm bạn, bà đích thị là người khiến mọi cuộc tụ họp trở nên vui vẻ, đáng nhớ hơn. Có bà ở đó là không khí tự động trở nên sôi động."
+        },
+        {
+          "type": "item",
+          "title": "\"Liều thuốc tinh thần\" biết đi",
+          "text": "Khí chất của bà tỏa ra sự nhẹ nhàng, vui tươi. Người ngoài nhìn vào luôn thấy bà là một người dễ gần, thân thiện, khiến ai cũng muốn ở gần để \"sạc năng lượng tích cực\"."
+        },
+        {
+          "type": "item",
+          "title": "\"Người giảm căng thẳng\" trong công việc",
+          "text": "Đồng nghiệp cực kỳ thích làm việc với bà vì biết bà luôn biết cách làm dịu không khí căng thẳng, giúp cả nhóm thoải mái hơn khi đối mặt với áp lực."
+        },
+        {
+          "type": "sub",
+          "icon": "🛑",
+          "title": "2. Những điểm dễ bị \"hiểu lầm\" (Nghe hơi chạnh lòng nha)"
+        },
+        {
+          "type": "item",
+          "title": "Dễ bị gán mác \"Không nghiêm túc, thiếu chín chắn\"",
+          "text": "Vì bản tính luôn pha trò, đối phương (đặc biệt là sếp hoặc người lớn tuổi) sẽ dễ cảm thấy bà thiếu sự nghiêm túc cần thiết trong công việc hoặc các quyết định quan trọng."
+        },
+        {
+          "type": "item",
+          "title": "Bị xem là \"Nông cạn, thiếu chiều sâu\"",
+          "text": "Đây là cái giá của việc luôn thể hiện vẻ ngoài vui vẻ. Người khác đôi khi không nhận ra những suy nghĩ sâu sắc, những cảm xúc phức tạp ẩn sau tiếng cười của bà."
+        },
+        {
+          "type": "item",
+          "title": "Mang tiếng \"Né tránh trách nhiệm\"",
+          "text": "Đôi khi vì thói quen biến mọi thứ thành trò đùa, người ta sẽ nhìn bà như một người không muốn đối mặt với những vấn đề nghiêm túc, khó khăn."
+        },
+        {
+          "type": "item",
+          "title": "Bị coi là \"Không đáng tin cậy trong lúc khủng hoảng\"",
+          "text": "Vì hình ảnh luôn gắn liền với sự vui vẻ, đôi khi người ta sẽ nghi ngờ khả năng của bà trong việc xử lý những tình huống nghiêm trọng, cần sự điềm tĩnh."
+        },
+        {
+          "type": "tip",
+          "text": "Chốt lại nè: Giao diện của The Jester trong mắt thiên hạ luôn là một người VUI VẺ. Nhưng mấy bà ơi, vui vẻ thôi chưa đủ, phải là \"Vui vẻ có chiều sâu\". Hãy để tiếng cười của mình là một món quà, chứ đừng biến nó thành một cái mặt nạ che giấu con người thật nha!"
+        }
+      ]
+    },
+    {
+      "id": "reactions",
+      "title": "Cách chúng mình phản ứng",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Nếu The Creator thường chọn cách sáng tạo để giải tỏa khi có biến, thì hệ điều hành The Jester (Chú Hề) lại \"nhảy số\" theo một hệ tư tưởng hoàn toàn khác."
+        },
+        {
+          "type": "p",
+          "text": "Đọc ngay cách các bà đối mặt với 3 tình huống \"sóng gió\" này để coi tui nói có chuẩn tim đen không nha:"
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "1. Cách Bà Xử Lý Khi Mọi Thứ Rối Tung Lên (Khủng Hoảng ập đến)"
+        },
+        {
+          "type": "item",
+          "title": "Bật mode \"Pha trò để giảm căng thẳng\" (Humor as Coping)",
+          "text": "Càng rối, các bà lại càng có xu hướng pha trò, tìm ra góc nhìn hài hước để giảm bớt sự nặng nề của tình huống, dù đôi khi điều đó không thực sự giải quyết được vấn đề."
+        },
+        {
+          "type": "item",
+          "title": "Né tránh đối diện trực tiếp với cảm xúc khó chịu",
+          "text": "Các bà có xu hướng chuyển hướng sự chú ý sang những điều vui vẻ hơn, thay vì ngồi lại xử lý những cảm xúc tiêu cực đang hiện diện."
+        },
+        {
+          "type": "item",
+          "title": "Dễ che giấu nỗi lo lắng thật sự đằng sau vẻ ngoài bình thản",
+          "text": "Vì quá quen với việc thể hiện vẻ ngoài lạc quan, đôi khi các bà tự lừa dối chính mình rằng mọi thứ ổn trong khi thực sự đang rất lo lắng."
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "2. Khi Ở Trong Một Tập Thể (Teamwork, Nhóm bạn)"
+        },
+        {
+          "type": "item",
+          "title": "\"Người xoa dịu\" mọi căng thẳng trong nhóm",
+          "text": "Bà chính là người giúp giảm bớt áp lực khi cả nhóm đang căng thẳng vì deadline hay xung đột, mang lại tiếng cười đúng lúc cần thiết."
+        },
+        {
+          "type": "item",
+          "title": "Khó được giao những vai trò lãnh đạo nghiêm túc",
+          "text": "Vì hình ảnh vui vẻ, đôi khi các bà bị đánh giá thấp về khả năng lãnh đạo, quản lý những tình huống đòi hỏi sự nghiêm túc, quyết đoán."
+        },
+        {
+          "type": "item",
+          "title": "Thánh \"pha trò\" ngay cả trong những cuộc họp quan trọng",
+          "text": "Vì cái tính không thể kìm được sự hài hước, các bà đôi khi vô tình làm giảm đi tính nghiêm túc của những cuộc thảo luận quan trọng."
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "3. Khi Không Được Hiểu / Bị Coi Nhẹ (Góc tổn thương ngầm)"
+        },
+        {
+          "type": "p",
+          "text": "Đây là lúc The Jester dễ bộc lộ những góc tối tâm lý nhất nè:"
+        },
+        {
+          "type": "item",
+          "title": "Bật mode \"Cười để che giấu tổn thương\" (Masking Pain with Laughter)",
+          "text": "Khi bị tổn thương, các bà sẽ KHÔNG thể hiện rõ ràng đâu. Thay vào đó, bà tiếp tục pha trò, cười đùa để che giấu nỗi đau thật sự đang có bên trong."
+        },
+        {
+          "type": "item",
+          "title": "Gặm nhấm cảm giác không được coi trọng (Feeling Dismissed)",
+          "text": "Trong đầu các bà sẽ liên tục nảy số những suy nghĩ: \"Có phải mình chỉ được coi là trò vui, không ai xem trọng ý kiến của mình?\". Cảm giác này bào mòn lòng tự trọng của bà."
+        },
+        {
+          "type": "item",
+          "title": "Cơ chế tự vệ độc hại (Deflecting with More Jokes)",
+          "text": "Thay vì giao tiếp thẳng thắn về cảm giác bị tổn thương, các bà đôi khi lại pha trò nhiều hơn để né tránh việc phải thừa nhận mình đang buồn, khiến vấn đề thực sự không bao giờ được giải quyết."
+        },
+        {
+          "type": "tip",
+          "text": "Chốt hạ cho The Jester nè: Vui vẻ là tốt, nhưng lúc mọi thứ rối ren hay khi bị tổn thương, hãy nhớ rằng bà không cần phải luôn cười để được yêu thương! Nếu người ta không coi trọng cảm xúc của bà, thì việc bà cần làm là THỂ HIỆN CẢM XÚC THẬT, chứ không phải là tiếp tục che giấu bằng tiếng cười đâu nha!"
+        }
+      ]
+    },
+    {
+      "id": "strengths",
+      "title": "Điểm mạnh thật sự",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Điểm mạnh thật sự (True Strengths) làm nên thương hiệu của The Jester nha! Không phải tự nhiên mà ai cũng muốn có một người bạn, người đồng nghiệp hay người yêu mang hệ điều hành này đâu."
+        },
+        {
+          "type": "p",
+          "text": "Sức mạnh của các bà không nằm ở sự nghiêm trọng, mà nó nằm ở \"quyền lực của tiếng cười\" siêu đẳng có khả năng chữa lành cho cả những người quanh mình nghen:"
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "1. Năng Lực \"Chữa Lành Bằng Niềm Vui\" Cấp Độ Max (Master of Joy)"
+        },
+        {
+          "type": "item",
+          "title": "Nguồn năng lượng tích cực lan tỏa",
+          "text": "Các bà có khả năng khiến người khác quên đi những muộn phiền, dù chỉ trong chốc lát, chỉ bằng sự hiện diện tràn đầy niềm vui của mình."
+        },
+        {
+          "type": "item",
+          "title": "Khả năng nhìn ra ánh sáng trong bóng tối",
+          "text": "Ngay cả trong những tình huống khó khăn nhất, các bà vẫn có thể tìm ra một khía cạnh tích cực, hài hước để giúp mọi người vượt qua dễ dàng hơn."
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "2. Trí Tuệ Sắc Bén Ẩn Sau Vẻ Ngoài Vui Vẻ"
+        },
+        {
+          "type": "item",
+          "title": "Soft outside, sharp mind inside",
+          "text": "Nhìn giao diện bên ngoài có vẻ chỉ biết đùa giỡn, nhưng đụng chuyện thì The Jester lại có khả năng quan sát, nhận ra những vấn đề tinh tế mà người khác bỏ lỡ."
+        },
+        {
+          "type": "p",
+          "text": "Truyền tải sự thật khó nghe một cách nhẹ nhàng (The Truth-Teller in Disguise): Mấy bà có khả năng nói ra những điều thật lòng, thậm chí khó nghe, nhưng theo cách hài hước khiến người nghe dễ tiếp nhận hơn."
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "3. \"Chất Kết Dính\" Vui Vẻ Trong Tập Thể"
+        },
+        {
+          "type": "item",
+          "title": "Người xây dựng tinh thần đồng đội",
+          "text": "Trong một tập thể đang căng thẳng vì áp lực, các bà chính là người giúp mọi người thư giãn, xích lại gần nhau hơn qua những khoảnh khắc vui vẻ chung."
+        },
+        {
+          "type": "item",
+          "title": "Tạo ra không gian an toàn để là chính mình (The Safe Space Creator)",
+          "text": "Điểm sáng rực rỡ nhất là khả năng khiến người khác cảm thấy thoải mái thể hiện bản thân mà không sợ bị phán xét."
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "4. Sự Chân Thật Trong Niềm Vui Nguyên Bản (Radical Joyfulness)"
+        },
+        {
+          "type": "p",
+          "text": "Giữa một thế giới đầy sự nghiêm trọng, áp lực và \"phải luôn tỏ ra chuyên nghiệp\", việc các bà vẫn dám mang lại tiếng cười, dám sống nhẹ nhàng chính là một loại dũng khí cực kỳ lớn. Sự vui vẻ của các bà không phải là sự hời hợt, mà đó là một sự lựa chọn đầy kiêu hãnh và bản lĩnh!"
+        }
+      ]
+    },
+    {
+      "id": "blindspots",
+      "title": "Những điểm mù cần để ý",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Niềm vui của Chú Hề đôi khi lại chính là con dao hai lưỡi tự cứa vào mình và cả người khác, nếu mấy bà lỡ sa vào những điểm mù này:"
+        },
+        {
+          "type": "item",
+          "title": "Bẫy \"Cười để không phải cảm nhận\" (Laughing to Avoid Feeling)",
+          "text": "Mấy bà cứ tưởng pha trò là đang xử lý cảm xúc. Nhưng không! Điểm mù lớn nhất là các bà đang né tránh việc thực sự đối diện và xử lý những cảm xúc khó chịu."
+        },
+        {
+          "type": "item",
+          "title": "Trốn tránh sự thân mật sâu sắc bằng danh nghĩa vui vẻ (Intimacy Avoidance via Humor)",
+          "text": "Đây là điểm mù đáng sợ nhất mà Jester thường không tự nhận ra. Dù miệng nói \"tui chỉ đang đùa thôi\", nhưng sâu thẳm các bà đang dùng sự hài hước để giữ khoảng cách, tránh những cuộc trò chuyện sâu sắc, dễ tổn thương."
+        },
+        {
+          "type": "item",
+          "title": "Hội chứng \"Không dám xin giúp đỡ\" (Reluctance to Ask for Support)",
+          "text": "Khả năng thể hiện sự yếu đuối của The Jester cực kỳ mờ nhạt. Điểm mù ở đây là các bà lo sợ nếu thể hiện mình cần giúp đỡ, hình ảnh vui vẻ của mình sẽ bị phá vỡ."
+        },
+        {
+          "type": "item",
+          "title": "Cái tôi của sự \"Được yêu thích\" (Ego of Being Liked)",
+          "text": "Các bà vô thức dính chặt giá trị bản thân vào việc \"mình có làm mọi người vui không\". Nếu một ngày không thể mang lại tiếng cười, bà lại đâm ra hoảng loạn vì sợ mất đi giá trị của mình."
+        }
+      ]
+    },
+    {
+      "id": "conflict",
+      "title": "Mâu thuẫn lớn nhất",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Mâu thuẫn kinh điển nhất cấu xé tâm can của một Jester mỗi đêm muộn chính là sự giằng xé giữa: Khao khát được là chính mình, kể cả khi BUỒN BÃ VÀ Nỗi sợ hãi rằng nếu không VUI VẺ, bà sẽ không còn được yêu thương, chấp nhận."
+        },
+        {
+          "type": "item",
+          "title": "Vừa muốn được thấu hiểu sâu sắc, lại vừa sợ làm phiền người khác bằng nỗi buồn của mình",
+          "text": "Tận sâu bên trong, The Jester cực kỳ khao khát có ai đó thực sự hiểu được những cảm xúc phức tạp đằng sau nụ cười. Nhưng ác nỗi, mỗi khi có cơ hội chia sẻ, nỗi sợ trở thành gánh nặng cho người khác lại khiến bà quay về với việc pha trò."
+        },
+        {
+          "type": "item",
+          "title": "Nỗi sợ mất đi vai trò \"người mang lại niềm vui\" (Fear of Losing Purpose)",
+          "text": "Vì sao các bà lại cố gắng vui vẻ nhiều đến vậy? Mâu thuẫn ở đây là: Các bà gắn giá trị bản thân với việc mang lại niềm vui cho người khác. Sâu thẳm bên trong là một nỗi sợ tột cùng: \"Nếu mình không còn khiến người khác cười, liệu mình còn ý nghĩa gì trong cuộc sống của họ?\"."
+        },
+        {
+          "type": "item",
+          "title": "Khao khát sự nghiêm túc nhưng lại sợ bị đánh giá là \"khác thường\"",
+          "text": "Bà có thể vừa muốn được đối xử nghiêm túc, được lắng nghe những suy nghĩ sâu sắc của mình, vừa lo lắng rằng nếu thay đổi hình ảnh, người khác sẽ không còn nhận ra hay chấp nhận con người mới đó."
+        },
+        {
+          "type": "p",
+          "text": "Cuộc chiến lớn nhất của The Jester là học cách chấp nhận sự thật rớt nước mắt này: Giá trị thật sự của bà không nằm ở việc bà LUÔN LUÔN mang lại niềm vui, mà nằm ở việc bà DÁM là chính mình, kể cả khi buồn bã."
+        }
+      ]
+    },
+    {
+      "id": "challenges",
+      "title": "Những thách thức nào bạn có thể sẽ gặp phải trong các mối quan hệ",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Mang hệ điều hành The Jester (Chú Hề) vào các mối quan hệ (từ tình yêu, bạn bè đến đồng nghiệp) thì đúng kiểu \"tâm hồn vui vẻ nhưng dễ giấu đi nỗi đau thật\". Sự hài hước vô bờ bến của các bà nếu không có \"sự chân thật làm nền tảng\" thì rất dễ va phải những \"kiếp nạn\" cực kỳ đặc thù sau đây:"
+        },
+        {
+          "type": "sub",
+          "icon": "🛑",
+          "title": "1. \"Người Bạn Vui Vẻ Nhưng Không Ai Thực Sự Hiểu\" (The Misunderstood Comedian)"
+        },
+        {
+          "type": "item",
+          "title": "Bản chất",
+          "text": "Vì các bà luôn thể hiện vẻ ngoài vui vẻ, mọi người xung quanh thường không nhận ra khi bà thực sự đang gặp khó khăn, cần được hỗ trợ."
+        },
+        {
+          "type": "item",
+          "title": "Biểu hiện",
+          "text": "Thay vì nhận được sự quan tâm cần thiết trong lúc khó khăn, các bà lại thường bị bỏ qua vì ai cũng nghĩ \"chắc nó ổn thôi, lúc nào chẳng vui vẻ\"."
+        },
+        {
+          "type": "sub",
+          "icon": "🛑",
+          "title": "2. Yêu Đương Hay Đang Diễn Một Vở Kịch Vui Vẻ? (Performing Happiness)"
+        },
+        {
+          "type": "item",
+          "title": "Bản chất",
+          "text": "Các bà có xu hướng duy trì hình ảnh vui vẻ ngay cả khi đang không hài lòng trong mối quan hệ, khiến đối phương không nhận ra những vấn đề thực sự đang tồn tại."
+        },
+        {
+          "type": "item",
+          "title": "Biểu hiện",
+          "text": "Ban đầu thì đối phương thấy bà vui tính, dễ chịu đó, nhưng dần dà họ sẽ cảm thấy khó kết nối sâu sắc vì không bao giờ thấy được con người thật của bà."
+        },
+        {
+          "type": "sub",
+          "icon": "🛑",
+          "title": "3. Quả Bom Nổ Chậm \"Dồn Nén Cảm Xúc Đến Bùng Nổ\" (Emotional Buildup)"
+        },
+        {
+          "type": "item",
+          "title": "Bản chất",
+          "text": "Vì liên tục né tránh xử lý cảm xúc tiêu cực bằng tiếng cười, những cảm xúc đó tích tụ dần theo thời gian mà không được giải tỏa đúng cách."
+        },
+        {
+          "type": "item",
+          "title": "Biểu hiện",
+          "text": "Đến một lúc nào đó, sự dồn nén này có thể bùng nổ thành những phản ứng cảm xúc mạnh mẽ, khiến người xung quanh bất ngờ vì \"tại sao đứa vui vẻ này lại có thể tức giận/buồn đến vậy\"."
+        },
+        {
+          "type": "sub",
+          "icon": "🛑",
+          "title": "4. Khó Được Nhìn Nhận Nghiêm Túc Trong Công Việc (Not Taken Seriously)"
+        },
+        {
+          "type": "item",
+          "title": "Bản chất",
+          "text": "Tính cách luôn gắn liền với sự hài hước khiến The Jester đôi khi khó được giao những trách nhiệm quan trọng, những vị trí đòi hỏi sự nghiêm túc."
+        },
+        {
+          "type": "item",
+          "title": "Biểu hiện",
+          "text": "Đồng nghiệp, sếp có thể đánh giá thấp năng lực thực sự của bà chỉ vì hình ảnh vui vẻ, hài hước luôn đi kèm."
+        },
+        {
+          "type": "sub",
+          "icon": "🛑",
+          "title": "5. Nỗi Sợ \"Làm Người Khác Thất Vọng\" Khóa Chặt Sự Chân Thật"
+        },
+        {
+          "type": "item",
+          "title": "Bản chất",
+          "text": "Bà sợ nếu không còn vui vẻ, mọi người sẽ thất vọng, sẽ không còn muốn ở gần bà nữa."
+        },
+        {
+          "type": "item",
+          "title": "Biểu hiện",
+          "text": "Dù đang trải qua giai đoạn khó khăn, bà vẫn cố gắng tỏ ra ổn, tiếp tục pha trò vì sợ làm ảnh hưởng đến tâm trạng của người khác."
+        },
+        {
+          "type": "tip",
+          "text": "Tip sinh tồn cho các bà hệ Jester: Hãy nhớ, tình yêu và tình bạn khỏe mạnh cần cả TIẾNG CƯỜI lẫn SỰ CHÂN THẬT. Đừng để nụ cười của mình trở thành bức tường ngăn cách bà với những kết nối sâu sắc thật sự. Bà hoàn toàn xứng đáng được yêu thương vì cả con người vui vẻ lẫn những cảm xúc thật sự của mình!"
+        }
+      ]
+    },
+    {
+      "id": "growth",
+      "title": "Hướng phát triển",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Để lột xác và nâng cấp năng lượng The Jester (Chú Hề) lên một tầm cao mới, hành trình của mấy bà không phải là ngừng mang lại niềm vui hay trở nên nghiêm trọng hóa mọi thứ. Sự trưởng thành của một Jester là biến sự hài hước né tránh thành niềm vui có chiều sâu, và học cách thể hiện cảm xúc thật song song với việc lan tỏa tiếng cười."
+        },
+        {
+          "type": "p",
+          "text": "Dưới đây là hướng phát triển để các bà vừa giữ được \"hào quang\" vui vẻ, vừa không bị coi nhẹ:"
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "1. Chuyển từ \"Cười Để Né Tránh\" sang \"Cười Từ Sự Chân Thật\" (Authentic Joy)"
+        },
+        {
+          "type": "item",
+          "title": "Nâng cấp bộ lọc cảm xúc",
+          "text": "Trước khi pha trò để né tránh, hãy dừng lại và tự hỏi: \"Mình đang thực sự thấy vui, hay đang cố che giấu một cảm xúc khó chịu nào đó?\"."
+        },
+        {
+          "type": "item",
+          "title": "Học cách ngồi với sự im lặng, không cần lấp đầy bằng tiếng cười",
+          "text": "Không phải mọi khoảnh khắc đều cần được làm nhẹ nhàng hóa bằng sự hài hước. Đôi khi im lặng cũng là một cách giao tiếp có giá trị."
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "2. Ngừng \"Đeo Mặt Nạ Vui Vẻ Liên Tục\", hãy học \"Thể Hiện Cảm Xúc Thật\" (Emotional Authenticity)"
+        },
+        {
+          "type": "item",
+          "title": "Chia sẻ những gì thực sự đang cảm nhận",
+          "text": "Tập thói quen nói ra cảm xúc thật của mình với những người đáng tin cậy, thay vì luôn che giấu bằng vẻ ngoài lạc quan."
+        },
+        {
+          "type": "item",
+          "title": "Chấp nhận rằng không phải ai cũng cần bà làm cho vui",
+          "text": "Đôi khi, người khác chỉ cần bà lắng nghe, không cần bà phải giải quyết mọi thứ bằng sự hài hước."
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "3. Tự Xây Dựng Giá Trị Bản Thân Ngoài Vai Trò \"Người Mang Lại Niềm Vui\" (Worth Beyond Entertainment)"
+        },
+        {
+          "type": "item",
+          "title": "Luật \"Không cần luôn vui vẻ để được yêu thương\"",
+          "text": "Khắc cốt ghi tâm nguyên tắc này: Giá trị của bà không chỉ nằm ở khả năng làm người khác cười, mà còn ở nhiều phẩm chất khác của con người bà."
+        },
+        {
+          "type": "item",
+          "title": "Dám thể hiện sự nghiêm túc khi cần thiết",
+          "text": "Ngừng dùng sự hài hước để né tránh những cuộc trò chuyện, những trách nhiệm quan trọng. Hãy cho phép mình được nghiêm túc mà không sợ đánh mất bản sắc."
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "4. Tích hợp thêm năng lượng bổ trợ (Nâng cấp giao diện)"
+        },
+        {
+          "type": "item",
+          "title": "Mượn năng lượng Nhà Hiền Triết (The Sage)",
+          "text": "Học cách suy ngẫm sâu sắc về cảm xúc và trải nghiệm của mình, thay vì chỉ lướt qua chúng bằng tiếng cười."
+        },
+        {
+          "type": "item",
+          "title": "Mượn năng lượng Người Chăm Sóc (The Caregiver)",
+          "text": "Học cách chăm sóc cảm xúc của chính mình với sự dịu dàng, cho phép bản thân được buồn, được yếu đuối khi cần."
+        },
+        {
+          "type": "tip",
+          "text": "The Empowered Jester (Chú Hề Đỉnh Cao) không phải là người luôn luôn vui vẻ, che giấu mọi cảm xúc tiêu cực, mà là một người phụ nữ sở hữu khiếu hài hước tuyệt vời nhất nhưng cũng dám chân thật với cảm xúc của mình. Khi bà biết cân bằng giữa niềm vui và sự chân thật, thứ năng lượng tỏa ra không còn là sự hời hợt, mà là một sức hút của niềm vui đầy chiều sâu khiến ai cũng phải trân trọng!"
+        }
+      ]
+    },
+    {
+      "id": "relationships",
+      "title": "Làm sao để cải thiện các mối quan hệ xã hội",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Okela mấy bà, tới phần cốt lõi để \"cứu giá\" các mối quan hệ cho hệ Chú Hề / Người Vui Vẻ đây!"
+        },
+        {
+          "type": "p",
+          "text": "Lấy sổ ra note lại ngay chiến lược để vừa giữ được sự vui vẻ, vừa không bị coi nhẹ nha:"
+        },
+        {
+          "type": "sub",
+          "icon": "🌟",
+          "title": "PHẦN 1: Cứu Vãn Các Mối Quan Hệ Xã Hội (Bạn bè, Đồng nghiệp)"
+        },
+        {
+          "type": "p",
+          "text": "Để không bị biến thành \"kẻ chỉ biết đùa giỡn\" hay \"người không đáng tin cậy trong lúc nghiêm túc\" của thiên hạ, các bà Jester phải setup lại hệ điều hành giao tiếp liền:"
+        },
+        {
+          "type": "item",
+          "title": "Dẹp ngay cái nết \"Đùa trong mọi tình huống\" (Stop Joking at Wrong Times)",
+          "text": "Bà có khiếu hài hước, nhưng không phải lúc nào cũng cần dùng đến nó! Học cách nhận diện khi nào cần sự nghiêm túc, khi nào có thể pha trò."
+        },
+        {
+          "type": "item",
+          "title": "Luật \"Chia sẻ cảm xúc thật, không chỉ tiếng cười\" (Share Real Feelings)",
+          "text": "Thanh lọc lại cách giao tiếp đi mấy bà. Với những người thân thiết, hãy chủ động chia sẻ những cảm xúc thật, không chỉ luôn thể hiện vẻ ngoài vui vẻ."
+        },
+        {
+          "type": "item",
+          "title": "Có gì buồn cứ nói, ngưng che giấu bằng tiếng cười (Direct Communication)",
+          "text": "Bà đang cảm thấy không ổn, làm ơn NÓI RA. Dùng cấu trúc: \"Thực ra mình đang cảm thấy... mình cần...\". Ngừng ngay việc dùng trò đùa để né tránh việc chia sẻ cảm xúc thật."
+        },
+        {
+          "type": "sub",
+          "icon": "💕",
+          "title": "PHẦN 2: \"Trị Bệnh\" Trong Tình Yêu (Yêu sao cho đừng phải luôn gồng mình vui vẻ?)"
+        },
+        {
+          "type": "p",
+          "text": "Tình yêu của Jester rất dễ thương, nhưng toàn tự mình làm khó mình vì luôn phải \"diễn vui\". Muốn có một mối tình chân thật, sâu sắc và slay, thì phải chấn chỉnh ngay:"
+        },
+        {
+          "type": "item",
+          "title": "Cho người yêu thấy cả những khoảnh khắc không vui vẻ",
+          "text": "Đừng chỉ thể hiện phiên bản hạnh phúc, lạc quan. Hãy để người yêu thấy cả những lúc bà mệt mỏi, buồn bã, vì đó cũng là một phần con người thật của bà."
+        },
+        {
+          "type": "item",
+          "title": "Học cách yêu cầu sự hỗ trợ thay vì tự mình xử lý bằng tiếng cười",
+          "text": "Khi gặp khó khăn, đừng chỉ pha trò để tự trấn an. Hãy để người yêu biết bà đang cần sự hỗ trợ, sự lắng nghe thật sự."
+        },
+        {
+          "type": "item",
+          "title": "Đi tìm \"Người Thấu Hiểu\" chứ không tìm \"Khán Giả\"",
+          "text": "Bỏ ngay việc chọn người yêu chỉ vì họ thích \"phiên bản vui vẻ\" của bà. Hãy chọn yêu một người muốn hiểu và yêu thương cả những góc khuất trong tâm hồn bà."
+        },
+        {
+          "type": "item",
+          "title": "Dừng lại đủ lâu để người ta chạm được vào nỗi buồn của bà",
+          "text": "Bà giỏi mang lại niềm vui rồi, nhưng thỉnh thoảng hãy cho phép mình được yếu đuối. Chia sẻ nỗi buồn thật, cho người yêu cơ hội được ở bên cạnh, an ủi bà."
+        },
+        {
+          "type": "tip",
+          "text": "Chốt hạ: Bí quyết lớn nhất để Jester hạnh phúc là học cách CHO PHÉP MÌNH ĐƯỢC BUỒN. Hãy tin rằng bà xứng đáng có một tình yêu chấp nhận cả những khoảnh khắc bà không vui vẻ, chứ không phải chỉ yêu thích phiên bản luôn tươi cười của bà!"
+        }
+      ]
+    },
+    {
+      "id": "career",
+      "title": "Bạn cần làm gì để thăng tiến trong công việc",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Alo mấy bà, đến cái chuyên mục quan trọng nhất để \"lột xác\" chốn công sở đây! The Jester (Chú Hề) bình thường đi làm rất hay bị rơi vào cái bẫy \"không được coi trọng năng lực\" hoặc \"khó được giao vai trò lãnh đạo\". Muốn thăng tiến, lên sếp hay tự làm chủ mà vẫn giữ được vibe \"vui vẻ\" thì phải rèn ngay mấy skill cốt lõi này nha:"
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "1. Từ \"Người Mang Lại Tiếng Cười\" Thành \"Nhà Lãnh Đạo Truyền Cảm Hứng Tích Cực\""
+        },
+        {
+          "type": "item",
+          "title": "Ngưng chỉ giải trí, hãy dẫn dắt bằng năng lượng tích cực",
+          "text": "Sự vui vẻ không nằm ở việc bà chỉ làm mọi người cười, mà ở việc bà dùng năng lượng đó để xây dựng một môi trường làm việc tích cực, hiệu quả."
+        },
+        {
+          "type": "item",
+          "title": "Kết hợp sự hài hước với chuyên môn vững vàng",
+          "text": "Chứng minh rằng bà vừa có thể mang lại niềm vui, vừa có năng lực chuyên môn đáng tin cậy."
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "2. Đóng Gói Sự Hài Hước Bằng Kết Quả Cụ Thể (Humor Meets Results)"
+        },
+        {
+          "type": "p",
+          "text": "Khả năng tạo không khí tích cực là thiên phú, nhưng để ngồi vào ghế sếp hay vận hành trơn tru một mô hình kinh doanh, bà bắt buộc phải chứng minh được năng lực chuyên môn thực sự."
+        },
+        {
+          "type": "p",
+          "text": "Hãy tập thói quen trình bày công việc một cách chuyên nghiệp, kèm theo kết quả cụ thể. Đừng chỉ nói \"Em làm việc này cũng vui lắm\". Hãy đổi thành: \"Đây là kết quả em đạt được, và đây là cách em duy trì tinh thần tích cực cho cả team trong quá trình thực hiện\". Sự vui vẻ đi kèm với kết quả cụ thể chính là \"vũ khí hủy diệt\" chốn công sở."
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "3. Thể Hiện Sự Nghiêm Túc Khi Cần Thiết (Knowing When to Be Serious)"
+        },
+        {
+          "type": "p",
+          "text": "Căn bệnh trầm kha của The Jester là khó chuyển đổi giữa chế độ vui vẻ và chế độ nghiêm túc khi tình huống đòi hỏi."
+        },
+        {
+          "type": "p",
+          "text": "Đừng để thói quen pha trò làm giảm đi tính chuyên nghiệp trong những thời điểm quan trọng! Hãy học cách nhận diện ranh giới rõ ràng giữa lúc cần thư giãn và lúc cần tập trung nghiêm túc."
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "4. Xây Dựng Uy Tín Chuyên Môn Song Song Với Hình Ảnh Vui Vẻ"
+        },
+        {
+          "type": "p",
+          "text": "Năng lượng của bà là để tạo ra một môi trường làm việc tích cực, không phải để bị đánh giá thấp về năng lực chuyên môn."
+        },
+        {
+          "type": "p",
+          "text": "Học cách chủ động thể hiện những thành tích, kỹ năng chuyên môn của mình một cách rõ ràng. Phải phân bổ rạch ròi: khi nào cần mang lại niềm vui, khi nào cần chứng minh năng lực."
+        },
+        {
+          "type": "p",
+          "text": "Tóm lại, thăng tiến không có nghĩa là bà phải từ bỏ sự vui vẻ hay trở nên nghiêm trọng, cứng nhắc. Phiên bản nâng cấp đỉnh cao nhất của Jester chính là người dùng năng lượng tích cực để truyền cảm hứng cho cả một đội ngũ, nhưng lại dùng năng lực chuyên môn vững vàng để được tôn trọng và tin tưởng."
+        }
+      ]
+    },
+    {
+      "id": "journey",
+      "title": "Vận trình cuộc đời",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Hành trình của Jester là một chuỗi ngày vật vã chuyển hóa từ việc \"cười để né tránh\" sang cảnh giới \"niềm vui có chiều sâu\"."
+        },
+        {
+          "type": "p",
+          "text": "Lưu ngay 3 giai đoạn \"tiến hóa\" này để xem mấy bà đang kẹt ở level nào nè:"
+        },
+        {
+          "type": "sub",
+          "icon": "🌱",
+          "title": "Dưới 25 Tuổi: Jester Tập Sự (The Class Clown)"
+        },
+        {
+          "type": "item",
+          "title": "Vibe lúc này",
+          "text": "Luôn tìm cách làm mọi người cười, né tránh mọi tình huống nghiêm túc bằng sự hài hước. Nhiệt tình cộng hời hợt cảm xúc. Việc gì cũng biến thành trò đùa, kể cả những vấn đề cần được xử lý nghiêm túc. Năng lượng vui vẻ tràn trề nhưng chưa biết cách xử lý cảm xúc thật."
+        },
+        {
+          "type": "item",
+          "title": "Thực trạng",
+          "text": "Đây là giai đoạn mấy bà rất dễ bị đánh giá thấp về năng lực vì hình ảnh luôn gắn liền với sự vui đùa. Nếu có chập chững làm kinh doanh, các bà sẽ khó được đối tác tin tưởng giao những trách nhiệm quan trọng. Trong tình yêu thì dễ dùng sự hài hước để né tránh những cuộc trò chuyện nghiêm túc cần thiết."
+        },
+        {
+          "type": "item",
+          "title": "Bài học cốt lõi",
+          "text": "Dính vô vàn lần bị coi nhẹ và những mối quan hệ thiếu chiều sâu để nhận ra rằng: Tiếng cười mà không có sự chân thật thì chỉ là một lớp vỏ bọc dễ vỡ."
+        },
+        {
+          "type": "sub",
+          "icon": "🌸",
+          "title": "Từ 25 Đến 40 Tuổi: Jester Thức Tỉnh (The Wise Entertainer)"
+        },
+        {
+          "type": "item",
+          "title": "Vibe lúc này",
+          "text": "Đã nếm đủ \"trái đắng\" của việc luôn né tránh bằng tiếng cười. Giao diện vẫn vui vẻ, hài hước nhưng bên trong đã bắt đầu rèn được khả năng thể hiện cảm xúc thật và nghiêm túc khi cần."
+        },
+        {
+          "type": "item",
+          "title": "Thực trạng",
+          "text": "Ở độ tuổi này, các bà bắt đầu ngộ ra chân lý cốt lõi: Đừng cố né tránh bằng tiếng cười nữa, hãy học cách chân thật! Thay vì luôn duy trì hình ảnh vui vẻ, mấy bà chuyển sang thể hiện cả những cảm xúc phức tạp, sâu sắc của mình. Các bà biết cách kết hợp sự hài hước với năng lực chuyên môn vững vàng."
+        },
+        {
+          "type": "item",
+          "title": "Bài học cốt lõi",
+          "text": "Chấp nhận buông bỏ nỗi sợ bị coi nhẹ khi thể hiện sự nghiêm túc. Dám xin giúp đỡ khi cần và học cách xây dựng những mối quan hệ có chiều sâu thay vì chỉ những kết nối vui vẻ hời hợt."
+        },
+        {
+          "type": "sub",
+          "icon": "👑",
+          "title": "Sau 40 Tuổi: \"Người Truyền Niềm Vui\" Minh Triết (The Wise Joy-Bringer)"
+        },
+        {
+          "type": "item",
+          "title": "Vibe lúc này",
+          "text": "An tọa vững chãi trong chính niềm vui của mình, khí chất ấm áp và sâu sắc. Không còn cần phải chứng minh giá trị bản thân bằng cách luôn làm mọi người cười nữa. Sự vui vẻ lúc này tỏa ra tự nhiên như hơi thở, đi kèm với sự khôn ngoan của trải nghiệm sống."
+        },
+        {
+          "type": "item",
+          "title": "Thực trạng",
+          "text": "Các bà lùi lại một bước khỏi việc phải luôn là người mang lại tiếng cười cho tất cả mọi người. Thay vì chỉ giải trí, các bà vươn tầm thành những người truyền cảm hứng về nghệ thuật sống nhẹ nhàng nhưng sâu sắc, giúp thế hệ trẻ hiểu được giá trị của việc cân bằng giữa niềm vui và sự chân thật."
+        },
+        {
+          "type": "item",
+          "title": "Bài học cốt lõi",
+          "text": "Đạt đến cảnh giới cao nhất của niềm vui: Hiểu rằng tiếng cười đích thực không phải là để che giấu nỗi đau, mà là khả năng tìm thấy ánh sáng ngay cả trong những khoảnh khắc khó khăn nhất, và chia sẻ nó một cách chân thành với thế giới."
+        }
+      ]
+    },
+    {
+      "id": "advice",
+      "title": "Lời khuyên",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Tóm lại nha mấy bà, chốt sổ nguyên mẫu Chú Hề (The Jester) bằng một câu cốt lõi thôi: Bà là một tia nắng ấm áp của nhân gian, nhưng tia nắng thì cũng cần những đám mây để tạo nên một bầu trời trọn vẹn!"
+        },
+        {
+          "type": "tip",
+          "text": "Lời khuyên \"xương máu\" ghim ngay vào tim nè:"
+        },
+        {
+          "type": "item",
+          "title": "Nghỉ làm \"Người Luôn Phải Vui Vẻ\"",
+          "text": "Bà không có nghĩa vụ phải luôn mang lại tiếng cười cho mọi người. Hãy cho phép mình được buồn, được nghiêm túc khi cần thiết."
+        },
+        {
+          "type": "item",
+          "title": "Chân lý sinh tồn để không bị \"kiệt sức vì gồng mình\"",
+          "text": "Thay vì cứ liên tục pha trò để né tránh cảm xúc thật, hãy khắc cốt ghi tâm điều này: chân thật quan trọng hơn vui vẻ giả tạo. Sự kết nối thật sự đến từ việc dám thể hiện con người thật, không phải từ việc luôn đóng vai người mang lại niềm vui."
+        },
+        {
+          "type": "item",
+          "title": "Vui vẻ thì phải có chiều sâu",
+          "text": "Áp dụng chuẩn xác nguyên tắc: \"Tiếng cười tươi sáng, trái tim chân thật\". Mang lại niềm vui cho người khác, nhưng cũng phải cho phép mình được là chính mình."
+        },
+        {
+          "type": "item",
+          "title": "Setup \"Không gian an toàn để chân thật\"",
+          "text": "Luôn phải vui vẻ với tất cả mọi người là tự chuốc lấy kiệt sức. Dám thẳng tay tìm kiếm những người mà bà có thể thể hiện cảm xúc thật, không cần diễn vai vui vẻ."
+        },
+        {
+          "type": "tip",
+          "text": "Chốt hạ: Sự vui vẻ, hài hước của Jester là một siêu năng lực bẩm sinh, là thứ ánh sáng ấm áp nhưng có khả năng chữa lành đỉnh cao nhất. Miễn là bà biết cân bằng nó với sự chân thật, thì vibe của bà lúc nào cũng sẽ tươi sáng và tỏa sáng rực rỡ!"
+        }
+      ]
+    }
+  ]
+}

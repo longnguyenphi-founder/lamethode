@@ -1,0 +1,937 @@
+{
+  "slug": "everyman",
+  "code": "NBD",
+  "english": "The Everyman",
+  "name": "Người Bình Thường / Công Dân",
+  "intro": [
+    "Bà là đứa mà ai gặp cũng thấy dễ chịu, dễ gần, dễ kết nối. Không cần phải là người nổi bật nhất trong phòng, bà vẫn khiến mọi người xung quanh cảm thấy thoải mái khi ở bên. Bà tin vào những giá trị giản dị của cuộc sống — tình bạn chân thành, những bữa cơm gia đình, sự công bằng cho tất cả mọi người. Với bà, không cần phải là ai đó vĩ đại, chỉ cần là một người tử tế, đáng tin cậy là đủ. Nhưng có một sự thật mà bà giấu kỹ hơn cả một ước mơ chưa dám nói ra: đằng sau sự hòa đồng đó là một nỗi sợ hãi về việc bị bỏ lại, bị coi là khác biệt, không thuộc về bất cứ đâu.",
+    "Sự thật đau lòng nhất là bà thường thu nhỏ những ước mơ, những khát khao thực sự của mình chỉ để không bị nổi bật, không bị nhìn nhận là \"khác người\". Tận sâu bên trong, bà luôn mang một nỗi sợ hoang mang: \"Nếu mình thể hiện những tham vọng, những khác biệt thực sự của bản thân, liệu mình có bị mọi người xa lánh, không còn được chấp nhận như một phần của tập thể nữa không?\". Bà cứ liên tục hòa mình vào đám đông, để rồi có những lúc quên mất chính những ước mơ, những khát vọng thầm kín mà bản thân chưa từng dám theo đuổi."
+  ],
+  "population": 12,
+  "celebrities": [
+    {
+      "name": "Jennifer Aniston",
+      "text": "Với hình ảnh gần gũi, chân thực xuyên suốt sự nghiệp diễn xuất, Jennifer Aniston luôn được yêu mến vì sự giản dị, dễ đồng cảm, khiến khán giả cảm thấy như đang xem một người bạn thân trên màn ảnh."
+    },
+    {
+      "name": "Adele",
+      "text": "Dù đạt được thành công âm nhạc vang dội toàn cầu, Adele vẫn luôn giữ được sự chân thật, gần gũi trong cách giao tiếp với người hâm mộ, không ngại chia sẻ những khó khăn đời thường của bản thân."
+    },
+    {
+      "name": "Suzy (Miss A)",
+      "text": "Được yêu mến với hình ảnh \"em gái quốc dân\" gần gũi, chân thành, Suzy luôn giữ được sự giản dị trong cách ứng xử dù đã có nhiều năm hoạt động ở vị trí ngôi sao hàng đầu."
+    },
+    {
+      "name": "Kate Middleton",
+      "text": "Với phong cách sống giản dị, gần gũi với người dân dù ở vị trí Vương phi, Kate Middleton thường được ca ngợi vì khả năng kết nối chân thành với nhiều tầng lớp trong xã hội."
+    }
+  ],
+  "powers": [
+    {
+      "title": "Bà có Sự Chân Thành Gần Gũi Tự Nhiên",
+      "english": "The Natural Relatability",
+      "lead": null,
+      "points": [
+        {
+          "title": "Khiến ai cũng cảm thấy thoải mái",
+          "text": "Khác với những người tạo khoảng cách bằng sự hào nhoáng, The Everyman luôn khiến người khác cảm thấy được là chính mình khi ở bên, không cần phải gồng mình."
+        },
+        {
+          "title": "Khả năng kết nối với nhiều kiểu người",
+          "text": "Các bà có một sự linh hoạt đặc biệt trong việc hòa nhập, tạo mối quan hệ với nhiều nhóm người khác nhau, từ các tầng lớp xã hội đa dạng."
+        }
+      ]
+    },
+    {
+      "title": "Giá Trị Của Sự Chân Thực Không Phô Trương",
+      "english": "The Unpretentious Authenticity",
+      "lead": null,
+      "points": [
+        {
+          "title": "Sống thật với những giá trị giản dị",
+          "text": "Điểm nổi bật nhất của Everyman là sự khiêm tốn chân thành. Bà không cần phô trương, không cần chứng minh mình đặc biệt để cảm thấy có giá trị."
+        },
+        {
+          "title": "Vibe đáng tin cậy, không giả tạo",
+          "text": "Ở cạnh một Everyman, người ta cảm thấy an tâm vì biết rằng bà không có mưu đồ gì, chỉ đơn giản là một người bạn chân thành."
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "id": "portrait",
+      "title": "Chân dung của bạn – Bạn thực sự là ai",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Để tui chẻ nhỏ hai phần \"ăn tiền\" nhưng cũng dễ làm mấy bà \"suy\" nhất: Năng lực cốt lõi (Flex nhẹ skill ẩn) và Góc tối tâm lý (Red flag tự thân)."
+        },
+        {
+          "type": "p",
+          "text": "Bà nào thấy quen quen thì chuẩn bị sẵn giấy bút note lại để tự chấn chỉnh mình nghen!"
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "1. Năng Lực Cốt Lõi (Những thứ làm nên thương hiệu \"người bạn chân thành nhất\")"
+        },
+        {
+          "type": "p",
+          "text": "Đây là những siêu năng lực bẩm sinh khiến The Everyman luôn là \"chất keo kết nối\" của rất nhiều người, vì ai cũng khao khát một sự chân thành giản dị giữa cuộc sống đầy phô trương:"
+        },
+        {
+          "type": "item",
+          "title": "Khả năng đồng cảm sâu sắc (Deep Empathy)",
+          "text": "Các bà có khả năng đặt mình vào vị trí của người khác, hiểu được những khó khăn, cảm xúc của họ mà không cần phải trải qua điều tương tự."
+        },
+        {
+          "type": "item",
+          "title": "Sự khiêm tốn chân thành (Genuine Humility)",
+          "text": "Không giống như những người luôn cần chứng minh mình vượt trội, các bà thoải mái với việc là một phần bình thường của tập thể, không cần nổi bật."
+        },
+        {
+          "type": "item",
+          "title": "Khả năng xây dựng lòng tin nhanh chóng (Trust Building)",
+          "text": "Vì sự chân thành tự nhiên, người khác thường cảm thấy tin tưởng bà rất nhanh, không có cảm giác đề phòng hay xa cách."
+        },
+        {
+          "type": "item",
+          "title": "Tinh thần công bằng và bao dung (Fairness and Inclusivity)",
+          "text": "Các bà tin vào việc đối xử công bằng với tất cả mọi người, không phân biệt địa vị, hoàn cảnh, luôn đứng về phía những giá trị bình đẳng."
+        },
+        {
+          "type": "sub",
+          "icon": "🛑",
+          "title": "2. Góc Tối (Red flag tự thân – Đọc để tỉnh táo nha mấy bà!)"
+        },
+        {
+          "type": "p",
+          "text": "Hòa đồng thì giỏi, nhưng tâm lý của Người Bình Thường lại rất dễ bị hổng lỗ chỗ vì những \"cái bẫy\" tự mình giăng ra:"
+        },
+        {
+          "type": "item",
+          "title": "Hội chứng \"Đánh mất bản sắc để hòa nhập\" (Losing Individuality)",
+          "text": "Đây là bẫy dễ sập nhất! Các bà thường thu nhỏ những sở thích, ước mơ, quan điểm cá nhân của mình chỉ để không bị coi là khác biệt so với đám đông."
+        },
+        {
+          "type": "item",
+          "title": "Sợ nổi bật, sợ bị chú ý (Fear of Standing Out)",
+          "text": "Vì khao khát được thuộc về, các bà cực kỳ hay né tránh những cơ hội thể hiện bản thân, dù điều đó có thể mang lại thành công hay sự công nhận xứng đáng."
+        },
+        {
+          "type": "item",
+          "title": "Chấp nhận sự tầm thường thay vì theo đuổi tiềm năng (Settling for Mediocrity)",
+          "text": "Góc tối \"độc hại\" nhất của Everyman là đôi khi từ bỏ những mục tiêu, ước mơ lớn lao chỉ vì sợ rằng việc theo đuổi chúng sẽ khiến bà trở nên \"khác biệt\", tách rời khỏi tập thể."
+        },
+        {
+          "type": "item",
+          "title": "Khó khẳng định quan điểm cá nhân (Difficulty Asserting Individuality)",
+          "text": "Cứ liên tục đồng ý, hòa theo ý kiến số đông mà quên mất việc thể hiện chính kiến, quan điểm riêng của bản thân trong những vấn đề quan trọng."
+        },
+        {
+          "type": "item",
+          "title": "Các bà hệ Everyman nhớ kỹ nha",
+          "text": "Sự hòa đồng không có bản sắc chính là con đường ngắn nhất dẫn đến việc đánh mất chính mình. Hãy kết nối bằng một trái tim chân thành, nhưng phải giữ lại những gì làm nên con người thật của bà!"
+        }
+      ]
+    },
+    {
+      "id": "core",
+      "title": "Lõi Tính Cách (Bản chất thật sự bên trong)",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Nếu lõi của The Ruler là Khát Vọng Kiến Tạo Trật Tự Và Sự Thịnh Vượng, thì lõi của The Everyman chính là Khát Vọng Được Thuộc Về Và Kết Nối (The Need to Belong and Connect). Động lực sâu thẳm nhất của các bà được xây dựng trên 3 trụ cột này:"
+        },
+        {
+          "type": "item",
+          "title": "Bản năng tìm kiếm sự thuộc về (The Belonging Instinct)",
+          "text": "Các bà nhìn thế giới qua lăng kính của những mối quan hệ, những cộng đồng mà mình là một phần trong đó. Sự cô lập, khác biệt khiến các bà cảm thấy bất an."
+        },
+        {
+          "type": "item",
+          "title": "Nỗi sợ bị loại trừ, bị coi là khác biệt (Fear of Exclusion)",
+          "text": "Nghe hơi \"suy\" nhưng đây là sự thật. Nỗi sợ lớn nhất của Everyman không phải là thất bại, mà là bị nhìn nhận như một người không thuộc về, bị cô lập khỏi tập thể."
+        },
+        {
+          "type": "item",
+          "title": "Niềm tin vào giá trị của sự bình đẳng, công bằng (Faith in Equality)",
+          "text": "Với các bà, mọi người đều xứng đáng được đối xử công bằng, không ai nên bị coi là \"cao hơn\" hay \"thấp hơn\" người khác. Đây là động lực khiến bà luôn đứng về phía công lý, nhưng cũng khiến bà khó chấp nhận sự nổi bật của chính mình."
+        },
+        {
+          "type": "sub",
+          "icon": "🛑",
+          "title": "Những Điểm Cần Lưu Ý (Đọc để chấn chỉnh lại nết, bớt khổ nha!)"
+        },
+        {
+          "type": "p",
+          "text": "Mang năng lượng Everyman là một điều tuyệt vời, nhưng nếu không biết cách kiểm soát, các bà sẽ tự đánh mất bản sắc cá nhân của chính mình. Nhớ kỹ những cẩm nang sinh tồn này:"
+        },
+        {
+          "type": "item",
+          "title": "Học cách thể hiện quan điểm cá nhân dù khác biệt",
+          "text": "Không phải lúc nào bà cũng cần đồng ý với số đông. Học cách bày tỏ chính kiến của mình một cách tự tin, dù nó có khác biệt."
+        },
+        {
+          "type": "item",
+          "title": "Chấp nhận rằng nổi bật không đồng nghĩa với bị loại trừ",
+          "text": "Việc thể hiện tài năng, thành công của bản thân không có nghĩa là bà sẽ mất đi những mối quan hệ, sự thuộc về mà bà trân trọng."
+        },
+        {
+          "type": "item",
+          "title": "Theo đuổi những ước mơ thực sự của bản thân",
+          "text": "Đừng để nỗi sợ khác biệt ngăn cản bà theo đuổi những mục tiêu, đam mê thực sự có ý nghĩa với cuộc đời mình."
+        },
+        {
+          "type": "item",
+          "title": "Chấp nhận: không phải ai cũng cần chấp nhận bà",
+          "text": "Không thể làm hài lòng tất cả mọi người. Học cách chấp nhận rằng một số người có thể không đồng tình với bà, và điều đó không sao cả."
+        },
+        {
+          "type": "p",
+          "text": "Trưởng thành thực sự của một Everyman không phải là hòa tan hoàn toàn vào đám đông, mà là biết giữ vững bản sắc cá nhân trong khi vẫn duy trì những kết nối chân thành."
+        }
+      ]
+    },
+    {
+      "id": "love",
+      "title": "Bạn muốn một tình yêu như nào",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "nếu đã mang trong mình hệ điều hành The Everyman (Người Bình Thường / Công Dân), thì gu tình yêu và những mong cầu sâu thẳm của các bà thường đi theo một hệ tư tưởng rất đặc thù. Chuyên mục \"Bạn muốn một tình yêu như nào\" lên sóng, lấy sổ tay ra note lại để tỉnh táo lúc yêu nha!"
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "1. Cái các bà TƯỞNG mình muốn (Và rất dễ sập bẫy)"
+        },
+        {
+          "type": "item",
+          "title": "Hệ \"Yêu là phải giống nhau hoàn toàn\"",
+          "text": "Trái tim của The Everyman rất dễ tin rằng một mối quan hệ tốt phải dựa trên sự tương đồng tuyệt đối về sở thích, quan điểm, lối sống."
+        },
+        {
+          "type": "item",
+          "title": "Tình yêu kiểu \"Không dám thể hiện nhu cầu khác biệt\"",
+          "text": "Các bà đôi khi vô thức che giấu những mong muốn, nhu cầu thực sự của mình trong tình yêu chỉ để tránh xung đột, giữ hòa khí với đối phương."
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "2. Cái các bà THỰC SỰ khao khát (Tình yêu lý tưởng giúp bà không bị \"đánh mất bản sắc\")"
+        },
+        {
+          "type": "p",
+          "text": "Sự thật là, nếu cứ theo đuổi những thứ ở mục 1, các bà sẽ rất nhanh thấy mối quan hệ thiếu đi sự chân thật. Sâu thẳm bên trong, đây mới là thứ một Everyman thực sự cần để thấy an toàn:"
+        },
+        {
+          "type": "item",
+          "title": "Một tình yêu \"Chấp Nhận Sự Khác Biệt\" chứ không phải \"Đòi Hỏi Sự Giống Nhau\"",
+          "text": "Các bà cần một người trân trọng cả những điểm khác biệt giữa hai người, không coi đó là vấn đề cần phải \"sửa chữa\"."
+        },
+        {
+          "type": "item",
+          "title": "Sự Khích Lệ Để Là Chính Mình (Encouragement to Be Authentic)",
+          "text": "Everyman cần một người khuyến khích bà thể hiện những khát vọng, ước mơ thực sự, không phải chỉ hòa mình vào mong muốn của người khác."
+        },
+        {
+          "type": "item",
+          "title": "Một người trân trọng những giá trị giản dị của bà (Appreciation for Simplicity)",
+          "text": "Không cần ai đòi hỏi bà phải trở nên hào nhoáng, nổi bật, chỉ cần một người thấy được vẻ đẹp trong sự chân thành, giản dị của bà."
+        },
+        {
+          "type": "item",
+          "title": "Sự an toàn để bày tỏ ước mơ lớn lao (Safety to Dream Big)",
+          "text": "Các bà luôn khao khát một tình yêu đủ vững chãi để bà dám chia sẻ những tham vọng, những ước mơ mà bà từng giấu kín vì sợ bị coi là \"khác người\"."
+        },
+        {
+          "type": "tip",
+          "text": "Lời khuyên chốt hạ: Đừng đi tìm người chỉ vì họ \"giống mình\" nữa mấy bà ơi! Tình yêu lý tưởng nhất của The Everyman là tìm được một người trân trọng cả sự giản dị lẫn những khát vọng thầm kín của bà, và khích lệ bà là chính mình trọn vẹn."
+        }
+      ]
+    },
+    {
+      "id": "perception",
+      "title": "Người khác nghĩ gì về bạn",
+      "blocks": [
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "1. Ấn tượng tích cực (Aura chói lóa, điểm 10 uy tín)"
+        },
+        {
+          "type": "item",
+          "title": "\"Người bạn dễ mến nhất hội\"",
+          "text": "Trong nhóm bạn, bà đích thị là người mà ai cũng cảm thấy thoải mái khi ở gần, dễ dàng chia sẻ mọi chuyện mà không sợ bị phán xét."
+        },
+        {
+          "type": "item",
+          "title": "\"Chất keo kết nối\" của cả cộng đồng",
+          "text": "Khí chất của bà tỏa ra sự gần gũi, chân thành. Người ngoài nhìn vào luôn thấy bà là một người dễ tiếp cận, đáng tin cậy, không có sự kiêu ngạo hay xa cách."
+        },
+        {
+          "type": "item",
+          "title": "\"Đồng nghiệp đáng tin cậy nhất\"",
+          "text": "Sếp và đồng nghiệp cực kỳ thích làm việc với bà vì biết bà luôn công bằng, hợp tác tốt với mọi người, không tạo ra drama hay xung đột không cần thiết."
+        },
+        {
+          "type": "sub",
+          "icon": "🛑",
+          "title": "2. Những điểm dễ bị \"hiểu lầm\" (Nghe hơi chạnh lòng nha)"
+        },
+        {
+          "type": "item",
+          "title": "Dễ bị gán mác \"Thiếu tham vọng, an phận\"",
+          "text": "Vì bản tính không thích nổi bật, đối phương sẽ dễ cảm thấy bà thiếu động lực phát triển, chỉ muốn duy trì hiện trạng an toàn."
+        },
+        {
+          "type": "item",
+          "title": "Bị xem là \"Thiếu chính kiến, dễ bị lung lay\"",
+          "text": "Việc luôn hòa theo ý kiến số đông đôi khi khiến người xung quanh nghĩ rằng bà không có quan điểm riêng, dễ bị người khác chi phối."
+        },
+        {
+          "type": "item",
+          "title": "Mang tiếng \"Tầm thường, không có gì đặc biệt\"",
+          "text": "Đôi khi vì thói quen thu nhỏ bản thân, người ta sẽ đánh giá thấp tiềm năng thực sự của bà, không nhận ra những tài năng ẩn giấu."
+        },
+        {
+          "type": "item",
+          "title": "Bị coi là \"Dễ dãi, thiếu ranh giới\"",
+          "text": "Vì luôn muốn giữ hòa khí, đôi khi người ta sẽ lợi dụng sự dễ tính của bà, không tôn trọng những giới hạn cá nhân cần thiết."
+        },
+        {
+          "type": "tip",
+          "text": "Chốt lại nè: Giao diện của The Everyman trong mắt thiên hạ luôn là một người GẦN GŨI. Nhưng mấy bà ơi, gần gũi thôi chưa đủ, phải là \"Gần gũi có bản sắc\". Hãy để sự chân thành của mình là một điểm mạnh, chứ đừng biến nó thành lý do để bị coi nhẹ nha!"
+        }
+      ]
+    },
+    {
+      "id": "reactions",
+      "title": "Cách chúng mình phản ứng",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Nếu The Ruler thường chọn cách nắm quyền kiểm soát khi có biến, thì hệ điều hành The Everyman (Người Bình Thường) lại \"nhảy số\" theo một hệ tư tưởng hoàn toàn khác."
+        },
+        {
+          "type": "p",
+          "text": "Đọc ngay cách các bà đối mặt với 3 tình huống \"sóng gió\" này để coi tui nói có chuẩn tim đen không nha:"
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "1. Cách Bà Xử Lý Khi Mọi Thứ Rối Tung Lên (Khủng Hoảng ập đến)"
+        },
+        {
+          "type": "item",
+          "title": "Bật mode \"Tìm kiếm sự hỗ trợ từ cộng đồng\" (Seeking Community Support)",
+          "text": "Càng rối, các bà lại càng tìm đến bạn bè, người thân để chia sẻ, tìm kiếm sự an ủi và lời khuyên từ những người xung quanh."
+        },
+        {
+          "type": "item",
+          "title": "Ưu tiên giữ ổn định cho tập thể hơn là lợi ích cá nhân",
+          "text": "Các bà có xu hướng đặt sự hài hòa của nhóm lên trên nhu cầu cá nhân, đôi khi hy sinh mong muốn riêng để giữ mọi thứ ổn định."
+        },
+        {
+          "type": "item",
+          "title": "Dễ cảm thấy lạc lõng nếu phải đối mặt một mình",
+          "text": "Vì quá quen với việc dựa vào tập thể, đôi khi các bà cảm thấy bất an, thiếu tự tin khi phải tự mình đưa ra quyết định quan trọng trong khủng hoảng."
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "2. Khi Ở Trong Một Tập Thể (Teamwork, Nhóm bạn)"
+        },
+        {
+          "type": "item",
+          "title": "\"Chất keo gắn kết\" tự nhiên của nhóm",
+          "text": "Bà chính là người giúp mọi thành viên cảm thấy được chào đón, kết nối với nhau, tạo ra một môi trường làm việc hòa đồng, thân thiện."
+        },
+        {
+          "type": "item",
+          "title": "Ngại đưa ra ý kiến khác biệt với số đông",
+          "text": "Các bà thường có xu hướng đồng ý với ý kiến chung của nhóm, ngay cả khi trong lòng có những suy nghĩ khác, để tránh gây ra xung đột."
+        },
+        {
+          "type": "item",
+          "title": "Thánh \"hòa giải\" trong mọi tình huống căng thẳng",
+          "text": "Vì cái tính không thích xung đột, các bà thường đóng vai trò trung gian, giúp giải quyết những bất đồng giữa các thành viên trong nhóm."
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "3. Khi Không Được Hiểu / Bị Cô Lập (Góc tổn thương ngầm)"
+        },
+        {
+          "type": "p",
+          "text": "Đây là lúc The Everyman dễ bộc lộ những góc tối tâm lý nhất nè:"
+        },
+        {
+          "type": "item",
+          "title": "Bật mode \"Cố gắng hòa nhập hơn nữa\" (Trying Harder to Fit In)",
+          "text": "Khi cảm thấy bị cô lập hay không được chấp nhận, các bà sẽ KHÔNG rút lui hoàn toàn đâu. Thay vào đó, bà thường cố gắng thay đổi bản thân nhiều hơn để được chấp nhận trở lại."
+        },
+        {
+          "type": "item",
+          "title": "Gặm nhấm cảm giác không thuộc về (Feeling of Not Belonging)",
+          "text": "Trong đầu các bà sẽ liên tục nảy số những suy nghĩ: \"Tại sao mình lại khác biệt?\", \"Có phải mình không đủ tốt để được chấp nhận?\". Cảm giác này bào mòn lòng tự trọng của bà."
+        },
+        {
+          "type": "item",
+          "title": "Cơ chế tự vệ độc hại (Self-Erasure)",
+          "text": "Thay vì đối diện với sự thật rằng không phải ai cũng cần chấp nhận mình, các bà đôi khi lại tiếp tục thu nhỏ bản thân, che giấu cá tính thật để tránh bị loại trừ thêm lần nữa."
+        },
+        {
+          "type": "tip",
+          "text": "Chốt hạ cho The Everyman nè: Hòa đồng là tốt, nhưng lúc mọi thứ rối ren hay khi bị cô lập, hãy nhớ rằng giá trị của bà không phụ thuộc vào việc mọi người có chấp nhận bà hay không! Nếu bị loại trừ, thì việc bà cần làm là TÌM KIẾM NHỮNG NGƯỜI THỰC SỰ TRÂN TRỌNG BÀ, chứ không phải là cố gắng thay đổi để làm hài lòng tất cả đâu nha!"
+        }
+      ]
+    },
+    {
+      "id": "strengths",
+      "title": "Điểm mạnh thật sự",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Điểm mạnh thật sự (True Strengths) làm nên thương hiệu của The Everyman nha! Không phải tự nhiên mà ai cũng muốn có một người bạn, người đồng nghiệp hay người yêu mang hệ điều hành này đâu."
+        },
+        {
+          "type": "p",
+          "text": "Sức mạnh của các bà không nằm ở sự nổi bật, mà nó nằm ở \"quyền lực của sự chân thành\" siêu đẳng có khả năng kết nối mọi tầng lớp con người nghen:"
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "1. Năng Lực \"Kết Nối Vạn Người\" Cấp Độ Max (Master of Connection)"
+        },
+        {
+          "type": "item",
+          "title": "Nguồn năng lượng gần gũi tự nhiên",
+          "text": "Các bà có khả năng khiến bất kỳ ai cũng cảm thấy được chào đón, được thấu hiểu, không phân biệt địa vị hay hoàn cảnh xuất thân."
+        },
+        {
+          "type": "item",
+          "title": "Khả năng xây dựng cầu nối giữa các nhóm khác nhau",
+          "text": "Vì sự linh hoạt trong giao tiếp, các bà thường có khả năng kết nối những nhóm người tưởng chừng không liên quan với nhau."
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "2. Sự Chân Thành Là Vũ Khí Tối Thượng"
+        },
+        {
+          "type": "item",
+          "title": "Soft outside, grounded inside",
+          "text": "Nhìn giao diện bên ngoài có vẻ bình thường, không nổi bật, nhưng đụng chuyện thì The Everyman lại là những người có nền tảng giá trị vững chắc, đáng tin cậy nhất."
+        },
+        {
+          "type": "item",
+          "title": "Tạo dựng niềm tin bền vững (The Trust Foundation)",
+          "text": "Mấy bà có khả năng xây dựng những mối quan hệ dựa trên sự tin tưởng thực sự, không phải sự hào nhoáng bề ngoài."
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "3. \"Chất Keo\" Đoàn Kết Trong Tập Thể"
+        },
+        {
+          "type": "item",
+          "title": "Người xây dựng tinh thần cộng đồng",
+          "text": "Trong một tập thể đang rời rạc, phân hóa, các bà chính là người tạo ra sự gắn kết, khiến mọi người cảm thấy mình là một phần của điều gì đó lớn hơn."
+        },
+        {
+          "type": "item",
+          "title": "Nuôi dưỡng sự công bằng và bao dung (The Fairness Advocate)",
+          "text": "Điểm sáng rực rỡ nhất là khả năng đảm bảo mọi tiếng nói đều được lắng nghe, không ai bị bỏ lại phía sau."
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "4. Sự Chân Thật Không Phô Trương Nguyên Bản (Radical Unpretentiousness)"
+        },
+        {
+          "type": "p",
+          "text": "Giữa một thế giới đầy sự phô trương, chạy theo hào nhoáng và \"phải luôn nổi bật để có giá trị\", việc các bà vẫn giữ được sự khiêm tốn, chân thành chính là một loại dũng khí cực kỳ lớn. Sự giản dị của các bà không phải là sự tầm thường, mà đó là một sự lựa chọn đầy kiêu hãnh và bản lĩnh!"
+        }
+      ]
+    },
+    {
+      "id": "blindspots",
+      "title": "Những điểm mù cần để ý",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Sự hòa đồng của Người Bình Thường đôi khi lại chính là con dao hai lưỡi tự cứa vào mình và cả người khác, nếu mấy bà lỡ sa vào những điểm mù này:"
+        },
+        {
+          "type": "item",
+          "title": "Bẫy \"Luôn đồng ý để tránh xung đột\" (Agreeing to Avoid Conflict)",
+          "text": "Mấy bà cứ tưởng luôn đồng thuận là đang giữ hòa khí. Nhưng không! Điểm mù lớn nhất là các bà đang dần đánh mất tiếng nói, quan điểm riêng của chính mình."
+        },
+        {
+          "type": "item",
+          "title": "Trốn tránh tiềm năng thực sự bằng danh nghĩa khiêm tốn (Hiding Potential as Humility)",
+          "text": "Đây là điểm mù đáng sợ nhất mà Everyman thường không tự nhận ra. Dù miệng nói \"tui chỉ là người bình thường thôi\", nhưng đôi khi đó là cái cớ để né tránh nỗi sợ thất bại khi theo đuổi những mục tiêu lớn lao."
+        },
+        {
+          "type": "item",
+          "title": "Hội chứng \"Không dám khác biệt\" (Fear of Being Different)",
+          "text": "Khả năng khẳng định bản sắc cá nhân của The Everyman cực kỳ mờ nhạt khi phải đối mặt với sự khác biệt so với số đông. Điểm mù ở đây là các bà lầm tưởng rằng khác biệt đồng nghĩa với việc bị loại trừ."
+        },
+        {
+          "type": "item",
+          "title": "Cái tôi của sự \"Được chấp nhận\" (Ego Tied to Acceptance)",
+          "text": "Các bà vô thức dính chặt giá trị bản thân vào việc \"mình có được mọi người chấp nhận không\". Điều này khiến bà khó đưa ra những quyết định có thể khiến một số người không hài lòng."
+        }
+      ]
+    },
+    {
+      "id": "conflict",
+      "title": "Mâu thuẫn lớn nhất",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Mâu thuẫn kinh điển nhất cấu xé tâm can của một Everyman mỗi đêm muộn chính là sự giằng xé giữa: Khao khát được THUỘC VỀ, được chấp nhận bởi tập thể VÀ Nỗi khát khao thầm kín được LÀ CHÍNH MÌNH, dù điều đó có nghĩa là khác biệt."
+        },
+        {
+          "type": "item",
+          "title": "Vừa muốn hòa nhập, lại vừa muốn được công nhận là cá thể riêng biệt",
+          "text": "Tận sâu bên trong, The Everyman cực kỳ khao khát được nhìn nhận như một cá nhân độc đáo, có giá trị riêng. Nhưng ác nỗi, mỗi khi có cơ hội thể hiện sự khác biệt, nỗi sợ bị loại trừ lại khiến bà rút lui, hòa mình trở lại vào đám đông."
+        },
+        {
+          "type": "item",
+          "title": "Nỗi sợ theo đuổi ước mơ lớn và thất bại trước mắt mọi người (Fear of Public Failure)",
+          "text": "Vì sao các bà lại cố gắng hòa đồng, không nổi bật nhiều đến vậy? Mâu thuẫn ở đây là: Các bà dùng sự bình thường để tránh rủi ro bị chú ý và thất bại. Sâu thẳm bên trong là một nỗi sợ tột cùng: \"Nếu mình theo đuổi ước mơ lớn và thất bại, mọi người sẽ nghĩ gì về mình?\"."
+        },
+        {
+          "type": "item",
+          "title": "Khao khát được đặc biệt nhưng lại sợ sự đặc biệt khiến mình cô đơn",
+          "text": "Bà có thể vừa mong muốn được công nhận vì những tài năng, phẩm chất riêng biệt của mình, vừa lo sợ rằng sự nổi bật đó sẽ khiến bà mất đi những kết nối, sự thuộc về mà bà trân trọng."
+        },
+        {
+          "type": "p",
+          "text": "Cuộc chiến lớn nhất của The Everyman là học cách chấp nhận sự thật rớt nước mắt này: Sự thuộc về đích thực không đến từ việc hòa tan hoàn toàn vào đám đông, mà đến từ việc được YÊU THƯƠNG và CHẤP NHẬN vì chính con người thật, độc đáo của mình."
+        }
+      ]
+    },
+    {
+      "id": "challenges",
+      "title": "Những thách thức nào bạn có thể sẽ gặp phải trong các mối quan hệ",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Mang hệ điều hành The Everyman (Người Bình Thường) vào các mối quan hệ (từ tình yêu, bạn bè đến đồng nghiệp) thì đúng kiểu \"trái tim chân thành nhưng dễ đánh mất chính mình\". Sự hòa đồng vô bờ bến của các bà nếu không có \"bản sắc riêng làm nền tảng\" thì rất dễ va phải những \"kiếp nạn\" cực kỳ đặc thù sau đây:"
+        },
+        {
+          "type": "sub",
+          "icon": "🛑",
+          "title": "1. \"Người Yêu Không Có Chính Kiến\" (The People-Pleaser in Love)"
+        },
+        {
+          "type": "item",
+          "title": "Bản chất",
+          "text": "Vì luôn muốn giữ hòa khí, các bà thường nhượng bộ, đồng ý với mọi quyết định của người yêu, ngay cả khi điều đó không phù hợp với mong muốn thực sự của mình."
+        },
+        {
+          "type": "item",
+          "title": "Biểu hiện",
+          "text": "Thay vì một mối quan hệ cân bằng, các bà lại hay vướng vào việc luôn là người thỏa hiệp, khiến đối phương dần quen với việc luôn được ưu tiên, còn nhu cầu của bà bị lãng quên."
+        },
+        {
+          "type": "sub",
+          "icon": "🛑",
+          "title": "2. Yêu Đương Hay Đang Cố Gắng Trở Thành Người Đối Phương Muốn? (Molding to Fit)"
+        },
+        {
+          "type": "item",
+          "title": "Bản chất",
+          "text": "Các bà có xu hướng điều chỉnh sở thích, tính cách của mình để phù hợp hơn với hình mẫu mà người yêu mong muốn, thay vì thể hiện con người thật."
+        },
+        {
+          "type": "item",
+          "title": "Biểu hiện",
+          "text": "Ban đầu thì đối phương thấy bà dễ chiều, hòa hợp đó, nhưng dần dà họ sẽ cảm thấy như đang yêu một cái bóng, không thực sự biết con người thật của bà là ai."
+        },
+        {
+          "type": "sub",
+          "icon": "🛑",
+          "title": "3. Quả Bom Nổ Chậm \"Tích Tụ Sự Bất Mãn Trong Im Lặng\" (Silent Resentment Buildup)"
+        },
+        {
+          "type": "item",
+          "title": "Bản chất",
+          "text": "Vì liên tục nhượng bộ, không dám bày tỏ nhu cầu thực sự, những cảm xúc bất mãn dần tích tụ theo thời gian mà không được giải tỏa."
+        },
+        {
+          "type": "item",
+          "title": "Biểu hiện",
+          "text": "Đến một lúc nào đó, sự dồn nén này có thể bùng nổ thành những cảm xúc tiêu cực mạnh mẽ, hoặc khiến bà đột ngột muốn rời xa mối quan hệ mà không có dấu hiệu báo trước rõ ràng."
+        },
+        {
+          "type": "sub",
+          "icon": "🛑",
+          "title": "4. Khó Được Nhìn Nhận Là Người Có Năng Lực Đặc Biệt (Overlooked Potential)"
+        },
+        {
+          "type": "item",
+          "title": "Bản chất",
+          "text": "Tính cách khiêm tốn, không thích nổi bật khiến The Everyman đôi khi bị bỏ qua khi có cơ hội thăng tiến, dù năng lực thực sự của bà hoàn toàn xứng đáng."
+        },
+        {
+          "type": "item",
+          "title": "Biểu hiện",
+          "text": "Đồng nghiệp, sếp có thể không nhận ra tiềm năng thực sự của bà chỉ vì bà không chủ động thể hiện, luôn nhường phần nổi bật cho người khác."
+        },
+        {
+          "type": "sub",
+          "icon": "🛑",
+          "title": "5. Nỗi Sợ \"Bị Bỏ Rơi\" Khóa Chặt Sự Thể Hiện Bản Thân"
+        },
+        {
+          "type": "item",
+          "title": "Bản chất",
+          "text": "Bà sợ nếu thể hiện quá nhiều cá tính, quá nhiều tham vọng, mọi người sẽ cảm thấy xa lạ và không còn muốn kết nối với bà nữa."
+        },
+        {
+          "type": "item",
+          "title": "Biểu hiện",
+          "text": "Dù có những ước mơ, khát vọng lớn lao, bà vẫn giữ chúng cho riêng mình, không dám chia sẻ vì sợ bị đánh giá là \"ảo tưởng\" hay \"khác biệt quá mức\"."
+        },
+        {
+          "type": "tip",
+          "text": "Tip sinh tồn cho các bà hệ Everyman: Hãy nhớ, tình yêu và tình bạn khỏe mạnh không đòi hỏi bà phải từ bỏ bản sắc để hòa nhập. Bà hoàn toàn xứng đáng có những mối quan hệ chấp nhận trọn vẹn con người thật của bà, bao gồm cả những khát vọng, sự khác biệt riêng!"
+        }
+      ]
+    },
+    {
+      "id": "growth",
+      "title": "Hướng phát triển",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Để lột xác và nâng cấp năng lượng The Everyman (Người Bình Thường) lên một tầm cao mới, hành trình của mấy bà không phải là trở nên xa cách hay từ bỏ sự chân thành vốn có. Sự trưởng thành của một Everyman là biến sự hòa đồng thụ động thành sự kết nối có bản sắc, và học cách theo đuổi ước mơ mà không sợ bị loại trừ."
+        },
+        {
+          "type": "p",
+          "text": "Dưới đây là hướng phát triển để các bà vừa giữ được \"hào quang\" gần gũi, vừa không bị đánh mất chính mình:"
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "1. Chuyển từ \"Hòa Tan Vào Đám Đông\" sang \"Kết Nối Từ Bản Sắc Riêng\" (Authentic Connection)"
+        },
+        {
+          "type": "item",
+          "title": "Nâng cấp bộ lọc đồng thuận",
+          "text": "Trước khi đồng ý với một ý kiến chỉ để giữ hòa khí, hãy dừng lại và tự hỏi: \"Đây có thực sự là điều mình nghĩ, hay mình chỉ đang tránh xung đột?\"."
+        },
+        {
+          "type": "item",
+          "title": "Học cách chia sẻ quan điểm cá nhân một cách tự tin",
+          "text": "Tập thói quen bày tỏ ý kiến riêng, ngay cả khi nó khác biệt với số đông, một cách tôn trọng nhưng rõ ràng."
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "2. Ngừng \"Thu Nhỏ Ước Mơ\", hãy học \"Dám Theo Đuổi Tham Vọng\" (Pursuing Ambitions)"
+        },
+        {
+          "type": "item",
+          "title": "Cho phép mình mơ lớn",
+          "text": "Đừng để nỗi sợ bị coi là \"khác người\" ngăn cản bà theo đuổi những mục tiêu thực sự có ý nghĩa với cuộc đời mình."
+        },
+        {
+          "type": "p",
+          "text": "Chấp nhận rằng thất bại trước mắt người khác không phải là điều đáng xấu hổ: Học cách coi thất bại như một phần của quá trình phát triển, không phải một điều cần phải tránh bằng mọi giá."
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "3. Tự Xây Dựng \"Bản Sắc Vững Chắc\" Bên Trong Sự Kết Nối (Grounded Identity)"
+        },
+        {
+          "type": "item",
+          "title": "Luật \"Là chính mình trước, rồi mới kết nối\"",
+          "text": "Khắc cốt ghi tâm nguyên tắc này: Sự thuộc về đích thực chỉ đến khi bà được yêu thương vì chính con người thật, không phải phiên bản đã được điều chỉnh để phù hợp."
+        },
+        {
+          "type": "item",
+          "title": "Dám đứng một mình khi cần thiết",
+          "text": "Ngừng sợ hãi việc phải đối mặt với sự khác biệt. Học cách tự tin với những lựa chọn của mình, ngay cả khi không có sự đồng thuận từ tất cả mọi người."
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "4. Tích hợp thêm năng lượng bổ trợ (Nâng cấp giao diện)"
+        },
+        {
+          "type": "item",
+          "title": "Mượn năng lượng Kẻ Nổi Loạn (The Rebel)",
+          "text": "Học cách dũng cảm thể hiện quan điểm khác biệt, không sợ hãi trước sự phản đối từ số đông khi bà tin vào điều gì đó."
+        },
+        {
+          "type": "item",
+          "title": "Mượn năng lượng Nhà Sáng Tạo (The Creator)",
+          "text": "Học cách tin tưởng vào những ý tưởng, ước mơ độc đáo của riêng mình, dám biến chúng thành hiện thực thay vì giữ trong im lặng."
+        },
+        {
+          "type": "tip",
+          "text": "The Empowered Everyman (Người Bình Thường Đỉnh Cao) không phải là người hòa tan hoàn toàn vào đám đông để được chấp nhận, mà là một người phụ nữ sở hữu sự chân thành sâu sắc nhất nhưng cũng có bản sắc vững vàng nhất. Khi bà biết kết nối từ sự chân thật, thứ năng lượng tỏa ra không còn là sự mờ nhạt, mà là một sức hút của sự giản dị đầy sức mạnh khiến ai cũng phải trân trọng!"
+        }
+      ]
+    },
+    {
+      "id": "relationships",
+      "title": "Làm sao để cải thiện các mối quan hệ xã hội",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Okela mấy bà, tới phần cốt lõi để \"cứu giá\" các mối quan hệ cho hệ Người Bình Thường / Công Dân đây!"
+        },
+        {
+          "type": "p",
+          "text": "Lấy sổ ra note lại ngay chiến lược để vừa giữ được sự hòa đồng, vừa không bị đánh mất bản sắc nha:"
+        },
+        {
+          "type": "sub",
+          "icon": "🌟",
+          "title": "PHẦN 1: Cứu Vãn Các Mối Quan Hệ Xã Hội (Bạn bè, Đồng nghiệp)"
+        },
+        {
+          "type": "p",
+          "text": "Để không bị biến thành \"cái bóng của đám đông\" hay \"người không có chính kiến\" của thiên hạ, các bà Everyman phải setup lại hệ điều hành giao tiếp liền:"
+        },
+        {
+          "type": "item",
+          "title": "Dẹp ngay cái nết \"Luôn đồng ý để tránh xung đột\" (Stop Automatic Agreement)",
+          "text": "Bà có quyền có ý kiến riêng, nhưng hãy học cách bày tỏ nó: \"Tui nghĩ khác một chút...\" thay vì luôn gật đầu theo số đông."
+        },
+        {
+          "type": "item",
+          "title": "Luật \"Chia sẻ ước mơ, không chỉ theo đuổi sự an toàn\" (Share Your Dreams)",
+          "text": "Thanh lọc lại cách giao tiếp đi mấy bà. Với những người thân thiết, hãy chủ động chia sẻ những khát vọng, ước mơ thực sự của mình."
+        },
+        {
+          "type": "item",
+          "title": "Có gì không đồng ý cứ nói, ngưng nhượng bộ trong im lặng (Direct Communication)",
+          "text": "Bà không đồng tình với điều gì, làm ơn NÓI RA. Dùng cấu trúc: \"Mình có một góc nhìn khác về việc này...\". Ngừng ngay việc chỉ im lặng đồng ý để giữ hòa khí."
+        },
+        {
+          "type": "sub",
+          "icon": "💕",
+          "title": "PHẦN 2: \"Trị Bệnh\" Trong Tình Yêu (Yêu sao cho đừng đánh mất mình?)"
+        },
+        {
+          "type": "p",
+          "text": "Tình yêu của Everyman rất chân thành, nhưng toàn tự mình làm khó mình vì quá muốn hòa hợp. Muốn có một mối tình cân bằng, bền vững và slay, thì phải chấn chỉnh ngay:"
+        },
+        {
+          "type": "item",
+          "title": "Bày tỏ nhu cầu và mong muốn thực sự của bản thân",
+          "text": "Đừng chỉ luôn đồng ý với những gì người yêu muốn. Hãy chia sẻ rõ ràng những gì bà thực sự mong muốn từ mối quan hệ."
+        },
+        {
+          "type": "item",
+          "title": "Giữ lại những sở thích, đam mê cá nhân",
+          "text": "Đừng để tình yêu khiến bà đánh mất những gì làm nên bản sắc riêng. Duy trì những sở thích, mối quan hệ ngoài tình yêu để giữ vững cái tôi của mình."
+        },
+        {
+          "type": "item",
+          "title": "Đi tìm \"Người Trân Trọng Sự Khác Biệt\" chứ không tìm \"Người Muốn Bà Giống Họ\"",
+          "text": "Bỏ ngay việc cố gắng trở thành phiên bản mà người yêu mong muốn. Hãy chọn yêu một người trân trọng cả những điểm khác biệt của bà."
+        },
+        {
+          "type": "item",
+          "title": "Dám chia sẻ những ước mơ lớn lao với người yêu",
+          "text": "Bà giỏi hòa hợp rồi, nhưng đừng quên chia sẻ những khát vọng thực sự của mình. Một người yêu tốt sẽ khích lệ bà theo đuổi chúng, không coi đó là điều kỳ lạ."
+        },
+        {
+          "type": "tip",
+          "text": "Chốt hạ: Bí quyết lớn nhất để Everyman hạnh phúc là học cách LÀ CHÍNH MÌNH TRƯỚC KHI KẾT NỐI. Hãy tin rằng bà xứng đáng có một tình yêu chấp nhận trọn vẹn con người thật của bà, bao gồm cả những khát vọng riêng biệt!"
+        }
+      ]
+    },
+    {
+      "id": "career",
+      "title": "Bạn cần làm gì để thăng tiến trong công việc",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Alo mấy bà, đến cái chuyên mục quan trọng nhất để \"lột xác\" chốn công sở đây! The Everyman (Người Bình Thường) bình thường đi làm rất hay bị rơi vào cái bẫy \"không dám thể hiện năng lực thực sự\" hoặc \"bị lu mờ vì quá khiêm tốn\". Muốn thăng tiến, lên sếp hay tự làm chủ mà vẫn giữ được vibe \"gần gũi\" thì phải rèn ngay mấy skill cốt lõi này nha:"
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "1. Từ \"Đồng Nghiệp Dễ Mến\" Thành \"Nhà Lãnh Đạo Được Tin Cậy\""
+        },
+        {
+          "type": "item",
+          "title": "Ngưng chỉ hòa đồng, hãy chủ động thể hiện năng lực",
+          "text": "Sự gần gũi không nằm ở việc bà luôn hòa hợp với mọi người, mà ở việc bà dùng sự tin tưởng đã xây dựng để dẫn dắt một cách hiệu quả."
+        },
+        {
+          "type": "item",
+          "title": "Học cách chủ động đề xuất ý tưởng",
+          "text": "Thay vì chỉ ủng hộ ý kiến của người khác, hãy tự tin đưa ra những đề xuất, sáng kiến của riêng mình."
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "2. Đóng Gói Sự Chân Thành Bằng Năng Lực Chuyên Môn (Authenticity Meets Competence)"
+        },
+        {
+          "type": "p",
+          "text": "Khả năng kết nối là thiên phú, nhưng để ngồi vào ghế sếp hay vận hành trơn tru một mô hình kinh doanh, bà bắt buộc phải kết hợp sự chân thành với năng lực chuyên môn vững vàng, được thể hiện rõ ràng."
+        },
+        {
+          "type": "p",
+          "text": "Hãy tập thói quen chủ động chia sẻ những thành tích, đóng góp của mình trong công việc. Đừng chỉ nói \"Em cũng có góp một phần thôi\". Hãy đổi thành: \"Đây là những gì em đã đóng góp cụ thể cho dự án này, và đây là kết quả đạt được\". Sự chân thành đi kèm với sự tự tin thể hiện năng lực chính là \"vũ khí hủy diệt\" chốn công sở."
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "3. Dám Nổi Bật Khi Cần Thiết (Stepping into the Spotlight)"
+        },
+        {
+          "type": "p",
+          "text": "Căn bệnh trầm kha của The Everyman là né tránh những cơ hội thể hiện bản thân, luôn nhường phần nổi bật cho người khác."
+        },
+        {
+          "type": "p",
+          "text": "Đừng để sự khiêm tốn khiến bà bị bỏ qua! Hãy chủ động nắm bắt những cơ hội để thể hiện năng lực, ngay cả khi điều đó có nghĩa là trở thành tâm điểm chú ý."
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "4. Xây Dựng Ranh Giới Về Việc Luôn Nhượng Bộ (Setting Boundaries)"
+        },
+        {
+          "type": "p",
+          "text": "Năng lượng của bà là để tạo ra giá trị thực sự, không phải để luôn là người thỏa hiệp, nhường nhịn trong mọi tình huống công việc."
+        },
+        {
+          "type": "p",
+          "text": "Học cách nói \"KHÔNG\" một cách chuyên nghiệp với những yêu cầu không hợp lý. Phải phân bổ rạch ròi: khi nào cần hợp tác, khi nào cần bảo vệ quyền lợi và thời gian của bản thân."
+        },
+        {
+          "type": "p",
+          "text": "Tóm lại, thăng tiến không có nghĩa là bà phải trở nên xa cách, kiêu ngạo hay từ bỏ sự chân thành vốn có. Phiên bản nâng cấp đỉnh cao nhất của Everyman chính là người dùng sự tin tưởng đã xây dựng để dẫn dắt, nhưng lại dùng sự tự tin để thể hiện năng lực thực sự của chính mình."
+        }
+      ]
+    },
+    {
+      "id": "journey",
+      "title": "Vận trình cuộc đời",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Hành trình của Everyman là một chuỗi ngày vật vã chuyển hóa từ việc \"hòa tan để được chấp nhận\" sang cảnh giới \"kết nối từ bản sắc riêng\"."
+        },
+        {
+          "type": "p",
+          "text": "Lưu ngay 3 giai đoạn \"tiến hóa\" này để xem mấy bà đang kẹt ở level nào nè:"
+        },
+        {
+          "type": "sub",
+          "icon": "🌱",
+          "title": "Dưới 25 Tuổi: Everyman Tập Sự (The Eager-to-Fit-In)"
+        },
+        {
+          "type": "item",
+          "title": "Vibe lúc này",
+          "text": "Luôn cố gắng hòa nhập, được chấp nhận bởi mọi nhóm bạn, mọi tập thể. Nhiệt tình cộng thiếu bản sắc riêng. Sở thích, quan điểm dễ dàng thay đổi theo nhóm bạn đang ở cùng. Năng lượng kết nối tràn trề nhưng chưa biết giữ vững cái tôi."
+        },
+        {
+          "type": "item",
+          "title": "Thực trạng",
+          "text": "Đây là giai đoạn mấy bà rất dễ đánh mất chính mình để hòa hợp với người khác. Nếu có chập chững làm kinh doanh, các bà sẽ ngại thể hiện những ý tưởng khác biệt, sợ bị đánh giá là \"làm màu\" hay \"khác người\". Trong tình yêu thì dễ điều chỉnh bản thân hoàn toàn theo mong muốn của người yêu."
+        },
+        {
+          "type": "item",
+          "title": "Bài học cốt lõi",
+          "text": "Dính vô vàn lần đánh mất bản thân và những cơ hội bị bỏ lỡ vì quá sợ nổi bật để nhận ra rằng: Hòa đồng mà không có bản sắc thì chỉ là một cái bóng mờ nhạt giữa đám đông."
+        },
+        {
+          "type": "sub",
+          "icon": "🌸",
+          "title": "Từ 25 Đến 40 Tuổi: Everyman Thức Tỉnh (The Authentic Connector)"
+        },
+        {
+          "type": "item",
+          "title": "Vibe lúc này",
+          "text": "Đã nếm đủ \"trái đắng\" của việc đánh mất bản thân để hòa nhập. Giao diện vẫn gần gũi, chân thành nhưng bên trong đã bắt đầu rèn được khả năng giữ vững bản sắc cá nhân trong khi vẫn kết nối tốt với mọi người."
+        },
+        {
+          "type": "item",
+          "title": "Thực trạng",
+          "text": "Ở độ tuổi này, các bà bắt đầu ngộ ra chân lý cốt lõi: Đừng cố hòa tan nữa, hãy học cách kết nối từ sự chân thật! Thay vì luôn đồng ý để tránh xung đột, mấy bà chuyển sang thể hiện quan điểm cá nhân một cách tự tin. Các bà biết cách theo đuổi những ước mơ thực sự của mình, dù điều đó có nghĩa là khác biệt."
+        },
+        {
+          "type": "item",
+          "title": "Bài học cốt lõi",
+          "text": "Chấp nhận buông bỏ nỗi sợ bị loại trừ. Dám đứng một mình khi cần thiết và học cách xây dựng những mối quan hệ dựa trên sự chấp nhận con người thật, không phải phiên bản đã được điều chỉnh."
+        },
+        {
+          "type": "sub",
+          "icon": "👑",
+          "title": "Sau 40 Tuổi: \"Người Kết Nối\" Minh Triết (The Wise Connector)"
+        },
+        {
+          "type": "item",
+          "title": "Vibe lúc này",
+          "text": "An tọa vững chãi trong chính bản sắc của mình, khí chất chân thành và vững vàng. Không còn hoảng loạn vì sợ bị loại trừ hay bồn chồn vì cần được chấp nhận nữa. Sự gần gũi lúc này tỏa ra tự nhiên như hơi thở, đi kèm với sự tự tin của người đã hiểu rõ giá trị bản thân."
+        },
+        {
+          "type": "item",
+          "title": "Thực trạng",
+          "text": "Các bà lùi lại một bước khỏi việc phải luôn hòa hợp với tất cả mọi người để cảm thấy an toàn. Thay vì chỉ tìm kiếm sự chấp nhận, các bà vươn tầm thành những người xây dựng cộng đồng thực thụ, giúp thế hệ trẻ hiểu được giá trị của việc là chính mình trong khi vẫn duy trì những kết nối chân thành."
+        },
+        {
+          "type": "item",
+          "title": "Bài học cốt lõi",
+          "text": "Đạt đến cảnh giới cao nhất của sự thuộc về: Hiểu rằng sự kết nối đích thực không đến từ việc hòa tan vào đám đông, mà đến từ việc được yêu thương và chấp nhận vì chính con người thật, độc đáo của mình."
+        }
+      ]
+    },
+    {
+      "id": "advice",
+      "title": "Lời khuyên",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Tóm lại nha mấy bà, chốt sổ nguyên mẫu Người Bình Thường (The Everyman) bằng một câu cốt lõi thôi: Bà là một chất keo kết nối của nhân gian, nhưng chất keo ấy cũng cần giữ được hình dạng riêng của chính mình!"
+        },
+        {
+          "type": "tip",
+          "text": "Lời khuyên \"xương máu\" ghim ngay vào tim nè:"
+        },
+        {
+          "type": "item",
+          "title": "Nghỉ làm \"Người Luôn Đồng Ý\"",
+          "text": "Bà không có nghĩa vụ phải hòa theo mọi ý kiến của số đông. Hãy học cách bày tỏ quan điểm cá nhân một cách tự tin, tôn trọng."
+        },
+        {
+          "type": "item",
+          "title": "Chân lý sinh tồn để không bị \"đánh mất mình\"",
+          "text": "Thay vì cứ liên tục hòa nhập để được chấp nhận, hãy khắc cốt ghi tâm điều này: sự thuộc về đích thực đến từ việc được yêu thương vì con người thật, không phải phiên bản đã bị điều chỉnh. Đừng đánh đổi bản sắc để lấy sự chấp nhận giả tạo."
+        },
+        {
+          "type": "item",
+          "title": "Hòa đồng thì phải có bản sắc",
+          "text": "Áp dụng chuẩn xác nguyên tắc: \"Trái tim chân thành, bản sắc vững vàng\". Kết nối với mọi người, nhưng cũng phải giữ vững những gì làm nên con người thật của mình."
+        },
+        {
+          "type": "item",
+          "title": "Setup \"Không gian để là chính mình\"",
+          "text": "Hòa tan hoàn toàn vào đám đông là tự chuốc lấy sự mờ nhạt. Dám thẳng tay theo đuổi những ước mơ, khát vọng thực sự của bản thân."
+        },
+        {
+          "type": "tip",
+          "text": "Chốt hạ: Sự chân thành, gần gũi của Everyman là một siêu năng lực bẩm sinh, là thứ chất keo kết nối nhưng có khả năng xây dựng cộng đồng đỉnh cao nhất. Miễn là bà biết giữ vững bản sắc trong khi kết nối, thì vibe của bà lúc nào cũng sẽ chân thành và tỏa sáng rực rỡ!"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,938 @@
+{
+  "slug": "explorer",
+  "code": "NTH",
+  "english": "The Explorer",
+  "name": "Nhà Thám Hiểm",
+  "intro": [
+    "Bà là đứa lúc nào cũng có một cái vali đóng sẵn 70%, chỉ cần một cái vé rẻ hoặc một cơn hứng bất chợt là bà biến mất khỏi thành phố này trong vòng 24 tiếng. Instagram story của bà là một cuốn hộ chiếu sống động, ai nhìn vào cũng ước được sống \"tự do\" như bà. Nhưng có một sự thật mà bà giấu kỹ hơn cả mật khẩu email: bà không chạy VỀ đâu cả, bà chỉ đang chạy TRỐN. Không phải vì bà yêu chuyển động, mà vì bà sợ hãi tột độ cái cảm giác đứng yên một chỗ đủ lâu để phải nhìn thẳng vào chính mình.",
+    "Sự thật đau lòng nhất là bà thường dùng những chuyến đi để hoãn lại những cuộc đối thoại quan trọng nhất với bản thân. Tận sâu bên trong, bà luôn mang một nỗi sợ hoang mang: \"Nếu một ngày mình dừng lại, sống một cuộc đời lặp đi lặp lại, ổn định như bao người... liệu mình có đánh mất chính con người thật của mình không? Hay đó chỉ là cái cớ để mình không bao giờ phải ở lại và chịu trách nhiệm với bất cứ điều gì?\". Bà cứ liên tục đánh đồng sự tự do với việc không thuộc về nơi nào, để rồi mải miết đi tìm những chân trời mới mà quên mất việc phải xây một mái nhà cho chính trái tim mình."
+  ],
+  "population": 12,
+  "celebrities": [
+    {
+      "name": "Lisa (BLACKPINK)",
+      "text": "Từ Thái Lan đến Hàn Quốc rồi vươn ra sân khấu quốc tế, Lisa luôn là người dám bước ra khỏi vùng an toàn để tự định nghĩa lại bản thân, không đóng khung trong một hình mẫu duy nhất."
+    },
+    {
+      "name": "Angelina Jolie",
+      "text": "Một tâm hồn không ngừng xê dịch, từ phim trường đến những vùng đất khủng hoảng nhân đạo, Jolie sống trọn với bản năng khám phá và không ngại phá vỡ hình ảnh \"ngôi sao an toàn\"."
+    },
+    {
+      "name": "Cara Delevingne",
+      "text": "Rời bỏ hào quang người mẫu ổn định để liên tục thử sức ở những lĩnh vực mới, Cara là biểu tượng của việc dám sống thật, dám khác biệt, bất chấp ánh nhìn của đám đông."
+    },
+    {
+      "name": "Zendaya",
+      "text": "Từ Disney đến điện ảnh nghệ thuật, Zendaya liên tục chọn những vai diễn và con đường sự nghiệp mạo hiểm, không chịu bị đóng khung vào một hình ảnh an toàn nào."
+    }
+  ],
+  "powers": [
+    {
+      "title": "Bà có Bản Năng Tự Do Không Bao Giờ Tắt",
+      "english": "Untamed Freedom",
+      "lead": null,
+      "points": [
+        {
+          "title": "Dị ứng với sự lặp lại",
+          "text": "Khác với những người tìm thấy bình yên trong thói quen, The Explorer chỉ cần cảm giác \"hôm nay giống hệt hôm qua\" là trong lòng đã bắt đầu bồn chồn, ngứa ngáy muốn phá vỡ khuôn khổ."
+        },
+        {
+          "title": "La bàn nội tâm chuẩn không cần chỉnh",
+          "text": "Các bà có một hệ thần kinh cực nhạy với sự giả tạo và gò bó. Khả năng lắng nghe tiếng gọi từ bên trong để sống đúng với mình là vô đối, khiến người xung quanh luôn thấy \"trời ơi, sao bà dám sống như vậy!\"."
+        }
+      ]
+    },
+    {
+      "title": "Chất Xúc Tác Của Sự Đổi Mới",
+      "english": "The Change Catalyst",
+      "lead": null,
+      "points": [
+        {
+          "title": "Không sợ khác biệt (Fearlessly authentic)",
+          "text": "Điểm nổi bật nhất của Explorer là sự chân thật. Ai đang mắc kẹt trong khuôn mẫu, chạy đến bên các bà đều được truyền cảm hứng để dám sống thật thay vì bị phán xét."
+        },
+        {
+          "title": "Vibe truyền lửa",
+          "text": "Ở cạnh một Explorer, người ta tự động muốn xách ba lô lên và đi, muốn thử điều gì đó mới. Các bà tỏa ra năng lượng của một \"cánh cửa mở\" — đi đâu chán nản cũng chỉ muốn nghe bà kể chuyện để lấy lại động lực."
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "id": "portrait",
+      "title": "Chân dung của bạn – Bạn thực sự là ai",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Để tui chẻ nhỏ hai phần \"ăn tiền\" nhưng cũng dễ làm mấy bà \"suy\" nhất: Năng lực cốt lõi (Flex nhẹ skill ẩn) và Góc tối tâm lý (Red flag tự thân)."
+        },
+        {
+          "type": "p",
+          "text": "Bà nào thấy quen quen thì chuẩn bị sẵn giấy bút note lại để tự chấn chỉnh mình nghen!"
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "1. Năng Lực Cốt Lõi (Những thứ làm nên thương hiệu \"linh hồn tự do\")"
+        },
+        {
+          "type": "p",
+          "text": "Đây là những siêu năng lực bẩm sinh khiến The Explorer luôn là \"idol\" ngầm của rất nhiều người, vì ai cũng khao khát có được sự tự do như bà:"
+        },
+        {
+          "type": "item",
+          "title": "Bản năng tự do (Freedom Instinct)",
+          "text": "Các bà không chịu được cảm giác bị nhốt trong một cái hộp — dù là hộp công việc, hộp mối quan hệ hay hộp kỳ vọng của người khác. Chỉ cần ngửi thấy mùi \"gò bó\" là bản năng phản kháng trỗi dậy ngay lập tức."
+        },
+        {
+          "type": "item",
+          "title": "Sự nhạy bén với cái mới (Novelty-Seeking)",
+          "text": "Không cần ai đẩy, các bà tự động bị hút về phía những trải nghiệm chưa từng thử, những vùng đất chưa từng đặt chân, những ý tưởng chưa ai dám làm."
+        },
+        {
+          "type": "item",
+          "title": "Dũng khí phá vỡ khuôn mẫu (Courage to Break Rules)",
+          "text": "Trong khi người khác co cụm vì sợ khác biệt, các bà lại coi việc \"đi ngược đám đông\" là chuyện thường ngày ở huyện. Dám nghỉ việc ổn định để làm điều mình thích, dám yêu theo cách không giống ai."
+        },
+        {
+          "type": "item",
+          "title": "Sự chân thật tuyệt đối (Radical Authenticity)",
+          "text": "Các bà không có khái niệm \"sống giả tạo để làm vừa lòng thiên hạ\". Thà mất lòng còn hơn mất chính mình — đó là kim chỉ nam bất di bất dịch."
+        },
+        {
+          "type": "sub",
+          "icon": "🛑",
+          "title": "2. Góc Tối (Red flag tự thân – Đọc để tỉnh táo nha mấy bà!)"
+        },
+        {
+          "type": "p",
+          "text": "Yêu tự do thì giỏi, nhưng tâm lý của Nhà Thám Hiểm lại rất dễ bị hổng lỗ chỗ vì những \"cái bẫy\" tự mình giăng ra:"
+        },
+        {
+          "type": "item",
+          "title": "Hội chứng \"Chân không bén rễ\" (Commitment-phobia)",
+          "text": "Đây là bẫy dễ sập nhất! Cứ hễ mối quan hệ, công việc hay nơi ở nào bắt đầu trở nên quen thuộc, ổn định là tự động thấy ngộp thở và muốn nhổ neo bỏ đi, dù mọi thứ vẫn đang tốt đẹp."
+        },
+        {
+          "type": "item",
+          "title": "Trốn chạy thay vì đối diện (Escapism)",
+          "text": "Vì lòng khao khát chuyển động vô đáy, các bà cực kỳ hay dùng những chuyến đi, những dự án mới để né tránh những cảm xúc khó chịu cần phải xử lý, thay vì ngồi lại giải quyết tận gốc."
+        },
+        {
+          "type": "item",
+          "title": "FOMO mãn tính (Chronic Restlessness)",
+          "text": "Góc tối \"độc hại\" nhất của Explorer là không bao giờ thấy đủ. Vừa đạt được một thứ đã vội nhìn sang thứ khác, khiến bản thân và cả người xung quanh mệt mỏi vì cảm giác \"chưa bao giờ là điểm dừng\"."
+        },
+        {
+          "type": "item",
+          "title": "Cô đơn tự chọn (Self-imposed Isolation)",
+          "text": "Cứ liên tục di chuyển, thay đổi mà quên mất việc xây dựng những mối quan hệ đủ sâu, đến lúc cần một bờ vai thì nhìn quanh chẳng có ai đủ hiểu mình vì chưa từng ở đủ lâu để ai hiểu hết."
+        },
+        {
+          "type": "item",
+          "title": "Các bà hệ Explorer nhớ kỹ nha",
+          "text": "Tự do không có định hướng chính là con đường ngắn nhất dẫn đến lạc lối. Hãy sống phóng khoáng bằng một trái tim rộng mở, nhưng phải neo mình lại bằng một cái đầu tỉnh táo!"
+        }
+      ]
+    },
+    {
+      "id": "core",
+      "title": "Lõi Tính Cách (Bản chất thật sự bên trong)",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Nếu lõi của The Caregiver là Sự Trao Đi Vô Điều Kiện, thì lõi của The Explorer chính là Khát Vọng Tự Trị (Radical Autonomy). Động lực sâu thẳm nhất của các bà được xây dựng trên 3 trụ cột này:"
+        },
+        {
+          "type": "item",
+          "title": "Khát vọng Tự Trị (The Need for Autonomy)",
+          "text": "Các bà nhìn thế giới qua lăng kính của một người không thuộc về ai và không thuộc về đâu cả — ngoại trừ chính mình. Quyền tự quyết định cuộc đời mình quan trọng hơn bất cứ sự an toàn nào."
+        },
+        {
+          "type": "item",
+          "title": "Nỗi sợ Bị Giam Cầm (Fear of Entrapment)",
+          "text": "Nghe hơi \"suy\" nhưng đây là sự thật. Nỗi sợ lớn nhất của Explorer không phải là thất bại, mà là cảm giác bị mắc kẹt trong một cuộc đời không phải của mình, sống theo kịch bản của người khác."
+        },
+        {
+          "type": "item",
+          "title": "Niềm tin vào Hành Trình hơn Đích Đến (Journey over Destination)",
+          "text": "Với các bà, đích đến chỉ là cái cớ để lên đường. Ý nghĩa thật sự nằm ở quá trình được sống, được thử, được va vấp — chứ không nằm ở cái mốc cuối cùng."
+        },
+        {
+          "type": "sub",
+          "icon": "🛑",
+          "title": "Những Điểm Cần Lưu Ý (Đọc để chấn chỉnh lại nết, bớt khổ nha!)"
+        },
+        {
+          "type": "p",
+          "text": "Mang năng lượng Explorer là một điều tuyệt vời, nhưng nếu không biết cách kiểm soát, các bà sẽ tự biến cuộc đời mình thành một chuỗi ngày trốn chạy không hồi kết. Nhớ kỹ những cẩm nang sinh tồn này:"
+        },
+        {
+          "type": "item",
+          "title": "Học cách \"đậu\" tạm ở đâu đó (Practice Staying)",
+          "text": "Không phải cứ ở lại là tù túng. Thử cho một nơi, một người, một công việc đủ thời gian để chứng minh nó xứng đáng, trước khi vội vàng kết luận \"đây không phải chỗ của mình\"."
+        },
+        {
+          "type": "item",
+          "title": "Phân biệt tự do thật và trốn chạy",
+          "text": "Tự hỏi mình mỗi lần muốn bỏ đi: \"Mình đang đi VÌ điều gì đó, hay đang chạy TRỐN khỏi điều gì đó?\". Hai cảm giác này rất giống nhau nhưng bản chất hoàn toàn khác."
+        },
+        {
+          "type": "item",
+          "title": "Xây rễ cùng lúc với đôi cánh (Roots and Wings)",
+          "text": "Tự do không có nghĩa là không có gì để mất. Hãy để mình có vài thứ neo lại — một vài người, một nơi chốn — để mỗi lần bay đi vẫn có chỗ để quay về."
+        },
+        {
+          "type": "item",
+          "title": "Chấp nhận: lặp lại không đồng nghĩa với tù túng",
+          "text": "Một mối quan hệ hay công việc quen thuộc không nhất thiết là cái bẫy. Đôi khi sự ổn định chính là nơi để chiều sâu được lớn lên, thứ mà chuyển động liên tục không bao giờ mang lại được."
+        },
+        {
+          "type": "p",
+          "text": "Trưởng thành thực sự của một Explorer không phải là ngừng khám phá thế giới, mà là biết phân biệt giữa việc đi tìm điều gì đó và việc chạy trốn khỏi chính mình."
+        }
+      ]
+    },
+    {
+      "id": "love",
+      "title": "Bạn muốn một tình yêu như nào",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "nếu đã mang trong mình hệ điều hành The Explorer (Nhà Thám Hiểm), thì gu tình yêu và những mong cầu sâu thẳm của các bà thường đi theo một hệ tư tưởng rất đặc thù. Chuyên mục \"Bạn muốn một tình yêu như nào\" lên sóng, lấy sổ tay ra note lại để tỉnh táo lúc yêu nha!"
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "1. Cái các bà TƯỞNG mình muốn (Và rất dễ sập bẫy)"
+        },
+        {
+          "type": "item",
+          "title": "Hệ \"Yêu không ràng buộc\"",
+          "text": "Trái tim của The Explorer rất dễ bị hấp dẫn bởi kiểu tình yêu \"không cần định nghĩa\", không nhãn mác, ai cũng tự do làm gì mình thích. Các bà nghĩ đó mới là tình yêu \"trưởng thành\", không sến súa, không ràng buộc."
+        },
+        {
+          "type": "item",
+          "title": "Ngược lại, thỏi nam châm hút người \"chân trời\"",
+          "text": "Đôi khi các bà lại bị cuốn bởi những người cũng phiêu bạt y hệt mình — hai kẻ lang thang gặp nhau, hào hứng lúc đầu nhưng rồi chẳng ai chịu dừng lại vì ai."
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "2. Cái các bà THỰC SỰ khao khát (Tình yêu lý tưởng giúp bà không bị \"lạc lối\")"
+        },
+        {
+          "type": "p",
+          "text": "Sự thật là, nếu cứ theo đuổi những thứ ở mục 1, các bà sẽ rất nhanh thấy trống rỗng. Sâu thẳm bên trong, đây mới là thứ một Explorer thực sự cần để thấy an toàn:"
+        },
+        {
+          "type": "item",
+          "title": "Một tình yêu \"Bến Đỗ Di Động\" chứ không phải \"Cái Lồng\"",
+          "text": "Các bà cần một người hiểu rằng yêu bà không có nghĩa là nhốt bà lại. Một người sẵn sàng cho bà không gian để bay, nhưng vẫn luôn ở đó khi bà quay về."
+        },
+        {
+          "type": "item",
+          "title": "Sự Tin Tưởng (Trust) tuyệt đối, không kiểm soát",
+          "text": "Explorer rất dị ứng với sự ghen tuông, hỏi han vặn vẹo. Các bà khao khát một người tin bà đủ để không cần giữ chặt, vì càng siết càng khiến bà muốn chạy."
+        },
+        {
+          "type": "item",
+          "title": "Một người bạn đồng hành cho những cuộc phiêu lưu (A Fellow Wanderer, Not a Rescuer)",
+          "text": "Không cần ai \"cứu\" bà khỏi bản tính tự do, chỉ cần một người sẵn sàng cùng bà khám phá, hoặc ít nhất là vẫy tay tiễn bà đi mà không giữ lại bằng cảm giác tội lỗi."
+        },
+        {
+          "type": "item",
+          "title": "Chiều sâu bên trong sự tự do (Depth within Freedom)",
+          "text": "Các bà luôn khao khát một tình yêu vừa cho tự do, vừa có chiều sâu thật sự — chứ không phải mối quan hệ hời hợt chỉ để lấp đầy khoảng trống."
+        },
+        {
+          "type": "tip",
+          "text": "Lời khuyên chốt hạ: Đừng đi tìm người để \"cùng chạy trốn\" nữa mấy bà ơi! Tình yêu lý tưởng nhất của The Explorer là tìm được một người đủ vững chãi để bà dám dừng lại, nhưng cũng đủ hiểu để không bao giờ bắt bà phải dừng lại mãi mãi."
+        }
+      ]
+    },
+    {
+      "id": "perception",
+      "title": "Người khác nghĩ gì về bạn",
+      "blocks": [
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "1. Ấn tượng tích cực (Aura chói lóa, điểm 10 uy tín)"
+        },
+        {
+          "type": "item",
+          "title": "\"Đứa bạn sống đúng chất mình nhất hội\"",
+          "text": "Trong nhóm bạn, bà đích thị là người dám nghỉ việc để đi phượt, dám yêu theo cách khác người, dám nói \"không\" với những thứ an toàn nhưng nhàm chán. Mọi người nhìn bà vừa nể vừa ước."
+        },
+        {
+          "type": "item",
+          "title": "\"Kho cảm hứng sống\" biết đi",
+          "text": "Khí chất của bà tỏa ra sự phóng khoáng. Người ngoài nhìn vào luôn thấy bà là một người dũng cảm, tràn đầy năng lượng sống. Mỗi lần chán nản, người ta chỉ muốn nghe bà kể chuyện để lấy lại lửa."
+        },
+        {
+          "type": "item",
+          "title": "\"Bằng chứng sống\" của việc dám khác biệt",
+          "text": "Sếp và đồng nghiệp cởi mở thích làm việc với bà vì biết bà luôn có góc nhìn mới, không đi theo lối mòn. Giao cho bà những dự án cần sự sáng tạo là chuẩn bài."
+        },
+        {
+          "type": "sub",
+          "icon": "🛑",
+          "title": "2. Những điểm dễ bị \"hiểu lầm\" (Nghe hơi chạnh lòng nha)"
+        },
+        {
+          "type": "item",
+          "title": "Dễ bị gán mác \"Vô trách nhiệm, hời hợt\"",
+          "text": "Vì hay đổi ý, hay biến mất đột ngột, đối phương (đặc biệt là người yêu hoặc sếp) sẽ dễ cảm thấy bà không đáng tin cậy, không thể dựa vào lâu dài."
+        },
+        {
+          "type": "item",
+          "title": "Bị xem là \"Ích kỷ, chỉ biết mình\"",
+          "text": "Việc luôn ưu tiên tự do cá nhân đôi khi khiến người xung quanh cảm thấy bị bỏ lại, bị coi nhẹ. Họ nghĩ: \"Nó chỉ quan tâm đến cảm giác của bản thân nó thôi\"."
+        },
+        {
+          "type": "item",
+          "title": "Mang tiếng \"Khó đoán, không ai nắm bắt được\"",
+          "text": "Đôi khi vì thay đổi liên tục, người ta không những không thấy bà thú vị mà còn cảm thấy mệt mỏi vì không biết đâu mới là \"phiên bản thật\" của bà."
+        },
+        {
+          "type": "item",
+          "title": "Thiếu chiều sâu (Bị nghi ngờ là nông cạn)",
+          "text": "Vì lúc nào cũng lướt qua mọi thứ thật nhanh, đôi khi người ta sẽ thấy bà thiếu đi sự cam kết, sự kiên trì cần thiết để đào sâu vào một điều gì đó."
+        },
+        {
+          "type": "tip",
+          "text": "Chốt lại nè: Giao diện của The Explorer trong mắt thiên hạ luôn là một người TỰ DO. Nhưng mấy bà ơi, tự do thôi chưa đủ, phải là \"Tự do có trách nhiệm\". Hãy để sự phóng khoáng của mình là một nguồn cảm hứng, chứ đừng biến nó thành một cái cớ để trốn tránh mọi ràng buộc nha!"
+        }
+      ]
+    },
+    {
+      "id": "reactions",
+      "title": "Cách chúng mình phản ứng",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Nếu The Caregiver thường chọn cách gánh vác khi có biến, thì hệ điều hành The Explorer (Nhà Thám Hiểm) lại \"nhảy số\" theo một hệ tư tưởng hoàn toàn khác."
+        },
+        {
+          "type": "p",
+          "text": "Đọc ngay cách các bà đối mặt với 3 tình huống \"sóng gió\" này để coi tui nói có chuẩn tim đen không nha:"
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "1. Cách Bà Xử Lý Khi Mọi Thứ Rối Tung Lên (Khủng Hoảng ập đến)"
+        },
+        {
+          "type": "item",
+          "title": "Bật mode \"Nhổ neo tức thì\"",
+          "text": "Càng rối, bản năng đầu tiên của các bà là muốn RỜI ĐI. Trong khi người khác cố ở lại xử lý thì Explorer lại có xu hướng muốn thay đổi môi trường, đổi cảnh, đổi hoàn cảnh để \"làm mới đầu óc\"."
+        },
+        {
+          "type": "item",
+          "title": "Tìm lối thoát thay vì đối diện",
+          "text": "Các bà dùng những trải nghiệm mới để trấn an bản thân tạm thời. Nhưng khổ nỗi, vấn đề gốc rễ vẫn còn nguyên đó, chờ bà quay về là bùng lên tiếp."
+        },
+        {
+          "type": "item",
+          "title": "Dễ đưa ra quyết định bốc đồng",
+          "text": "Vì quá sợ cảm giác bị mắc kẹt trong khủng hoảng, đôi khi các bà sẽ hành động vội vàng theo cảm xúc — nghỉ việc, chia tay, chuyển nhà — chỉ để thoát khỏi cảm giác ngột ngạt trước mắt."
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "2. Khi Ở Trong Một Tập Thể (Teamwork, Nhóm bạn)"
+        },
+        {
+          "type": "item",
+          "title": "\"Người mang gió lạ\" đích thực",
+          "text": "Bà chính là người luôn đề xuất những ý tưởng không giống ai, luôn khuấy động không khí bằng những kế hoạch bất ngờ. Một tay bà làm cả nhóm sống động hẳn lên."
+        },
+        {
+          "type": "item",
+          "title": "Ngại bị ràng buộc bởi lịch trình cố định",
+          "text": "Các bà không thích những cam kết dài hạn, những cuộc họp lặp đi lặp lại. Cảm giác \"phải\" làm gì đó theo khuôn khổ khiến bà mất hứng nhanh chóng."
+        },
+        {
+          "type": "item",
+          "title": "Thánh \"rút lui không báo trước\"",
+          "text": "Vì cái tính không thích giải thích dài dòng, các bà đôi khi biến mất khỏi nhóm hoặc dự án mà không thông báo rõ ràng, khiến người khác trở tay không kịp."
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "3. Khi Không Được Hiểu / Bị Gò Bó (Góc bí bách ngầm)"
+        },
+        {
+          "type": "p",
+          "text": "Đây là lúc The Explorer dễ bộc lộ những góc tối tâm lý nhất nè:"
+        },
+        {
+          "type": "item",
+          "title": "Bật mode \"Biến mất\" (Ghosting im lặng)",
+          "text": "Khi cảm thấy bị kiểm soát hay bị ép buộc, các bà sẽ KHÔNG tranh cãi đến cùng đâu. Thay vào đó, bà chọn cách rút lui dần, giảm liên lạc, rồi biến mất hẳn."
+        },
+        {
+          "type": "item",
+          "title": "Gặm nhấm cảm giác ngột ngạt (Suy nghĩ về việc bỏ đi)",
+          "text": "Trong đầu các bà sẽ liên tục nảy số những suy nghĩ: \"Chắc mình không hợp ở đây\", \"Có khi nào mình nên đi tìm chỗ khác\". Cảm giác bí bách này bào mòn sự gắn kết của bà mỗi ngày."
+        },
+        {
+          "type": "item",
+          "title": "Cơ chế tự vệ độc hại (Đốt cầu)",
+          "text": "Thay vì giao tiếp thẳng thắn là \"Tui đang cảm thấy ngột ngạt trong mối quan hệ/công việc này\", các bà lại chọn cách cắt đứt đột ngột, đôi khi đầy cảm xúc, khiến mối quan hệ tan vỡ không cách nào cứu vãn."
+        },
+        {
+          "type": "tip",
+          "text": "Chốt hạ cho The Explorer nè: Tự do là tốt, nhưng lúc mọi thứ rối ren hay khi không được thấu hiểu, hãy nhớ dừng lại một nhịp trước khi quyết định rời đi! Nếu người ta không hiểu nhu cầu tự do của bà, thì việc bà cần làm là NÓI RA nhu cầu đó, chứ không phải là lặng lẽ biến mất đâu nha!"
+        }
+      ]
+    },
+    {
+      "id": "strengths",
+      "title": "Điểm mạnh thật sự",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Điểm mạnh thật sự (True Strengths) làm nên thương hiệu của The Explorer nha! Không phải tự nhiên mà ai cũng ngưỡng mộ một người bạn, người đồng nghiệp hay người yêu mang hệ điều hành này đâu."
+        },
+        {
+          "type": "p",
+          "text": "Sức mạnh của các bà không nằm ở sự ổn định hay khuôn phép, mà nó nằm ở \"quyền lực của sự tự do\" siêu đẳng có khả năng truyền cảm hứng cho cả những người quanh mình nghen:"
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "1. Năng Lực \"Truyền Lửa\" Cấp Độ Max (Master of Inspiration)"
+        },
+        {
+          "type": "item",
+          "title": "Nguồn năng lượng lan tỏa",
+          "text": "Các bà có khả năng khiến người khác dám bước ra khỏi vùng an toàn của họ chỉ bằng cách sống đúng với chính mình. Người ta nhìn vào bà mà tự hỏi: \"Sao mình không dám sống như vậy nhỉ?\"."
+        },
+        {
+          "type": "item",
+          "title": "Tư duy mở, không định kiến",
+          "text": "Vì đã đi qua nhiều nơi, gặp nhiều kiểu người, các bà có một sự bao dung với sự khác biệt cực kỳ hiếm có. Không phán xét ai vì họ khác mình."
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "2. Khả Năng Thích Nghi Bất Diệt"
+        },
+        {
+          "type": "item",
+          "title": "Soft outside, resilient inside",
+          "text": "Nhìn giao diện bên ngoài có vẻ phiêu bạt, hời hợt, nhưng đụng chuyện thì The Explorer là những người thích nghi nhanh nhất. Ném vào môi trường lạ nào cũng sống sót và phát triển được."
+        },
+        {
+          "type": "item",
+          "title": "Dám hành động (Action > Overthinking)",
+          "text": "Mấy bà không bao giờ ngồi mãi để phân tích thiệt hơn. Điểm mạnh thực sự là bà dám thử trước, dám nhảy vào trải nghiệm, rồi mới rút ra bài học sau."
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "3. \"Chất Xúc Tác\" Đổi Mới Ở Mọi Nơi"
+        },
+        {
+          "type": "item",
+          "title": "Người phá vỡ lối mòn",
+          "text": "Trong một tập thể đang bế tắc vì làm theo khuôn mẫu cũ, các bà chính là luồng gió mang đến góc nhìn mới, cách làm mới, giải pháp không ai ngờ tới."
+        },
+        {
+          "type": "item",
+          "title": "Khơi dậy tiềm năng ẩn giấu",
+          "text": "Điểm sáng rực rỡ nhất là khả năng khiến người khác dám thử những điều họ chưa từng dám. Nếu làm leader, bà đích thị là kiểu lãnh đạo truyền cảm hứng bằng chính hành động của mình chứ không ép buộc ai."
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "4. Sự Chân Thật Nguyên Bản (Radical Authenticity)"
+        },
+        {
+          "type": "p",
+          "text": "Giữa một thế giới đầy sự sợ hãi khác biệt, sợ phán xét và \"hở ra là phải giống ai đó\", việc các bà vẫn dám sống đúng với con người thật của mình chính là một loại dũng khí cực kỳ lớn. Sự tự do của các bà không phải là sự nổi loạn thiếu suy nghĩ, mà đó là một sự lựa chọn đầy kiêu hãnh và bản lĩnh!"
+        }
+      ]
+    },
+    {
+      "id": "blindspots",
+      "title": "Những điểm mù cần để ý",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Sự tự do của Nhà Thám Hiểm đôi khi lại chính là con dao hai lưỡi tự cứa vào mình và cả người khác, nếu mấy bà lỡ sa vào những điểm mù này:"
+        },
+        {
+          "type": "item",
+          "title": "Bẫy \"Đốt cầu mọi lúc\" (Burning Bridges)",
+          "text": "Mấy bà cứ tưởng rời đi không lời giải thích là một cách bảo vệ bản thân. Nhưng không! Điểm mù lớn nhất là các bà đang tự tay đóng lại những cánh cửa có thể đã dẫn đến những mối quan hệ, cơ hội đáng giá nếu bà chịu ở lại và giải quyết."
+        },
+        {
+          "type": "item",
+          "title": "Trốn tránh bằng danh nghĩa tự do (Escapism disguised as Freedom)",
+          "text": "Đây là điểm mù đáng sợ nhất mà Explorer thường không tự nhận ra. Dù miệng nói \"tui chỉ đang sống tự do thôi\", nhưng sâu thẳm các bà đang dùng sự chuyển động để né tránh những cảm xúc, những vấn đề mà bà chưa đủ can đảm đối diện."
+        },
+        {
+          "type": "item",
+          "title": "Hội chứng \"Sợ cam kết\" với chính mục tiêu của mình",
+          "text": "Khả năng kiên trì theo đuổi một điều gì đó đến cùng của The Explorer cực kỳ mờ nhạt. Vừa thấy khó, thấy chán là tự động nghĩ đến việc bỏ cuộc, đổi hướng, tìm cái mới."
+        },
+        {
+          "type": "item",
+          "title": "Cái tôi của sự \"Không giống ai\" (Ego of being different)",
+          "text": "Các bà vô thức dính chặt giá trị bản thân vào việc \"mình có khác biệt, có tự do hơn người khác không\". Nếu một ngày phải sống một cuộc đời bình thường, ổn định như bao người, bà lại đâm ra hoảng loạn vì sợ mình \"tầm thường\"."
+        }
+      ]
+    },
+    {
+      "id": "conflict",
+      "title": "Mâu thuẫn lớn nhất",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Mâu thuẫn kinh điển nhất cấu xé tâm can của một Explorer mỗi đêm muộn chính là sự giằng xé giữa: Khao khát được TỰ DO tuyệt đối, không ràng buộc bởi ai VÀ Nỗi khát khao thầm kín được THUỘC VỀ một nơi nào đó, một ai đó."
+        },
+        {
+          "type": "item",
+          "title": "Vừa thèm được ở lại, lại vừa muốn bỏ chạy",
+          "text": "Tận sâu bên trong, The Explorer cực kỳ thèm khát một nơi để gọi là nhà, một người để gọi là \"của mình\". Nhưng ác nỗi, mỗi khi mọi thứ bắt đầu ổn định, cái bản năng \"phải chạy trước khi bị nhốt\" lại tự động bật lên. Các bà không biết cách ở lại (Stay) vì đã quá quen với việc rời đi (Leave)."
+        },
+        {
+          "type": "item",
+          "title": "Nỗi sợ đánh mất bản thân (Fear of Losing Self) đằng sau lớp áo tự do",
+          "text": "Vì sao các bà lại phải cố gắng chạy trốn nhiều đến vậy? Mâu thuẫn ở đây là: Các bà dùng sự chuyển động để bảo vệ cảm giác kiểm soát cuộc đời mình. Sâu thẳm bên trong là một nỗi sợ tột cùng: \"Nếu mình dừng lại, ổn định, liệu mình có còn là chính mình, hay sẽ bị hòa tan vào một cuộc đời không phải của mình?\"."
+        },
+        {
+          "type": "item",
+          "title": "Khao khát kết nối nhưng lại đẩy người khác ra",
+          "text": "Bà có thể mở lòng với người lạ trên chuyến tàu chỉ trong một giờ đồng hồ, nhưng lại khó lòng để ai đó bước sâu vào cuộc đời mình. Bà đóng vai một tâm hồn tự do phóng khoáng, trừ khi phải đối diện với chính nỗi sợ bị bỏ rơi của bản thân."
+        },
+        {
+          "type": "p",
+          "text": "Cuộc chiến lớn nhất của The Explorer là học cách chấp nhận sự thật rớt nước mắt này: Tự do thật sự không nằm ở việc luôn luôn di chuyển, mà nằm ở việc bà CHỌN ở lại vì bà MUỐN, chứ không phải vì bà KHÔNG THỂ rời đi."
+        }
+      ]
+    },
+    {
+      "id": "challenges",
+      "title": "Những thách thức nào bạn có thể sẽ gặp phải trong các mối quan hệ",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Mang hệ điều hành The Explorer (Nhà Thám Hiểm) vào các mối quan hệ (từ tình yêu, bạn bè đến đồng nghiệp) thì đúng kiểu \"trái tim tự do nhưng dễ làm người khác tổn thương\". Sự phóng khoáng vô bờ bến của các bà nếu không có \"la bàn nội tâm rõ ràng\" thì rất dễ va phải những \"kiếp nạn\" cực kỳ đặc thù sau đây:"
+        },
+        {
+          "type": "sub",
+          "icon": "🛑",
+          "title": "1. \"Người Tình Chân Trời\" (One Foot Out the Door)"
+        },
+        {
+          "type": "item",
+          "title": "Bản chất",
+          "text": "Vì các bà luôn có một phần tâm trí hướng về những khả năng khác, mấy đối tượng cũng ưa tự do hoặc những kẻ sợ cam kết sẽ tự động bị hút về phía bà — nhưng cũng chính vì thế mà cả hai chẳng ai chịu dừng lại vì ai."
+        },
+        {
+          "type": "item",
+          "title": "Biểu hiện",
+          "text": "Thay vì xây dựng một mối quan hệ bền vững, các bà lại hay vướng vào những cuộc tình \"nửa vời\", không ai dám gọi tên mối quan hệ, vì ai cũng sợ bị ràng buộc trước."
+        },
+        {
+          "type": "sub",
+          "icon": "🛑",
+          "title": "2. Yêu Đương Hay Đang \"Thử Nghiệm\"? (Tâm Lý Không Ở Lại Lâu)"
+        },
+        {
+          "type": "item",
+          "title": "Bản chất",
+          "text": "Các bà thích cảm giác mới mẻ của giai đoạn đầu yêu đương, nhưng khi mối quan hệ bước vào giai đoạn quen thuộc, ổn định, sự hứng thú lại giảm dần."
+        },
+        {
+          "type": "item",
+          "title": "Biểu hiện",
+          "text": "Ban đầu thì nồng nhiệt đó, nhưng dần dà đối phương sẽ cảm thấy bà đang \"lơ lửng\", không thật sự đầu tư, và bà sẽ bắt đầu để ý đến những lựa chọn khác dù mối quan hệ hiện tại chưa có vấn đề gì lớn."
+        },
+        {
+          "type": "sub",
+          "icon": "🛑",
+          "title": "3. Quả Bom Nổ Chậm \"Biến Mất Không Báo Trước\" (Ghosting)"
+        },
+        {
+          "type": "item",
+          "title": "Bản chất",
+          "text": "Các bà lúc nào cũng ngại xung đột trực diện, nên khi cảm thấy ngột ngạt, khó chịu, phản xạ đầu tiên là rút lui thay vì đối thoại."
+        },
+        {
+          "type": "item",
+          "title": "Biểu hiện",
+          "text": "Khi mối quan hệ có mâu thuẫn, thay vì ngồi lại nói chuyện, bà chọn cách giảm dần liên lạc, viện lý do bận rộn, rồi từ từ biến mất khỏi cuộc đời người ta mà không một lời giải thích rõ ràng."
+        },
+        {
+          "type": "sub",
+          "icon": "🛑",
+          "title": "4. Đánh Mất Chiều Sâu Trong Các Mối Quan Hệ (Surface-Level Connections)"
+        },
+        {
+          "type": "item",
+          "title": "Bản chất",
+          "text": "Tính cách luôn di chuyển và ưu tiên trải nghiệm mới khiến The Explorer rất dễ có nhiều mối quan hệ rộng nhưng không sâu."
+        },
+        {
+          "type": "item",
+          "title": "Biểu hiện",
+          "text": "Bà có hàng trăm người quen ở khắp nơi trên thế giới, nhưng lại khó tìm được vài người thật sự hiểu mình. Một ngày đẹp trời nhìn lại, bà chợt nhận ra mình không có ai để gọi lúc nửa đêm cần tâm sự."
+        },
+        {
+          "type": "sub",
+          "icon": "🛑",
+          "title": "5. Nỗi Sợ \"Bị Nhốt\" Khóa Chặt Cảm Xúc"
+        },
+        {
+          "type": "item",
+          "title": "Bản chất",
+          "text": "Bà sợ sự ràng buộc, sợ cam kết, và nỗi sợ lớn nhất là đánh mất bản thân nếu phải sống cuộc đời của người khác mong muốn."
+        },
+        {
+          "type": "item",
+          "title": "Biểu hiện",
+          "text": "Dù thật lòng thích một người, bà vẫn giữ khoảng cách, không dám tiến sâu hơn vì sợ rằng một khi đã cam kết, bà sẽ không còn là chính mình nữa."
+        },
+        {
+          "type": "tip",
+          "text": "Tip sinh tồn cho các bà hệ Explorer: Hãy nhớ, tình yêu và tình bạn khỏe mạnh không đòi hỏi bà phải từ bỏ tự do, chỉ đòi hỏi bà học cách CHỌN ở lại mỗi ngày. Bà hoàn toàn xứng đáng có một mối quan hệ vừa cho bà đôi cánh, vừa cho bà một nơi để hạ cánh!"
+        }
+      ]
+    },
+    {
+      "id": "growth",
+      "title": "Hướng phát triển",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Để lột xác và nâng cấp năng lượng The Explorer (Nhà Thám Hiểm) lên một tầm cao mới, hành trình của mấy bà không phải là trở nên gò bó hay ngừng khao khát tự do. Sự trưởng thành của một Explorer là biến sự trốn chạy vô thức thành sự tự do có chủ đích, và học cách chọn ở lại vì mình muốn, chứ không phải vì bị ép buộc."
+        },
+        {
+          "type": "p",
+          "text": "Dưới đây là hướng phát triển để các bà vừa giữ được \"hào quang\" phóng khoáng, vừa không bị cuộc đời cuốn trôi:"
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "1. Chuyển từ \"Chạy Trốn\" sang \"Chọn Lựa Có Ý Thức\" (Conscious Choice)"
+        },
+        {
+          "type": "item",
+          "title": "Nâng cấp bộ lọc động cơ",
+          "text": "Trước mỗi lần muốn rời đi, hãy dừng lại và tự hỏi: \"Mình đang chạy TỚI điều gì đó tốt hơn, hay đang chạy TRỐN điều gì đó khó khăn?\". Sự khác biệt này quyết định bà có đang trưởng thành hay đang lặp lại vòng lặp cũ."
+        },
+        {
+          "type": "item",
+          "title": "Học cách ở lại đủ lâu để biết",
+          "text": "Tập cho một điều gì đó (công việc, mối quan hệ, nơi ở) đủ thời gian để chứng minh giá trị thật của nó, trước khi vội vàng phán xét \"đây không phải chỗ của mình\"."
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "2. Ngừng \"Đốt Cầu\", hãy học \"Rời Đi Có Trách Nhiệm\" (Graceful Exits)"
+        },
+        {
+          "type": "item",
+          "title": "Giao tiếp trước khi biến mất",
+          "text": "Khi cảm thấy cần rời đi, thay vì lặng lẽ ghosting, hãy nói rõ với người kia: \"Mình cần một khoảng lặng/mình cần thay đổi, không phải vì lỗi của bạn\". Sự minh bạch giúp bà giữ được cầu nối cho tương lai."
+        },
+        {
+          "type": "item",
+          "title": "Chấp nhận đối diện thay vì né tránh",
+          "text": "Đừng để mỗi lần khó khăn là một cái cớ để bỏ chạy. Thử ngồi lại xử lý vấn đề trước khi quyết định có nên rời đi hay không."
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "3. Tự Xây \"Rễ Di Động\" Cho Chính Mình (Rooted Mobility)"
+        },
+        {
+          "type": "item",
+          "title": "Luật \"Vài điểm neo cố định\"",
+          "text": "Khắc cốt ghi tâm nguyên tắc này: Bà vẫn có thể tự do bay nhảy, nhưng hãy giữ lại vài người, vài nơi chốn cố định để luôn có chỗ quay về. Tự do không có nghĩa là không có gì để giữ."
+        },
+        {
+          "type": "item",
+          "title": "Dám đối mặt với cảm xúc thật",
+          "text": "Ngừng dùng chuyển động để né tránh nỗi buồn, sự cô đơn hay tổn thương. Khi cảm xúc khó chịu ập đến, hãy cho phép mình ngồi yên với nó, thay vì lập tức tìm cách trốn chạy."
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "4. Tích hợp thêm năng lượng bổ trợ (Nâng cấp giao diện)"
+        },
+        {
+          "type": "item",
+          "title": "Mượn năng lượng Người Chăm Sóc (The Caregiver)",
+          "text": "Học cách xây dựng những mối quan hệ đủ sâu, đủ bền để có một bến đỗ thật sự, thay vì chỉ có những kết nối thoáng qua."
+        },
+        {
+          "type": "item",
+          "title": "Mượn năng lượng Nhà Hiền Triết (The Sage)",
+          "text": "Học cách chiêm nghiệm, nhìn lại hành trình của mình thay vì chỉ mải mê lao về phía trước. Biến những trải nghiệm đã qua thành trí tuệ, chứ không chỉ là những chuyến đi để quên."
+        },
+        {
+          "type": "tip",
+          "text": "The Empowered Explorer (Nhà Thám Hiểm Đỉnh Cao) không phải là người luôn luôn di chuyển để né tránh cuộc đời, mà là một người phụ nữ sở hữu tinh thần tự do nhất nhưng cũng có những điểm neo vững chãi nhất. Khi bà biết chọn ở lại vì mình muốn, thứ năng lượng tỏa ra không còn là sự trốn chạy, mà là một sức hút quyền lực khiến ai cũng phải nể trọng!"
+        }
+      ]
+    },
+    {
+      "id": "relationships",
+      "title": "Làm sao để cải thiện các mối quan hệ xã hội",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Okela mấy bà, tới phần cốt lõi để \"cứu giá\" các mối quan hệ cho hệ Explorer đây!"
+        },
+        {
+          "type": "p",
+          "text": "Lấy sổ ra note lại ngay chiến lược để vừa giữ được sự tự do, vừa không bị cuộc đời \"bào mòn\" nha:"
+        },
+        {
+          "type": "sub",
+          "icon": "🌟",
+          "title": "PHẦN 1: Cứu Vãn Các Mối Quan Hệ Xã Hội (Bạn bè, Đồng nghiệp)"
+        },
+        {
+          "type": "p",
+          "text": "Để không bị biến thành \"đứa bạn không thể dựa vào\" hay \"đồng nghiệp khó đoán\" của thiên hạ, các bà Explorer phải setup lại hệ điều hành giao tiếp liền:"
+        },
+        {
+          "type": "item",
+          "title": "Dẹp ngay cái nết \"Biến mất không báo trước\" (Stop Silent Disappearing)",
+          "text": "Bà có quyền cần không gian, nhưng hãy thông báo trước: \"Tui cần một khoảng lặng để nạp năng lượng, tui sẽ quay lại sau nha\" thay vì im bặt khiến người khác lo lắng."
+        },
+        {
+          "type": "item",
+          "title": "Luật \"Duy trì kết nối dù ở xa\" (Long-distance Loyalty)",
+          "text": "Thanh lọc lại vòng tròn bạn bè đi mấy bà. Với những mối quan hệ thật sự đáng giữ, hãy chủ động giữ liên lạc dù bà có đang ở nơi nào trên thế giới. Sự tự do không có nghĩa là sự lãng quên."
+        },
+        {
+          "type": "item",
+          "title": "Có gì nói nấy, ngưng đốt cầu trong im lặng (Direct Communication)",
+          "text": "Bà cảm thấy ngột ngạt chuyện gì, đồng nghiệp gò bó bà ra sao, làm ơn MỞ MIỆNG RA NÓI. Dùng cấu trúc: \"Khi việc này xảy ra, mình cảm thấy... Mình cần...\". Ngừng ngay việc biến mất đột ngột khiến mối quan hệ đứt gãy không lý do."
+        },
+        {
+          "type": "sub",
+          "icon": "💕",
+          "title": "PHẦN 2: \"Trị Bệnh\" Trong Tình Yêu (Yêu sao cho đừng lạc lối?)"
+        },
+        {
+          "type": "p",
+          "text": "Tình yêu của Explorer rất cuốn hút, nhưng toàn tự mình làm khó mình. Muốn có một mối tình bền vững, tự do và slay, thì phải chấn chỉnh ngay:"
+        },
+        {
+          "type": "item",
+          "title": "Giao tiếp về nhu cầu không gian ngay từ đầu",
+          "text": "Đừng để đến lúc ngột ngạt mới bùng nổ! Hãy nói rõ với người yêu ngay từ đầu: \"Đôi khi mình cần thời gian riêng, điều đó không có nghĩa là mình không yêu bạn\"."
+        },
+        {
+          "type": "item",
+          "title": "Cam kết có điều kiện tự do (Freedom-Based Commitment)",
+          "text": "Bà không cần phải từ bỏ tự do để yêu ai đó. Hãy tìm một mối quan hệ mà cả hai cùng thống nhất về không gian riêng, thay vì cố ép mình vào khuôn mẫu \"yêu là phải dính chặt lấy nhau\"."
+        },
+        {
+          "type": "item",
+          "title": "Đi tìm \"Bạn đồng hành\" chứ không tìm \"Người canh giữ\"",
+          "text": "Bỏ ngay việc đi tìm những người muốn kiểm soát, giữ chặt bà lại. Hãy chọn yêu một người đủ tự tin để tin tưởng bà, một người có thể cùng bà phiêu lưu hoặc vui vẻ vẫy tay khi bà cần đi một mình."
+        },
+        {
+          "type": "item",
+          "title": "Dừng lại đủ lâu để người ta chạm được vào chiều sâu của bà",
+          "text": "Bà chạy giỏi rồi, nhưng thỉnh thoảng hãy tỏ ra dễ tổn thương một chút. Chia sẻ nỗi sợ thật, cho người yêu cơ hội được hiểu bà sâu hơn lớp vỏ phóng khoáng bên ngoài. Có thế tình yêu mới đủ sâu để giữ chân bà một cách tự nguyện."
+        },
+        {
+          "type": "tip",
+          "text": "Chốt hạ: Bí quyết lớn nhất để Explorer hạnh phúc là học cách Ở LẠI (Stay). Hãy tin rằng bà xứng đáng có một tình yêu bền vững mà vẫn giữ trọn vẹn con người tự do của bà, chứ không phải đánh đổi cái này lấy cái kia!"
+        }
+      ]
+    },
+    {
+      "id": "career",
+      "title": "Bạn cần làm gì để thăng tiến trong công việc",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Alo mấy bà, đến cái chuyên mục quan trọng nhất để \"lột xác\" chốn công sở đây! The Explorer (Nhà Thám Hiểm) bình thường đi làm rất hay bị rơi vào cái bẫy \"nhảy việc liên tục\" hoặc \"ý tưởng nhiều nhưng không ai theo đến cùng\". Muốn thăng tiến, lên sếp hay tự làm chủ mà vẫn giữ được vibe \"tự do\" thì phải rèn ngay mấy skill cốt lõi này nha:"
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "1. Từ \"Kẻ Nhảy Việc\" Thành \"Nhà Tiên Phong Có Chiến Lược\""
+        },
+        {
+          "type": "item",
+          "title": "Ngưng đổi hướng liên tục",
+          "text": "Sự sáng tạo không nằm ở việc bà nhảy từ dự án này sang dự án khác mỗi khi thấy chán. Muốn bứt phá, hãy chọn MỘT hướng đi đủ tiềm năng và cam kết theo đến cùng."
+        },
+        {
+          "type": "item",
+          "title": "Hệ thống hóa sự đổi mới",
+          "text": "Thay vì chỉ có những ý tưởng bùng nổ rồi tắt lịm, hãy biến sự sáng tạo đó thành quy trình đổi mới có bài bản. Đóng gói cái \"insight\" nhạy bén của bà thành những chiến lược đột phá có thể lặp lại được. Sự phóng khoáng của Explorer khi được dùng làm chiến lược sẽ cực kỳ \"out trình\"!"
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "2. Biến Sự Táo Bạo Thành \"Kết Quả\" (Outcome-Driven Boldness)"
+        },
+        {
+          "type": "p",
+          "text": "Trực giác nhạy bén và tinh thần dám thử là thiên phú, nhưng để ngồi vào ghế sếp hay vận hành trơn tru một mô hình kinh doanh, bà bắt buộc phải chứng minh được kết quả cụ thể."
+        },
+        {
+          "type": "p",
+          "text": "Hãy tập thói quen theo dõi và đo lường hiệu quả của những ý tưởng táo bạo mình đưa ra. Khi trình bày ý tưởng mới, đừng chỉ nói \"Em thấy cái này thú vị lắm\". Hãy đổi thành: \"Ý tưởng này đã thử nghiệm và cho ra kết quả tăng trưởng X%, đây là lý do tại sao chúng ta nên đầu tư tiếp\". Sự táo bạo đi kèm với dữ liệu chính là \"vũ khí hủy diệt\" chốn công sở."
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "3. Xây Dựng Mạng Lưới Không Đốt Cầu (Sustainable Networking)"
+        },
+        {
+          "type": "p",
+          "text": "Căn bệnh trầm kha của The Explorer là quen biết rất nhiều người nhưng không duy trì mối quan hệ nào đủ lâu để nó sinh lời."
+        },
+        {
+          "type": "p",
+          "text": "Đừng để mỗi công việc, mỗi dự án chỉ là một trạm dừng chân rồi biến mất! Hãy chủ động giữ liên lạc với những người từng làm cùng, biết ơn và ghi nhận sự đóng góp của họ. Mạng lưới quan hệ bền vững chính là tài sản lớn nhất mà một Explorer thường bỏ quên."
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "4. Thiết Lập \"Cam Kết Có Thời Hạn\" Thay Vì Bỏ Cuộc Giữa Chừng"
+        },
+        {
+          "type": "p",
+          "text": "Năng lượng của bà là để sáng tạo và tiên phong, không phải để bắt đầu rồi bỏ dở hàng loạt dự án."
+        },
+        {
+          "type": "p",
+          "text": "Học cách đặt ra những cam kết có thời hạn rõ ràng cho bản thân — ví dụ \"mình sẽ theo đuổi dự án này ít nhất 6 tháng trước khi đánh giá lại\". Phải phân bổ rạch ròi: giai đoạn nào để khám phá ý tưởng mới, giai đoạn nào để thực sự đào sâu và hoàn thiện."
+        },
+        {
+          "type": "p",
+          "text": "Tóm lại, thăng tiến không có nghĩa là bà phải trở nên khuôn khổ, cứng nhắc hay từ bỏ bản chất tự do của mình. Phiên bản nâng cấp đỉnh cao nhất của Explorer chính là người dùng tinh thần táo bạo để mở đường, nhưng lại dùng sự kiên trì để đi đến đích."
+        }
+      ]
+    },
+    {
+      "id": "journey",
+      "title": "Vận trình cuộc đời",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Hành trình của Explorer là một chuỗi ngày vật vã chuyển hóa từ việc \"chạy trốn chính mình\" sang cảnh giới \"tự do có chủ đích\"."
+        },
+        {
+          "type": "p",
+          "text": "Lưu ngay 3 giai đoạn \"tiến hóa\" này để xem mấy bà đang kẹt ở level nào nè:"
+        },
+        {
+          "type": "sub",
+          "icon": "🌱",
+          "title": "Dưới 25 Tuổi: Explorer Tập Sự (The Restless Wanderer)"
+        },
+        {
+          "type": "item",
+          "title": "Vibe lúc này",
+          "text": "Xách vali lên và đi bất cứ lúc nào có cơ hội. Nhiệt tình cộng bốc đồng. Ai rủ đi đâu cũng gật, ai giới thiệu điều gì mới cũng muốn thử. Năng lượng tràn trề nhưng xài vô định hướng."
+        },
+        {
+          "type": "item",
+          "title": "Thực trạng",
+          "text": "Đây là giai đoạn mấy bà rất dễ nhảy việc, nhảy ngành liên tục vì thấy cái gì cũng hay ho lúc mới bắt đầu nhưng nhanh chán khi phải đào sâu. Nếu có chập chững làm kinh doanh, các bà sẽ thử rất nhiều mô hình khác nhau mà không mô hình nào đủ lâu để thành công. Trong tình yêu thì dễ vướng vào những mối quan hệ ngắn hạn, sợ ràng buộc, hoặc yêu những người cũng \"bay nhảy\" y hệt mình."
+        },
+        {
+          "type": "item",
+          "title": "Bài học cốt lõi",
+          "text": "Dính vô vàn cuộc chia ly không lý do rõ ràng và những cơ hội bị bỏ lỡ vì rời đi quá sớm, để nhận ra rằng: Tự do mà không có định hướng thì chỉ là một vòng lặp trốn chạy không hồi kết."
+        },
+        {
+          "type": "sub",
+          "icon": "🌸",
+          "title": "Từ 25 Đến 40 Tuổi: Explorer Thức Tỉnh (The Purposeful Voyager)"
+        },
+        {
+          "type": "item",
+          "title": "Vibe lúc này",
+          "text": "Đã nếm đủ \"trái đắng\" của việc chạy trốn vô thức. Giao diện vẫn phóng khoáng, tự do nhưng bên trong đã bắt đầu rèn được khả năng phân biệt giữa \"đi vì điều gì đó\" và \"trốn khỏi điều gì đó\"."
+        },
+        {
+          "type": "item",
+          "title": "Thực trạng",
+          "text": "Ở độ tuổi này, các bà bắt đầu ngộ ra chân lý cốt lõi: Đừng cố chạy trốn nữa, hãy học cách chọn lựa có chủ đích! Thay vì lao đầu vào mọi cơ hội mới xuất hiện, mấy bà chuyển sang chọn lọc kỹ càng những hành trình xứng đáng để đầu tư thời gian. Các bà biết cách xây dựng vài điểm neo cố định — một sự nghiệp đang phát triển, một vài mối quan hệ sâu sắc — trong khi vẫn giữ được tinh thần tự do vốn có."
+        },
+        {
+          "type": "item",
+          "title": "Bài học cốt lõi",
+          "text": "Chấp nhận buông bỏ nỗi sợ bị \"nhốt\". Dám ở lại đủ lâu với những điều xứng đáng và học cách xây dựng chiều sâu song song với sự tự do."
+        },
+        {
+          "type": "sub",
+          "icon": "👑",
+          "title": "Sau 40 Tuổi: Nhà Hiền Triết Du Mục (The Wise Nomad)"
+        },
+        {
+          "type": "item",
+          "title": "Vibe lúc này",
+          "text": "An tọa vững chãi trong chính sự tự do của mình, khí chất ngút ngàn. Không còn hoảng loạn lo sợ bị \"nhốt\" hay bồn chồn vì sự lặp lại nữa. Sự tự do lúc này tỏa ra tự nhiên như hơi thở, không cần phải chứng minh bằng những chuyến đi liên tục."
+        },
+        {
+          "type": "item",
+          "title": "Thực trạng",
+          "text": "Các bà lùi lại một bước khỏi việc phải liên tục chuyển động để chứng minh bản thân. Thay vì đi tìm những chân trời mới để lấp đầy khoảng trống, các bà vươn tầm thành những mentor xịn xò, truyền cảm hứng sống tự do và chân thật cho thế hệ sau. Lúc này, các bà hoàn toàn có thể xây dựng và vận hành những nền tảng, cộng đồng chuyên sâu về lối sống tự do có chủ đích để dẫn dắt, truyền cảm hứng cho cả một cộng đồng lớn."
+        },
+        {
+          "type": "item",
+          "title": "Bài học cốt lõi",
+          "text": "Đạt đến cảnh giới cao nhất của sự tự do: Sống trọn vẹn từng khoảnh khắc dù đang di chuyển hay đang đứng yên, và hiểu rằng tự do thật sự nằm ở bên trong, không phụ thuộc vào việc có đang ở đâu."
+        }
+      ]
+    },
+    {
+      "id": "advice",
+      "title": "Lời khuyên",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Tóm lại nha mấy bà, chốt sổ nguyên mẫu Nhà Thám Hiểm (The Explorer) bằng một câu cốt lõi thôi: Bà là một ngọn gió tự do của nhân gian, nhưng ngọn gió thì cũng cần một nơi để dừng chân nghỉ ngơi!"
+        },
+        {
+          "type": "tip",
+          "text": "Lời khuyên \"xương máu\" ghim ngay vào tim nè:"
+        },
+        {
+          "type": "item",
+          "title": "Nghỉ làm \"Kẻ Lang Thang Vô Định\"",
+          "text": "Bà không có nghĩa vụ phải chạy trốn khỏi mọi thứ khiến bà khó chịu. Hãy học cách dừng lại đủ lâu để đối diện với điều đang khiến bà bồn chồn, thay vì lập tức tìm lối thoát."
+        },
+        {
+          "type": "item",
+          "title": "Chân lý sinh tồn để không bị lạc lối",
+          "text": "Thay vì cứ liên tục thay đổi để cố tìm cảm giác \"đúng\", hãy khắc cốt ghi tâm điều này: đừng cố chạy trốn cảm xúc nữa, hãy học cách ở lại với nó. Sự tự do thật sự không đến từ việc trốn tránh, mà đến từ việc dám đối diện."
+        },
+        {
+          "type": "item",
+          "title": "Tự do thì phải có định hướng",
+          "text": "Áp dụng chuẩn xác nguyên tắc: \"Tự do không phải là không có gì để mất, mà là biết mình đang chọn gì để giữ\". Xây vài điểm neo vững chắc, chăm sóc chính mình thật tốt. Bà chỉ có thể bay xa nhất khi có một nơi để quay về."
+        },
+        {
+          "type": "item",
+          "title": "Setup \"Cam kết có ý thức\"",
+          "text": "Tự do trao nhầm chỗ (tức là dùng để trốn tránh) là tự chuốc lấy cô đơn. Dám thẳng tay chọn ở lại với những người, những điều thực sự xứng đáng với sự hiện diện của bà."
+        },
+        {
+          "type": "tip",
+          "text": "Chốt hạ: Sự tự do, táo bạo của Explorer là một siêu năng lực bẩm sinh, là thứ vũ khí sống động nhưng có khả năng truyền cảm hứng đỉnh cao nhất. Miễn là bà biết chọn ở lại vì mình muốn chứ không phải vì sợ hãi, thì vibe của bà lúc nào cũng sẽ tự do và tỏa sáng rực rỡ!"
+        }
+      ]
+    }
+  ]
+}

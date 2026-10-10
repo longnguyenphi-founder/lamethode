@@ -1,0 +1,938 @@
+{
+  "slug": "rebel",
+  "code": "KNL",
+  "english": "The Rebel",
+  "name": "Kẻ Nổi Loạn",
+  "intro": [
+    "Bà là đứa mà ngay từ nhỏ đã luôn hỏi \"Tại sao phải làm theo cách này?\" thay vì răm rắp nghe lời. Nhìn bề ngoài, bà có thể toát ra vẻ ngoài cá tính, khác biệt, luôn sẵn sàng lên tiếng khi thấy điều gì đó bất công hay vô lý. Trong khi người khác cố gắng hòa nhập, bà lại chọn con đường riêng, kể cả khi điều đó đồng nghĩa với việc bị hiểu lầm hay cô lập. Nhưng có một sự thật mà bà giấu kỹ hơn cả một bí mật quốc gia: đằng sau thái độ bất cần đó là một trái tim khao khát được công nhận và thấu hiểu hơn ai hết.",
+    "Sự thật đau lòng nhất là bà thường dùng sự nổi loạn như một cách để né tránh cảm giác dễ bị tổn thương khi phải phụ thuộc vào ai đó hay bất kỳ hệ thống nào. Tận sâu bên trong, bà luôn mang một nỗi sợ hoang mang: \"Nếu mình chấp nhận đi theo khuôn khổ, liệu mình có đánh mất chính con người thật của mình, hay chỉ đang tìm cách trốn tránh việc phải chịu trách nhiệm với chính lựa chọn của mình?\". Bà cứ liên tục chống đối mọi thứ mang tính ràng buộc, để rồi đôi khi vô tình đẩy xa những người thực sự quan tâm đến mình."
+  ],
+  "population": 8,
+  "celebrities": [
+    {
+      "name": "Rihanna",
+      "text": "Từ ca sĩ đến doanh nhân tỷ phú, Rihanna luôn nổi tiếng với tinh thần không khoan nhượng trước những chuẩn mực của ngành công nghiệp giải trí, tự do định nghĩa lại thành công theo cách của riêng mình."
+    },
+    {
+      "name": "Billie Eilish",
+      "text": "Phá vỡ mọi khuôn mẫu về hình ảnh ca sĩ nhạc pop truyền thống ngay từ những ngày đầu sự nghiệp, Billie Eilish đại diện cho một thế hệ nghệ sĩ trẻ dám sống thật và chống lại áp lực phải \"vừa lòng số đông\"."
+    },
+    {
+      "name": "Amy Winehouse",
+      "text": "Một trong những giọng ca có ảnh hưởng lớn nhất, Amy Winehouse nổi tiếng vì luôn từ chối gọt giũa bản thân theo khuôn mẫu công nghiệp âm nhạc, giữ vững cá tính âm nhạc độc đáo của riêng mình đến cùng."
+    },
+    {
+      "name": "Zico",
+      "text": "Rapper kiêm nhà sản xuất luôn thẳng thắn chỉ trích những mặt tối của ngành công nghiệp giải trí qua âm nhạc của mình, Zico đại diện cho tinh thần dám lên tiếng và không ngại đối đầu với hệ thống."
+    }
+  ],
+  "powers": [
+    {
+      "title": "Bà có Bản Năng Chống Đối Bất Công Bẩm Sinh",
+      "english": "The Justice Instinct",
+      "lead": null,
+      "points": [
+        {
+          "title": "Không chấp nhận sự vô lý dễ dàng",
+          "text": "Khác với những người dễ dàng thỏa hiệp, The Rebel luôn đặt câu hỏi về mọi quy tắc, mọi hệ thống trước khi chấp nhận tuân theo chúng."
+        },
+        {
+          "title": "Dũng khí lên tiếng khi người khác im lặng",
+          "text": "Các bà có một sự can đảm hiếm có trong việc chỉ ra những điều sai trái mà nhiều người nhìn thấy nhưng không dám nói ra."
+        }
+      ]
+    },
+    {
+      "title": "Chất Xúc Tác Cho Sự Thay Đổi",
+      "english": "The Change Agent",
+      "lead": null,
+      "points": [
+        {
+          "title": "Không sợ đi ngược đám đông",
+          "text": "Điểm nổi bật nhất của Rebel là sự độc lập trong tư duy. Bà không cần sự chấp thuận của số đông để tin vào những gì mình cho là đúng."
+        },
+        {
+          "title": "Vibe truyền cảm hứng cho sự tự do",
+          "text": "Ở cạnh một Rebel, người ta cảm thấy được khích lệ để dám phá vỡ những giới hạn mà họ từng nghĩ là bất khả xâm phạm trong cuộc sống của chính mình."
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "id": "portrait",
+      "title": "Chân dung của bạn – Bạn thực sự là ai",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Để tui chẻ nhỏ hai phần \"ăn tiền\" nhưng cũng dễ làm mấy bà \"suy\" nhất: Năng lực cốt lõi (Flex nhẹ skill ẩn) và Góc tối tâm lý (Red flag tự thân)."
+        },
+        {
+          "type": "p",
+          "text": "Bà nào thấy quen quen thì chuẩn bị sẵn giấy bút note lại để tự chấn chỉnh mình nghen!"
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "1. Năng Lực Cốt Lõi (Những thứ làm nên thương hiệu \"linh hồn phản kháng\")"
+        },
+        {
+          "type": "p",
+          "text": "Đây là những siêu năng lực bẩm sinh khiến The Rebel luôn là \"ngòi nổ thay đổi\" của rất nhiều người, vì ai cũng cần một người dám phá vỡ những quy tắc lỗi thời:"
+        },
+        {
+          "type": "item",
+          "title": "Tư duy độc lập mạnh mẽ (Independent Thinking)",
+          "text": "Các bà không dễ dàng chấp nhận một điều gì đó chỉ vì \"mọi người vẫn làm vậy\". Luôn tự đặt câu hỏi và tìm ra câu trả lời của riêng mình."
+        },
+        {
+          "type": "item",
+          "title": "Dũng khí đối đầu với bất công (Courage to Confront)",
+          "text": "Khi thấy điều gì đó sai trái, các bà không ngần ngại lên tiếng, kể cả khi điều đó có thể khiến bà bị cô lập hay chỉ trích."
+        },
+        {
+          "type": "item",
+          "title": "Khả năng phá vỡ giới hạn (Boundary Breaking)",
+          "text": "Trong khi người khác bị trói buộc bởi \"đây là cách mọi thứ luôn được làm\", các bà lại tìm ra những cách tiếp cận hoàn toàn mới, đột phá."
+        },
+        {
+          "type": "item",
+          "title": "Sự chân thật không thỏa hiệp (Uncompromising Authenticity)",
+          "text": "Các bà không có khái niệm sống giả tạo để được lòng người khác. Thà bị ghét vì là chính mình còn hơn được yêu vì một phiên bản giả tạo."
+        },
+        {
+          "type": "sub",
+          "icon": "🛑",
+          "title": "2. Góc Tối (Red flag tự thân – Đọc để tỉnh táo nha mấy bà!)"
+        },
+        {
+          "type": "p",
+          "text": "Nổi loạn thì giỏi, nhưng tâm lý của Kẻ Nổi Loạn lại rất dễ bị hổng lỗ chỗ vì những \"cái bẫy\" tự mình giăng ra:"
+        },
+        {
+          "type": "item",
+          "title": "Hội chứng \"Chống đối vì chống đối\" (Contrarian for Contrarian's Sake)",
+          "text": "Đây là bẫy dễ sập nhất! Đôi khi các bà phản đối một điều gì đó không phải vì nó thực sự sai, mà chỉ vì bản năng không muốn tuân theo bất cứ điều gì được áp đặt."
+        },
+        {
+          "type": "item",
+          "title": "Tự hủy hoại cơ hội của chính mình (Self-Sabotage)",
+          "text": "Vì lòng khao khát tự do vô đáy, các bà cực kỳ hay phá bỏ những cơ hội tốt chỉ vì cảm giác nó \"quá gò bó\", ngay cả khi điều đó thực sự có lợi cho bà."
+        },
+        {
+          "type": "item",
+          "title": "Cay nghiệt và mỉa mai quá đà (Toxic Cynicism)",
+          "text": "Góc tối \"độc hại\" nhất của Rebel là dần trở nên hoài nghi với tất cả mọi thứ, kể cả những điều tốt đẹp, khiến bà khó lòng tin tưởng hay tận hưởng bất cứ điều gì trọn vẹn."
+        },
+        {
+          "type": "item",
+          "title": "Cô lập bản thân khỏi cộng đồng (Self-Imposed Exile)",
+          "text": "Cứ liên tục chống đối, phản kháng mà quên mất việc xây dựng những mối quan hệ gắn kết, đến lúc cần một cộng đồng ủng hộ thì lại thấy mình đơn độc."
+        },
+        {
+          "type": "item",
+          "title": "Các bà hệ Rebel nhớ kỹ nha",
+          "text": "Sự nổi loạn không có mục đích rõ ràng chính là con đường ngắn nhất dẫn đến sự cô lập vô nghĩa. Hãy chống lại những gì cần chống lại, nhưng phải biết mình đang chiến đấu vì điều gì!"
+        }
+      ]
+    },
+    {
+      "id": "core",
+      "title": "Lõi Tính Cách (Bản chất thật sự bên trong)",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Nếu lõi của The Hero là Khát Vọng Chứng Minh Giá Trị Bản Thân, thì lõi của The Rebel chính là Khát Vọng Tự Do Khỏi Sự Áp Đặt (Freedom from Oppression). Động lực sâu thẳm nhất của các bà được xây dựng trên 3 trụ cột này:"
+        },
+        {
+          "type": "item",
+          "title": "Bản năng chống lại sự bất công (The Justice-Seeking Instinct)",
+          "text": "Các bà nhìn thế giới qua lăng kính của một người luôn đặt câu hỏi \"điều này có công bằng không?\". Sự áp bức, bất bình đẳng khiến bà không thể ngồi yên."
+        },
+        {
+          "type": "item",
+          "title": "Nỗi sợ mất quyền tự quyết (Fear of Losing Autonomy)",
+          "text": "Nghe hơi \"suy\" nhưng đây là sự thật. Nỗi sợ lớn nhất của Rebel không phải là bị ghét bỏ, mà là bị kiểm soát, bị buộc phải sống theo ý muốn của người khác."
+        },
+        {
+          "type": "item",
+          "title": "Niềm tin vào sức mạnh của sự thay đổi (Faith in Revolution)",
+          "text": "Với các bà, hệ thống cũ kỹ, lỗi thời cần phải bị thách thức và thay đổi. Đây là động lực khiến bà không ngừng đấu tranh cho những gì mình tin là đúng."
+        },
+        {
+          "type": "sub",
+          "icon": "🛑",
+          "title": "Những Điểm Cần Lưu Ý (Đọc để chấn chỉnh lại nết, bớt khổ nha!)"
+        },
+        {
+          "type": "p",
+          "text": "Mang năng lượng Rebel là một điều tuyệt vời, nhưng nếu không biết cách kiểm soát, các bà sẽ tự biến mình thành một người chống đối mọi thứ một cách vô nghĩa. Nhớ kỹ những cẩm nang sinh tồn này:"
+        },
+        {
+          "type": "item",
+          "title": "Học cách phân biệt điều đáng chống lại và điều không",
+          "text": "Không phải mọi quy tắc đều xấu. Hãy tự hỏi: \"Mình đang phản đối vì lý do chính đáng, hay chỉ vì thói quen không thích bị bảo phải làm gì?\"."
+        },
+        {
+          "type": "item",
+          "title": "Chọn trận chiến khôn ngoan (Choose Your Battles)",
+          "text": "Không cần phải chiến đấu với mọi thứ cùng lúc. Dồn năng lượng vào những vấn đề thực sự quan trọng, có ý nghĩa với bà."
+        },
+        {
+          "type": "item",
+          "title": "Xây dựng thay vì chỉ phá vỡ (Build, Don't Just Break)",
+          "text": "Sau khi phá vỡ những gì không còn phù hợp, hãy học cách xây dựng những điều mới tốt đẹp hơn, thay vì chỉ dừng lại ở việc chỉ trích."
+        },
+        {
+          "type": "item",
+          "title": "Chấp nhận: hợp tác không đồng nghĩa với thỏa hiệp bản thân",
+          "text": "Làm việc cùng người khác, tuân theo một số quy tắc chung không có nghĩa là bà đánh mất bản sắc của mình."
+        },
+        {
+          "type": "p",
+          "text": "Trưởng thành thực sự của một Rebel không phải là ngừng chống đối, mà là biết chọn đúng những gì đáng để đấu tranh và học cách xây dựng thay vì chỉ phá bỏ."
+        }
+      ]
+    },
+    {
+      "id": "love",
+      "title": "Bạn muốn một tình yêu như nào",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "nếu đã mang trong mình hệ điều hành The Rebel (Kẻ Nổi Loạn), thì gu tình yêu và những mong cầu sâu thẳm của các bà thường đi theo một hệ tư tưởng rất đặc thù. Chuyên mục \"Bạn muốn một tình yêu như nào\" lên sóng, lấy sổ tay ra note lại để tỉnh táo lúc yêu nha!"
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "1. Cái các bà TƯỞNG mình muốn (Và rất dễ sập bẫy)"
+        },
+        {
+          "type": "item",
+          "title": "Hệ \"Yêu là phải phá vỡ mọi quy tắc\"",
+          "text": "Trái tim của The Rebel rất dễ bị hấp dẫn bởi những mối tình đầy kịch tính, bất chấp mọi rào cản xã hội, càng bị ngăn cấm càng thấy hấp dẫn."
+        },
+        {
+          "type": "item",
+          "title": "Ngược lại, thỏi nam châm hút người cũng \"nổi loạn\" y hệt",
+          "text": "Đôi khi các bà lại bị cuốn vào những người cũng có tính cách chống đối mạnh mẽ, dẫn đến những mối quan hệ đầy xung đột, không ai chịu nhường ai."
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "2. Cái các bà THỰC SỰ khao khát (Tình yêu lý tưởng giúp bà không bị \"tự hủy hoại\")"
+        },
+        {
+          "type": "p",
+          "text": "Sự thật là, nếu cứ theo đuổi những thứ ở mục 1, các bà sẽ rất nhanh thấy mối quan hệ đầy hỗn loạn. Sâu thẳm bên trong, đây mới là thứ một Rebel thực sự cần để thấy an toàn:"
+        },
+        {
+          "type": "item",
+          "title": "Một tình yêu \"Chấp Nhận Con Người Thật\" chứ không phải \"Cố Gò Ép\"",
+          "text": "Các bà cần một người không cố gắng thay đổi hay \"thuần hóa\" bà, mà chấp nhận và trân trọng chính cá tính khác biệt của bà."
+        },
+        {
+          "type": "item",
+          "title": "Sự Tôn Trọng Tự Do Cá Nhân (Respect for Independence)",
+          "text": "Rebel rất dị ứng với sự kiểm soát. Các bà khao khát một người tin tưởng đủ để cho bà không gian sống theo cách riêng của mình."
+        },
+        {
+          "type": "item",
+          "title": "Một người bạn đồng hành trong hành trình đấu tranh (A Fellow Advocate)",
+          "text": "Không cần ai ngăn cản lý tưởng của bà, chỉ cần một người sẵn sàng ủng hộ hoặc ít nhất là tôn trọng những gì bà tin tưởng."
+        },
+        {
+          "type": "item",
+          "title": "Sự ổn định đủ để bà cảm thấy an toàn khi hạ vũ khí (Safety to Lower Defenses)",
+          "text": "Các bà luôn khao khát một tình yêu đủ vững chãi để bà dám bỏ bớt lớp giáp phòng thủ, cho phép mình được mềm yếu mà không sợ bị lợi dụng."
+        },
+        {
+          "type": "tip",
+          "text": "Lời khuyên chốt hạ: Đừng đi tìm người để \"cùng nổi loạn chống lại cả thế giới\" nữa mấy bà ơi! Tình yêu lý tưởng nhất của The Rebel là tìm được một người đủ vững vàng để chấp nhận con người thật của bà, và đủ tôn trọng để không bao giờ cố gắng thay đổi bà."
+        }
+      ]
+    },
+    {
+      "id": "perception",
+      "title": "Người khác nghĩ gì về bạn",
+      "blocks": [
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "1. Ấn tượng tích cực (Aura chói lóa, điểm 10 uy tín)"
+        },
+        {
+          "type": "item",
+          "title": "\"Ngọn cờ đầu\" dám nói lên sự thật",
+          "text": "Trong nhóm bạn, bà đích thị là người dám lên tiếng khi thấy điều gì đó bất công, dám bảo vệ những người yếu thế mà không sợ mất lòng ai."
+        },
+        {
+          "type": "item",
+          "title": "\"Nguồn cảm hứng của sự tự do\" biết đi",
+          "text": "Khí chất của bà tỏa ra sự cá tính, độc lập. Người ngoài nhìn vào luôn thấy bà là một người dũng cảm sống thật, dám khác biệt bất chấp ánh nhìn của đám đông."
+        },
+        {
+          "type": "item",
+          "title": "\"Người mang tư duy đột phá\"",
+          "text": "Sếp và đồng nghiệp cởi mở thích làm việc với bà vì biết bà luôn có góc nhìn thách thức lối mòn, giúp tổ chức tránh được sự trì trệ."
+        },
+        {
+          "type": "sub",
+          "icon": "🛑",
+          "title": "2. Những điểm dễ bị \"hiểu lầm\" (Nghe hơi chạnh lòng nha)"
+        },
+        {
+          "type": "item",
+          "title": "Dễ bị gán mác \"Khó bảo, chống đối vô cớ\"",
+          "text": "Vì hay đặt câu hỏi với mọi quy tắc, đối phương (đặc biệt là sếp hoặc người lớn tuổi) sẽ dễ cảm thấy bà thiếu tôn trọng, khó hợp tác."
+        },
+        {
+          "type": "item",
+          "title": "Bị xem là \"Nguy hiểm, khó lường\"",
+          "text": "Việc luôn thách thức hiện trạng đôi khi khiến người xung quanh cảm thấy bất an, không biết bà sẽ \"gây rối\" điều gì tiếp theo."
+        },
+        {
+          "type": "item",
+          "title": "Mang tiếng \"Cô đơn tự chọn, khó gần\"",
+          "text": "Đôi khi vì thái độ phòng thủ, cảnh giác cao độ, người ta không những không dám lại gần mà còn cảm thấy khó xây dựng mối quan hệ gần gũi với bà."
+        },
+        {
+          "type": "item",
+          "title": "Thiếu sự kiên nhẫn (Bị nghi ngờ là bốc đồng)",
+          "text": "Vì lúc nào cũng muốn thay đổi mọi thứ ngay lập tức, đôi khi người ta sẽ thấy bà thiếu đi sự kiên nhẫn cần thiết để thay đổi mọi thứ một cách bền vững."
+        },
+        {
+          "type": "tip",
+          "text": "Chốt lại nè: Giao diện của The Rebel trong mắt thiên hạ luôn là một người CHỐNG ĐỐI. Nhưng mấy bà ơi, chống đối thôi chưa đủ, phải là \"Chống đối có mục đích\". Hãy để tinh thần phản kháng của mình là một nguồn cảm hứng cho sự thay đổi tích cực, chứ đừng biến nó thành một cái cớ để xa lánh mọi người nha!"
+        }
+      ]
+    },
+    {
+      "id": "reactions",
+      "title": "Cách chúng mình phản ứng",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Nếu The Hero thường chọn cách xông pha giải quyết khi có biến, thì hệ điều hành The Rebel (Kẻ Nổi Loạn) lại \"nhảy số\" theo một hệ tư tưởng hoàn toàn khác."
+        },
+        {
+          "type": "p",
+          "text": "Đọc ngay cách các bà đối mặt với 3 tình huống \"sóng gió\" này để coi tui nói có chuẩn tim đen không nha:"
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "1. Cách Bà Xử Lý Khi Mọi Thứ Rối Tung Lên (Khủng Hoảng ập đến)"
+        },
+        {
+          "type": "item",
+          "title": "Bật mode \"Đổ lỗi cho hệ thống\" (Blaming the System)",
+          "text": "Càng rối, các bà lại càng có xu hướng quy trách nhiệm cho những quy tắc, hệ thống cứng nhắc đã dẫn đến tình huống này, thay vì nhìn vào những gì bản thân có thể thay đổi."
+        },
+        {
+          "type": "item",
+          "title": "Phá bỏ mọi thứ để bắt đầu lại từ đầu",
+          "text": "Các bà có xu hướng muốn \"đập bỏ hết\" và xây dựng lại theo cách hoàn toàn khác, thay vì cố gắng sửa chữa những gì đang có."
+        },
+        {
+          "type": "item",
+          "title": "Dễ hành động bốc đồng để chứng minh quan điểm",
+          "text": "Vì quá muốn khẳng định mình đúng, đôi khi các bà sẽ hành động thiếu suy nghĩ chỉ để chứng minh cho người khác thấy hệ thống cũ là sai lầm."
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "2. Khi Ở Trong Một Tập Thể (Teamwork, Nhóm bạn)"
+        },
+        {
+          "type": "item",
+          "title": "\"Người thách thức\" mọi lối mòn",
+          "text": "Bà chính là người luôn đặt câu hỏi \"tại sao chúng ta phải làm theo cách này?\", buộc cả nhóm phải suy nghĩ lại những giả định cũ kỹ."
+        },
+        {
+          "type": "item",
+          "title": "Khó chấp nhận vai trò cấp dưới trong tổ chức",
+          "text": "Các bà không thích bị ra lệnh, đặc biệt khi cảm thấy người lãnh đạo không đủ năng lực hoặc quy tắc không hợp lý."
+        },
+        {
+          "type": "item",
+          "title": "Thánh \"gây tranh cãi\" trong mọi cuộc họp",
+          "text": "Vì cái tính luôn muốn thách thức hiện trạng, các bà thường xuyên tạo ra những cuộc tranh luận gay gắt, đôi khi khiến bầu không khí trở nên căng thẳng."
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "3. Khi Không Được Hiểu / Bị Kiểm Soát (Góc bí bách ngầm)"
+        },
+        {
+          "type": "p",
+          "text": "Đây là lúc The Rebel dễ bộc lộ những góc tối tâm lý nhất nè:"
+        },
+        {
+          "type": "item",
+          "title": "Bật mode \"Chống đối công khai\" (Open Defiance)",
+          "text": "Khi cảm thấy bị kiểm soát hay ép buộc, các bà sẽ KHÔNG âm thầm chịu đựng đâu. Thay vào đó, bà sẽ công khai phản đối, thậm chí đối đầu trực diện."
+        },
+        {
+          "type": "item",
+          "title": "Gặm nhấm cảm giác bị áp bức (Rumination on Oppression)",
+          "text": "Trong đầu các bà sẽ liên tục nảy số những suy nghĩ: \"Tại sao mình phải chịu đựng điều này?\", \"Mình không thể sống theo cách của người khác mãi được\". Cảm giác bí bách này bào mòn sự kiên nhẫn của bà mỗi ngày."
+        },
+        {
+          "type": "item",
+          "title": "Cơ chế tự vệ độc hại (Burning It All Down)",
+          "text": "Thay vì giao tiếp thẳng thắn về cảm giác bị kiểm soát, các bà đôi khi lại chọn cách cắt đứt hoàn toàn, phá bỏ mối quan hệ hoặc tình huống đó một cách dứt khoát, đầy cảm xúc."
+        },
+        {
+          "type": "tip",
+          "text": "Chốt hạ cho The Rebel nè: Đấu tranh là tốt, nhưng lúc mọi thứ rối ren hay khi không được thấu hiểu, hãy nhớ dừng lại một nhịp trước khi hành động bốc đồng! Nếu người ta không hiểu quan điểm của bà, thì việc bà cần làm là GIẢI THÍCH RÕ LÝ DO, chứ không phải là chống đối một cách mù quáng đâu nha!"
+        }
+      ]
+    },
+    {
+      "id": "strengths",
+      "title": "Điểm mạnh thật sự",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Điểm mạnh thật sự (True Strengths) làm nên thương hiệu của The Rebel nha! Không phải tự nhiên mà ai cũng nể phục một người bạn, người đồng nghiệp hay người yêu mang hệ điều hành này đâu."
+        },
+        {
+          "type": "p",
+          "text": "Sức mạnh của các bà không nằm ở sự ngoan ngoãn, dễ bảo, mà nó nằm ở \"quyền lực của sự thách thức\" siêu đẳng có khả năng thúc đẩy thay đổi tích cực nghen:"
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "1. Năng Lực \"Khai Sáng\" Cấp Độ Max (Master of Awakening)"
+        },
+        {
+          "type": "item",
+          "title": "Nguồn năng lượng thức tỉnh",
+          "text": "Các bà có khả năng khiến người khác nhận ra những bất công, những điều vô lý mà họ đã chấp nhận một cách vô thức bấy lâu nay."
+        },
+        {
+          "type": "item",
+          "title": "Tư duy phản biện sắc bén",
+          "text": "Vì luôn đặt câu hỏi với mọi thứ, các bà có khả năng nhìn ra những lỗ hổng, những vấn đề tiềm ẩn mà người khác dễ dàng bỏ qua."
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "2. Dũng Khí Đứng Lên Vì Điều Đúng Đắn"
+        },
+        {
+          "type": "item",
+          "title": "Soft outside, fierce inside",
+          "text": "Nhìn giao diện bên ngoài có vẻ ngổ ngáo, bất cần, nhưng đụng chuyện thì The Rebel là những người sẵn sàng đứng lên bảo vệ những giá trị mà mình tin tưởng."
+        },
+        {
+          "type": "item",
+          "title": "Dám hành động khi người khác im lặng (Action > Silence)",
+          "text": "Mấy bà không bao giờ chọn cách im lặng trước bất công chỉ để giữ hòa khí. Điểm mạnh thực sự là bà dám lên tiếng, dám hành động dù có thể phải trả giá."
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "3. \"Chất Xúc Tác\" Cho Sự Đổi Mới Ở Mọi Nơi"
+        },
+        {
+          "type": "item",
+          "title": "Người phá vỡ lối mòn tư duy",
+          "text": "Trong một tập thể đang trì trệ vì làm theo khuôn mẫu cũ, các bà chính là luồng gió mang đến sự thách thức cần thiết để tạo ra thay đổi."
+        },
+        {
+          "type": "item",
+          "title": "Khơi dậy tinh thần dám khác biệt (The Individuality Igniter)",
+          "text": "Điểm sáng rực rỡ nhất là khả năng khiến người khác dám thể hiện bản thân thật, dám khác biệt thay vì cố gắng hòa nhập một cách vô hồn."
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "4. Sự Chân Thật Không Khoan Nhượng (Uncompromising Truth)"
+        },
+        {
+          "type": "p",
+          "text": "Giữa một thế giới đầy sự thỏa hiệp, sợ đối đầu và \"dĩ hòa vi quý bằng mọi giá\", việc các bà vẫn dám lên tiếng, dám khác biệt chính là một loại dũng khí cực kỳ lớn. Sự nổi loạn của các bà không phải là sự phá hoại vô nghĩa, mà đó là một sự lựa chọn đầy kiêu hãnh và bản lĩnh!"
+        }
+      ]
+    },
+    {
+      "id": "blindspots",
+      "title": "Những điểm mù cần để ý",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Sự nổi loạn của Kẻ Nổi Loạn đôi khi lại chính là con dao hai lưỡi tự cứa vào mình và cả người khác, nếu mấy bà lỡ sa vào những điểm mù này:"
+        },
+        {
+          "type": "item",
+          "title": "Bẫy \"Chống đối tất cả mọi thứ\" (Reflexive Rebellion)",
+          "text": "Mấy bà cứ tưởng phản đối mọi quy tắc là đang thể hiện sự độc lập. Nhưng không! Điểm mù lớn nhất là đôi khi các bà đang tự làm khó mình khi từ chối cả những điều thực sự có lợi chỉ vì nó là \"quy tắc\"."
+        },
+        {
+          "type": "item",
+          "title": "Trốn tránh sự thân mật bằng danh nghĩa tự do (Intimacy Avoidance)",
+          "text": "Đây là điểm mù đáng sợ nhất mà Rebel thường không tự nhận ra. Dù miệng nói \"tui không cần phụ thuộc vào ai\", nhưng sâu thẳm các bà đang dùng sự nổi loạn để né tránh cảm giác dễ bị tổn thương khi gắn kết thật sự với ai đó."
+        },
+        {
+          "type": "item",
+          "title": "Hội chứng \"Không thể hợp tác\" (Collaboration Resistance)",
+          "text": "Khả năng làm việc nhóm của The Rebel cực kỳ mờ nhạt khi phải tuân theo quy trình chung. Điểm mù ở đây là các bà lầm tưởng rằng hợp tác đồng nghĩa với việc đánh mất bản sắc."
+        },
+        {
+          "type": "item",
+          "title": "Cái tôi của sự \"Khác biệt\" (Ego of Being Different)",
+          "text": "Các bà vô thức dính chặt giá trị bản thân vào việc \"mình có khác người khác không\". Nếu một ngày phải hòa nhập, làm giống mọi người, bà lại đâm ra hoảng loạn vì sợ đánh mất bản sắc riêng."
+        }
+      ]
+    },
+    {
+      "id": "conflict",
+      "title": "Mâu thuẫn lớn nhất",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Mâu thuẫn kinh điển nhất cấu xé tâm can của một Rebel mỗi đêm muộn chính là sự giằng xé giữa: Khao khát được TỰ DO tuyệt đối, không bị ai kiểm soát VÀ Nỗi khát khao thầm kín được THUỘC VỀ một cộng đồng, được chấp nhận."
+        },
+        {
+          "type": "item",
+          "title": "Vừa muốn nổi loạn, lại vừa muốn được thấu hiểu",
+          "text": "Tận sâu bên trong, The Rebel cực kỳ khao khát được ai đó thực sự hiểu và chấp nhận con người thật của mình. Nhưng ác nỗi, mỗi khi có cơ hội kết nối gần gũi, bản năng phòng thủ \"đừng để ai kiểm soát mình\" lại tự động bật lên."
+        },
+        {
+          "type": "item",
+          "title": "Nỗi sợ trở thành người khác vì áp lực đám đông (Fear of Conformity)",
+          "text": "Vì sao các bà lại phải chống đối nhiều đến vậy? Mâu thuẫn ở đây là: Các bà dùng sự nổi loạn để bảo vệ bản sắc cá nhân. Sâu thẳm bên trong là một nỗi sợ tột cùng: \"Nếu mình hòa nhập, liệu mình có đánh mất chính con người thật của mình không?\"."
+        },
+        {
+          "type": "item",
+          "title": "Khao khát kết nối nhưng lại đẩy người khác ra bằng thái độ phòng thủ",
+          "text": "Bà có thể khao khát một tình bạn, một tình yêu sâu sắc, nhưng thái độ luôn sẵn sàng chống đối, cảnh giác lại vô tình khiến những người muốn đến gần phải giữ khoảng cách."
+        },
+        {
+          "type": "p",
+          "text": "Cuộc chiến lớn nhất của The Rebel là học cách chấp nhận sự thật rớt nước mắt này: Tự do thật sự không nằm ở việc luôn luôn chống đối, mà nằm ở việc bà CHỌN đấu tranh cho những gì thực sự quan trọng, và cho phép mình được kết nối với những người xứng đáng."
+        }
+      ]
+    },
+    {
+      "id": "challenges",
+      "title": "Những thách thức nào bạn có thể sẽ gặp phải trong các mối quan hệ",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Mang hệ điều hành The Rebel (Kẻ Nổi Loạn) vào các mối quan hệ (từ tình yêu, bạn bè đến đồng nghiệp) thì đúng kiểu \"trái tim cá tính nhưng dễ đẩy người khác ra xa\". Tinh thần chống đối vô bờ bến của các bà nếu không có \"sự tin tưởng làm nền tảng\" thì rất dễ va phải những \"kiếp nạn\" cực kỳ đặc thù sau đây:"
+        },
+        {
+          "type": "sub",
+          "icon": "🛑",
+          "title": "1. \"Người Tình Đầy Xung Đột\" (The Turbulent Romance)"
+        },
+        {
+          "type": "item",
+          "title": "Bản chất",
+          "text": "Vì các bà luôn có xu hướng thách thức, tranh luận, mấy đối tượng cũng có tính cách mạnh mẽ sẽ tự động bị cuốn vào những mối quan hệ đầy kịch tính, tranh cãi liên tục."
+        },
+        {
+          "type": "item",
+          "title": "Biểu hiện",
+          "text": "Thay vì xây dựng một mối quan hệ bình yên, các bà lại hay vướng vào những cuộc tình đầy sóng gió, nơi cả hai không ai chịu nhường ai, khiến tình yêu trở thành một bãi chiến trường."
+        },
+        {
+          "type": "sub",
+          "icon": "🛑",
+          "title": "2. Yêu Đương Hay Đang Chống Đối Chính Người Yêu? (Fighting the Partner)"
+        },
+        {
+          "type": "item",
+          "title": "Bản chất",
+          "text": "Các bà đôi khi vô thức áp dụng thái độ phòng thủ, chống đối vào cả những góp ý chân thành từ người yêu, coi đó như một sự kiểm soát cần phải phản kháng."
+        },
+        {
+          "type": "item",
+          "title": "Biểu hiện",
+          "text": "Ban đầu thì cá tính đó thu hút đối phương, nhưng dần dà họ sẽ cảm thấy mệt mỏi vì lúc nào cũng phải \"đấu tranh\" mới có thể góp ý điều gì đó cho bà."
+        },
+        {
+          "type": "sub",
+          "icon": "🛑",
+          "title": "3. Quả Bom Nổ Chậm \"Cắt Đứt Mối Quan Hệ Đột Ngột\" (Sudden Cutoffs)"
+        },
+        {
+          "type": "item",
+          "title": "Bản chất",
+          "text": "Các bà lúc nào cũng cảnh giác cao độ với việc bị kiểm soát, nên khi cảm thấy ngột ngạt, phản xạ đầu tiên là cắt đứt hoàn toàn thay vì tìm cách giải quyết."
+        },
+        {
+          "type": "item",
+          "title": "Biểu hiện",
+          "text": "Khi mối quan hệ có mâu thuẫn, thay vì đối thoại để tìm giải pháp, bà chọn cách chấm dứt dứt khoát, đôi khi khiến những mối quan hệ đáng giá bị mất đi một cách đáng tiếc."
+        },
+        {
+          "type": "sub",
+          "icon": "🛑",
+          "title": "4. Khó Xây Dựng Lòng Tin Sâu Sắc (Trust Difficulties)"
+        },
+        {
+          "type": "item",
+          "title": "Bản chất",
+          "text": "Tính cách luôn cảnh giác, phòng thủ khiến The Rebel rất khó mở lòng hoàn toàn với bất kỳ ai, kể cả những người thực sự xứng đáng với sự tin tưởng của bà."
+        },
+        {
+          "type": "item",
+          "title": "Biểu hiện",
+          "text": "Bạn bè, người yêu có thể cảm thấy dù đã ở bên bà rất lâu, họ vẫn chưa thực sự được bà tin tưởng trọn vẹn, luôn có một khoảng cách nhất định."
+        },
+        {
+          "type": "sub",
+          "icon": "🛑",
+          "title": "5. Nỗi Sợ \"Bị Kiểm Soát\" Khóa Chặt Sự Gắn Kết"
+        },
+        {
+          "type": "item",
+          "title": "Bản chất",
+          "text": "Bà sợ sự phụ thuộc, sợ mất quyền tự chủ, và nỗi sợ lớn nhất là đánh mất bản thân nếu để ai đó quá gần gũi với mình."
+        },
+        {
+          "type": "item",
+          "title": "Biểu hiện",
+          "text": "Dù thật lòng thích một người, bà vẫn giữ khoảng cách, không dám cam kết sâu hơn vì sợ rằng một khi đã gắn bó, bà sẽ mất đi sự tự do vốn có."
+        },
+        {
+          "type": "tip",
+          "text": "Tip sinh tồn cho các bà hệ Rebel: Hãy nhớ, tình yêu và tình bạn khỏe mạnh không đòi hỏi bà phải từ bỏ cá tính, chỉ đòi hỏi bà học cách phân biệt giữa sự kiểm soát thực sự và sự quan tâm chân thành. Bà hoàn toàn xứng đáng có một mối quan hệ vừa tôn trọng sự tự do của bà, vừa đủ an toàn để bà dám mở lòng!"
+        }
+      ]
+    },
+    {
+      "id": "growth",
+      "title": "Hướng phát triển",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Để lột xác và nâng cấp năng lượng The Rebel (Kẻ Nổi Loạn) lên một tầm cao mới, hành trình của mấy bà không phải là trở nên ngoan ngoãn hay ngừng đấu tranh cho những gì mình tin tưởng. Sự trưởng thành của một Rebel là biến sự chống đối bản năng thành sự phản kháng có chiến lược, và học cách xây dựng thay vì chỉ phá bỏ."
+        },
+        {
+          "type": "p",
+          "text": "Dưới đây là hướng phát triển để các bà vừa giữ được \"hào quang\" cá tính, vừa không bị cuộc đời cô lập:"
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "1. Chuyển từ \"Chống Đối Bản Năng\" sang \"Đấu Tranh Có Chiến Lược\" (Strategic Activism)"
+        },
+        {
+          "type": "item",
+          "title": "Nâng cấp bộ lọc phản kháng",
+          "text": "Trước mỗi lần muốn chống đối, hãy dừng lại và tự hỏi: \"Điều này thực sự cần được thay đổi, hay mình chỉ đang phản ứng theo thói quen?\". Sự khác biệt này quyết định bà có đang tạo ra thay đổi thực sự hay chỉ gây thêm xung đột."
+        },
+        {
+          "type": "item",
+          "title": "Học cách xây dựng liên minh thay vì chiến đấu đơn độc",
+          "text": "Tìm kiếm những người cùng chí hướng để tạo ra sức mạnh tập thể, thay vì luôn chiến đấu một mình."
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "2. Ngừng \"Phá Bỏ Tất Cả\", hãy học \"Xây Dựng Điều Tốt Đẹp Hơn\" (Constructive Rebellion)"
+        },
+        {
+          "type": "item",
+          "title": "Chuyển từ chỉ trích sang đề xuất giải pháp",
+          "text": "Khi thấy điều gì đó sai, thay vì chỉ nói \"cái này sai rồi\", hãy đề xuất một phương án thay thế cụ thể, khả thi hơn."
+        },
+        {
+          "type": "item",
+          "title": "Chấp nhận hợp tác không đồng nghĩa với thỏa hiệp bản sắc",
+          "text": "Học cách làm việc trong một hệ thống, đóng góp ý kiến để cải thiện nó từ bên trong, thay vì chỉ đứng ngoài chỉ trích."
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "3. Tự Xây \"Nền Tảng Tin Tưởng\" Cho Chính Mình (Building Trust)"
+        },
+        {
+          "type": "item",
+          "title": "Luật \"Không phải ai cũng là kẻ thù\"",
+          "text": "Khắc cốt ghi tâm nguyên tắc này: Không phải ai đưa ra góp ý hay quy tắc nào cũng đang cố kiểm soát bà. Học cách phân biệt giữa sự quan tâm chân thành và sự áp bức thật sự."
+        },
+        {
+          "type": "item",
+          "title": "Dám đối mặt với cảm giác dễ bị tổn thương",
+          "text": "Ngừng dùng sự nổi loạn để né tránh cảm giác yếu đuối khi gắn kết với ai đó. Khi cảm xúc thân mật xuất hiện, hãy cho phép mình đón nhận nó thay vì lập tức phòng thủ."
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "4. Tích hợp thêm năng lượng bổ trợ (Nâng cấp giao diện)"
+        },
+        {
+          "type": "item",
+          "title": "Mượn năng lượng Nhà Hiền Triết (The Sage)",
+          "text": "Học cách phân tích tình huống một cách khách quan trước khi phản ứng, thay vì để cảm xúc chống đối dẫn dắt hành động ngay lập tức."
+        },
+        {
+          "type": "item",
+          "title": "Mượn năng lượng Người Chăm Sóc (The Caregiver)",
+          "text": "Học cách xây dựng những mối quan hệ đủ sâu, đủ tin tưởng để cho phép mình được mềm yếu, được kết nối thật sự với người khác."
+        },
+        {
+          "type": "tip",
+          "text": "The Empowered Rebel (Kẻ Nổi Loạn Đỉnh Cao) không phải là người chống đối mọi thứ để chứng minh cá tính, mà là một người phụ nữ sở hữu tinh thần đấu tranh vì công lý mạnh mẽ nhất nhưng cũng biết cách xây dựng và kết nối. Khi bà biết chọn trận chiến khôn ngoan, thứ năng lượng tỏa ra không còn là sự cô lập, mà là một sức hút quyền lực khiến ai cũng phải nể trọng!"
+        }
+      ]
+    },
+    {
+      "id": "relationships",
+      "title": "Làm sao để cải thiện các mối quan hệ xã hội",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Okela mấy bà, tới phần cốt lõi để \"cứu giá\" các mối quan hệ cho hệ Kẻ Nổi Loạn đây!"
+        },
+        {
+          "type": "p",
+          "text": "Lấy sổ ra note lại ngay chiến lược để vừa giữ được cá tính, vừa không bị cuộc đời \"cô lập\" nha:"
+        },
+        {
+          "type": "sub",
+          "icon": "🌟",
+          "title": "PHẦN 1: Cứu Vãn Các Mối Quan Hệ Xã Hội (Bạn bè, Đồng nghiệp)"
+        },
+        {
+          "type": "p",
+          "text": "Để không bị biến thành \"kẻ khó hợp tác\" hay \"người luôn gây tranh cãi\" của thiên hạ, các bà Rebel phải setup lại hệ điều hành giao tiếp liền:"
+        },
+        {
+          "type": "item",
+          "title": "Dẹp ngay cái nết \"Chống đối mọi ý kiến\" (Stop Reflexive Opposition)",
+          "text": "Bà có quyền có chính kiến, nhưng hãy học cách lắng nghe trước khi phản đối: \"Cho tui hiểu rõ hơn quan điểm của bạn đã\" thay vì phản bác ngay lập tức."
+        },
+        {
+          "type": "item",
+          "title": "Luật \"Chọn trận chiến đáng giá\" (Pick Your Battles)",
+          "text": "Thanh lọc lại những vấn đề đáng để tranh luận đi mấy bà. Không phải mọi bất đồng nhỏ nhặt đều cần một cuộc chiến, dành năng lượng cho những điều thực sự quan trọng."
+        },
+        {
+          "type": "item",
+          "title": "Có gì không đồng ý cứ giải thích rõ, ngưng chống đối trong im lặng (Direct Communication)",
+          "text": "Bà không đồng ý chuyện gì, làm ơn GIẢI THÍCH RÕ LÝ DO. Dùng cấu trúc: \"Mình không đồng ý vì... mình đề xuất...\". Ngừng ngay việc chỉ phản đối mà không đưa ra giải pháp thay thế."
+        },
+        {
+          "type": "sub",
+          "icon": "💕",
+          "title": "PHẦN 2: \"Trị Bệnh\" Trong Tình Yêu (Yêu sao cho đừng đầy xung đột?)"
+        },
+        {
+          "type": "p",
+          "text": "Tình yêu của Rebel rất cuốn hút, nhưng toàn tự mình làm khó mình. Muốn có một mối tình bền vững, tự do và slay, thì phải chấn chỉnh ngay:"
+        },
+        {
+          "type": "item",
+          "title": "Học cách phân biệt góp ý và kiểm soát",
+          "text": "Không phải mọi lời góp ý từ người yêu đều là sự áp đặt. Hãy học cách lắng nghe với tâm thế cởi mở trước khi phản ứng phòng thủ."
+        },
+        {
+          "type": "item",
+          "title": "Giao tiếp về nhu cầu tự do một cách bình tĩnh",
+          "text": "Đừng để đến lúc bùng nổ mới nói ra! Hãy chia sẻ rõ với người yêu về không gian tự do bà cần, một cách bình tĩnh thay vì phản ứng gay gắt."
+        },
+        {
+          "type": "item",
+          "title": "Đi tìm \"Người Đồng Minh\" chứ không tìm \"Đối Thủ\"",
+          "text": "Bỏ ngay việc coi người yêu như một thế lực cần chống đối. Hãy chọn yêu một người thực sự ủng hộ những giá trị mà bà theo đuổi."
+        },
+        {
+          "type": "item",
+          "title": "Dám hạ vũ khí phòng thủ khi ở bên người xứng đáng",
+          "text": "Bà chiến đấu giỏi rồi, nhưng thỉnh thoảng hãy cho phép mình được mềm yếu. Chia sẻ nỗi sợ thật, cho người yêu cơ hội được hiểu bà sâu hơn lớp vỏ cứng cỏi bên ngoài."
+        },
+        {
+          "type": "tip",
+          "text": "Chốt hạ: Bí quyết lớn nhất để Rebel hạnh phúc là học cách TIN TƯỞNG CÓ CHỌN LỌC. Hãy tin rằng bà xứng đáng có một tình yêu không cần phải là một trận chiến, mà là một sự đồng hành tôn trọng lẫn nhau!"
+        }
+      ]
+    },
+    {
+      "id": "career",
+      "title": "Bạn cần làm gì để thăng tiến trong công việc",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Alo mấy bà, đến cái chuyên mục quan trọng nhất để \"lột xác\" chốn công sở đây! The Rebel (Kẻ Nổi Loạn) bình thường đi làm rất hay bị rơi vào cái bẫy \"khó hợp tác với sếp\" hoặc \"gây tranh cãi không cần thiết\". Muốn thăng tiến, lên sếp hay tự làm chủ mà vẫn giữ được vibe \"cá tính\" thì phải rèn ngay mấy skill cốt lõi này nha:"
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "1. Từ \"Kẻ Chống Đối\" Thành \"Nhà Cải Cách Có Tầm Nhìn\""
+        },
+        {
+          "type": "item",
+          "title": "Ngưng chỉ trích, hãy đề xuất giải pháp",
+          "text": "Sự phản kháng không nằm ở việc bà chỉ ra cái sai, mà ở việc bà dùng năng lượng đó để tạo ra sự thay đổi tích cực, cụ thể."
+        },
+        {
+          "type": "item",
+          "title": "Hệ thống hóa sự thách thức thành đổi mới",
+          "text": "Thay vì chỉ có những phản ứng bộc phát, hãy biến tinh thần dám khác biệt đó thành những đề xuất cải tiến có bài bản, thuyết phục."
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "2. Biến Sự Táo Bạo Thành \"Ảnh Hưởng Tích Cực\" (Positive Influence)"
+        },
+        {
+          "type": "p",
+          "text": "Tinh thần dám thách thức là thiên phú, nhưng để ngồi vào ghế sếp hay vận hành trơn tru một mô hình kinh doanh, bà bắt buộc phải biết cách gây ảnh hưởng một cách khéo léo, thuyết phục."
+        },
+        {
+          "type": "p",
+          "text": "Hãy tập thói quen trình bày ý tưởng cải cách một cách có cấu trúc, kèm theo lợi ích cụ thể. Đừng chỉ nói \"Cách làm này lỗi thời rồi\". Hãy đổi thành: \"Đây là vấn đề với cách làm hiện tại, và đây là giải pháp thay thế có thể mang lại kết quả tốt hơn X%\". Sự táo bạo đi kèm với giải pháp cụ thể chính là \"vũ khí hủy diệt\" chốn công sở."
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "3. Xây Dựng Uy Tín Trước Khi Thách Thức Hệ Thống (Earning Credibility)"
+        },
+        {
+          "type": "p",
+          "text": "Căn bệnh trầm kha của The Rebel là thách thức hệ thống trước khi xây dựng đủ uy tín để tiếng nói của mình được lắng nghe."
+        },
+        {
+          "type": "p",
+          "text": "Đừng để mỗi lần lên tiếng chỉ là một cuộc đối đầu vô ích! Hãy chứng minh năng lực qua kết quả công việc trước, để khi bà lên tiếng, người khác thực sự lắng nghe và tôn trọng."
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "4. Thiết Lập \"Kỷ Luật Cá Nhân\" Song Song Với Tự Do"
+        },
+        {
+          "type": "p",
+          "text": "Năng lượng của bà là để tạo ra sự đổi mới, không phải để chống đối mọi quy trình cần thiết cho sự vận hành trơn tru."
+        },
+        {
+          "type": "p",
+          "text": "Học cách phân biệt giữa những quy tắc thực sự cản trở sự sáng tạo và những quy trình cần thiết để đảm bảo chất lượng công việc. Phải phân bổ rạch ròi: điều gì cần thách thức, điều gì cần tuân thủ."
+        },
+        {
+          "type": "p",
+          "text": "Tóm lại, thăng tiến không có nghĩa là bà phải trở nên ngoan ngoãn, dễ bảo hay từ bỏ tinh thần cải cách vốn có. Phiên bản nâng cấp đỉnh cao nhất của Rebel chính là người dùng tinh thần táo bạo để mở đường cho sự đổi mới, nhưng lại dùng sự khôn ngoan để xây dựng uy tín và ảnh hưởng bền vững."
+        }
+      ]
+    },
+    {
+      "id": "journey",
+      "title": "Vận trình cuộc đời",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Hành trình của Rebel là một chuỗi ngày vật vã chuyển hóa từ việc \"chống đối vô định hướng\" sang cảnh giới \"phản kháng có chiến lược\"."
+        },
+        {
+          "type": "p",
+          "text": "Lưu ngay 3 giai đoạn \"tiến hóa\" này để xem mấy bà đang kẹt ở level nào nè:"
+        },
+        {
+          "type": "sub",
+          "icon": "🌱",
+          "title": "Dưới 25 Tuổi: Rebel Tập Sự (The Reckless Dissenter)"
+        },
+        {
+          "type": "item",
+          "title": "Vibe lúc này",
+          "text": "Chống đối mọi quy tắc, mọi khuôn mẫu chỉ vì cảm giác không thích bị kiểm soát. Nhiệt tình cộng bốc đồng. Ai bảo gì cũng muốn làm ngược lại, quy định nào cũng muốn phá vỡ. Năng lượng phản kháng tràn trề nhưng thiếu định hướng rõ ràng."
+        },
+        {
+          "type": "item",
+          "title": "Thực trạng",
+          "text": "Đây là giai đoạn mấy bà rất dễ xung đột với sếp, gia đình, thậm chí bạn bè vì thái độ chống đối quá đà. Nếu có chập chững làm kinh doanh, các bà sẽ phá vỡ mọi quy tắc ngành mà không cân nhắc hậu quả thực tế. Trong tình yêu thì dễ vướng vào những mối quan hệ đầy kịch tính, xung đột liên miên."
+        },
+        {
+          "type": "item",
+          "title": "Bài học cốt lõi",
+          "text": "Dính vô vàn cuộc xung đột không cần thiết và những cơ hội bị bỏ lỡ vì thái độ chống đối quá khích để nhận ra rằng: Nổi loạn mà không có mục đích thì chỉ là một cơn giận dữ không có lối thoát."
+        },
+        {
+          "type": "sub",
+          "icon": "🌸",
+          "title": "Từ 25 Đến 40 Tuổi: Rebel Thức Tỉnh (The Purposeful Advocate)"
+        },
+        {
+          "type": "item",
+          "title": "Vibe lúc này",
+          "text": "Đã nếm đủ \"trái đắng\" của việc chống đối vô định hướng. Giao diện vẫn cá tính, độc lập nhưng bên trong đã bắt đầu rèn được khả năng phân biệt \"điều đáng chống lại\" và \"điều không cần thiết phải chống lại\"."
+        },
+        {
+          "type": "item",
+          "title": "Thực trạng",
+          "text": "Ở độ tuổi này, các bà bắt đầu ngộ ra chân lý cốt lõi: Đừng cố chống đối mọi thứ nữa, hãy học cách đấu tranh có chiến lược! Thay vì phản ứng bốc đồng với mọi quy tắc, mấy bà chuyển sang chọn lọc kỹ càng những vấn đề thực sự đáng để đầu tư năng lượng đấu tranh. Các bà biết cách xây dựng liên minh, tạo ảnh hưởng thay vì chỉ phá vỡ."
+        },
+        {
+          "type": "item",
+          "title": "Bài học cốt lõi",
+          "text": "Chấp nhận buông bỏ nỗi sợ bị kiểm soát một cách thái quá. Dám tin tưởng và hợp tác với những người, tổ chức xứng đáng."
+        },
+        {
+          "type": "sub",
+          "icon": "👑",
+          "title": "Sau 40 Tuổi: \"Nhà Cải Cách\" Minh Triết (The Wise Reformer)"
+        },
+        {
+          "type": "item",
+          "title": "Vibe lúc này",
+          "text": "An tọa vững chãi trong chính tinh thần đấu tranh của mình, khí chất ngút ngàn. Không còn hoảng loạn chống đối mọi thứ hay bồn chồn vì cảm giác bị kiểm soát nữa. Sự cá tính lúc này tỏa ra tự nhiên như hơi thở, không cần phải chứng minh bằng những cuộc đối đầu liên tục."
+        },
+        {
+          "type": "item",
+          "title": "Thực trạng",
+          "text": "Các bà lùi lại một bước khỏi việc phải liên tục chống đối để chứng minh bản thân. Thay vì chỉ trích từ bên ngoài, các bà vươn tầm thành những nhà cải cách thực thụ, dùng ảnh hưởng và uy tín đã xây dựng để tạo ra thay đổi bền vững từ bên trong hệ thống."
+        },
+        {
+          "type": "item",
+          "title": "Bài học cốt lõi",
+          "text": "Đạt đến cảnh giới cao nhất của tinh thần nổi loạn: Hiểu rằng thay đổi thực sự không đến từ việc phá bỏ tất cả, mà đến từ việc kiên trì xây dựng những điều tốt đẹp hơn, và biết rằng đôi khi hợp tác cũng là một hình thức của sự dũng cảm."
+        }
+      ]
+    },
+    {
+      "id": "advice",
+      "title": "Lời khuyên",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Tóm lại nha mấy bà, chốt sổ nguyên mẫu Kẻ Nổi Loạn (The Rebel) bằng một câu cốt lõi thôi: Bà là một ngọn lửa cách mạng của nhân gian, nhưng ngọn lửa thì cũng cần một hướng đi để không thiêu rụi chính mình!"
+        },
+        {
+          "type": "tip",
+          "text": "Lời khuyên \"xương máu\" ghim ngay vào tim nè:"
+        },
+        {
+          "type": "item",
+          "title": "Nghỉ làm \"Kẻ Chống Đối Mọi Thứ\"",
+          "text": "Bà không có nghĩa vụ phải phản đối mọi quy tắc mình gặp phải. Hãy học cách phân biệt giữa sự áp bức thực sự và những cấu trúc cần thiết để mọi thứ vận hành trơn tru."
+        },
+        {
+          "type": "item",
+          "title": "Chân lý sinh tồn để không bị \"cô lập\"",
+          "text": "Thay vì cứ liên tục chống đối để khẳng định bản sắc, hãy khắc cốt ghi tâm điều này: đừng chống đối tất cả, hãy chọn đấu tranh cho những gì thực sự quan trọng. Sự thay đổi bền vững đến từ sự kiên trì xây dựng, không phải từ việc phá vỡ liên tục."
+        },
+        {
+          "type": "item",
+          "title": "Cá tính thì phải có định hướng",
+          "text": "Áp dụng chuẩn xác nguyên tắc: \"Tự do không phải là chống lại tất cả, mà là biết mình đang đấu tranh vì điều gì\". Dồn năng lượng vào những trận chiến thực sự có ý nghĩa."
+        },
+        {
+          "type": "item",
+          "title": "Setup \"Sự tin tưởng có chọn lọc\"",
+          "text": "Cảnh giác với tất cả mọi người là tự chuốc lấy cô đơn. Dám thẳng tay mở lòng với những người, những tổ chức đã chứng minh rằng họ xứng đáng với sự tin tưởng của bà."
+        },
+        {
+          "type": "tip",
+          "text": "Chốt hạ: Sự cá tính, táo bạo của Rebel là một siêu năng lực bẩm sinh, là thứ vũ khí sống động nhưng có khả năng thúc đẩy thay đổi đỉnh cao nhất. Miễn là bà biết đấu tranh vì điều đúng đắn chứ không phải vì thói quen chống đối, thì vibe của bà lúc nào cũng sẽ mạnh mẽ và tỏa sáng rực rỡ!"
+        }
+      ]
+    }
+  ]
+}

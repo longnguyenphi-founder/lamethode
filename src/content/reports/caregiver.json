@@ -1,0 +1,971 @@
+{
+  "slug": "caregiver",
+  "code": "NCS",
+  "english": "The Caregiver",
+  "name": "Người Chăm Sóc",
+  "intro": [
+    "Bà luôn là đứa sẵn sàng thức đến 2h sáng để làm phao cứu sinh cho thiên hạ, dốc hết ruột gan để vá víu lại những vụn vỡ của người khác. Nhưng đến khi chính bà sụp đổ và cần một bờ vai, bà lại chọn cách thu mình vào góc tối, cắn răng tự dỗ dành bản thân. Không phải vì bà quá mạnh mẽ, mà vì bà chợt nhận ra: mình đã quá quen làm trạm sạc cho người đời, đến mức khi bản thân cạn kiệt, nhìn quanh lại chẳng tìm thấy ai đủ kiên nhẫn để cắm sạc ngược lại cho mình.",
+    "Sự thật đau lòng nhất là bà thường vô thức dùng sự hy sinh để \"mua\" lấy vị trí của mình trong lòng người khác. Tận sâu bên trong, bà luôn mang một nỗi sợ hoang mang: \"Nếu một ngày mình ngừng ngoan, ngừng hiểu chuyện, ngừng gánh vác mọi thứ... liệu người ta có còn thương mình và ở lại bên mình không?\". Bà cứ liên tục đánh đồng giá trị của bản thân với sự \"hữu ích\", để rồi mải miết làm vừa lòng thế giới mà quên mất việc phải xót xa cho chính trái tim mình."
+  ],
+  "population": 15,
+  "celebrities": [
+    {
+      "name": "Yoona (Im Yoon-ah)",
+      "text": "Là visual (gương mặt đại diện) và center huyền thoại của nhóm nhạc quốc dân Girls' Generation (SNSD), Yoona duy trì sức hút suốt gần hai thập kỷ."
+    },
+    {
+      "name": "Jisoo (Blackpink)",
+      "text": "Tuy rẽ hướng sang diễn xuất muộn hơn các đàn chị, Jisoo lại có lợi thế từ bệ phóng là nhóm nhạc nữ số 1 toàn cầu hiện nay."
+    },
+    {
+      "name": "Ariana Grande",
+      "text": "Bắt đầu sự nghiệp từ sân khấu kịch Broadway và các sitcom truyền hình, Ariana Grande là một giọng ca thiên phú chưa bao giờ từ bỏ niềm đam mê diễn xuất."
+    },
+    {
+      "name": "Lady Gaga",
+      "text": "Từ một biểu tượng nhạc Pop với phong cách dị biệt, Lady Gaga đã có một bước chuyển mình ngoạn mục sang điện ảnh và được giới hàn lâm công nhận."
+    }
+  ],
+  "powers": [
+    {
+      "title": "Bà có Năng Lực Thấu Cảm Đạt Cảnh Giới \"Đọc Vị\"",
+      "english": "Super Empathy",
+      "lead": null,
+      "points": [
+        {
+          "title": "Không cần nói ra cũng hiểu",
+          "text": "Khác với những người phải nghe tâm sự mới biết chuyện, The Caregiver chỉ cần nhìn nét mặt, nghe cái thở dài của đối phương là biết ngay có biến."
+        },
+        {
+          "title": "EQ \"chạm nóc\"",
+          "text": "Các bà có một hệ thần kinh bắt sóng cảm xúc cực bén. Khả năng đặt mình vào vị trí của người khác để hiểu nỗi đau của họ là vô đối, khiến người đối diện luôn có cảm giác \"Trời ơi, cuối cùng cũng có người hiểu mình!\"."
+        }
+      ]
+    },
+    {
+      "title": "Trạm Sạc \"Safe Zone\" Tuyệt Đối",
+      "english": "The Ultimate Safe Space",
+      "lead": null,
+      "points": [
+        {
+          "title": "Không phán xét (Non-judgmental)",
+          "text": "Điểm nổi bật nhất của Caregiver là sự bao dung. Ai làm sai, ai lầm lỡ chạy đến bên các bà đều được ôm ấp thay vì nghe chửi rủa hay dạy đời."
+        },
+        {
+          "title": "Vibe bình yên",
+          "text": "Ở cạnh một Caregiver, người ta tự động muốn thả lỏng, tháo mặt nạ và sống thật. Các bà tỏa ra năng lượng của một \"ngôi nhà tâm lý\" – đi đâu mệt mỏi cũng chỉ muốn quay về để được vỗ về."
+        }
+      ]
+    },
+    {
+      "title": null,
+      "english": null,
+      "lead": "Nhìn vẻ ngoài có vẻ hiền lành, nhu mì, nhưng bên trong The Caregiver là một sức mạnh sinh tồn cực khủng. Khi người thân hay team gặp chuyện, các bà là người đầu tiên xắn tay áo lên dọn dẹp đống lộn xộn.",
+      "points": [
+        {
+          "title": "Làm việc bằng cái tâm",
+          "text": "Dù là làm việc nhóm hay chăm lo gia đình, các bà luôn là người cống hiến thầm lặng 200% công lực. Người khác có thể bỏ cuộc vì lợi ích cá nhân, nhưng Caregiver sẽ trụ lại đến cùng vì \"trách nhiệm với mọi người\"."
+        }
+      ]
+    },
+    {
+      "title": "Chất Keo Gắn Kết Mọi Đứa \"Mỏ Hỗn\"",
+      "english": null,
+      "lead": null,
+      "points": [
+        {
+          "title": "Bậc thầy ngoại giao mềm",
+          "text": "Trong một nhóm bạn hay một tập thể, Caregiver đóng vai trò là \"hoa tiêu hòa bình\". Mấy bà cực giỏi trong việc xoa dịu những cái tôi gay gắt, dập lửa drama và tìm ra tiếng nói chung để ai cũng vui vẻ."
+        },
+        {
+          "title": "Nuôi dưỡng người khác tỏa sáng",
+          "text": "Các bà không có nhu cầu tranh hào quang (spotlight). Niềm vui lớn nhất của Caregiver là đứng trong cánh gà, nhìn người mình yêu thương, support được thành công và tỏa sáng rực rỡ."
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "id": "portrait",
+      "title": "Chân dung của bạn - Bạn thực sự là ai",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Để tui chẻ nhỏ hai phần \"ăn tiền\" nhưng cũng dễ làm mấy bà \"suy\" nhất: **Năng lực cốt lõi (Flex nhẹ skill ẩn)** và **Góc tối tâm lý (Red flag tự thân)**."
+        },
+        {
+          "type": "p",
+          "text": "Bà nào thấy quen quen thì chuẩn bị sẵn giấy bút note lại để tự chấn chỉnh mình nghen!"
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "1. Năng Lực Cốt Lõi (Những thứ làm nên thương hiệu \"bà tiên\")"
+        },
+        {
+          "type": "p",
+          "text": "Đây là những siêu năng lực bẩm sinh khiến The Caregiver luôn là \"chấp niệm\" của rất nhiều người, vì ai cũng khao khát có một Caregiver trong đời:"
+        },
+        {
+          "type": "item",
+          "title": "Siêu năng lực thấu cảm (Empathy)",
+          "text": "Các bà không chỉ lắng nghe bằng tai, mà nghe bằng cả hệ thần kinh! Bắt sóng cảm xúc cực nhạy, chỉ cần nhìn thái độ, cách nhắn tin chậm hơn bình thường 1 nhịp là các bà biết ngay đối phương đang bất ổn."
+        },
+        {
+          "type": "item",
+          "title": "Healing Energy (Năng lượng chữa lành tự nhiên)",
+          "text": "Không cần phải cố nói đạo lý, chỉ cần sự hiện diện của các bà thôi cũng đủ tạo ra một \"safe zone\" (vùng an toàn). Người ta ở cạnh bà tự động muốn tháo mặt nạ, xả hết ấm ức vì biết chắc chắn sẽ không bị phán xét."
+        },
+        {
+          "type": "item",
+          "title": "Tính cam kết & Gánh vác đỉnh cao",
+          "text": "Đã không nhận thì thôi, chứ nhận lời chăm sóc, giúp đỡ ai là các bà làm tới nơi tới chốn. Là điểm tựa vững như bàn thạch lúc sóng gió, khi tất cả mọi người hoảng loạn bỏ chạy thì Caregiver sẽ là người đứng lại dọn dẹp tàn cuộc."
+        },
+        {
+          "type": "item",
+          "title": "Nuôi dưỡng & Nâng tầm người khác",
+          "text": "Các bà có một đôi mắt nhìn thấu tiềm năng của người khác. Trực giác mách bảo các bà phải tưới tắm, khích lệ để người ta tự tin tỏa sáng. Nhìn người khác thành công là các bà thấy flex trong lòng rồi."
+        },
+        {
+          "type": "sub",
+          "icon": "🛑",
+          "title": "2. Góc Tối (Red flag tự thân - Đọc để tỉnh táo nha mấy bà!)"
+        },
+        {
+          "type": "p",
+          "text": "Chăm sóc thiên hạ thì giỏi, nhưng tâm lý của Người Chăm Sóc lại rất dễ bị hổng lỗ chỗ vì những \"cái bẫy\" tự mình giăng ra:"
+        },
+        {
+          "type": "item",
+          "title": "Hội chứng \"Tử đạo\" (Martyr Complex)",
+          "text": "Đây là bẫy dễ sập nhất! Thích ôm rơm rặm bụng, hy sinh bạt mạng, nhịn ăn nhịn mặc lo cho người ta. Nhưng sâu thẳm bên trong lại âm thầm tính toán và uất ức ngầm: *\"Tại sao mình cho đi nhiều vậy mà người ta vô tâm thế?\"*. Tự đóng vai nạn nhân của sự tử tế do chính mình tạo ra."
+        },
+        {
+          "type": "item",
+          "title": "Dung túng cho sự \"Toxic\"",
+          "text": "Vì lòng thương người vô đáy, các bà cực kỳ hay bị \"thao túng ngược\". Sẵn sàng bỏ qua red flags, dung túng cho những hành vi ỷ lại, lợi dụng, hay thậm chí là bạo lực tinh thần của đối phương với lý do: *\"Chắc do họ tổn thương nên mới vậy, mình phải bao dung hơn\"*."
+        },
+        {
+          "type": "item",
+          "title": "Thao túng bằng sự tội lỗi (Guilt-tripping)",
+          "text": "Góc tối \"độc hại\" nhất của Caregiver là dùng sự hy sinh để trói buộc người khác. Những câu nói vô thưởng vô phạt như *\"Em đã hy sinh cả tuổi thanh xuân cho anh...\"* hay *\"Tao lo cho mày từng li từng tí thế mà mày...\"* thực chất là một dạng kiểm soát, ép người ta phải nợ ân tình và sống theo ý mình."
+        },
+        {
+          "type": "item",
+          "title": "Cạn kiệt năng lượng (Burnout)",
+          "text": "Cho đi vô tội vạ mà quên mất việc thiết lập ranh giới (boundaries). Các bà liên tục rút cạn chiếc cốc năng lượng của mình cho thiên hạ, đến lúc bản thân kiệt quệ, sụp đổ thì không biết bấu víu vào đâu vì đã quen làm chỗ dựa cho người khác."
+        },
+        {
+          "type": "item",
+          "title": "Các bà hệ Caregiver nhớ kỹ nha",
+          "text": "Lòng tốt không có ranh giới chính là mảnh đất màu mỡ cho sự lợi dụng. Hãy thương người bằng cái tâm ấm áp, nhưng phải bảo vệ mình bằng một cái đầu lạnh!"
+        }
+      ]
+    },
+    {
+      "id": "core",
+      "title": "Lõi Tính Cách (Bản chất thật sự bên trong)",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Nếu lõi của Thiếu Nữ là Khả năng Đón nhận (Receptivity), thì lõi của The Caregiver chính là **Sự Trao Đi Vô Điều Kiện (Unconditional Compassion)**. Động lực sâu thẳm nhất của các bà được xây dựng trên 3 trụ cột này:"
+        },
+        {
+          "type": "item",
+          "title": "Bản năng bảo hộ (The Protector Instinct)",
+          "text": "Các bà nhìn thế giới không phải qua lăng kính mộng mơ, mà qua đôi mắt của một người mang sứ mệnh che chở. Thấy ai yếu thế, bất công hay buồn bã, hệ thần kinh của các bà tự động bật mode \"cứu rỗi\" mà không cần suy nghĩ thiệt hơn."
+        },
+        {
+          "type": "item",
+          "title": "Nhu cầu \"Được cần đến\" (The Need to be Needed)",
+          "text": "Nghe hơi \"suy\" nhưng đây là sự thật. Định vị giá trị bản thân của Caregiver thường gắn liền với sự hữu ích của họ đối với người khác. Cảm giác hạnh phúc nhất của các bà là khi ai đó nói: *\"Trời ơi, không có bà chắc tôi chết!\"*. Việc được người khác dựa dẫm chính là \"nguồn sống\" tâm lý của các bà."
+        },
+        {
+          "type": "item",
+          "title": "Lòng vị tha vô cực (Boundless Altruism)",
+          "text": "Cái tôi (Ego) của các bà rất thấp khi đứng trước người mình yêu thương. Sẵn sàng chịu thiệt một chút, lùi lại phía sau một bước miễn là êm nhà êm cửa, mọi người xung quanh được bình an."
+        },
+        {
+          "type": "sub",
+          "icon": "🛑",
+          "title": "Những Điểm Cần Lưu Ý (Đọc để chấn chỉnh lại nết, bớt khổ nha!)"
+        },
+        {
+          "type": "p",
+          "text": "Mang năng lượng Caregiver là một điều tuyệt vời, nhưng nếu không biết cách kiểm soát, các bà sẽ tự biến mình thành \"người hầu cảm xúc\" cho thiên hạ. Nhớ kỹ những cẩm nang sinh tồn này:"
+        },
+        {
+          "type": "item",
+          "title": "Setup \"Ranh Giới Thép\" (Set Firm Boundaries)",
+          "text": "Lòng tốt của các bà là vô giá, đừng để người khác xài như đồ free! Phải học cách nói \"KHÔNG\" một cách điềm tĩnh và dứt khoát. Người thực sự tôn trọng bà sẽ không vì một cái lắc đầu mà quay lưng, còn kẻ bỏ đi chỉ vì bà ngừng hy sinh thì... tiễn vong sớm cho rảnh nợ!"
+        },
+        {
+          "type": "item",
+          "title": "Tránh bẫy \"Mẹ thiên hạ\" (Từ bỏ Micromanagement)",
+          "text": "Ranh giới giữa sự quan tâm và sự kiểm soát nó mong manh lắm mấy bà. Đừng cố giải quyết hộ mọi vấn đề hay làm bài tập thay cho người đời. Hãy lùi lại, để người ta tự vấp ngã và tự chịu trách nhiệm. Bà chỉ nên đóng vai trò là \"trạm sạc\" khi họ cần nghỉ ngơi, chứ không phải là người \"gánh tạ\" thay họ."
+        },
+        {
+          "type": "item",
+          "title": "Nguyên tắc \"Chiếc cốc đầy\" (Self-care First)",
+          "text": "Bà không thể rót nước cho người khác khi chiếc cốc của mình đã cạn khô. Hãy ngừng cảm thấy tội lỗi khi dành thời gian và tiền bạc cho bản thân. Tự thưởng cho mình những thứ thiết kế thật sang trọng, đi spa, tận hưởng không gian riêng tư,... Đầu tư vào bản thân mới là cách để năng lượng chữa lành của bà luôn ở trạng thái \"full bình\"."
+        },
+        {
+          "type": "item",
+          "title": "Tập chấp nhận sự không hoàn hảo",
+          "text": "Đừng ôm đồm kỳ vọng rằng bà có thể cứu rỗi và làm hài lòng tất cả mọi người trên thế giới này. Sẽ có những người bà không thể giúp, và sẽ có những mâu thuẫn bà không thể dập. Chấp nhận buông bỏ những thứ nằm ngoài tầm kiểm soát để tâm trí nhẹ nhàng hơn."
+        },
+        {
+          "type": "p",
+          "text": "Trưởng thành thực sự của một Caregiver không phải là ngừng yêu thương thế giới, mà là **biết đưa tên mình lên vị trí top 1 trong danh sách những người cần được chăm sóc**!"
+        }
+      ]
+    },
+    {
+      "id": "love",
+      "title": "Bạn muốn một tình yêu như nào",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "nếu đã mang trong mình hệ điều hành The Caregiver (Người Chăm Sóc), thì gu tình yêu và những mong cầu sâu thẳm của các bà thường đi theo một hệ tư tưởng rất đặc thù. Chuyên mục **\"Bạn muốn một tình yêu như nào\"** lên sóng, lấy sổ tay ra note lại để tỉnh táo lúc yêu nha!"
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "1. Cái các bà TƯỞNG mình muốn (Và rất dễ sập bẫy)"
+        },
+        {
+          "type": "item",
+          "title": "Hệ \"Cờ đỏ mang nhiều tổn thương\"",
+          "text": "Trái tim của The Caregiver rất dễ \"rung rinh\" trước những người có quá khứ xót xa, những anh chàng/cô nàng mang nhiều tâm sự. Các bà thích cảm giác đóng vai \"bà tiên\", nhảy vào cuộc đời họ để yêu thương, chữa lành và kỳ vọng mình sẽ \"cảm hóa\" được họ."
+        },
+        {
+          "type": "item",
+          "title": "Tình yêu kiểu \"Để đó em lo tất\"",
+          "text": "Các bà thấy hạnh phúc khi được chăm sóc người yêu từ bữa ăn, giấc ngủ, dọn dẹp từng cái quần cái áo. Cảm giác \"đối phương không thể sống thiếu mình\" làm các bà lầm tưởng đó là một tình yêu sâu đậm không thể chia lìa."
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "2. Cái các bà THỰC SỰ khao khát (Tình yêu lý tưởng giúp bà không bị \"lụy\")"
+        },
+        {
+          "type": "p",
+          "text": "Sự thật là, nếu cứ theo đuổi những thứ ở mục 1, các bà sẽ rất nhanh kiệt sức. Sâu thẳm bên trong, đây mới là thứ một Caregiver thực sự cần để thấy an toàn:"
+        },
+        {
+          "type": "item",
+          "title": "Một mối quan hệ \"Bình Đẳng\" chứ không phải \"Phụ Huynh - Con Cái\"",
+          "text": "Các bà đi làm gánh team, ra đường gánh thiên hạ là đủ mệt rồi! Cái các bà cần là một người trưởng thành (green flag), có khả năng tự lo cho cuộc sống của họ. Họ bước vào mối quan hệ để đồng hành, san sẻ, chứ không phải để tìm một người \"mẹ thứ hai\" chăm bẵm mình."
+        },
+        {
+          "type": "item",
+          "title": "Sự Trân Trọng (Appreciation) tuyệt đối",
+          "text": "Quan tâm người khác là bản năng, nhưng Caregiver rất uất ức nếu bị coi những hy sinh đó là \"điều hiển nhiên\" (take it for granted). Các bà khao khát một người biết nói lời cảm ơn chân thành, biết ghi nhận và trân trọng những chi tiết nhỏ bé mà bà đã làm vì họ."
+        },
+        {
+          "type": "item",
+          "title": "Một bến đỗ cho phép bà được quyền \"Yếu Đuối\"",
+          "text": "Bình thường luôn phải tỏ ra mạnh mẽ để che chở mọi người, nhưng thực ra các bà rất thèm một bờ vai vững chãi. Một người biết chủ động xắn tay áo lên rửa bát, biết ôm bà vào lòng và hỏi: *\"Hôm nay đi làm em có mệt không? Để anh xoa đầu cho nhé\"*. Ở bên người đó, các bà được phép tháo mặt nạ \"wonder woman\" xuống và làm một cô gái nhỏ."
+        },
+        {
+          "type": "item",
+          "title": "Sự thấu cảm hai chiều (Two-way Empathy)",
+          "text": "Các bà luôn là trạm sạc của người khác, nên trong tình yêu, các bà khao khát đối phương cũng phải có EQ đủ cao để tinh tế nhận ra lúc nào bà đang tụt mood, lúc nào bà đang cố gồng để mà vỗ về."
+        },
+        {
+          "type": "tip",
+          "text": "Lời khuyên chốt hạ: Đừng đi tìm người để \"chữa lành\" nữa mấy bà ơi! Tình yêu lý tưởng nhất của The Caregiver là tìm được một người đã tự chữa lành xong xuôi rồi, họ bước vào cuộc đời các bà chỉ để cùng nhau chill, cùng san sẻ gánh nặng và rót thêm sự ngọt ngào thôi nha."
+        }
+      ]
+    },
+    {
+      "id": "perception",
+      "title": "Người khác nghĩ gì về bạn",
+      "blocks": [
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "1. Ấn tượng tích cực (Aura chói lóa, điểm 10 uy tín)"
+        },
+        {
+          "type": "item",
+          "title": "\"Mom of the group\" (Người mẹ của năm)",
+          "text": "Trong nhóm bạn, bà đích thị là người giữ túi xách, nhắc nhở lịch trình, mang theo urgo hay kẹo ngọt. Mọi người nhìn bà với ánh mắt cực kỳ nể trọng và tin tưởng tuyệt đối. Có biến là réo tên bà đầu tiên!"
+        },
+        {
+          "type": "item",
+          "title": "\"Trạm sạc dự phòng\" siêu cấp vi diệu",
+          "text": "Khí chất của bà tỏa ra sự an toàn. Người ngoài nhìn vào luôn thấy bà là một người ấm áp, dịu dàng, lắng nghe đỉnh cao. Trong mắt những ai đang tổn thương, bà giống như một chiếc phao cứu sinh vậy."
+        },
+        {
+          "type": "item",
+          "title": "\"Bảo chứng của uy tín\"",
+          "text": "Sếp và đồng nghiệp (những người tử tế) cực kỳ thích làm việc với bà vì biết bà làm việc bằng cái tâm. Giao việc cho bà là kê cao gối ngủ, không bao giờ sợ trễ deadline hay làm ẩu."
+        },
+        {
+          "type": "sub",
+          "icon": "🛑",
+          "title": "2. Những điểm dễ bị \"hiểu lầm\" (Nghe hơi chạnh lòng nha)"
+        },
+        {
+          "type": "item",
+          "title": "Dễ bị gán mác \"Bà thím hay cằn nhằn\"",
+          "text": "Vì bản tính lo xa, hay nhắc nhở từng li từng tí (nhớ mặc áo ấm, đi đường cẩn thận, làm cái này chưa làm cái kia chưa), đối phương (đặc biệt là người yêu hoặc những người có cái tôi cao) sẽ dễ cảm thấy bà đang \"lải nhải\", rắc rối và muốn kiểm soát cuộc sống của họ (micromanage)."
+        },
+        {
+          "type": "item",
+          "title": "Bị xem là \"Dễ dãi, dễ bắt nạt\"",
+          "text": "Đây là cái giá của việc không biết nói \"Không\". Những kẻ toxic hoặc cơ hội ở chốn công sở/ngoài xã hội sẽ nhìn sự hiền lành, hay nhượng bộ của bà thành sự yếu đuối. Họ nghĩ: *\"Cứ đùn việc cho nó đi, nó không dám phản kháng đâu\"*."
+        },
+        {
+          "type": "item",
+          "title": "Mang tiếng \"Lo chuyện bao đồng\"",
+          "text": "Đôi khi vì thương người quá mức, bà nhảy vào giúp đỡ cả những chuyện người ta... không mướn. Hệ quả là người ta không những không biết ơn mà còn quay sang khó chịu vì nghĩ bà xen vào chuyện bao đồng, không biết giữ khoảng cách."
+        },
+        {
+          "type": "item",
+          "title": "Nhàm chán (Thiếu gia vị bất ngờ)",
+          "text": "Vì lúc nào cũng đặt người khác lên trên hết, luôn chọn phương án an toàn nhất cho tập thể, đôi khi người ta sẽ thấy các bà hơi thiếu đi sự nổi loạn, cá tính cá nhân hay sự thú vị, bí ẩn."
+        },
+        {
+          "type": "tip",
+          "text": "Chốt lại nè: Giao diện của The Caregiver trong mắt thiên hạ luôn là một người TỐT. Nhưng mấy bà ơi, làm người tốt thôi chưa đủ, phải làm \"Người tốt có ranh giới\". Hãy để sự tử tế của mình là một đặc ân (ai xứng đáng mới được nhận), chứ đừng biến nó thành một món đồ free ai muốn lấy thì lấy nha!"
+        }
+      ]
+    },
+    {
+      "id": "reactions",
+      "title": "Cách chúng mình phản ứng",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Nếu Thiếu Nữ mộng mơ thường chọn cách lùi lại để tự bảo vệ mình khi có biến, thì hệ điều hành **The Caregiver (Người Chăm Sóc)** lại \"nhảy số\" theo một hệ tư tưởng hoàn toàn khác."
+        },
+        {
+          "type": "p",
+          "text": "Đọc ngay cách các bà đối mặt với 3 tình huống \"sóng gió\" này để coi tui nói có chuẩn tim đen không nha:"
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "1. Cách Bà Xử Lý Khi Mọi Thứ Rối Tung Lên (Khủng Hoảng ập đến)"
+        },
+        {
+          "type": "item",
+          "title": "Bật mode \"Siêu nhân gánh tạ\"",
+          "text": "Càng rối, các bà lại càng... tỉnh. Trực giác bảo hộ trỗi dậy mạnh mẽ. Trong khi người ta hoảng loạn, gào thét thì Caregiver sẽ lập tức xắn tay áo lên, đứng ra dọn dẹp tàn cuộc và trở thành mỏ neo vững chắc nhất cho những người xung quanh."
+        },
+        {
+          "type": "item",
+          "title": "Lấy thân mình lấp lỗ hổng",
+          "text": "Các bà dùng 200% công lực để vỗ về cảm xúc của người khác và sửa chữa sai lầm giùm họ. Nhưng khổ nỗi, bà lo dập lửa cho thiên hạ xong xuôi hết rồi mới sực nhớ ra... nhà mình cũng đang cháy, và bản thân thì đã kiệt quệ năng lượng từ đời nào."
+        },
+        {
+          "type": "item",
+          "title": "Dễ rơi vào kiểm soát (Micromanage)",
+          "text": "Vì quá sợ hãi mọi thứ đổ vỡ làm ảnh hưởng đến những người mình thương, đôi khi các bà sẽ can thiệp quá sâu vào việc của người khác với câu cửa miệng: *\"Thôi đưa đây tao làm cho nhanh!\"*."
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "2. Khi Ở Trong Một Tập Thể (Teamwork, Nhóm bạn)"
+        },
+        {
+          "type": "item",
+          "title": "\"Mama tổng quản\" đích thực",
+          "text": "Bà chính là chất keo dính, là người điều hòa không khí. Từ việc order ly trà sữa bao nhiêu phần trăm đá, đến việc xoa dịu cái tôi gay gắt của mấy đứa \"mỏ hỗn\" trong team, một tay bà lo hết."
+        },
+        {
+          "type": "item",
+          "title": "Sợ mất lòng, sợ xung đột",
+          "text": "Các bà sẵn sàng lùi lại phía sau, nhường hào quang (spotlight) cho đứa khác tỏa sáng chỉ để giữ được sự dĩ hòa vi quý."
+        },
+        {
+          "type": "item",
+          "title": "Thánh \"ôm rơm rặm bụng\"",
+          "text": "Vì cái tính không biết nói \"Không\" và luôn sợ người khác phật ý, các bà thường xuyên bị đùn đẩy cho ba cái task lặt vặt không tên (kiểu như đi mua đồ, làm biên bản, dọn dẹp,...). Gánh còng lưng nhưng ngoài mặt vẫn phải tươi cười!"
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "3. Khi Không Được Hiểu / Bị Vô Tâm (Góc uất ức ngầm)"
+        },
+        {
+          "type": "p",
+          "text": "Đây là lúc The Caregiver dễ bộc lộ những góc tối tâm lý nhất nè:"
+        },
+        {
+          "type": "item",
+          "title": "Bật mode \"Tử đạo\" (Hy sinh thầm lặng)",
+          "text": "Khi sự quan tâm bị phớt lờ hay bị coi là điều hiển nhiên, các bà sẽ KHÔNG bù lu bù loa lên đòi quyền lợi đâu. Thay vào đó, bà chọn cách im lặng tủi thân và đóng vai nạn nhân trong chính vở kịch của mình."
+        },
+        {
+          "type": "item",
+          "title": "Gặm nhấm sự uất ức (Overthinking)",
+          "text": "Trong đầu các bà sẽ liên tục nảy số những suy nghĩ xót xa: *\"Tại sao mình lo cho nó từng li từng tí mà nó vô tâm như vậy?\", \"Mình hy sinh cả thanh xuân mà nhận lại được gì?\"*. Cảm giác bất công này bào mòn tâm trí các bà mỗi đêm."
+        },
+        {
+          "type": "item",
+          "title": "Cơ chế tự vệ độc hại (Guilt-tripping)",
+          "text": "Thay vì giao tiếp thẳng thắn là *\"Tui đang buồn vì bà không quan tâm tui\"*, các bà lại buông những câu dỗi hờn, trách móc vu vơ để đối phương phải cảm thấy tội lỗi. Hoặc thậm chí, bà lại càng... lao vào chăm sóc người ta nhiều hơn gấp bội chỉ để chứng minh giá trị của mình, mong người ta sẽ hối hận mà quay lại trân trọng bà."
+        },
+        {
+          "type": "tip",
+          "text": "Chốt hạ cho The Caregiver nè: Thương người là tốt, nhưng lúc mọi thứ rối ren hay khi không được thấu hiểu, hãy nhớ chừa lại cho mình một con đường lùi! Nếu người ta không hiểu sự hy sinh của bà, thì việc bà cần làm là RÚT LẠI sự quan tâm đó và đắp vào cho chính mình, chứ không phải là cố gắng hy sinh nhiều hơn nữa đâu nha!"
+        }
+      ]
+    },
+    {
+      "id": "strengths",
+      "title": "Điểm mạnh thật sự",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "**Điểm mạnh thật sự (True Strengths)** làm nên thương hiệu của The Caregiver nha! Không phải tự nhiên mà ai cũng muốn có một người bạn, người đồng nghiệp hay người yêu mang hệ điều hành này đâu."
+        },
+        {
+          "type": "p",
+          "text": "Sức mạnh của các bà không nằm ở sự hô hào đao to búa lớn hay tranh giành quyền lực, mà nó nằm ở \"quyền lực mềm\" siêu đẳng có khả năng thu phục nhân tâm nghen:"
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "1. Năng Lực \"Healing\" Cấp Độ Max (Master of Healing)"
+        },
+        {
+          "type": "item",
+          "title": "Trạm sạc nhân gian",
+          "text": "Các bà có khả năng tỏa ra một thứ tần số bình yên đến lạ lùng. Người ta đang stress ngập đầu, giông bão tơi bời mà chỉ cần ngồi cạnh bà, ăn bữa cơm bà nấu, hay nghe bà xoa dịu vài câu là tự nhiên tâm tịnh lại liền."
+        },
+        {
+          "type": "item",
+          "title": "Thấu cảm không phán xét",
+          "text": "Không cần người ta phải rặn ra từng chữ, các bà dùng trực giác thần sầu để hiểu nỗi đau của họ. Sự bao dung vô đáy giúp các bà xoa dịu tổn thương của người khác cực mượt mà không hề làm họ thấy bị thương hại hay bị dạy đời."
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "2. Cột Trụ Vững Chắc - \"Gánh Team\" Bất Diệt"
+        },
+        {
+          "type": "item",
+          "title": "Soft outside, hardcore inside",
+          "text": "Nhìn giao diện bên ngoài có vẻ bánh bèo, hay nhường nhịn, nhưng đụng chuyện thì The Caregiver là những chiến thần sinh tồn mạnh mẽ nhất. Khả năng chịu đựng áp lực và gồng gánh cho gia đình/tập thể của các bà phải gọi là \"out trình\"."
+        },
+        {
+          "type": "item",
+          "title": "Hành động thiết thực (Action > Words)",
+          "text": "Mấy bà không bao giờ xài văn mẫu sáo rỗng kiểu *\"Cố lên nha!\"*. Điểm mạnh thực sự là bà trực tiếp xắn tay áo lên làm: dọn dẹp lại đống bừa bộn, pha ly trà ấm, hay âm thầm xử lý phần task khó nhằn giúp đồng đội vượt ải."
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "3. \"Ngoại Giao Mềm\" Hóa Giải Mọi Drama"
+        },
+        {
+          "type": "item",
+          "title": "Bậc thầy dập lửa",
+          "text": "Trong một tập thể toàn những \"chiến thần mỏ hỗn\" hay những cái tôi to như cái đình, các bà chính là dòng nước mát làm hạ nhiệt mọi cuộc chiến. Các bà biết cách trung hòa mâu thuẫn bằng sự tinh tế, thấu tình đạt lý mà không cần phải lớn tiếng cãi vã."
+        },
+        {
+          "type": "item",
+          "title": "Nuôi dưỡng nhân tài (The Nurturer)",
+          "text": "Điểm sáng rực rỡ nhất là khả năng nhìn ra viên ngọc ẩn trong mỗi người. Bà dùng sự khích lệ để \"tưới tắm\" cho họ tự tin tỏa sáng. Nếu làm leader, bà đích thị là người lãnh đạo dùng đắc nhân tâm để thu phục lòng người chứ không thèm dùng quyền lực ép buộc."
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "4. Sự Tử Tế Nguyên Bản (Radical Generosity)"
+        },
+        {
+          "type": "item",
+          "title": null,
+          "text": "Giữa một thế giới đầy sự tính toán, hoài nghi và \"hở ra là thao túng\", việc các bà vẫn giữ được trái tim ấm áp, sẵn sàng cho đi vô điều kiện chính là một loại **dũng khí cực kỳ lớn**. Lòng tốt của các bà không phải là sự ngây ngô dại dột, mà đó là một sự lựa chọn đầy kiêu hãnh và bản lĩnh!"
+        }
+      ]
+    },
+    {
+      "id": "blindspots",
+      "title": "Những điểm mù cần để ý",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Sự tử tế của Người Chăm Sóc đôi khi lại chính là con dao hai lưỡi tự cứa vào mình và cả người khác, nếu mấy bà lỡ sa vào những điểm mù này:"
+        },
+        {
+          "type": "item",
+          "title": "Bẫy \"Tạo ra những kẻ ỷ lại\" (Enabling)",
+          "text": "Mấy bà cứ tưởng ôm hết việc vào người, làm thay cho người yêu/bạn bè là đang giúp họ. Nhưng không! Điểm mù lớn nhất là các bà đang tước đi cơ hội trưởng thành của người ta, biến một người bình thường thành một \"em bé to xác\" vô dụng và ỷ lại hoàn toàn vào bà."
+        },
+        {
+          "type": "item",
+          "title": "Thao túng bằng tình thương (Guilt-tripping ngầm)",
+          "text": "Đây là điểm mù đáng sợ nhất mà Caregiver thường không tự nhận ra. Dù miệng nói \"cho đi không cần nhận lại\", nhưng sâu thẳm các bà lại dùng sự hy sinh đó làm một sợi dây trói buộc. Những câu kiểu: *\"Tui đã vì bà mà làm tới mức này rồi...\"* thực chất là đang ép người ta vào thế nợ ân tình, ép họ phải sống theo kỳ vọng của mình."
+        },
+        {
+          "type": "item",
+          "title": "Hội chứng \"Say no\" với bản thân",
+          "text": "Khả năng thấu hiểu ranh giới của The Caregiver cực kỳ mờ nhạt. Nhìn thấy ai khổ là tự động vứt bỏ nguyên tắc của mình để lao vào cứu. Điểm mù ở đây là các bà lầm tưởng rằng \"từ chối giúp đỡ = mình là người tồi tệ/ích kỷ\"."
+        },
+        {
+          "type": "item",
+          "title": "Cái tôi của sự \"Cần thiết\" (Ego of being needed)",
+          "text": "Các bà vô thức dính chặt giá trị bản thân vào việc \"mình có ích cho người ta không\". Nếu một ngày người yêu hay bạn bè đột nhiên tự lập, tự lo được hết mọi thứ, bà lại đâm ra hụt hẫng, trống rỗng vì thấy mình \"hết giá trị lợi dụng\"."
+        }
+      ]
+    },
+    {
+      "id": "conflict",
+      "title": "Mâu thuẫn lớn nhất",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Mâu thuẫn kinh điển nhất cấu xé tâm can của một Caregiver mỗi đêm muộn chính là sự giằng xé giữa: **Khao khát được làm \"nạn nhân bé nhỏ\" CẦN được che chở** VÀ **Trách nhiệm phải làm \"siêu nhân\" GÁNH VÁC mọi thứ**."
+        },
+        {
+          "type": "item",
+          "title": "Vừa thèm được chăm sóc, lại vừa đẩy người ta ra",
+          "text": "Tận sâu bên trong, The Caregiver cực kỳ thèm khát một bờ vai vững chãi, một người tinh tế để mình được phép yếu đuối, được khóc òa và nói *\"Em mệt quá!\"*. Nhưng ác nỗi, mỗi khi có ai đó định bước vào chăm sóc lại, cái vỏ bọc \"tui ổn, tui tự lo được\" lại tự động bật lên. Các bà không biết cách nhận lại (Receive) vì đã quá quen với việc cho đi (Give)."
+        },
+        {
+          "type": "item",
+          "title": "Nỗi sợ bị bỏ rơi (Fear of Abandonment) đằng sau lớp áo vị tha",
+          "text": "Vì sao các bà lại phải cố gắng hy sinh lòi bản họng như vậy? Mâu thuẫn ở đây là: Các bà dùng sự chăm sóc để mua lấy tình yêu và sự an toàn. Sâu thẳm bên trong là một nỗi sợ tột cùng: *\"Nếu mình ngừng ngoan ngoãn, ngừng hy sinh, ngừng có ích... thì liệu họ có còn thương mình và ở lại bên mình không?\"*."
+        },
+        {
+          "type": "item",
+          "title": "Yêu người khác nhưng lại tàn nhẫn với chính mình",
+          "text": "Bà có thể thức trắng đêm để nghe một người bạn khóc lóc, sẵn sàng dốc cạn túi mua cho người yêu món quà đắt tiền. Nhưng khi bản thân kiệt sức, ốm đau hay tủi thân, bà lại tự gạt đi: *\"Thôi chả sao đâu, chịu đựng tí là qua\"*. Các bà đóng vai vị cứu tinh của cả thế giới, trừ chính bản thân mình."
+        },
+        {
+          "type": "p",
+          "text": "Cuộc chiến lớn nhất của The Caregiver là học cách chấp nhận sự thật rớt nước mắt này: **Giá trị của bà nằm ở việc BÀ LÀ AI, chứ không phải ở việc BÀ LÀM ĐƯỢC GÌ cho người khác.**"
+        }
+      ]
+    },
+    {
+      "id": "challenges",
+      "title": "Những thách thức nào bạn có thể sẽ gặp phải trong các mối quan hệ",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Mang hệ điều hành The Caregiver (Người Chăm Sóc) vào các mối quan hệ (từ tình yêu, bạn bè đến đồng nghiệp) thì đúng kiểu \"trái tim lầm lỡ để trên đầu\". Sự dịu dàng vô bờ bến của các bà nếu không có \"ranh giới thép\" thì rất dễ va phải những \"kiếp nạn\" cực kỳ đặc thù sau đây:"
+        },
+        {
+          "type": "sub",
+          "icon": "🛑",
+          "title": "1. \"Thỏi Nam Châm\" Hút Cờ Đỏ (Red Flag Magnet)"
+        },
+        {
+          "type": "item",
+          "title": "Bản chất",
+          "text": "Vì các bà tỏa ra năng lượng bao dung và thích chữa lành, mấy đối tượng toxic, mang nhiều tổn thương, hoặc những kẻ thích thao túng (narcissist) sẽ tự động \"đánh hơi\" thấy và bám lấy bà như một chiếc phao cứu sinh."
+        },
+        {
+          "type": "item",
+          "title": "Biểu hiện",
+          "text": "Thay vì thu hút những mối quan hệ bình đẳng, khỏe mạnh (green flag), các bà lại hay vướng vào những người có tính ỷ lại, ích kỷ hoặc luôn gặp rắc rối. Các bà tự huyễn hoặc mình là \"tình yêu của tôi sẽ cảm hóa được anh ấy/cô ấy\", nhưng cuối cùng người bị bào mòn năng lượng lại chính là bà."
+        },
+        {
+          "type": "sub",
+          "icon": "🛑",
+          "title": "2. Yêu Đương Hay Đi \"Nhận Nuôi\"? (Mô hình Phụ Huynh - Con Cái)"
+        },
+        {
+          "type": "item",
+          "title": "Bản chất",
+          "text": "Các bà thích chăm sóc người ta từ cái quần, cái áo, đến bữa ăn giấc ngủ. Quá chiều chuộng sẽ tước đi khả năng tự lập của đối phương."
+        },
+        {
+          "type": "item",
+          "title": "Biểu hiện",
+          "text": "Ban đầu thì ngọt ngào đó, nhưng dần dà đối phương sẽ biến thành \"em bé to xác\" chỉ biết há miệng chờ sung, còn bà thì hóa thành một \"người mẹ thứ hai\" lúc nào cũng cằn nhằn, dọn dẹp. Mối quan hệ mất đi sự hấp dẫn giới tính, sự tôn trọng và bà sẽ thấy kiệt sức vì phải \"gánh\" thêm một đứa trẻ trong lốt người lớn."
+        },
+        {
+          "type": "sub",
+          "icon": "🛑",
+          "title": "3. Quả Bom Nổ Chậm \"Uất Ức Ngầm\" (Passive-Aggressive)"
+        },
+        {
+          "type": "item",
+          "title": "Bản chất",
+          "text": "Các bà lúc nào cũng \"say yes\", ôm đồm hy sinh và tự nhủ mình không cần nhận lại. Nhưng sâu thẳm, con người ai cũng cần được trân trọng."
+        },
+        {
+          "type": "item",
+          "title": "Biểu hiện",
+          "text": "Khi đối phương vô tâm vô mưu, coi sự hy sinh của bà là điều hiển nhiên (take it for granted), bà sẽ không cãi lộn tung nóc đâu. Bà chọn cách im lặng, tủi thân, mặt nặng mày nhẹ và ném ra những câu nói dỗi hờn, trách móc ngầm. Cục tức này tích tụ lâu ngày sẽ giết chết mối quan hệ từ bên trong."
+        },
+        {
+          "type": "sub",
+          "icon": "🛑",
+          "title": "4. Đánh Mất Bản Sắc Cá Nhân (Losing Yourself)"
+        },
+        {
+          "type": "item",
+          "title": "Bản chất",
+          "text": "Tính cách hòa đồng và sự ưu tiên nhu cầu của người khác khiến The Caregiver rất dễ bị \"hòa tan\"."
+        },
+        {
+          "type": "item",
+          "title": "Biểu hiện",
+          "text": "Đi ăn chọn món bạn thích, xem phim chọn rạp bồ thích, mua đồ cũng lựa theo gu của người ta. Một ngày đẹp trời nhìn lại, bà chợt nhận ra mình không còn biết sở thích cá nhân của mình là gì, cuối tuần rảnh rỗi cũng không biết tự làm gì cho vui nếu không có ai đó để chăm sóc."
+        },
+        {
+          "type": "sub",
+          "icon": "🛑",
+          "title": "5. Nỗi Sợ \"Bị Bỏ Rơi\" Khóa Chặt Miệng"
+        },
+        {
+          "type": "item",
+          "title": "Bản chất",
+          "text": "Bà sợ mâu thuẫn, sợ cãi vã, và nỗi sợ lớn nhất là người ta sẽ rời đi nếu bà không còn \"ngoan\" hay không còn \"có ích\" nữa."
+        },
+        {
+          "type": "item",
+          "title": "Biểu hiện",
+          "text": "Dù bị lấn lướt ranh giới, dù bị đối xử bất công, bà vẫn cắn răng chịu đựng và không dám lên tiếng bảo vệ quyền lợi của mình. Bà thà chịu thiệt thòi còn hơn phải đối diện với nguy cơ đổ vỡ."
+        },
+        {
+          "type": "tip",
+          "text": "Tip sinh tồn cho các bà hệ Caregiver: Hãy nhớ, tình yêu và tình bạn khỏe mạnh là sự chuyển giao năng lượng hai chiều. Đừng làm một chiếc \"bình lọc nước\" chỉ biết hút cặn bẩn của thiên hạ rồi trả ra dòng nước sạch. Bà hoàn toàn xứng đáng được ở bên những người biết tự châm nước vào bình của bà mỗi khi nó cạn!"
+        }
+      ]
+    },
+    {
+      "id": "growth",
+      "title": "Hướng phát triển",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Để lột xác và nâng cấp năng lượng The Caregiver (Người Chăm Sóc) lên một tầm cao mới, hành trình của mấy bà không phải là trở nên vô cảm hay ngừng yêu thương thế giới. Sự trưởng thành của một Caregiver là biến sự hy sinh mù quáng thành **sự tử tế có trí tuệ**, và học cách đưa tên mình lên đầu danh sách ưu tiên."
+        },
+        {
+          "type": "p",
+          "text": "Dưới đây là hướng phát triển để các bà vừa giữ được \"hào quang\" thiên thần, vừa không bị thiên hạ bào mòn:"
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "1. Chuyển từ \"Hy Sinh Vô Tội Vạ\" sang \"Tử Tế Có Chọn Lọc\" (Discernment)"
+        },
+        {
+          "type": "item",
+          "title": "Nâng cấp bộ lọc ranh giới",
+          "text": "Lòng tốt của bà là một món quà xa xỉ, không phải là hàng free ai muốn lấy thì lấy. Hãy bắt đầu phân biệt rõ ràng giữa những người thực sự cần giúp đỡ và những kẻ lợi dụng lòng thương hại để lười biếng."
+        },
+        {
+          "type": "item",
+          "title": "Học cách nói \"KHÔNG\" mà không chớp mắt",
+          "text": "Tập từ chối những yêu cầu vô lý một cách điềm tĩnh và không cần giải thích dài dòng hay xin lỗi. *\"Mình rất muốn giúp nhưng hiện tại mình đang quá tải rồi\"* – nói xong mỉm cười nhẹ và quay đi. Việc của bà không phải là làm vừa lòng tất cả mọi người!"
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "2. Ngừng làm \"Bảo Mẫu\", hãy làm \"Người Đồng Hành\" (Empowerment)"
+        },
+        {
+          "type": "item",
+          "title": "Trả lại trách nhiệm cho chính chủ",
+          "text": "Khi người khác gặp rắc rối, thay vì nhảy vào làm hộ, hãy hỏi họ: *\"Vậy bây giờ bạn định giải quyết chuyện này như thế nào?\"*. Bà chỉ nên đóng vai trò lắng nghe và gợi ý, để họ tự vấp ngã và tự chịu trách nhiệm với cuộc đời họ."
+        },
+        {
+          "type": "item",
+          "title": "Chấp nhận sự không hoàn hảo",
+          "text": "Buông bỏ khao khát kiểm soát mọi thứ cho êm đẹp. Hãy để người yêu bà tự sắp xếp quần áo của họ (dù nó có bừa bộn một chút), để đồng nghiệp tự chịu hậu quả cho cái deadline họ làm trễ. Thế giới không sụp đổ khi bà ngừng nhúng tay vào đâu!"
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "3. Tự làm \"Trạm Sạc\" cho chính mình (Radical Self-Care)"
+        },
+        {
+          "type": "item",
+          "title": "Luật \"Chiếc cốc đầy\"",
+          "text": "Khắc cốt ghi tâm nguyên tắc này: Bà không thể rót nước cho ai khi chiếc cốc của mình đã cạn. Dành thời gian, tiền bạc và sự chiều chuộng cho bản thân trước tiên. Đăng ký một khóa học mới, đi spa, mua một món đồ sang trọng tự thưởng cho mình mà không mảy may cảm thấy tội lỗi."
+        },
+        {
+          "type": "item",
+          "title": "Dám đối mặt với cảm xúc thật",
+          "text": "Ngừng gạt bỏ những uất ức ngầm. Khi buồn bã, mệt mỏi hay tức giận, hãy cho phép mình được yếu đuối, được khóc và nói ra nhu cầu của bản thân thay vì cắn răng chịu đựng để giữ hòa khí."
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "4. Tích hợp thêm năng lượng bổ trợ (Nâng cấp giao diện)"
+        },
+        {
+          "type": "item",
+          "title": "Mượn năng lượng Nữ Hoàng (The Ruler/The Queen)",
+          "text": "Đeo lên đầu chiếc vương miện của sự tự tôn! Kích hoạt sự quyết đoán, thiết lập các bộ quy tắc thép cho những ai muốn bước vào cuộc đời bà. Kẻ nào vi phạm ranh giới hoặc có thái độ \"take it for granted\" (coi sự hy sinh của bà là hiển nhiên) thì thẳng tay \"tiễn vong\"."
+        },
+        {
+          "type": "item",
+          "title": "Mượn năng lượng Chiến Binh (The Warrior)",
+          "text": "Học cách chiến đấu để bảo vệ quyền lợi cá nhân trong công việc. Đừng chỉ âm thầm gánh team nữa, hãy mạnh dạn đứng lên đòi hỏi sự công nhận, thăng tiến và mức lương xứng đáng với giá trị mình tạo ra."
+        },
+        {
+          "type": "tip",
+          "text": "The Empowered Caregiver (Người Chăm Sóc Đỉnh Cao) không phải là người mẹ vĩ đại ôm đồm mọi gánh nặng của thế giới, mà là một người phụ nữ sở hữu trái tim ấm áp nhất nhưng cũng có những ranh giới sắt đá nhất. Khi bà biết tự yêu lấy mình, thứ năng lượng tỏa ra không còn là sự hy sinh bi lụy, mà là một sức hút quyền lực khiến ai cũng phải nể trọng!"
+        }
+      ]
+    },
+    {
+      "id": "relationships",
+      "title": "Làm sao để cải thiện các mối quan hệ xã hội",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Okela mấy bà, tới phần cốt lõi để \"cứu giá\" các mối quan hệ cho hệ Caregiver đây!"
+        },
+        {
+          "type": "p",
+          "text": "Lấy sổ ra note lại ngay chiến lược để vừa giữ được sự tử tế, vừa không bị thiên hạ \"bào\" nha:"
+        },
+        {
+          "type": "sub",
+          "icon": "🌟",
+          "title": "PHẦN 1: Cứu Vãn Các Mối Quan Hệ Xã Hội (Bạn bè, Đồng nghiệp)"
+        },
+        {
+          "type": "p",
+          "text": "Để không bị biến thành \"công cụ giải trí\" hay \"người hầu cảm xúc\" của thiên hạ, các bà Caregiver phải setup lại hệ điều hành giao tiếp liền:"
+        },
+        {
+          "type": "item",
+          "title": "Dẹp ngay cái nết làm \"Thùng rác cảm xúc\" (Stop Trauma Dumping)",
+          "text": "Bà là trạm sạc, không phải bãi rác! Khi có đứa bạn hở ra là than vãn, hút cạn năng lượng của bà ngày này qua tháng nọ, hãy dùng ranh giới mềm: *\"Tui rất thương bà, nhưng hôm nay năng lượng tui hơi thấp, tui không nghe bà tâm sự trọn vẹn được, mình nói chuyện này sau nha\"*."
+        },
+        {
+          "type": "item",
+          "title": "Luật \"Có qua có lại\" (Two-way Street)",
+          "text": "Thanh lọc lại vòng tròn bạn bè đi mấy bà. Ưu tiên giữ lại những mối quan hệ mang tính **hai chiều**. Tức là người ta không chỉ tìm đến bà khi họ khóc, mà khi bà tụt mood, gục ngã, họ cũng sẵn sàng xắn tay áo lên mua ly trà sữa, chạy qua ôm bà một cái. Đừng tốn thời gian nuôi dưỡng những kẻ chỉ biết \"rút\" mà không biết \"nạp\"."
+        },
+        {
+          "type": "item",
+          "title": "Có gì nói nấy, ngưng dỗi ngầm (Direct Communication)",
+          "text": "Bà phật ý chuyện gì, đồng nghiệp đùn đẩy việc ra sao, làm ơn MỞ MIỆNG RA NÓI. Dùng cấu trúc: *\"Khi việc này xảy ra, mình cảm thấy... Mình muốn chúng ta...\"*. Ngừng ngay việc im lặng, gặm nhấm uất ức rồi ném ra những câu passive-aggressive (đá thúng đụng nia) khiến không khí trở nên toxic."
+        },
+        {
+          "type": "sub",
+          "icon": "💕",
+          "title": "PHẦN 2: \"Trị Bệnh\" Trong Tình Yêu (Yêu sao cho đừng lụy?)"
+        },
+        {
+          "type": "p",
+          "text": "Tình yêu của Caregiver rất đẹp, nhưng toàn tự mình làm khổ mình. Muốn có một mối tình green flag, yên bình và slay, thì phải chấn chỉnh ngay:"
+        },
+        {
+          "type": "item",
+          "title": "Tuyên bố \"Nghỉ hưu\" vai trò Bảo Mẫu",
+          "text": "Đừng làm \"mẹ thiên hạ\" trong tình yêu nữa! Bớt dọn dẹp thay, bớt nhắc nhở lịch trình, bớt lo từ cái quần tới bữa ăn. Hãy trả lại quyền tự lập cho người yêu. Để người ta tự chịu trách nhiệm với cuộc sống của họ. Bà chỉ đóng vai trò là người yêu, người đồng hành để âu yếm, lãng mạn thôi!"
+        },
+        {
+          "type": "item",
+          "title": "Giao tiếp thẳng thắn thay vì \"Thao túng bằng tội lỗi\" (Guilt-tripping)",
+          "text": "Khi bà thấy người ta vô tâm, cấm tuyệt đối xài văn mẫu: *\"Em đã hy sinh vì anh ngần này, anh xem lại anh đi!\"*. Thay vào đó, hãy nói nhu cầu trực tiếp: *\"Dạo này em thấy hơi trống trải, cuối tuần này anh sắp xếp đưa em đi lượn phố hẹn hò nha\"*. Nói rõ ràng cái mình muốn, đàn ông họ lười \"đoán ý\" lắm!"
+        },
+        {
+          "type": "item",
+          "title": "Đi tìm \"Partner\" chứ không tìm \"Project\"",
+          "text": "Bỏ ngay đam mê đi thu gom mấy anh chàng mang đầy tổn thương, có tuổi thơ bất hạnh về để \"cảm hóa\" và chữa lành đi. Đời bà đâu phải là trung tâm phục hồi nhân phẩm! Hãy chọn yêu một người đã tự giải quyết xong mớ bòng bong của họ, một người trưởng thành vững chãi có khả năng che chở ngược lại cho bà."
+        },
+        {
+          "type": "item",
+          "title": "Lùi lại một bước để người ta được làm \"Hero\"",
+          "text": "Bà gánh vác quen rồi, nhưng thỉnh thoảng hãy tỏ ra yếu đuối một chút. Hư xe? Gọi người yêu. Mệt quá không muốn nấu cơm? Nhờ người yêu mua đồ ăn. Cho người đàn ông của bà cơ hội được chăm sóc bà, được cảm thấy họ là chỗ dựa vững chắc. Có thế tình yêu mới thăng hoa được."
+        },
+        {
+          "type": "tip",
+          "text": "Chốt hạ: Bí quyết lớn nhất để Caregiver hạnh phúc là học cách ĐÓN NHẬN (Receive). Hãy tin rằng bà xứng đáng được yêu thương vì chính con người bà, chứ không phải vì những gì bà hy sinh!"
+        }
+      ]
+    },
+    {
+      "id": "career",
+      "title": "Bạn cần làm gì để thăng tiến trong công việc",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Alo mấy bà, đến cái chuyên mục quan trọng nhất để \"lột xác\" chốn công sở đây! The Caregiver (Người Chăm Sóc) bình thường đi làm rất hay bị rơi vào cái bẫy \"người hỗ trợ thầm lặng\" hoặc \"bảo mẫu gánh team\". Muốn thăng tiến, lên sếp hay tự làm chủ mà vẫn giữ được vibe \"slay\" thì phải rèn ngay mấy skill cốt lõi này nha:"
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "1. Từ \"Bảo Mẫu Chạy Vặt\" Thành \"Nhà Chiến Lược\""
+        },
+        {
+          "type": "item",
+          "title": "Ngưng ôm đồm việc tay chân",
+          "text": "Sự tử tế không nằm ở việc bà tự tay cặm cụi ngồi gói từng hộp carton cho khách, hay giành phần rep từng cái tin nhắn chăm sóc nhỏ lẻ. Muốn bứt phá, hãy bước lùi lại để nhìn bức tranh tổng thể."
+        },
+        {
+          "type": "item",
+          "title": "Hệ thống hóa sự quan tâm",
+          "text": "Thay vì dùng sức người để vỗ về từng cá nhân, hãy biến sự thấu hiểu tâm lý đó thành chiến lược bài bản. Đóng gói cái \"insight\" nhạy bén của bà thành những kịch bản viral truyền thông, hoặc xây dựng quy trình chăm sóc tự động để tối ưu hóa nguồn lực. Sự tinh tế của Caregiver khi được dùng làm chiến lược sẽ cực kỳ \"out trình\"!"
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "2. Đóng Gói Cảm Xúc Bằng \"Số Liệu\" (Data-Driven Care)"
+        },
+        {
+          "type": "item",
+          "title": null,
+          "text": "Trực giác tốt và lòng thương người là thiên phú, nhưng để ngồi vào ghế sếp hay vận hành trơn tru một mô hình kinh doanh, bà bắt buộc phải có tư duy lý trí."
+        },
+        {
+          "type": "item",
+          "title": null,
+          "text": "Hãy tập thói quen làm việc với các hệ thống dashboard báo cáo, theo dõi sát sao tỷ lệ chuyển đổi, dòng tiền và năng suất. Khi trình bày ý tưởng mới, đừng chỉ nói *\"Em thấy cái này tốt cho mọi người\"*. Hãy đổi thành: *\"Dựa trên biểu đồ chỉ số này, chiến lược này sẽ mang lại tỷ suất lợi nhuận cao nhất\"*. Cảm xúc đi kèm với sự logic, vững chãi của con số chính là \"vũ khí hủy diệt\" chốn công sở."
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "3. Tự \"Flex\" Thành Quả Của Bản Thân (Self-Advocacy)"
+        },
+        {
+          "type": "item",
+          "title": null,
+          "text": "Căn bệnh trầm kha của The Caregiver là làm 10 nhưng chỉ nói 1, cống hiến âm thầm rồi tự động lùi lại nhường hào quang cho người khác tỏa sáng."
+        },
+        {
+          "type": "item",
+          "title": null,
+          "text": "Đừng chờ đợi ai đó tự tinh tế nhận ra công sức gánh vác của bà! Hãy chủ động cập nhật tiến độ định kỳ, tự tin đứng ra trình bày và ghi nhận chính xác phần đóng góp của mình. Sự khiêm tốn sai chỗ chỉ khiến công sức của bà bị kẻ cơ hội \"nhận vơ\" thôi nha."
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "4. Thiết Lập \"Ranh Giới Thép\" Về Thời Gian"
+        },
+        {
+          "type": "item",
+          "title": null,
+          "text": "Năng lượng của bà là để sáng tạo và ra quyết định, không phải để làm \"thùng rác tâm sự\" 24/7 hay chân chạy vặt giải quyết drama cho đồng nghiệp."
+        },
+        {
+          "type": "item",
+          "title": null,
+          "text": "Học cách nói \"KHÔNG\" điềm tĩnh với những yêu cầu bóc lột sức lao động hoặc những task lặt vặt không tên nằm ngoài chuyên môn. Phải phân bổ rạch ròi: thời gian nào để xử lý công việc cứng, thời gian nào để thực sự quản trị năng lượng cá nhân và nạp lại cảm hứng."
+        },
+        {
+          "type": "p",
+          "text": "Tóm lại, thăng tiến không có nghĩa là bà phải trở nên lạnh lùng, tàn nhẫn hay dẫm đạp lên người khác. Phiên bản nâng cấp đỉnh cao nhất của Caregiver chính là người dùng **trái tim ấm áp để kết nối nhân tâm**, nhưng lại dùng **cái đầu lạnh để ra quyết định chiến lược**."
+        }
+      ]
+    },
+    {
+      "id": "journey",
+      "title": "Vận trình cuộc đời",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Hành trình của Caregiver là một chuỗi ngày vật vã chuyển hóa từ việc \"thương người hại mình\" sang cảnh giới \"từ bi đi kèm trí tuệ\"."
+        },
+        {
+          "type": "p",
+          "text": "Lưu ngay 3 giai đoạn \"tiến hóa\" này để xem mấy bà đang kẹt ở level nào nè:"
+        },
+        {
+          "type": "sub",
+          "icon": "🌱",
+          "title": "Dưới 25 Tuổi: Caregiver Tập Sự (The \"People-Pleaser\" Báo Thủ)"
+        },
+        {
+          "type": "item",
+          "title": "Vibe lúc này",
+          "text": "Ôm rơm rặm bụng, nhiệt tình cộng ngây thơ. Ai kêu gì cũng làm, ai than gì cũng xót. Năng lượng tràn trề nhưng xài vô tội vạ."
+        },
+        {
+          "type": "item",
+          "title": "Thực trạng",
+          "text": "Đây là giai đoạn mấy bà rất dễ bị bóc lột sức lao động. Nếu có chập chững ra làm kinh doanh bán lẻ hay quản lý shop online, các bà sẽ có xu hướng ôm đồm hết mọi khâu từ check tồn kho, tự tay gói hàng đến rep từng cái tin nhắn cằn nhằn của khách vì không nỡ để ai phật ý, cũng không tin ai làm tốt bằng mình. Trong tình yêu thì lao đầu vào làm \"bảo mẫu\" cho mấy trap-boy/trap-girl mang đầy tổn thương."
+        },
+        {
+          "type": "item",
+          "title": "Bài học cốt lõi",
+          "text": "Dính vô vàn cờ đỏ (red flags) và những cú vỡ mộng đau đớn để nhận ra rằng: Lòng tốt mà không có ranh giới thì chỉ là miếng mồi ngon cho thiên hạ lợi dụng."
+        },
+        {
+          "type": "sub",
+          "icon": "🌸",
+          "title": "Từ 25 Đến 40 Tuổi: Caregiver Thức Tỉnh (The Empowered Healer)"
+        },
+        {
+          "type": "item",
+          "title": "Vibe lúc này",
+          "text": "Đã nếm đủ \"trái đắng\" của sự hy sinh mù quáng. Giao diện vẫn dịu dàng, ân cần nhưng bên trong đã bắt đầu rèn được một chiếc \"cái đầu lạnh\" và những ranh giới sắt đá."
+        },
+        {
+          "type": "item",
+          "title": "Thực trạng",
+          "text": "Ở độ tuổi này, các bà bắt đầu ngộ ra chân lý cốt lõi: **Đừng cố quản lý thời gian nữa, hãy quản trị năng lượng!** Thay vì hùng hục dùng sức người để gồng gánh và xoa dịu thiên hạ, mấy bà chuyển sang làm việc có hệ thống. Các bà biết cách áp dụng tư duy số liệu, thiết lập các dashboard báo cáo công việc rạch ròi để theo dõi tiến độ, tối ưu hiệu suất mà không bị kiệt quệ cảm xúc. Sự quan tâm lúc này được \"đóng gói\" thành những chiến lược bài bản, có giới hạn đàng hoàng."
+        },
+        {
+          "type": "item",
+          "title": "Bài học cốt lõi",
+          "text": "Chấp nhận buông bỏ hội chứng \"tử đạo\". Dám thẳng tay \"tiễn vong\" những mối quan hệ độc hại và đưa tên mình lên vị trí ưu tiên số 1 trong danh sách cần được chăm sóc."
+        },
+        {
+          "type": "sub",
+          "icon": "👑",
+          "title": "Sau 40 Tuổi: \"Bà Tiên\" Minh Triết (The Wise Sovereign)"
+        },
+        {
+          "type": "item",
+          "title": "Vibe lúc này",
+          "text": "An tọa vững chãi, khí chất ngút ngàn. Không còn xồn xồn lo bao đồng hay tủi thân vì những uất ức ngầm nữa. Năng lượng chữa lành tỏa ra tự nhiên như hơi thở."
+        },
+        {
+          "type": "item",
+          "title": "Thực trạng",
+          "text": "Các bà lùi lại một bước khỏi những mâu thuẫn lặt vặt để tạo ra những giá trị vĩ mô hơn. Thay vì đi gỡ rối tơ lòng hay pha trà sữa cho từng người, các bà vươn tầm thành những mentor xịn xò. Lúc này, các bà hoàn toàn có thể xây dựng và vận hành những nền tảng, website chuyên sâu về tâm lý học và thấu hiểu bản thân để dẫn dắt, truyền cảm hứng chữa lành cho cả một cộng đồng lớn."
+        },
+        {
+          "type": "item",
+          "title": "Bài học cốt lõi",
+          "text": "Đạt đến cảnh giới cao nhất của sự bao dung: Yêu thương thế giới bằng sự tĩnh lặng, cho phép người khác tự vấp ngã để trưởng thành, và chỉ ra tay tương trợ khi họ thực sự sẵn sàng đón nhận."
+        }
+      ]
+    },
+    {
+      "id": "advice",
+      "title": "lời khuyên",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Tóm lại nha mấy bà, chốt sổ nguyên mẫu Người Chăm Sóc (The Caregiver) bằng một câu cốt lõi thôi: **Bà là một trạm sạc vi diệu của nhân gian, nhưng trạm sạc thì cũng cần phải được cắm điện!**"
+        },
+        {
+          "type": "tip",
+          "text": "Lời khuyên \"xương máu\" ghim ngay vào tim nè:"
+        },
+        {
+          "type": "item",
+          "title": "Nghỉ làm \"Mẹ thiên hạ\"",
+          "text": "Bà không có nghĩa vụ phải giải cứu cả thế giới. Hãy để người ta tự vấp ngã và tự chịu trách nhiệm với mớ rắc rối của chính họ. Lùi lại một bước để đối phương tự lập không hề làm bà bớt tử tế đi chút nào đâu."
+        },
+        {
+          "type": "item",
+          "title": "Chân lý sinh tồn để không bị \"bào\"",
+          "text": "Thay vì cứ quay cuồng nhét thêm task vào lịch trình để cố làm hài lòng tất cả mọi người, hãy khắc cốt ghi tâm điều này: **đừng cố quản lý thời gian nữa, hãy quản trị năng lượng**. Năng lượng của bà là hữu hạn và vô giá, hãy biết phân bổ nó cho những người thực sự xứng đáng và giữ lại phần lớn nhất cho chính mình."
+        },
+        {
+          "type": "item",
+          "title": "Thương người thì phải thương mình trước",
+          "text": "Áp dụng chuẩn xác nguyên tắc trên máy bay: \"Tự đeo mặt nạ dưỡng khí cho mình trước khi cứu người khác\". Tự thưởng cho bản thân, chăm sóc chính mình thật tốt. Bà chỉ có thể tỏa ra nguồn năng lượng chữa lành mạnh mẽ nhất khi chiếc cốc bên trong bà đã được rót đầy."
+        },
+        {
+          "type": "item",
+          "title": "Setup \"Ranh giới thép\"",
+          "text": "Lòng tốt trao nhầm chỗ là tự chuốc lấy khổ đau. Dám thẳng tay nói \"Không\" và \"tiễn vong\" những mối quan hệ toxic, những kẻ chỉ biết coi sự hy sinh của bà là điều hiển nhiên."
+        },
+        {
+          "type": "tip",
+          "text": "Chốt hạ: Sự tử tế, bao dung của Caregiver là một siêu năng lực bẩm sinh, là thứ vũ khí tĩnh lặng nhưng có khả năng thu phục nhân tâm đỉnh cao nhất. Miễn là bà biết đặt tên mình lên Top 1 trong danh sách ưu tiên, thì vibe của bà lúc nào cũng sẽ slay và tỏa sáng rực rỡ!"
+        }
+      ]
+    }
+  ]
+}
