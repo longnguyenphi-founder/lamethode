@@ -12,19 +12,18 @@ const EXT = ["webp", "png", "jpg", "jpeg", "avif"];
 
 let done = 0;
 const missing = [];
-console.log("\n  Nguyên mẫu   hero  portrait  core  love  symbol   File prompt");
-console.log("  " + "─".repeat(78));
-ARCHETYPES.forEach((slug, i) => {
+console.log("\n  Nguyên mẫu   hero  portrait  core  love  symbol");
+console.log("  " + "─".repeat(50));
+ARCHETYPES.forEach((slug) => {
   const marks = IMAGES.map((name) => {
     const ok = EXT.some((e) => fs.existsSync(path.join(root, slug, `${name}.${e}`)));
     if (ok) done++;
     else missing.push(`${slug}/${name}`);
     return ok ? "✓" : "·";
   });
-  const file = `docs/image-prompts/${String(i + 1).padStart(2, "0")}-${slug}.md`;
-  console.log(`  ${slug.padEnd(11)}  ${marks[0]}     ${marks[1]}        ${marks[2]}     ${marks[3]}     ${marks[4]}        ${file}`);
+  console.log(`  ${slug.padEnd(11)}  ${marks[0]}     ${marks[1]}        ${marks[2]}     ${marks[3]}     ${marks[4]}`);
 });
 const total = ARCHETYPES.length * IMAGES.length;
-console.log("  " + "─".repeat(78));
+console.log("  " + "─".repeat(50));
 console.log(`  Đã có ${done}/${total} ảnh (✓ = có, · = còn thiếu)\n`);
 if (missing.length && missing.length <= 10) console.log("  Còn thiếu: " + missing.join(", ") + "\n");

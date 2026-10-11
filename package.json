@@ -3,13 +3,16 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
+    "predev": "node scripts/image-manifest.mjs",
     "dev": "next dev",
+    "prebuild": "node scripts/image-manifest.mjs",
     "build": "next build",
     "start": "next start",
     "lint": "eslint",
     "reports:build": "node scripts/report-content/build.mjs",
     "images:status": "node scripts/image-status.mjs",
-    "images:optimize": "node scripts/optimize-images.mjs"
+    "images:optimize": "node scripts/optimize-images.mjs",
+    "images:manifest": "node scripts/image-manifest.mjs"
   },
   "dependencies": {
     "@base-ui/react": "^1.8.0",

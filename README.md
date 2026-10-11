@@ -118,6 +118,7 @@ lt --port 3100 --subdomain la-methode-demo
 | `npm run reports:build` | Tạo lại nội dung báo cáo từ file Word/Markdown (mục 6) |
 | `npm run images:status` | Xem nguyên mẫu nào còn thiếu ảnh |
 | `npm run images:optimize` | Nén ảnh mới thêm sang WebP cho nhẹ |
+| `npm run images:manifest` | Cập nhật danh sách ảnh `src/content/report-images.json` (tự chạy trước `dev`, `build` và sau `images:optimize`) |
 
 ---
 
@@ -136,24 +137,106 @@ lt --port 3100 --subdomain la-methode-demo
 
 ### Hình ảnh báo cáo
 
-1. Prompt tạo ảnh cho từng nguyên mẫu nằm trong `docs/image-prompts/`.
-2. Bỏ ảnh vào `public/images/report/<nguyên-mẫu>/`, đặt đúng tên: `hero`, `portrait`, `core`, `love`, `symbol` (đuôi `.png`, `.jpg`…). Ví dụ `public/images/report/lover/hero.png`.
-3. Chạy:
+Mỗi nguyên mẫu có 5 ảnh:
+
+| Tên file | Ảnh | Khung |
+| --- | --- | --- |
+| `hero` | Ảnh bìa đầu trang | dọc 4:5, hoặc ngang 16:9 với Lover, Explorer |
+| `portrait` | Chân dung đời thường | dọc 4:5 |
+| `core` | Khoảnh khắc nội tâm | dọc 4:5 |
+| `love` | Ảnh tình yêu (cặp đôi) | ngang 4:3 |
+| `symbol` | Vật thể 3D, nền trong suốt | vuông 1:1, nên dùng `.png` |
+
+Cách thay ảnh:
+
+1. Bỏ ảnh vào `public/images/report/<nguyên-mẫu>/`, đặt đúng tên ở bảng trên (đuôi `.png`, `.jpg`…). Ví dụ `public/images/report/lover/hero.png`.
+2. Chạy:
 
    ```bash
-   npm run images:optimize   # đổi sang .webp, ảnh gốc được chuyển vào content-source/images-original/
+   npm run images:optimize   # đổi sang .webp (thay file .webp cũ), ảnh gốc chuyển vào content-source/images-original/
    npm run images:status     # kiểm tra còn thiếu ảnh nào
    ```
+
+3. Commit cả ảnh `.webp` lẫn file `src/content/report-images.json`, vì trang báo cáo dựa vào file này để biết có những ảnh nào.
 
 Ảnh gốc trong `content-source/images-original/` rất nặng nên không đưa lên Git.
 
 ---
 
-## 7. Deploy lên Vercel (link cố định)
+## 7. Deploy lên Vercel (link cố định, miễn phí)
 
-1. Vào [vercel.com/new](https://vercel.com/new) và chọn repo này.
-2. Tại **Environment Variables**, thêm `GOOGLE_SHEETS_WEBHOOK_URL` và `GOOGLE_SHEETS_SECRET` (giống trong `.env.local`).
-3. Bấm **Deploy**. Từ đó mỗi lần push lên nhánh `main`, Vercel sẽ tự deploy lại.
+Trước khi deploy, chạy `npm run build` trên máy để chắc chắn không có lỗi. Build trên máy được thì build trên Vercel cũng được.
+
+Có 2 cách. **Cách 1** tự deploy mỗi lần push code. **Cách 2** deploy thẳng từ máy bạn, không phụ thuộc ai là chủ repo GitHub.
+
+### Cách 1 — Kết nối GitHub (tự deploy mỗi lần push)
+
+Người làm nên là **chủ repo trên GitHub**, vì Vercel phải cài app vào tài khoản GitHub sở hữu repo.
+
+1. Vào [vercel.com](https://vercel.com), chọn **Sign Up / Log In → Continue with GitHub**.
+2. Bấm **Add New… → Project**. Ở mục **Import Git Repository**, chọn repo `lamethode` rồi bấm **Import**.
+   - Không thấy repo: bấm **Adjust GitHub App Permissions** và cho phép Vercel truy cập repo này.
+3. Ở màn **Configure Project**, giữ mặc định:
+   - Framework Preset: **Next.js** (tự nhận)
+   - Root Directory: `./`
+   - Build Command, Output Directory, Install Command: không cần sửa
+4. Mở mục **Environment Variables** và thêm 2 biến, giá trị lấy từ `.env.local`:
+
+   | Key | Value |
+   | --- | --- |
+   | `GOOGLE_SHEETS_WEBHOOK_URL` | `https://script.google.com/macros/s/.../exec` |
+   | `GOOGLE_SHEETS_SECRET` | chuỗi bí mật |
+
+5. Bấm **Deploy** và chờ 1–2 phút. Bạn sẽ có link dạng `https://lamethode.vercel.app`.
+6. Từ giờ:
+   - Push lên nhánh `main` thì Vercel tự build và cập nhật link chính.
+   - Push nhánh khác thì Vercel tạo một link **Preview** riêng để xem thử.
+
+> **Lưu ý gói Hobby (miễn phí):** với repo **private**, nếu người push commit không phải chủ tài khoản Vercel, Vercel có thể chặn bản deploy (trạng thái **Blocked**). Khi đó có 3 cách:
+> - Chủ tài khoản vào **Deployments** và bấm **Redeploy**.
+> - Nâng lên gói Pro.
+> - Dùng Cách 2.
+
+### Cách 2 — Deploy từ máy bằng Vercel CLI
+
+```bash
+npm install -g vercel     # cài một lần
+vercel login              # đăng nhập (mở trình duyệt)
+vercel                    # lần đầu: trả lời các câu hỏi, Vercel tạo bản Preview
+```
+
+Khi chạy `vercel` lần đầu, trả lời như sau:
+
+| Câu hỏi | Trả lời |
+| --- | --- |
+| Set up and deploy? | `Y` |
+| Which scope? | chọn tài khoản của bạn |
+| Link to existing project? | `N` |
+| Project name? | `lamethode` |
+| In which directory is your code located? | `./` |
+| Want to modify these settings? | `N` |
+
+Thêm 2 biến môi trường, mỗi lệnh sẽ hỏi giá trị để bạn dán vào:
+
+```bash
+vercel env add GOOGLE_SHEETS_WEBHOOK_URL production
+vercel env add GOOGLE_SHEETS_SECRET production
+```
+
+Đưa lên bản chính thức:
+
+```bash
+vercel --prod
+```
+
+Mỗi lần sửa code muốn cập nhật link, chạy lại `vercel --prod`.
+
+### Sau khi deploy
+
+- **Kiểm tra:** mở `/quiz`, làm thử rồi nhập email, xem Google Sheet có thêm dòng mới không.
+- **Đổi tên miền:** vào Project → **Settings → Domains**.
+- **Xem lỗi:** vào Project → **Deployments**, chọn bản deploy → **Build Logs**. Lỗi lúc chạy xem ở tab **Logs**.
+- **Sửa biến môi trường:** sửa xong phải vào **Deployments → Redeploy** thì mới có hiệu lực.
 
 ---
 
@@ -170,11 +253,11 @@ src/
     quiz/              Giao diện khảo sát
     report/            Giao diện báo cáo (cảnh cuộn, thẻ, quả cầu 3D, thẻ story…)
   content/reports/     Nội dung báo cáo dạng JSON (tạo bằng reports:build)
+  content/report-images.json   Danh sách ảnh của báo cáo (tạo tự động)
   lib/
     quiz/              Câu hỏi và cách tính điểm
     report/            Đọc nội dung + theme màu của 12 nguyên mẫu
 content-source/        File gốc: bộ câu hỏi, nội dung Word/Markdown
-docs/image-prompts/    Prompt tạo ảnh cho từng nguyên mẫu
 google-apps-script/    Code Apps Script + hướng dẫn kết nối Google Sheet
 public/images/report/  Ảnh của báo cáo (WebP)
 scripts/               Script xử lý nội dung và ảnh

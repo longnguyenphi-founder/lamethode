@@ -1,0 +1,86 @@
+{
+  "caregiver": {
+    "hero": "/images/report/caregiver/hero.webp",
+    "portrait": "/images/report/caregiver/portrait.webp",
+    "core": "/images/report/caregiver/core.webp",
+    "love": "/images/report/caregiver/love.webp",
+    "symbol": "/images/report/caregiver/symbol.webp"
+  },
+  "creator": {
+    "hero": "/images/report/creator/hero.webp",
+    "portrait": "/images/report/creator/portrait.webp",
+    "core": "/images/report/creator/core.webp",
+    "love": "/images/report/creator/love.webp",
+    "symbol": "/images/report/creator/symbol.webp"
+  },
+  "everyman": {
+    "hero": "/images/report/everyman/hero.webp",
+    "portrait": "/images/report/everyman/portrait.webp",
+    "core": "/images/report/everyman/core.webp",
+    "love": "/images/report/everyman/love.webp",
+    "symbol": "/images/report/everyman/symbol.webp"
+  },
+  "explorer": {
+    "hero": "/images/report/explorer/hero.webp",
+    "portrait": "/images/report/explorer/portrait.webp",
+    "core": "/images/report/explorer/core.webp",
+    "love": "/images/report/explorer/love.webp",
+    "symbol": "/images/report/explorer/symbol.webp"
+  },
+  "hero": {
+    "hero": "/images/report/hero/hero.webp",
+    "portrait": "/images/report/hero/portrait.webp",
+    "core": "/images/report/hero/core.webp",
+    "love": "/images/report/hero/love.webp",
+    "symbol": "/images/report/hero/symbol.webp"
+  },
+  "innocent": {
+    "hero": "/images/report/innocent/hero.webp",
+    "portrait": "/images/report/innocent/portrait.webp",
+    "core": "/images/report/innocent/core.webp",
+    "love": "/images/report/innocent/love.webp",
+    "symbol": "/images/report/innocent/symbol.webp"
+  },
+  "jester": {
+    "hero": "/images/report/jester/hero.webp",
+    "portrait": "/images/report/jester/portrait.webp",
+    "core": "/images/report/jester/core.webp",
+    "love": "/images/report/jester/love.webp",
+    "symbol": "/images/report/jester/symbol.webp"
+  },
+  "lover": {
+    "hero": "/images/report/lover/hero.webp",
+    "portrait": "/images/report/lover/portrait.webp",
+    "core": "/images/report/lover/core.webp",
+    "love": "/images/report/lover/love.webp",
+    "symbol": "/images/report/lover/symbol.webp"
+  },
+  "magician": {
+    "hero": "/images/report/magician/hero.webp",
+    "portrait": "/images/report/magician/portrait.webp",
+    "core": "/images/report/magician/core.webp",
+    "love": "/images/report/magician/love.webp",
+    "symbol": "/images/report/magician/symbol.webp"
+  },
+  "rebel": {
+    "hero": "/images/report/rebel/hero.webp",
+    "portrait": "/images/report/rebel/portrait.webp",
+    "core": "/images/report/rebel/core.webp",
+    "love": "/images/report/rebel/love.webp",
+    "symbol": "/images/report/rebel/symbol.webp"
+  },
+  "ruler": {
+    "hero": "/images/report/ruler/hero.webp",
+    "portrait": "/images/report/ruler/portrait.webp",
+    "core": "/images/report/ruler/core.webp",
+    "love": "/images/report/ruler/love.webp",
+    "symbol": "/images/report/ruler/symbol.webp"
+  },
+  "sage": {
+    "hero": "/images/report/sage/hero.webp",
+    "portrait": "/images/report/sage/portrait.webp",
+    "core": "/images/report/sage/core.webp",
+    "love": "/images/report/sage/love.webp",
+    "symbol": "/images/report/sage/symbol.webp"
+  }
+}

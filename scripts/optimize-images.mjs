@@ -4,6 +4,7 @@
 import fs from "node:fs";
 import path from "node:path";
 import sharp from "sharp";
+import { writeImageManifest } from "./image-manifest.mjs";
 
 const here = path.dirname(new URL(import.meta.url).pathname).replace(/^\/(\w:)/, "$1");
 const project = path.resolve(here, "..");
@@ -62,3 +63,4 @@ for (const slug of fs.readdirSync(root)) {
 }
 
 console.log(count ? `\n  ${count} ảnh: ${mb(before)} → ${mb(after)} (giảm ${(100 - (after / before) * 100).toFixed(0)}%)\n` : "\n  Không có ảnh mới cần nén.\n");
+writeImageManifest();

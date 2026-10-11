@@ -1,7 +1,7 @@
 // Visual identity of each archetype's report page. Every colour is applied by
 // overriding the shared design tokens on the report root, so shadcn, Magic UI
 // and custom components all pick up the archetype's palette automatically.
-// The same palette and mood drive the image prompts in docs/image-prompts/.
+// The report images were generated in the same palette and mood.
 
 export type FontKey =
   | "cormorant" | "playfair" | "garamond" | "notoDisplay" | "fraunces"
