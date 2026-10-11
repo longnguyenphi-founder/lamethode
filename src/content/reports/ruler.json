@@ -1,0 +1,938 @@
+{
+  "slug": "ruler",
+  "code": "NLD",
+  "english": "The Ruler",
+  "name": "Nhà Cai Trị / Nữ Hoàng",
+  "intro": [
+    "Bà là đứa mà khi bước vào phòng, mọi người tự động cảm nhận được một khí chất khác biệt — không cần phải nói to, không cần phải chứng minh, nhưng ai cũng biết bà là người có tiếng nói. Bà có một khả năng thiên bẩm trong việc tổ chức, quản lý, đưa mọi thứ vào trật tự. Với bà, sự hỗn loạn là điều không thể chấp nhận được, và trách nhiệm dẫn dắt dường như luôn tự động rơi vào tay bà, dù bà có muốn hay không. Nhưng có một sự thật mà bà giấu kỹ hơn cả một quyết định chưa công bố: đằng sau vẻ ngoài kiểm soát hoàn hảo đó là một nỗi sợ hãi sâu sắc về việc mất đi quyền kiểm soát và rơi vào hỗn loạn.",
+    "Sự thật đau lòng nhất là bà thường gánh vác trách nhiệm nhiều hơn những gì cần thiết, chỉ vì không tin tưởng rằng người khác có thể làm tốt như mình. Tận sâu bên trong, bà luôn mang một nỗi sợ hoang mang: \"Nếu mình không kiểm soát mọi thứ, nếu mình để người khác quyết định, liệu mọi thứ có sụp đổ không? Liệu mình có còn giá trị nếu không phải là người dẫn dắt?\". Bà cứ liên tục gánh vác trách nhiệm, để rồi có những lúc kiệt sức vì phải luôn là người mạnh mẽ, người ra quyết định, người chịu trách nhiệm cho tất cả."
+  ],
+  "population": 9,
+  "celebrities": [
+    {
+      "name": "Anna Wintour",
+      "text": "Với vai trò Tổng biên tập huyền thoại của Vogue trong nhiều thập kỷ, Anna Wintour là biểu tượng của sự quyết đoán, khả năng lãnh đạo và tầm ảnh hưởng sâu rộng trong ngành công nghiệp thời trang toàn cầu."
+    },
+    {
+      "name": "Kris Jenner",
+      "text": "Được biết đến như \"quản lý\" tài ba đứng sau thành công của cả gia đình Kardashian-Jenner, Kris Jenner thể hiện khả năng tổ chức, chiến lược kinh doanh sắc bén và tầm nhìn xây dựng đế chế truyền thông."
+    },
+    {
+      "name": "Taeyeon (Girls' Generation)",
+      "text": "Với vai trò trưởng nhóm dẫn dắt Girls' Generation qua nhiều năm hoạt động, Taeyeon thể hiện tinh thần trách nhiệm cao và khả năng lãnh đạo vững vàng trong cả sự nghiệp nhóm lẫn cá nhân."
+    },
+    {
+      "name": "Victoria Beckham",
+      "text": "Từ thành viên Spice Girls đến nhà thiết kế thời trang, doanh nhân thành đạt, Victoria Beckham xây dựng đế chế thời trang của riêng mình với sự kỷ luật và tầm nhìn kinh doanh sắc sảo."
+    }
+  ],
+  "powers": [
+    {
+      "title": "Bà có Khí Chất Lãnh Đạo Bẩm Sinh",
+      "english": "The Natural Authority",
+      "lead": null,
+      "points": [
+        {
+          "title": "Tự nhiên trở thành người dẫn dắt",
+          "text": "Khác với những người phải cố gắng để có được vị trí lãnh đạo, The Ruler thường tự nhiên được người khác tin tưởng giao phó trách nhiệm quản lý, tổ chức."
+        },
+        {
+          "title": "Khả năng đưa ra quyết định dứt khoát",
+          "text": "Các bà có một sự tự tin đặc biệt trong việc đưa ra những quyết định quan trọng, không dễ dàng bị lung lay bởi sự do dự."
+        }
+      ]
+    },
+    {
+      "title": "Nghệ Thuật Kiến Tạo Trật Tự",
+      "english": "The Order Architect",
+      "lead": null,
+      "points": [
+        {
+          "title": "Biến hỗn loạn thành hệ thống",
+          "text": "Điểm nổi bật nhất của Ruler là khả năng tổ chức xuất sắc. Bà có thể nhìn vào một tình huống lộn xộn và ngay lập tức thấy được cách sắp xếp nó trở nên hiệu quả."
+        },
+        {
+          "title": "Vibe uy quyền nhưng đáng tin cậy",
+          "text": "Ở cạnh một Ruler, người ta cảm thấy an tâm vì biết rằng mọi thứ đang được quản lý một cách có trách nhiệm, có tổ chức."
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "id": "portrait",
+      "title": "Chân dung của bạn – Bạn thực sự là ai",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Để tui chẻ nhỏ hai phần \"ăn tiền\" nhưng cũng dễ làm mấy bà \"suy\" nhất: Năng lực cốt lõi (Flex nhẹ skill ẩn) và Góc tối tâm lý (Red flag tự thân)."
+        },
+        {
+          "type": "p",
+          "text": "Bà nào thấy quen quen thì chuẩn bị sẵn giấy bút note lại để tự chấn chỉnh mình nghen!"
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "1. Năng Lực Cốt Lõi (Những thứ làm nên thương hiệu \"nữ hoàng quyền lực\")"
+        },
+        {
+          "type": "p",
+          "text": "Đây là những siêu năng lực bẩm sinh khiến The Ruler luôn là \"trụ cột lãnh đạo\" của rất nhiều người, vì ai cũng cần một người dám đứng ra gánh vác trách nhiệm tổ chức:"
+        },
+        {
+          "type": "item",
+          "title": "Khả năng lãnh đạo tự nhiên (Natural Leadership)",
+          "text": "Các bà có một sự tự tin bẩm sinh trong việc đưa ra định hướng, dẫn dắt người khác đến mục tiêu chung mà không cần phải chứng minh nhiều."
+        },
+        {
+          "type": "item",
+          "title": "Tư duy tổ chức và hệ thống hóa (Systematic Thinking)",
+          "text": "Các bà có khả năng nhìn vào sự hỗn loạn và ngay lập tức tìm ra cách sắp xếp, tổ chức nó thành một hệ thống có trật tự, hiệu quả."
+        },
+        {
+          "type": "item",
+          "title": "Tinh thần trách nhiệm cao (High Accountability)",
+          "text": "Một khi đã nhận vai trò lãnh đạo, các bà coi đó là danh dự và nghĩa vụ phải hoàn thành, sẵn sàng chịu trách nhiệm cho kết quả cuối cùng."
+        },
+        {
+          "type": "item",
+          "title": "Khả năng ra quyết định dưới áp lực (Decisive Under Pressure)",
+          "text": "Trong khi người khác do dự, các bà có khả năng cân nhắc nhanh chóng và đưa ra quyết định dứt khoát, ngay cả trong những tình huống phức tạp."
+        },
+        {
+          "type": "sub",
+          "icon": "🛑",
+          "title": "2. Góc Tối (Red flag tự thân – Đọc để tỉnh táo nha mấy bà!)"
+        },
+        {
+          "type": "p",
+          "text": "Lãnh đạo thì giỏi, nhưng tâm lý của Nhà Cai Trị lại rất dễ bị hổng lỗ chỗ vì những \"cái bẫy\" tự mình giăng ra:"
+        },
+        {
+          "type": "item",
+          "title": "Hội chứng \"Kiểm soát quá mức\" (Control Freak Tendency)",
+          "text": "Đây là bẫy dễ sập nhất! Vì không tin tưởng người khác có thể làm tốt như mình, các bà cực kỳ hay can thiệp vào từng chi tiết nhỏ, khiến người xung quanh cảm thấy ngột ngạt."
+        },
+        {
+          "type": "item",
+          "title": "Khó chấp nhận sai lầm hoặc thất bại (Perfectionist Rigidity)",
+          "text": "Vì luôn đặt ra tiêu chuẩn cao cho bản thân và người khác, các bà cực kỳ khó tha thứ cho những sai sót, kể cả những lỗi lầm nhỏ nhặt."
+        },
+        {
+          "type": "item",
+          "title": "Kiêu ngạo vì quyền lực (Power-Based Arrogance)",
+          "text": "Góc tối \"độc hại\" nhất của Ruler là đôi khi coi thường ý kiến của người khác, cho rằng chỉ có cách nhìn nhận của mình mới là đúng đắn nhất."
+        },
+        {
+          "type": "item",
+          "title": "Khó ủy thác và tin tưởng (Delegation Difficulty)",
+          "text": "Cứ liên tục ôm đồm trách nhiệm vì sợ người khác không làm đúng theo tiêu chuẩn, đến lúc kiệt sức thì mới nhận ra mình đã tự cô lập bản thân trong vai trò lãnh đạo."
+        },
+        {
+          "type": "item",
+          "title": "Các bà hệ Ruler nhớ kỹ nha",
+          "text": "Quyền lực không có sự tin tưởng chính là con đường ngắn nhất dẫn đến sự cô đơn trên đỉnh cao. Hãy lãnh đạo bằng một ý chí sắt đá, nhưng phải biết tin tưởng và trao quyền cho người khác!"
+        }
+      ]
+    },
+    {
+      "id": "core",
+      "title": "Lõi Tính Cách (Bản chất thật sự bên trong)",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Nếu lõi của The Magician là Khát Vọng Hiểu Và Làm Chủ Quy Luật Vũ Trụ, thì lõi của The Ruler chính là Khát Vọng Kiến Tạo Trật Tự Và Sự Thịnh Vượng (The Need to Create Order and Prosperity). Động lực sâu thẳm nhất của các bà được xây dựng trên 3 trụ cột này:"
+        },
+        {
+          "type": "item",
+          "title": "Bản năng kiến tạo trật tự (The Order-Creating Instinct)",
+          "text": "Các bà nhìn thế giới qua lăng kính của những gì cần được tổ chức, sắp xếp. Sự hỗn loạn, thiếu định hướng khiến các bà cảm thấy khó chịu, cần phải can thiệp."
+        },
+        {
+          "type": "item",
+          "title": "Nỗi sợ mất kiểm soát (Fear of Losing Control)",
+          "text": "Nghe hơi \"suy\" nhưng đây là sự thật. Nỗi sợ lớn nhất của Ruler không phải là thất bại, mà là cảm giác mọi thứ vượt khỏi tầm kiểm soát, rơi vào hỗn loạn."
+        },
+        {
+          "type": "item",
+          "title": "Niềm tin vào trách nhiệm và kỷ luật (Faith in Discipline)",
+          "text": "Với các bà, thành công và sự thịnh vượng đến từ việc tổ chức tốt, kỷ luật nghiêm ngặt. Đây là động lực khiến bà luôn nỗ lực xây dựng hệ thống, nhưng cũng là gánh nặng khi phải luôn duy trì tiêu chuẩn cao."
+        },
+        {
+          "type": "sub",
+          "icon": "🛑",
+          "title": "Những Điểm Cần Lưu Ý (Đọc để chấn chỉnh lại nết, bớt khổ nha!)"
+        },
+        {
+          "type": "p",
+          "text": "Mang năng lượng Ruler là một điều tuyệt vời, nhưng nếu không biết cách kiểm soát, các bà sẽ tự biến mình thành một người cô đơn trên đỉnh quyền lực. Nhớ kỹ những cẩm nang sinh tồn này:"
+        },
+        {
+          "type": "item",
+          "title": "Học cách tin tưởng và trao quyền cho người khác",
+          "text": "Không phải lúc nào bà cũng cần kiểm soát mọi chi tiết. Học cách tin tưởng rằng người khác cũng có khả năng hoàn thành tốt công việc theo cách của họ."
+        },
+        {
+          "type": "item",
+          "title": "Chấp nhận rằng sai lầm là một phần của quá trình phát triển",
+          "text": "Không có ai hoàn hảo, kể cả bà. Học cách nhìn nhận sai lầm như một cơ hội học hỏi, thay vì một thất bại không thể tha thứ."
+        },
+        {
+          "type": "item",
+          "title": "Lắng nghe ý kiến khác biệt với sự cởi mở",
+          "text": "Quyền lực không có nghĩa là bà luôn đúng. Học cách tiếp nhận những góc nhìn khác một cách cởi mở, không phòng thủ."
+        },
+        {
+          "type": "item",
+          "title": "Chấp nhận: không phải mọi thứ đều cần được kiểm soát",
+          "text": "Có những khía cạnh của cuộc sống nằm ngoài khả năng và trách nhiệm của bà. Học cách buông bỏ những gì không thuộc phạm vi của mình."
+        },
+        {
+          "type": "p",
+          "text": "Trưởng thành thực sự của một Ruler không phải là kiểm soát được mọi thứ, mà là biết dẫn dắt bằng sự tin tưởng, trao quyền cho người khác cùng chung sức xây dựng."
+        }
+      ]
+    },
+    {
+      "id": "love",
+      "title": "Bạn muốn một tình yêu như nào",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "nếu đã mang trong mình hệ điều hành The Ruler (Nhà Cai Trị / Nữ Hoàng), thì gu tình yêu và những mong cầu sâu thẳm của các bà thường đi theo một hệ tư tưởng rất đặc thù. Chuyên mục \"Bạn muốn một tình yêu như nào\" lên sóng, lấy sổ tay ra note lại để tỉnh táo lúc yêu nha!"
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "1. Cái các bà TƯỞNG mình muốn (Và rất dễ sập bẫy)"
+        },
+        {
+          "type": "item",
+          "title": "Hệ \"Yêu là phải kiểm soát để bảo vệ\"",
+          "text": "Trái tim của The Ruler rất dễ tin rằng để bảo vệ mối quan hệ, bà cần phải quản lý, kiểm soát mọi khía cạnh của nó, từ tài chính đến những quyết định quan trọng."
+        },
+        {
+          "type": "item",
+          "title": "Tình yêu kiểu \"Chọn đối tác dựa trên tiêu chuẩn khắt khe\"",
+          "text": "Các bà đôi khi vô thức áp dụng những tiêu chuẩn cao, khắt khe khi lựa chọn người yêu, dẫn đến việc khó tìm được người \"đủ tốt\" theo tiêu chuẩn của mình."
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "2. Cái các bà THỰC SỰ khao khát (Tình yêu lý tưởng giúp bà không bị \"cô đơn trên đỉnh cao\")"
+        },
+        {
+          "type": "p",
+          "text": "Sự thật là, nếu cứ theo đuổi những thứ ở mục 1, các bà sẽ rất nhanh thấy mối quan hệ trở nên ngột ngạt. Sâu thẳm bên trong, đây mới là thứ một Ruler thực sự cần để thấy an toàn:"
+        },
+        {
+          "type": "item",
+          "title": "Một tình yêu \"Đối Tác Bình Đẳng\" chứ không phải \"Quản Lý Một Chiều\"",
+          "text": "Các bà cần một người đủ bản lĩnh để cùng bà đưa ra quyết định, không chỉ răm rắp nghe theo hay để bà một mình gánh vác mọi trách nhiệm."
+        },
+        {
+          "type": "item",
+          "title": "Sự Tôn Trọng Vai Trò Lãnh Đạo Của Bà (Respect for Her Authority)",
+          "text": "Ruler cần một người không cảm thấy bị đe dọa bởi sự mạnh mẽ, quyết đoán của bà, mà ngược lại, trân trọng và ủng hộ điều đó."
+        },
+        {
+          "type": "item",
+          "title": "Một người cho phép bà được yếu đuối (Permission to Be Vulnerable)",
+          "text": "Không cần ai luôn mong đợi bà phải mạnh mẽ, mà cần một người đủ tinh tế để nhận ra khi nào bà cần được nghỉ ngơi, được chăm sóc."
+        },
+        {
+          "type": "item",
+          "title": "Sự tin tưởng để bà có thể buông bỏ quyền kiểm soát (Trust to Let Go)",
+          "text": "Các bà luôn khao khát một tình yêu đủ vững chãi để bà có thể tin tưởng giao một phần trách nhiệm, không phải luôn là người duy nhất ra quyết định."
+        },
+        {
+          "type": "tip",
+          "text": "Lời khuyên chốt hạ: Đừng đi tìm người để \"quản lý\" nữa mấy bà ơi! Tình yêu lý tưởng nhất của The Ruler là tìm được một người đủ bản lĩnh để trở thành đối tác bình đẳng, cùng bà chia sẻ trách nhiệm thay vì để bà một mình gánh vác tất cả."
+        }
+      ]
+    },
+    {
+      "id": "perception",
+      "title": "Người khác nghĩ gì về bạn",
+      "blocks": [
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "1. Ấn tượng tích cực (Aura chói lóa, điểm 10 uy tín)"
+        },
+        {
+          "type": "item",
+          "title": "\"Trụ cột lãnh đạo\" của cả nhóm",
+          "text": "Trong nhóm bạn, bà đích thị là người mà ai cũng tin tưởng giao phó vai trò tổ chức, dẫn dắt vì biết bà sẽ đảm bảo mọi thứ diễn ra suôn sẻ."
+        },
+        {
+          "type": "item",
+          "title": "\"Hình mẫu thành công\" biết đi",
+          "text": "Khí chất của bà tỏa ra sự uy quyền, tự tin. Người ngoài nhìn vào luôn thấy bà là một người có năng lực, đáng để noi theo trong sự nghiệp và cuộc sống."
+        },
+        {
+          "type": "item",
+          "title": "\"Người đáng tin cậy nhất\" nơi công sở",
+          "text": "Sếp và đồng nghiệp cực kỳ tin tưởng giao cho bà những dự án quan trọng vì biết bà có khả năng tổ chức, quản lý xuất sắc, luôn đảm bảo chất lượng."
+        },
+        {
+          "type": "sub",
+          "icon": "🛑",
+          "title": "2. Những điểm dễ bị \"hiểu lầm\" (Nghe hơi chạnh lòng nha)"
+        },
+        {
+          "type": "item",
+          "title": "Dễ bị gán mác \"Độc đoán, khó tính\"",
+          "text": "Vì tiêu chuẩn cao và khả năng kiểm soát mạnh mẽ, đối phương sẽ dễ cảm thấy bà quá khắt khe, khó làm hài lòng."
+        },
+        {
+          "type": "item",
+          "title": "Bị xem là \"Lạnh lùng, thiếu cảm xúc\"",
+          "text": "Việc luôn giữ vẻ ngoài mạnh mẽ, chuyên nghiệp đôi khi khiến người xung quanh nghĩ rằng bà thiếu sự ấm áp, khó gần gũi về mặt cảm xúc."
+        },
+        {
+          "type": "item",
+          "title": "Mang tiếng \"Không cần ai giúp đỡ\"",
+          "text": "Đôi khi vì luôn tự mình gánh vác trách nhiệm, người ta sẽ nhìn bà như một người không cần sự hỗ trợ, dẫn đến việc họ ngần ngại đề nghị giúp đỡ."
+        },
+        {
+          "type": "item",
+          "title": "Bị coi là \"Kiêu ngạo, khó hợp tác\"",
+          "text": "Vì lúc nào cũng có xu hướng dẫn dắt, đôi khi người ta sẽ thấy bà khó chấp nhận ý kiến khác, khó làm việc theo cách của người khác."
+        },
+        {
+          "type": "tip",
+          "text": "Chốt lại nè: Giao diện của The Ruler trong mắt thiên hạ luôn là một người QUYỀN LỰC. Nhưng mấy bà ơi, quyền lực thôi chưa đủ, phải là \"Quyền lực có sự ấm áp\". Hãy để khả năng lãnh đạo của mình là một nguồn cảm hứng, chứ đừng biến nó thành một bức tường ngăn cách nha!"
+        }
+      ]
+    },
+    {
+      "id": "reactions",
+      "title": "Cách chúng mình phản ứng",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Nếu The Magician thường chọn cách phân tích và tái định hình khi có biến, thì hệ điều hành The Ruler (Nhà Cai Trị) lại \"nhảy số\" theo một hệ tư tưởng hoàn toàn khác."
+        },
+        {
+          "type": "p",
+          "text": "Đọc ngay cách các bà đối mặt với 3 tình huống \"sóng gió\" này để coi tui nói có chuẩn tim đen không nha:"
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "1. Cách Bà Xử Lý Khi Mọi Thứ Rối Tung Lên (Khủng Hoảng ập đến)"
+        },
+        {
+          "type": "item",
+          "title": "Bật mode \"Nắm quyền kiểm soát\" (Taking Charge Immediately)",
+          "text": "Càng rối, các bà lại càng nhanh chóng đứng ra dẫn dắt, tổ chức lại tình hình, phân công trách nhiệm để đưa mọi thứ trở lại trật tự."
+        },
+        {
+          "type": "item",
+          "title": "Ưu tiên giải pháp thực tế hơn là xử lý cảm xúc",
+          "text": "Các bà có xu hướng tập trung vào việc giải quyết vấn đề trước, dồn cảm xúc cá nhân lại để xử lý sau khi tình hình đã ổn định."
+        },
+        {
+          "type": "item",
+          "title": "Dễ ôm đồm trách nhiệm vì không tin tưởng người khác",
+          "text": "Vì tiêu chuẩn cao và thói quen kiểm soát, đôi khi các bà tự mình gánh vác quá nhiều việc trong khủng hoảng thay vì phân chia hợp lý."
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "2. Khi Ở Trong Một Tập Thể (Teamwork, Nhóm bạn)"
+        },
+        {
+          "type": "item",
+          "title": "\"Người điều phối\" tự nhiên của mọi dự án",
+          "text": "Bà chính là người tự động đứng ra tổ chức, phân công công việc khi nhóm chưa có ai dẫn dắt, đảm bảo mọi thứ đi đúng hướng."
+        },
+        {
+          "type": "item",
+          "title": "Khó chấp nhận khi người khác làm không đúng tiêu chuẩn",
+          "text": "Các bà có tiêu chuẩn cao về chất lượng công việc, nên dễ cảm thấy thất vọng khi thấy đồng đội không đạt được mức độ mà bà kỳ vọng."
+        },
+        {
+          "type": "item",
+          "title": "Thánh \"kiểm tra và giám sát\" mọi tiến độ",
+          "text": "Vì cái tính muốn đảm bảo mọi thứ đi đúng kế hoạch, các bà đôi khi kiểm soát quá sát sao, khiến đồng đội cảm thấy không được tin tưởng."
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "3. Khi Không Được Hiểu / Quyền Lực Bị Thách Thức (Góc tổn thương ngầm)"
+        },
+        {
+          "type": "p",
+          "text": "Đây là lúc The Ruler dễ bộc lộ những góc tối tâm lý nhất nè:"
+        },
+        {
+          "type": "item",
+          "title": "Bật mode \"Bảo vệ vị thế\" (Defending Authority)",
+          "text": "Khi quyền lực hoặc năng lực bị thách thức, các bà sẽ KHÔNG dễ dàng lùi bước đâu. Phản ứng đầu tiên thường là bảo vệ vị thế của mình bằng lý lẽ và bằng chứng vững chắc."
+        },
+        {
+          "type": "item",
+          "title": "Gặm nhấm cảm giác không được tôn trọng (Feeling Disrespected)",
+          "text": "Trong đầu các bà sẽ liên tục nảy số những suy nghĩ: \"Tại sao người ta không tin tưởng năng lực của mình?\", \"Có phải mình đã làm gì sai?\". Cảm giác này bào mòn sự tự tin của bà."
+        },
+        {
+          "type": "item",
+          "title": "Cơ chế tự vệ độc hại (Tightening Control)",
+          "text": "Thay vì giao tiếp thẳng thắn về cảm giác bị tổn thương, các bà đôi khi lại siết chặt quyền kiểm soát hơn nữa để chứng minh năng lực, khiến mối quan hệ càng thêm căng thẳng."
+        },
+        {
+          "type": "tip",
+          "text": "Chốt hạ cho The Ruler nè: Lãnh đạo là tốt, nhưng lúc mọi thứ rối ren hay khi quyền lực bị thách thức, hãy nhớ rằng giá trị của bà không chỉ nằm ở việc luôn đúng, luôn kiểm soát! Nếu người ta không đồng ý với bà, thì việc bà cần làm là LẮNG NGHE VÀ CÂN NHẮC, chứ không phải là siết chặt kiểm soát hơn đâu nha!"
+        }
+      ]
+    },
+    {
+      "id": "strengths",
+      "title": "Điểm mạnh thật sự",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Điểm mạnh thật sự (True Strengths) làm nên thương hiệu của The Ruler nha! Không phải tự nhiên mà ai cũng nể phục một người bạn, người đồng nghiệp hay người yêu mang hệ điều hành này đâu."
+        },
+        {
+          "type": "p",
+          "text": "Sức mạnh của các bà không nằm ở sự độc đoán, mà nó nằm ở \"quyền lực của khả năng tổ chức\" siêu đẳng có khả năng biến hỗn loạn thành trật tự nghen:"
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "1. Năng Lực \"Kiến Tạo Trật Tự\" Cấp Độ Max (Master of Order)"
+        },
+        {
+          "type": "item",
+          "title": "Nguồn năng lượng ổn định vững chắc",
+          "text": "Các bà có khả năng khiến người khác cảm thấy an tâm chỉ bằng sự hiện diện, vì biết rằng mọi thứ đang được quản lý một cách có trách nhiệm."
+        },
+        {
+          "type": "item",
+          "title": "Khả năng nhìn thấy bức tranh toàn cảnh",
+          "text": "Trong khi người khác chỉ thấy từng mảnh ghép rời rạc, các bà có khả năng nhìn ra cách tổ chức chúng thành một hệ thống hiệu quả, mạch lạc."
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "2. Khả Năng Ra Quyết Định Là Vũ Khí Tối Thượng"
+        },
+        {
+          "type": "item",
+          "title": "Soft outside, decisive inside",
+          "text": "Nhìn giao diện bên ngoài có vẻ nghiêm nghị, nhưng đụng chuyện thì The Ruler là những người có khả năng đưa ra quyết định nhanh chóng, chính xác nhất trong tình huống khó khăn."
+        },
+        {
+          "type": "item",
+          "title": "Chịu trách nhiệm không né tránh (Full Accountability)",
+          "text": "Mấy bà không bao giờ đổ lỗi cho người khác khi có sai sót. Điểm mạnh thực sự là bà luôn sẵn sàng đứng ra chịu trách nhiệm cho quyết định của mình."
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "3. \"Trụ Cột\" Vững Chắc Cho Cả Tập Thể"
+        },
+        {
+          "type": "item",
+          "title": "Người mang lại cảm giác an toàn về mặt tổ chức",
+          "text": "Trong một tập thể đang hỗn loạn vì thiếu định hướng, các bà chính là người đưa ra cấu trúc, kế hoạch rõ ràng để mọi người có thể yên tâm làm việc."
+        },
+        {
+          "type": "item",
+          "title": "Xây dựng hệ thống bền vững (The System Builder)",
+          "text": "Điểm sáng rực rỡ nhất là khả năng tạo ra những quy trình, hệ thống có thể vận hành hiệu quả ngay cả khi không có sự giám sát trực tiếp của bà."
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "4. Sự Chính Trực Trong Quyền Lực Nguyên Bản (Radical Integrity in Power)"
+        },
+        {
+          "type": "p",
+          "text": "Giữa một thế giới đầy sự lạm quyền, thiếu trách nhiệm và \"đùn đẩy khi có vấn đề\", việc các bà vẫn kiên định sử dụng quyền lực một cách có trách nhiệm, luôn đứng ra chịu trách nhiệm chính là một loại dũng khí cực kỳ lớn. Sự uy quyền của các bà không phải là sự độc đoán, mà đó là một sự lựa chọn đầy kiêu hãnh và bản lĩnh!"
+        }
+      ]
+    },
+    {
+      "id": "blindspots",
+      "title": "Những điểm mù cần để ý",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Quyền lực của Nhà Cai Trị đôi khi lại chính là con dao hai lưỡi tự cứa vào mình và cả người khác, nếu mấy bà lỡ sa vào những điểm mù này:"
+        },
+        {
+          "type": "item",
+          "title": "Bẫy \"Chỉ có cách của mình mới đúng\" (My Way or the Highway)",
+          "text": "Mấy bà cứ tưởng kiên định với tiêu chuẩn của mình là đang đảm bảo chất lượng. Nhưng không! Điểm mù lớn nhất là các bà đôi khi bỏ lỡ những giải pháp sáng tạo, tốt hơn từ những góc nhìn khác."
+        },
+        {
+          "type": "item",
+          "title": "Nhầm lẫn giữa kiểm soát và chăm sóc (Control Disguised as Care)",
+          "text": "Đây là điểm mù đáng sợ nhất mà Ruler thường không tự nhận ra. Dù miệng nói \"tui làm vậy vì quan tâm đến mọi người\", nhưng đôi khi hành động đó thực chất là nhu cầu kiểm soát để cảm thấy an toàn."
+        },
+        {
+          "type": "item",
+          "title": "Hội chứng \"Không thể ủy thác\" (Delegation Paralysis)",
+          "text": "Khả năng tin tưởng và trao quyền của The Ruler cực kỳ mờ nhạt. Điểm mù ở đây là các bà thường không tin ai có thể làm tốt bằng mình, dẫn đến việc ôm đồm quá tải."
+        },
+        {
+          "type": "item",
+          "title": "Cái tôi của sự \"Kiểm soát\" (Ego Tied to Control)",
+          "text": "Các bà vô thức dính chặt giá trị bản thân vào việc \"mình có đang nắm quyền kiểm soát không\". Nếu một ngày phải từ bỏ quyền quyết định, bà lại đâm ra hoảng loạn vì sợ mất đi vị thế của mình."
+        }
+      ]
+    },
+    {
+      "id": "conflict",
+      "title": "Mâu thuẫn lớn nhất",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Mâu thuẫn kinh điển nhất cấu xé tâm can của một Ruler mỗi đêm muộn chính là sự giằng xé giữa: Khao khát được NGHỈ NGƠI, được buông bỏ trách nhiệm một lúc VÀ Nỗi sợ hãi rằng nếu buông tay, mọi thứ sẽ RƠI VÀO HỖN LOẠN."
+        },
+        {
+          "type": "item",
+          "title": "Vừa thèm được dựa dẫm, lại vừa không cho phép mình yếu đuối",
+          "text": "Tận sâu bên trong, The Ruler cực kỳ khao khát có một ai đó để san sẻ gánh nặng trách nhiệm. Nhưng ác nỗi, mỗi khi có cơ hội buông bỏ, bản năng \"phải kiểm soát mọi thứ\" lại tự động bật lên."
+        },
+        {
+          "type": "item",
+          "title": "Nỗi sợ đánh mất vị thế và giá trị bản thân (Fear of Losing Status)",
+          "text": "Vì sao các bà lại cố gắng nắm quyền kiểm soát nhiều đến vậy? Mâu thuẫn ở đây là: Các bà dùng vai trò lãnh đạo để xây dựng nên bản sắc của mình. Sâu thẳm bên trong là một nỗi sợ tột cùng: \"Nếu mình không còn là người dẫn dắt, liệu mình còn là chính mình không?\"."
+        },
+        {
+          "type": "item",
+          "title": "Khao khát được yêu vô điều kiện nhưng lại chỉ biết thể hiện qua sự mạnh mẽ",
+          "text": "Bà mong muốn được yêu thương vì chính con người mình, nhưng lại vô thức chỉ biết chứng tỏ giá trị bản thân qua khả năng lãnh đạo, khiến người khác khó nhìn thấy con người thật đằng sau lớp áo quyền lực."
+        },
+        {
+          "type": "p",
+          "text": "Cuộc chiến lớn nhất của The Ruler là học cách chấp nhận sự thật rớt nước mắt này: Giá trị thật sự của bà không nằm ở việc bà KIỂM SOÁT được bao nhiêu, mà nằm ở việc bà DÁM tin tưởng và chia sẻ trách nhiệm với người khác."
+        }
+      ]
+    },
+    {
+      "id": "challenges",
+      "title": "Những thách thức nào bạn có thể sẽ gặp phải trong các mối quan hệ",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Mang hệ điều hành The Ruler (Nhà Cai Trị) vào các mối quan hệ (từ tình yêu, bạn bè đến đồng nghiệp) thì đúng kiểu \"trái tim mạnh mẽ nhưng dễ khiến người khác cảm thấy bị áp đảo\". Khả năng lãnh đạo vô bờ bến của các bà nếu không có \"sự mềm mại làm nền tảng\" thì rất dễ va phải những \"kiếp nạn\" cực kỳ đặc thù sau đây:"
+        },
+        {
+          "type": "sub",
+          "icon": "🛑",
+          "title": "1. \"Người Yêu Luôn Muốn Quản Lý Mọi Thứ\" (The Controlling Partner)"
+        },
+        {
+          "type": "item",
+          "title": "Bản chất",
+          "text": "Vì bản năng muốn tổ chức, quản lý, các bà thường vô thức áp đặt cách làm của mình lên đối phương, từ những việc nhỏ nhặt đến những quyết định lớn."
+        },
+        {
+          "type": "item",
+          "title": "Biểu hiện",
+          "text": "Thay vì một mối quan hệ bình đẳng, các bà lại hay vướng vào việc trở thành người luôn ra quyết định, khiến đối phương cảm thấy mất đi tiếng nói của mình trong mối quan hệ."
+        },
+        {
+          "type": "sub",
+          "icon": "🛑",
+          "title": "2. Yêu Đương Hay Đang Điều Hành Một Dự Án? (Managing the Relationship)"
+        },
+        {
+          "type": "item",
+          "title": "Bản chất",
+          "text": "Các bà có xu hướng tiếp cận tình yêu như một dự án cần được quản lý hiệu quả, với những kỳ vọng, tiêu chuẩn rõ ràng cho cả hai bên."
+        },
+        {
+          "type": "item",
+          "title": "Biểu hiện",
+          "text": "Ban đầu thì đối phương thấy bà có định hướng, đáng tin cậy đó, nhưng dần dà họ sẽ cảm thấy ngột ngạt vì thiếu đi sự tự nhiên, lãng mạn trong tình yêu."
+        },
+        {
+          "type": "sub",
+          "icon": "🛑",
+          "title": "3. Quả Bom Nổ Chậm \"Khó Chấp Nhận Khi Bị Phản Đối\" (Difficulty with Disagreement)"
+        },
+        {
+          "type": "item",
+          "title": "Bản chất",
+          "text": "Khi ý kiến hoặc quyết định của mình bị phản đối, các bà có thể phản ứng bằng sự khó chịu, thậm chí coi đó như một sự thách thức đối với vị thế của mình."
+        },
+        {
+          "type": "item",
+          "title": "Biểu hiện",
+          "text": "Khi mối quan hệ có bất đồng, thay vì lắng nghe cởi mở, bà có thể bảo vệ quan điểm của mình một cách quyết liệt, khiến đối phương cảm thấy không được tôn trọng."
+        },
+        {
+          "type": "sub",
+          "icon": "🛑",
+          "title": "4. Khó Thể Hiện Sự Yếu Đuối (Difficulty Showing Vulnerability)"
+        },
+        {
+          "type": "item",
+          "title": "Bản chất",
+          "text": "Tính cách luôn cần phải mạnh mẽ, kiểm soát khiến The Ruler rất khó để người khác thấy mình trong những khoảnh khắc yếu đuối, bối rối."
+        },
+        {
+          "type": "item",
+          "title": "Biểu hiện",
+          "text": "Bạn bè, người yêu có thể cảm thấy dù đã ở bên bà rất lâu, họ vẫn chưa từng thấy được phiên bản thật sự mong manh, dễ tổn thương của bà."
+        },
+        {
+          "type": "sub",
+          "icon": "🛑",
+          "title": "5. Nỗi Sợ \"Mất Kiểm Soát\" Khóa Chặt Sự Gần Gũi"
+        },
+        {
+          "type": "item",
+          "title": "Bản chất",
+          "text": "Bà sợ sự phụ thuộc, sợ mất đi vị thế lãnh đạo, và nỗi sợ lớn nhất là bị nhìn nhận là yếu đuối, không đủ năng lực."
+        },
+        {
+          "type": "item",
+          "title": "Biểu hiện",
+          "text": "Dù thật lòng cần được chăm sóc, bà vẫn giữ khoảng cách, không dám thể hiện nhu cầu đó vì sợ rằng một khi đã yếu đuối, bà sẽ không còn được tôn trọng như trước."
+        },
+        {
+          "type": "tip",
+          "text": "Tip sinh tồn cho các bà hệ Ruler: Hãy nhớ, tình yêu và tình bạn khỏe mạnh không đòi hỏi bà phải luôn kiểm soát, chỉ đòi hỏi bà học cách tin tưởng và chia sẻ trách nhiệm. Bà hoàn toàn xứng đáng có một mối quan hệ mà bà không cần phải luôn là người mạnh mẽ nhất!"
+        }
+      ]
+    },
+    {
+      "id": "growth",
+      "title": "Hướng phát triển",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Để lột xác và nâng cấp năng lượng The Ruler (Nhà Cai Trị) lên một tầm cao mới, hành trình của mấy bà không phải là từ bỏ khả năng lãnh đạo hay trở nên yếu đuối. Sự trưởng thành của một Ruler là biến quyền lực kiểm soát thành sự lãnh đạo phục vụ, và học cách tin tưởng, chia sẻ trách nhiệm với người khác."
+        },
+        {
+          "type": "p",
+          "text": "Dưới đây là hướng phát triển để các bà vừa giữ được \"hào quang\" quyền lực, vừa không bị cô đơn trên đỉnh cao:"
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "1. Chuyển từ \"Kiểm Soát Toàn Bộ\" sang \"Lãnh Đạo Phục Vụ\" (Servant Leadership)"
+        },
+        {
+          "type": "item",
+          "title": "Nâng cấp bộ lọc quyền lực",
+          "text": "Trước khi can thiệp vào một tình huống, hãy dừng lại và tự hỏi: \"Mình đang làm điều này vì lợi ích chung, hay chỉ vì muốn kiểm soát?\"."
+        },
+        {
+          "type": "item",
+          "title": "Học cách trao quyền và tin tưởng người khác",
+          "text": "Tập cho người khác cơ hội tự đưa ra quyết định, tự chịu trách nhiệm, thay vì luôn giám sát chặt chẽ mọi chi tiết."
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "2. Ngừng \"Chối Bỏ Sự Yếu Đuối\", hãy học \"Chấp Nhận Sự Mong Manh\" (Embracing Vulnerability)"
+        },
+        {
+          "type": "item",
+          "title": "Cho phép mình được sai lầm",
+          "text": "Thay vì luôn đặt ra tiêu chuẩn hoàn hảo, hãy chấp nhận rằng sai lầm là một phần tự nhiên của quá trình học hỏi và phát triển."
+        },
+        {
+          "type": "item",
+          "title": "Chia sẻ gánh nặng với người khác",
+          "text": "Đừng để bản thân luôn là người duy nhất gánh vác trách nhiệm. Học cách yêu cầu sự giúp đỡ khi cần thiết."
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "3. Tự Xây Dựng \"Quyền Lực Từ Sự Kết Nối\" (Power through Connection)"
+        },
+        {
+          "type": "item",
+          "title": "Luật \"Lắng nghe trước khi quyết định\"",
+          "text": "Khắc cốt ghi tâm nguyên tắc này: Trước khi đưa ra quyết định quan trọng, hãy dành thời gian lắng nghe ý kiến của những người liên quan."
+        },
+        {
+          "type": "item",
+          "title": "Dám thể hiện sự yếu đuối trước người tin cậy",
+          "text": "Ngừng dùng vẻ ngoài mạnh mẽ để che giấu những khó khăn thật sự. Khi cảm xúc khó chịu ập đến, hãy cho phép mình chia sẻ với người mà bà tin tưởng."
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "4. Tích hợp thêm năng lượng bổ trợ (Nâng cấp giao diện)"
+        },
+        {
+          "type": "item",
+          "title": "Mượn năng lượng Người Chăm Sóc (The Caregiver)",
+          "text": "Học cách lãnh đạo bằng sự thấu cảm, quan tâm đến cảm xúc của người khác, không chỉ tập trung vào hiệu quả công việc."
+        },
+        {
+          "type": "item",
+          "title": "Mượn năng lượng Thiếu Nữ Ngây Thơ (The Innocent)",
+          "text": "Học cách tin tưởng vào những điều tốt đẹp, không phải lúc nào cũng cần kiểm soát để đảm bảo mọi thứ diễn ra suôn sẻ."
+        },
+        {
+          "type": "tip",
+          "text": "The Empowered Ruler (Nữ Hoàng Đỉnh Cao) không phải là người kiểm soát được mọi thứ xung quanh, mà là một người phụ nữ sở hữu khả năng lãnh đạo mạnh mẽ nhất nhưng cũng biết khi nào cần tin tưởng và chia sẻ. Khi bà biết lãnh đạo bằng sự phục vụ, thứ năng lượng tỏa ra không còn là sự kiểm soát, mà là một sức hút quyền lực khiến ai cũng phải nể trọng và yêu mến!"
+        }
+      ]
+    },
+    {
+      "id": "relationships",
+      "title": "Làm sao để cải thiện các mối quan hệ xã hội",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Okela mấy bà, tới phần cốt lõi để \"cứu giá\" các mối quan hệ cho hệ Nhà Cai Trị / Nữ Hoàng đây!"
+        },
+        {
+          "type": "p",
+          "text": "Lấy sổ ra note lại ngay chiến lược để vừa giữ được quyền lực, vừa không bị cuộc đời \"cô đơn\" nha:"
+        },
+        {
+          "type": "sub",
+          "icon": "🌟",
+          "title": "PHẦN 1: Cứu Vãn Các Mối Quan Hệ Xã Hội (Bạn bè, Đồng nghiệp)"
+        },
+        {
+          "type": "p",
+          "text": "Để không bị biến thành \"kẻ độc đoán\" hay \"người khó hợp tác\" của thiên hạ, các bà Ruler phải setup lại hệ điều hành giao tiếp liền:"
+        },
+        {
+          "type": "item",
+          "title": "Dẹp ngay cái nết \"Kiểm soát mọi chi tiết\" (Stop Micromanaging)",
+          "text": "Bà có tiêu chuẩn cao, nhưng hãy học cách tin tưởng: \"Tui tin bạn có thể làm tốt việc này\" thay vì giám sát từng bước."
+        },
+        {
+          "type": "item",
+          "title": "Luật \"Lắng nghe trước khi ra quyết định\" (Listen Before Deciding)",
+          "text": "Thanh lọc lại cách giao tiếp đi mấy bà. Dành thời gian lắng nghe ý kiến của người khác trước khi đưa ra kết luận cuối cùng."
+        },
+        {
+          "type": "item",
+          "title": "Có gì cần hỗ trợ cứ nói, ngưng gồng mình tự làm hết (Direct Communication)",
+          "text": "Bà cảm thấy quá tải, làm ơn MỞ MIỆNG RA NÓI. Dùng cấu trúc: \"Mình đang cần hỗ trợ ở phần này...\". Ngừng ngay việc ôm hết trách nhiệm về mình."
+        },
+        {
+          "type": "sub",
+          "icon": "💕",
+          "title": "PHẦN 2: \"Trị Bệnh\" Trong Tình Yêu (Yêu sao cho đừng khiến đối phương ngột ngạt?)"
+        },
+        {
+          "type": "p",
+          "text": "Tình yêu của Ruler rất vững chãi, nhưng toàn tự mình làm khó mình vì quá muốn kiểm soát. Muốn có một mối tình cân bằng, bền vững và slay, thì phải chấn chỉnh ngay:"
+        },
+        {
+          "type": "item",
+          "title": "Chia sẻ quyền quyết định với người yêu",
+          "text": "Đừng luôn là người duy nhất đưa ra quyết định trong mối quan hệ. Hãy cùng người yêu thảo luận và quyết định những vấn đề quan trọng."
+        },
+        {
+          "type": "item",
+          "title": "Học cách thể hiện sự yếu đuối, cần được chăm sóc",
+          "text": "Bà giỏi chăm sóc, dẫn dắt mọi người rồi, nhưng hãy cho phép người yêu được chăm sóc lại bà. Tình yêu là sự trao đổi hai chiều."
+        },
+        {
+          "type": "item",
+          "title": "Đi tìm \"Đối Tác Bình Đẳng\" chứ không tìm \"Người Cần Quản Lý\"",
+          "text": "Bỏ ngay việc đi tìm người để \"quản lý\" hay hướng dẫn. Hãy chọn yêu một người đủ bản lĩnh để cùng bà xây dựng mối quan hệ bình đẳng."
+        },
+        {
+          "type": "item",
+          "title": "Dừng lại đủ lâu để người ta chạm được vào sự mong manh của bà",
+          "text": "Bà mạnh mẽ giỏi rồi, nhưng thỉnh thoảng hãy tỏ ra dễ tổn thương một chút. Chia sẻ nỗi lo lắng thật, cho người yêu cơ hội được ở bên cạnh, hỗ trợ bà."
+        },
+        {
+          "type": "tip",
+          "text": "Chốt hạ: Bí quyết lớn nhất để Ruler hạnh phúc là học cách CHIA SẺ QUYỀN LỰC VÀ TRÁCH NHIỆM. Hãy tin rằng bà xứng đáng có một tình yêu không đòi hỏi bà phải luôn mạnh mẽ, luôn kiểm soát mọi thứ!"
+        }
+      ]
+    },
+    {
+      "id": "career",
+      "title": "Bạn cần làm gì để thăng tiến trong công việc",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Alo mấy bà, đến cái chuyên mục quan trọng nhất để \"lột xác\" chốn công sở đây! The Ruler (Nhà Cai Trị) bình thường đi làm rất hay bị rơi vào cái bẫy \"kiểm soát quá mức khiến đội ngũ khó phát triển\" hoặc \"khó ủy thác công việc cho người khác\". Muốn thăng tiến, lên sếp hay tự làm chủ mà vẫn giữ được vibe \"quyền lực\" thì phải rèn ngay mấy skill cốt lõi này nha:"
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "1. Từ \"Người Quản Lý Chi Tiết\" Thành \"Nhà Lãnh Đạo Truyền Cảm Hứng\""
+        },
+        {
+          "type": "item",
+          "title": "Ngưng kiểm soát từng chi tiết, hãy truyền cảm hứng",
+          "text": "Sự lãnh đạo không nằm ở việc bà kiểm soát mọi thứ, mà ở việc bà truyền được tầm nhìn và động lực cho cả đội ngũ tự nguyện cống hiến."
+        },
+        {
+          "type": "item",
+          "title": "Xây dựng văn hóa tin tưởng",
+          "text": "Thay vì giám sát chặt chẽ, hãy xây dựng một môi trường làm việc dựa trên sự tin tưởng, nơi mọi người tự chịu trách nhiệm cho công việc của mình."
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "2. Biến Quyền Lực Thành \"Ảnh Hưởng Tích Cực\" (Power Meets Positive Impact)"
+        },
+        {
+          "type": "p",
+          "text": "Khả năng tổ chức, quản lý là thiên phú, nhưng để ngồi vào ghế sếp lớn hay vận hành trơn tru một doanh nghiệp, bà bắt buộc phải biết cách sử dụng quyền lực đó để tạo ra tác động tích cực, không chỉ là kiểm soát."
+        },
+        {
+          "type": "p",
+          "text": "Hãy tập thói quen đánh giá thành công không chỉ qua kết quả, mà còn qua sự phát triển của đội ngũ. Đừng chỉ nói \"Team đã hoàn thành mục tiêu\". Hãy đổi thành: \"Team đã hoàn thành mục tiêu, và đây là cách mỗi thành viên đã phát triển năng lực qua dự án này\". Quyền lực đi kèm với sự phát triển con người chính là \"vũ khí hủy diệt\" chốn công sở."
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "3. Học Cách Ủy Thác Hiệu Quả (Effective Delegation)"
+        },
+        {
+          "type": "p",
+          "text": "Căn bệnh trầm kha của The Ruler là không tin tưởng giao việc, dẫn đến việc trở thành nút thắt cổ chai cho sự phát triển của cả đội."
+        },
+        {
+          "type": "p",
+          "text": "Đừng để mọi quyết định quan trọng chỉ mình bà nắm giữ! Hãy chủ động đào tạo, trao quyền cho người khác, xây dựng một đội ngũ có thể vận hành độc lập, hiệu quả ngay cả khi không có bà."
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "4. Xây Dựng Sự Đồng Cảm Song Song Với Quyền Lực"
+        },
+        {
+          "type": "p",
+          "text": "Năng lượng của bà là để dẫn dắt và tạo ra kết quả, không phải để bị coi là lạnh lùng, thiếu nhân văn."
+        },
+        {
+          "type": "p",
+          "text": "Học cách kết hợp sự quyết đoán với sự thấu cảm, quan tâm đến cảm xúc và nhu cầu của đội ngũ. Phải phân bổ rạch ròi: khi nào cần cứng rắn, khi nào cần mềm mỏng."
+        },
+        {
+          "type": "p",
+          "text": "Tóm lại, thăng tiến không có nghĩa là bà phải kiểm soát nhiều hơn, gánh vác nhiều trách nhiệm hơn. Phiên bản nâng cấp đỉnh cao nhất của Ruler chính là người dùng quyền lực để truyền cảm hứng cho cả một đội ngũ, nhưng lại dùng sự tin tưởng để họ có thể phát triển và tự chịu trách nhiệm."
+        }
+      ]
+    },
+    {
+      "id": "journey",
+      "title": "Vận trình cuộc đời",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Hành trình của Ruler là một chuỗi ngày vật vã chuyển hóa từ việc \"kiểm soát để an toàn\" sang cảnh giới \"lãnh đạo bằng sự tin tưởng\"."
+        },
+        {
+          "type": "p",
+          "text": "Lưu ngay 3 giai đoạn \"tiến hóa\" này để xem mấy bà đang kẹt ở level nào nè:"
+        },
+        {
+          "type": "sub",
+          "icon": "🌱",
+          "title": "Dưới 25 Tuổi: Ruler Tập Sự (The Controlling Achiever)"
+        },
+        {
+          "type": "item",
+          "title": "Vibe lúc này",
+          "text": "Luôn muốn nắm quyền kiểm soát mọi tình huống để đảm bảo kết quả tốt nhất. Nhiệt tình cộng cầu toàn quản lý. Việc gì cũng muốn tự mình làm để chắc chắn đạt tiêu chuẩn. Năng lượng lãnh đạo tràn trề nhưng chưa biết cách tin tưởng người khác."
+        },
+        {
+          "type": "item",
+          "title": "Thực trạng",
+          "text": "Đây là giai đoạn mấy bà rất dễ kiệt sức vì ôm đồm quá nhiều trách nhiệm. Nếu có chập chững làm kinh doanh, các bà sẽ tự mình quản lý mọi khía cạnh, khó tin tưởng giao việc cho nhân viên. Trong tình yêu thì dễ vô thức muốn kiểm soát mọi quyết định trong mối quan hệ."
+        },
+        {
+          "type": "item",
+          "title": "Bài học cốt lõi",
+          "text": "Dính vô vàn lần kiệt sức và những mối quan hệ căng thẳng vì sự kiểm soát quá mức để nhận ra rằng: Quyền lực mà không có sự tin tưởng thì chỉ là một gánh nặng cô đơn không hồi kết."
+        },
+        {
+          "type": "sub",
+          "icon": "🌸",
+          "title": "Từ 25 Đến 40 Tuổi: Ruler Thức Tỉnh (The Wise Leader)"
+        },
+        {
+          "type": "item",
+          "title": "Vibe lúc này",
+          "text": "Đã nếm đủ \"trái đắng\" của việc kiểm soát quá mức. Giao diện vẫn quyền lực, tự tin nhưng bên trong đã bắt đầu rèn được khả năng tin tưởng và trao quyền cho người khác."
+        },
+        {
+          "type": "item",
+          "title": "Thực trạng",
+          "text": "Ở độ tuổi này, các bà bắt đầu ngộ ra chân lý cốt lõi: Đừng cố kiểm soát mọi thứ nữa, hãy học cách lãnh đạo bằng sự tin tưởng! Thay vì tự mình gánh vác mọi trách nhiệm, mấy bà chuyển sang xây dựng đội ngũ, ủy thác công việc một cách hiệu quả. Các bà biết cách kết hợp quyền lực với sự thấu cảm."
+        },
+        {
+          "type": "item",
+          "title": "Bài học cốt lõi",
+          "text": "Chấp nhận buông bỏ nỗi sợ mất kiểm soát. Dám thể hiện sự yếu đuối và học cách chia sẻ gánh nặng với những người xung quanh."
+        },
+        {
+          "type": "sub",
+          "icon": "👑",
+          "title": "Sau 40 Tuổi: \"Nữ Hoàng Minh Triết\" (The Benevolent Sovereign)"
+        },
+        {
+          "type": "item",
+          "title": "Vibe lúc này",
+          "text": "An tọa vững chãi trong chính quyền lực của mình, khí chất ngút ngàn. Không còn hoảng loạn vì sợ mất kiểm soát hay bồn chồn vì cần chứng minh năng lực nữa. Sự uy quyền lúc này tỏa ra tự nhiên như hơi thở, đi kèm với sự bao dung của trải nghiệm sống."
+        },
+        {
+          "type": "item",
+          "title": "Thực trạng",
+          "text": "Các bà lùi lại một bước khỏi việc phải kiểm soát mọi chi tiết để chứng minh giá trị bản thân. Thay vì tự mình lãnh đạo mọi mặt trận, các bà vươn tầm thành những mentor xịn xò, truyền cảm hứng về nghệ thuật lãnh đạo phục vụ cho thế hệ sau. Lúc này, các bà hoàn toàn có thể xây dựng và dẫn dắt những tổ chức, đế chế lớn dựa trên nền tảng của sự tin tưởng và trao quyền."
+        },
+        {
+          "type": "item",
+          "title": "Bài học cốt lõi",
+          "text": "Đạt đến cảnh giới cao nhất của quyền lực: Hiểu rằng lãnh đạo thực sự không nằm ở việc kiểm soát nhiều nhất, mà nằm ở việc tạo ra một hệ thống nơi mọi người đều có thể tỏa sáng theo cách riêng của họ."
+        }
+      ]
+    },
+    {
+      "id": "advice",
+      "title": "Lời khuyên",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Tóm lại nha mấy bà, chốt sổ nguyên mẫu Nhà Cai Trị (The Ruler) bằng một câu cốt lõi thôi: Bà là một cột trụ quyền lực của nhân gian, nhưng cột trụ vững chãi nhất cũng cần được nâng đỡ bởi những cột trụ khác!"
+        },
+        {
+          "type": "tip",
+          "text": "Lời khuyên \"xương máu\" ghim ngay vào tim nè:"
+        },
+        {
+          "type": "item",
+          "title": "Nghỉ làm \"Người Kiểm Soát Mọi Thứ\"",
+          "text": "Bà không có nghĩa vụ phải nắm quyền kiểm soát tuyệt đối mọi tình huống. Hãy học cách tin tưởng rằng người khác cũng có khả năng đóng góp giá trị."
+        },
+        {
+          "type": "item",
+          "title": "Chân lý sinh tồn để không bị \"cô đơn trên đỉnh cao\"",
+          "text": "Thay vì cứ liên tục gánh vác trách nhiệm một mình, hãy khắc cốt ghi tâm điều này: chia sẻ quyền lực không làm bà yếu đi, mà làm bà mạnh mẽ hơn. Lãnh đạo bền vững đến từ một đội ngũ vững mạnh, không phải từ một cá nhân kiệt sức."
+        },
+        {
+          "type": "item",
+          "title": "Quyền lực thì phải có sự mềm mại",
+          "text": "Áp dụng chuẩn xác nguyên tắc: \"Ý chí sắt đá, trái tim rộng mở\". Lãnh đạo bằng sự quyết đoán, nhưng cũng phải biết lắng nghe và thấu cảm."
+        },
+        {
+          "type": "item",
+          "title": "Setup \"Sự tin tưởng có chiến lược\"",
+          "text": "Kiểm soát mọi thứ là tự chuốc lấy kiệt quệ. Dám thẳng tay trao quyền cho những người đã chứng minh được năng lực và sự đáng tin cậy."
+        },
+        {
+          "type": "tip",
+          "text": "Chốt hạ: Sự quyền lực, khả năng lãnh đạo của Ruler là một siêu năng lực bẩm sinh, là thứ vũ khí sống động nhưng có khả năng kiến tạo đỉnh cao nhất. Miễn là bà biết lãnh đạo bằng sự tin tưởng, không phải nỗi sợ mất kiểm soát, thì vibe của bà lúc nào cũng sẽ uy quyền và tỏa sáng rực rỡ!"
+        }
+      ]
+    }
+  ]
+}

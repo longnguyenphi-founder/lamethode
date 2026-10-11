@@ -1,0 +1,943 @@
+{
+  "slug": "lover",
+  "code": "NTI",
+  "english": "The Lover",
+  "name": "Người Tình",
+  "intro": [
+    "Bà là đứa yêu bằng cả trái tim, cả cơ thể, cả tâm hồn — không có khái niệm \"yêu nửa vời\" trong từ điển sống của bà. Bà thấy vẻ đẹp trong những điều nhỏ nhặt nhất: ánh hoàng hôn qua khung cửa sổ, mùi nước hoa quen thuộc, cái nắm tay dịu dàng. Với bà, cuộc sống không đáng sống nếu thiếu đi những cảm xúc mãnh liệt, những kết nối sâu sắc. Nhưng có một sự thật mà bà giấu kỹ hơn cả một lá thư tình chưa gửi: đằng sau sự nồng nhiệt đó là một nỗi sợ hãi tột cùng về việc không đủ đáng yêu để giữ chân bất cứ ai.",
+    "Sự thật đau lòng nhất là bà thường đánh mất chính mình trong các mối quan hệ, cố gắng trở thành phiên bản mà đối phương mong muốn chỉ để không bị bỏ rơi. Tận sâu bên trong, bà luôn mang một nỗi sợ hoang mang: \"Nếu mình là chính mình, không cố gắng làm hài lòng người khác, liệu mình có còn đủ hấp dẫn để được yêu thương không?\". Bà cứ liên tục trao đi tình cảm nhiều hơn những gì mình nhận lại, để rồi có những lúc kiệt sức vì yêu quá nhiều mà quên mất việc yêu lấy chính mình."
+  ],
+  "population": 10,
+  "celebrities": [
+    {
+      "name": "Ariana Grande",
+      "text": "Với những bản tình ca đầy cảm xúc và những mối quan hệ công khai luôn tràn ngập sự lãng mạn, Ariana Grande được biết đến như một biểu tượng của việc yêu hết mình, sống trọn vẹn với cảm xúc."
+    },
+    {
+      "name": "Jennifer Lopez",
+      "text": "Qua nhiều thập kỷ sự nghiệp, J.Lo luôn công khai đề cao giá trị của tình yêu, sự lãng mạn và kết nối sâu sắc, không ngại thể hiện cảm xúc mãnh liệt trong cả âm nhạc lẫn đời sống cá nhân."
+    },
+    {
+      "name": "Wendy (Red Velvet)",
+      "text": "Được biết đến với giọng hát đầy cảm xúc và khả năng truyền tải những câu chuyện tình yêu sâu lắng, Wendy thường thể hiện sự tinh tế trong cách kết nối cảm xúc với khán giả qua âm nhạc."
+    },
+    {
+      "name": "Zendaya",
+      "text": "Không chỉ nổi bật với tài năng diễn xuất, Zendaya còn được biết đến với gu thẩm mỹ tinh tế và cách thể hiện tình cảm chân thành, sâu sắc trong các mối quan hệ được công chúng biết đến."
+    }
+  ],
+  "powers": [
+    {
+      "title": "Bà có Trái Tim Cảm Nhận Sâu Sắc Vô Bờ",
+      "english": "The Deep Feeler",
+      "lead": null,
+      "points": [
+        {
+          "title": "Nhạy cảm với vẻ đẹp và cảm xúc",
+          "text": "Khác với những người sống thực dụng, The Lover luôn cảm nhận thế giới qua lăng kính của cái đẹp, sự tinh tế và những rung động cảm xúc mãnh liệt."
+        },
+        {
+          "title": "Khả năng kết nối sâu sắc",
+          "text": "Các bà có một năng lực đặc biệt trong việc tạo ra sự gần gũi, thân mật với người khác, khiến đối phương cảm thấy được thấu hiểu và trân trọng."
+        }
+      ]
+    },
+    {
+      "title": "Nghệ Thuật Yêu Thương Toàn Tâm Toàn Ý",
+      "english": "The Art of Devotion",
+      "lead": null,
+      "points": [
+        {
+          "title": "Yêu bằng cả trái tim không giữ lại",
+          "text": "Điểm nổi bật nhất của Lover là sự cống hiến trọn vẹn. Bà không biết cách yêu nửa vời, luôn dốc hết tâm sức cho những mối quan hệ mình trân trọng."
+        },
+        {
+          "title": "Vibe lãng mạn tự nhiên",
+          "text": "Ở cạnh một Lover, người ta cảm thấy được nâng niu, được nhìn thấy vẻ đẹp trong chính con người mình, vì đó là cách bà nhìn thế giới."
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "id": "portrait",
+      "title": "Chân dung của bạn – Bạn thực sự là ai",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Để tui chẻ nhỏ hai phần \"ăn tiền\" nhưng cũng dễ làm mấy bà \"suy\" nhất: Năng lực cốt lõi (Flex nhẹ skill ẩn) và Góc tối tâm lý (Red flag tự thân)."
+        },
+        {
+          "type": "p",
+          "text": "Bà nào thấy quen quen thì chuẩn bị sẵn giấy bút note lại để tự chấn chỉnh mình nghen!"
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "1. Năng Lực Cốt Lõi (Những thứ làm nên thương hiệu \"trái tim nồng nhiệt\")"
+        },
+        {
+          "type": "p",
+          "text": "Đây là những siêu năng lực bẩm sinh khiến The Lover luôn là \"nguồn cảm hứng lãng mạn\" của rất nhiều người, vì ai cũng khao khát được yêu thương sâu sắc như cách bà yêu:"
+        },
+        {
+          "type": "item",
+          "title": "Khả năng cảm nhận sâu sắc (Deep Emotional Attunement)",
+          "text": "Các bà có thể cảm nhận được những cảm xúc tinh tế nhất trong một mối quan hệ, nhận ra những gì người khác cần mà không cần họ phải nói ra."
+        },
+        {
+          "type": "item",
+          "title": "Sự lãng mạn và trân trọng cái đẹp (Aesthetic Appreciation)",
+          "text": "Không chỉ trong tình yêu, các bà còn nhìn thấy vẻ đẹp trong nghệ thuật, thiên nhiên, những khoảnh khắc đời thường mà người khác dễ dàng bỏ qua."
+        },
+        {
+          "type": "item",
+          "title": "Sự cống hiến hết mình (Total Devotion)",
+          "text": "Khi đã yêu thương ai đó, các bà dành trọn tâm sức, thời gian để vun đắp cho mối quan hệ đó, không tính toán thiệt hơn."
+        },
+        {
+          "type": "item",
+          "title": "Khả năng tạo ra sự thân mật (Intimacy Building)",
+          "text": "Các bà có một tài năng đặc biệt trong việc khiến người khác cảm thấy được kết nối, được thấu hiểu ở một tầng sâu hơn những cuộc trò chuyện thông thường."
+        },
+        {
+          "type": "sub",
+          "icon": "🛑",
+          "title": "2. Góc Tối (Red flag tự thân – Đọc để tỉnh táo nha mấy bà!)"
+        },
+        {
+          "type": "p",
+          "text": "Yêu hết mình thì giỏi, nhưng tâm lý của Người Tình lại rất dễ bị hổng lỗ chỗ vì những \"cái bẫy\" tự mình giăng ra:"
+        },
+        {
+          "type": "item",
+          "title": "Hội chứng \"Đánh mất bản thân trong tình yêu\" (Losing Self in Love)",
+          "text": "Đây là bẫy dễ sập nhất! Các bà thường thay đổi sở thích, quan điểm, thậm chí giá trị sống của mình để phù hợp với người mình yêu, đến mức không còn nhận ra chính mình."
+        },
+        {
+          "type": "item",
+          "title": "Ám ảnh với sự hoàn hảo trong tình yêu (Idealization Obsession)",
+          "text": "Vì khao khát một tình yêu lãng mạn tuyệt đối, các bà cực kỳ hay lý tưởng hóa đối phương, bỏ qua những dấu hiệu thực tế không phù hợp."
+        },
+        {
+          "type": "item",
+          "title": "Ghen tuông và chiếm hữu thái quá (Possessive Jealousy)",
+          "text": "Góc tối \"độc hại\" nhất của Lover là nỗi sợ mất đi người mình yêu khiến bà đôi khi trở nên kiểm soát, ghen tuông vô cớ, gây ngột ngạt cho mối quan hệ."
+        },
+        {
+          "type": "item",
+          "title": "Phụ thuộc cảm xúc quá mức (Emotional Dependency)",
+          "text": "Cứ liên tục đặt hạnh phúc của mình vào tay người khác mà quên mất việc xây dựng giá trị bản thân độc lập, đến lúc mối quan hệ kết thúc thì cảm thấy như mất đi cả bản sắc."
+        },
+        {
+          "type": "item",
+          "title": "Các bà hệ Lover nhớ kỹ nha",
+          "text": "Tình yêu không có ranh giới chính là con đường ngắn nhất dẫn đến việc đánh mất chính mình. Hãy yêu bằng một trái tim nồng nhiệt, nhưng phải giữ lại một phần cho riêng mình!"
+        }
+      ]
+    },
+    {
+      "id": "core",
+      "title": "Lõi Tính Cách (Bản chất thật sự bên trong)",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Nếu lõi của The Rebel là Khát Vọng Tự Do Khỏi Sự Áp Đặt, thì lõi của The Lover chính là Khát Vọng Kết Nối Sâu Sắc (The Need for Deep Connection). Động lực sâu thẳm nhất của các bà được xây dựng trên 3 trụ cột này:"
+        },
+        {
+          "type": "item",
+          "title": "Bản năng khao khát sự thân mật (The Intimacy Instinct)",
+          "text": "Các bà nhìn thế giới qua lăng kính của những mối quan hệ, những kết nối cảm xúc. Sự cô đơn, xa cách khiến các bà cảm thấy cuộc sống mất đi ý nghĩa."
+        },
+        {
+          "type": "item",
+          "title": "Nỗi sợ không đủ đáng yêu (Fear of Being Unlovable)",
+          "text": "Nghe hơi \"suy\" nhưng đây là sự thật. Nỗi sợ lớn nhất của Lover không phải là cô đơn, mà là cảm giác bản thân không đủ hấp dẫn, không đủ giá trị để được yêu thương trọn vẹn."
+        },
+        {
+          "type": "item",
+          "title": "Niềm tin vào sức mạnh của tình yêu (Faith in Love's Power)",
+          "text": "Với các bà, tình yêu có thể chữa lành mọi vết thương, vượt qua mọi trở ngại. Đây là động lực khiến bà luôn sẵn sàng cho đi, nhưng cũng là gánh nặng khi tình yêu không được đáp lại tương xứng."
+        },
+        {
+          "type": "sub",
+          "icon": "🛑",
+          "title": "Những Điểm Cần Lưu Ý (Đọc để chấn chỉnh lại nết, bớt khổ nha!)"
+        },
+        {
+          "type": "p",
+          "text": "Mang năng lượng Lover là một điều tuyệt vời, nhưng nếu không biết cách kiểm soát, các bà sẽ tự đánh mất chính mình trong những mối quan hệ. Nhớ kỹ những cẩm nang sinh tồn này:"
+        },
+        {
+          "type": "item",
+          "title": "Học cách yêu bản thân trước khi yêu người khác",
+          "text": "Giá trị của bà không phụ thuộc vào việc có ai đó yêu thương bà hay không. Hãy xây dựng lòng tự trọng từ chính bên trong."
+        },
+        {
+          "type": "item",
+          "title": "Giữ lại bản sắc riêng trong mọi mối quan hệ",
+          "text": "Đừng đánh mất sở thích, ước mơ, giá trị sống của mình chỉ để làm hài lòng người khác. Một mối quan hệ lành mạnh không đòi hỏi bà phải biến mất."
+        },
+        {
+          "type": "item",
+          "title": "Phân biệt tình yêu lành mạnh và sự phụ thuộc",
+          "text": "Yêu ai đó không có nghĩa là hạnh phúc của bà hoàn toàn phụ thuộc vào họ. Học cách duy trì sự độc lập cảm xúc trong khi vẫn yêu thương sâu sắc."
+        },
+        {
+          "type": "item",
+          "title": "Chấp nhận: không phải ai cũng đáp lại tình yêu của bà",
+          "text": "Không phải mọi tình cảm bà trao đi đều sẽ được nhận lại tương xứng. Học cách chấp nhận điều đó mà không đánh mất niềm tin vào tình yêu."
+        },
+        {
+          "type": "p",
+          "text": "Trưởng thành thực sự của một Lover không phải là ngừng yêu hết mình, mà là biết yêu bản thân đủ nhiều để không đánh mất chính mình trong tình yêu dành cho người khác."
+        }
+      ]
+    },
+    {
+      "id": "love",
+      "title": "Bạn muốn một tình yêu như nào",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "nếu đã mang trong mình hệ điều hành The Lover (Người Tình), thì gu tình yêu và những mong cầu sâu thẳm của các bà thường đi theo một hệ tư tưởng rất đặc thù. Chuyên mục \"Bạn muốn một tình yêu như nào\" lên sóng, lấy sổ tay ra note lại để tỉnh táo lúc yêu nha!"
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "1. Cái các bà TƯỞNG mình muốn (Và rất dễ sập bẫy)"
+        },
+        {
+          "type": "item",
+          "title": "Hệ \"Yêu là phải hy sinh tất cả\"",
+          "text": "Trái tim của The Lover rất dễ tin rằng tình yêu đích thực đòi hỏi sự hy sinh vô điều kiện, sẵn sàng từ bỏ mọi thứ của bản thân để chứng minh tình cảm."
+        },
+        {
+          "type": "item",
+          "title": "Tình yêu kiểu \"Càng đau càng chân thật\"",
+          "text": "Các bà đôi khi vô thức tin rằng những mối tình đầy sóng gió, đau khổ mới là tình yêu thực sự sâu sắc, trong khi những mối quan hệ bình yên lại bị coi là nhàm chán."
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "2. Cái các bà THỰC SỰ khao khát (Tình yêu lý tưởng giúp bà không bị \"đánh mất mình\")"
+        },
+        {
+          "type": "p",
+          "text": "Sự thật là, nếu cứ theo đuổi những thứ ở mục 1, các bà sẽ rất nhanh thấy kiệt quệ. Sâu thẳm bên trong, đây mới là thứ một Lover thực sự cần để thấy an toàn:"
+        },
+        {
+          "type": "item",
+          "title": "Một tình yêu \"Song Hành\" chứ không phải \"Hy Sinh Một Chiều\"",
+          "text": "Các bà cần một người yêu thương bà bằng sự cho đi tương xứng, không để bà phải luôn là người trao đi nhiều hơn nhận lại."
+        },
+        {
+          "type": "item",
+          "title": "Sự Trân Trọng Con Người Thật (Appreciation for Authenticity)",
+          "text": "Lover cần một người yêu chính con người thật của bà, không phải phiên bản mà bà cố gắng trở thành để làm hài lòng họ."
+        },
+        {
+          "type": "item",
+          "title": "Một người giúp bà giữ vững bản sắc riêng (An Anchor for Identity)",
+          "text": "Không cần ai nhấn chìm bà trong mối quan hệ, chỉ cần một người khuyến khích bà duy trì sở thích, ước mơ và các mối quan hệ khác ngoài tình yêu."
+        },
+        {
+          "type": "item",
+          "title": "Sự an toàn để yêu mà không sợ mất đi bản thân (Safety in Love)",
+          "text": "Các bà luôn khao khát một tình yêu đủ vững chãi để bà có thể yêu hết mình mà không lo sợ đánh mất chính mình trong quá trình đó."
+        },
+        {
+          "type": "tip",
+          "text": "Lời khuyên chốt hạ: Đừng đi tìm một tình yêu để \"hy sinh tất cả\" nữa mấy bà ơi! Tình yêu lý tưởng nhất của The Lover là tìm được một người yêu thương con người thật của bà, và cùng bà xây dựng một mối quan hệ mà cả hai đều được là chính mình."
+        }
+      ]
+    },
+    {
+      "id": "perception",
+      "title": "Người khác nghĩ gì về bạn",
+      "blocks": [
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "1. Ấn tượng tích cực (Aura chói lóa, điểm 10 uy tín)"
+        },
+        {
+          "type": "item",
+          "title": "\"Trái tim ấm áp\" của cả hội bạn",
+          "text": "Trong nhóm bạn, bà đích thị là người luôn quan tâm sâu sắc đến cảm xúc của mọi người, luôn nhớ những chi tiết nhỏ nhặt khiến người khác cảm thấy được trân trọng."
+        },
+        {
+          "type": "item",
+          "title": "\"Người mang năng lượng lãng mạn\" biết đi",
+          "text": "Khí chất của bà tỏa ra sự nồng nhiệt, ấm áp. Người ngoài nhìn vào luôn thấy bà là một người sống hết mình với cảm xúc, mang lại cảm giác được yêu thương cho những ai ở gần."
+        },
+        {
+          "type": "item",
+          "title": "\"Người kết nối tuyệt vời\" trong công việc",
+          "text": "Đồng nghiệp cực kỳ thích làm việc với bà vì biết bà luôn quan tâm đến cảm xúc của đội nhóm, tạo ra một môi trường làm việc ấm áp, gắn kết."
+        },
+        {
+          "type": "sub",
+          "icon": "🛑",
+          "title": "2. Những điểm dễ bị \"hiểu lầm\" (Nghe hơi chạnh lòng nha)"
+        },
+        {
+          "type": "item",
+          "title": "Dễ bị gán mác \"Yêu đương thái quá, thiếu lý trí\"",
+          "text": "Vì bản tính ưu tiên cảm xúc, đối phương sẽ dễ cảm thấy bà quá nhạy cảm, dễ bị cuốn theo cảm xúc nhất thời mà thiếu đi sự tỉnh táo cần thiết."
+        },
+        {
+          "type": "item",
+          "title": "Bị xem là \"Phụ thuộc, thiếu độc lập\"",
+          "text": "Việc luôn ưu tiên các mối quan hệ đôi khi khiến người xung quanh nghĩ rằng bà không thể tự đứng vững một mình, luôn cần có ai đó bên cạnh."
+        },
+        {
+          "type": "item",
+          "title": "Mang tiếng \"Ghen tuông, chiếm hữu\"",
+          "text": "Đôi khi vì nỗi sợ mất mát trong tình yêu, người ta sẽ nhìn bà như một người thiếu tin tưởng, dễ ghen tuông vô cớ trong các mối quan hệ."
+        },
+        {
+          "type": "item",
+          "title": "Bị đánh giá thấp về năng lực chuyên môn (Underestimated Professionally)",
+          "text": "Vì vẻ ngoài mềm mại, giàu cảm xúc, đôi khi người khác sẽ vô tình xem nhẹ khả năng làm việc độc lập, quyết đoán của bà trong công việc."
+        },
+        {
+          "type": "tip",
+          "text": "Chốt lại nè: Giao diện của The Lover trong mắt thiên hạ luôn là một người NỒNG NHIỆT. Nhưng mấy bà ơi, nồng nhiệt thôi chưa đủ, phải là \"Nồng nhiệt có ranh giới\". Hãy để trái tim ấm áp của mình là một điểm mạnh, chứ đừng biến nó thành lý do để bị coi nhẹ nha!"
+        }
+      ]
+    },
+    {
+      "id": "reactions",
+      "title": "Cách chúng mình phản ứng",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Nếu The Rebel thường chọn cách chống đối khi có biến, thì hệ điều hành The Lover (Người Tình) lại \"nhảy số\" theo một hệ tư tưởng hoàn toàn khác."
+        },
+        {
+          "type": "p",
+          "text": "Đọc ngay cách các bà đối mặt với 3 tình huống \"sóng gió\" này để coi tui nói có chuẩn tim đen không nha:"
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "1. Cách Bà Xử Lý Khi Mọi Thứ Rối Tung Lên (Khủng Hoảng ập đến)"
+        },
+        {
+          "type": "item",
+          "title": "Bật mode \"Tìm kiếm sự an ủi\" (Seeking Comfort First)",
+          "text": "Càng rối, phản ứng đầu tiên của các bà là muốn tìm đến người thân yêu để được ôm ấp, an ủi trước khi có thể bình tĩnh xử lý vấn đề."
+        },
+        {
+          "type": "item",
+          "title": "Cảm xúc chi phối quyết định (Emotion-Driven Decisions)",
+          "text": "Các bà có xu hướng để cảm xúc dẫn dắt hành động trong lúc khủng hoảng, đôi khi khiến quyết định thiếu đi sự tỉnh táo cần thiết."
+        },
+        {
+          "type": "item",
+          "title": "Dễ tìm đến các mối quan hệ để lấp đầy khoảng trống",
+          "text": "Vì quá sợ cảm giác cô đơn trong lúc khó khăn, đôi khi các bà tìm đến những mối quan hệ mới hoặc bám víu vào người khác thay vì tự mình đối diện với vấn đề."
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "2. Khi Ở Trong Một Tập Thể (Teamwork, Nhóm bạn)"
+        },
+        {
+          "type": "item",
+          "title": "\"Chất keo kết nối\" của cả nhóm",
+          "text": "Bà chính là người tạo ra sự gắn kết giữa các thành viên, luôn quan tâm đến cảm xúc và mối quan hệ trong tập thể hơn là chỉ tập trung vào công việc."
+        },
+        {
+          "type": "item",
+          "title": "Nhạy cảm với xung đột trong nhóm",
+          "text": "Các bà rất dễ bị ảnh hưởng bởi không khí căng thẳng, mâu thuẫn trong tập thể, đôi khi cảm thấy khó chịu hoặc lo lắng khi có bất đồng xảy ra."
+        },
+        {
+          "type": "item",
+          "title": "Thánh \"làm hòa\" trong mọi tình huống",
+          "text": "Vì cái tính không thích xung đột, các bà thường đóng vai trò trung gian hòa giải, đôi khi hy sinh quan điểm cá nhân để giữ hòa khí chung."
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "3. Khi Không Được Hiểu / Bị Từ Chối Tình Cảm (Góc tổn thương ngầm)"
+        },
+        {
+          "type": "p",
+          "text": "Đây là lúc The Lover dễ bộc lộ những góc tối tâm lý nhất nè:"
+        },
+        {
+          "type": "item",
+          "title": "Bật mode \"Đau khổ tột cùng\" (Deep Emotional Pain)",
+          "text": "Khi bị từ chối hay không được đáp lại tình cảm, các bà sẽ KHÔNG che giấu nỗi đau đâu. Cảm xúc tổn thương của bà thường mãnh liệt và kéo dài hơn nhiều so với người khác."
+        },
+        {
+          "type": "item",
+          "title": "Gặm nhấm sự tự nghi ngờ (Self-Doubt Spiral)",
+          "text": "Trong đầu các bà sẽ liên tục nảy số những suy nghĩ: \"Có phải mình không đủ tốt?\", \"Tại sao mình không được yêu thương như mình đã trao đi?\". Cảm giác này bào mòn lòng tự trọng của bà."
+        },
+        {
+          "type": "item",
+          "title": "Cơ chế tự vệ độc hại (Overgiving to Win Back Love)",
+          "text": "Thay vì chấp nhận và buông bỏ, các bà đôi khi lại cố gắng cho đi nhiều hơn nữa để cố gắng giành lại tình cảm đã mất, dù điều đó khiến bản thân càng thêm tổn thương."
+        },
+        {
+          "type": "tip",
+          "text": "Chốt hạ cho The Lover nè: Yêu sâu sắc là tốt, nhưng lúc mọi thứ rối ren hay khi bị từ chối, hãy nhớ rằng giá trị của bà không phụ thuộc vào việc ai đó có yêu bà hay không! Nếu tình cảm không được đáp lại, thì việc bà cần làm là QUAY VỀ YÊU THƯƠNG CHÍNH MÌNH, chứ không phải là cố gắng chứng minh mình xứng đáng đâu nha!"
+        }
+      ]
+    },
+    {
+      "id": "strengths",
+      "title": "Điểm mạnh thật sự",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Điểm mạnh thật sự (True Strengths) làm nên thương hiệu của The Lover nha! Không phải tự nhiên mà ai cũng muốn có một người bạn, người đồng nghiệp hay người yêu mang hệ điều hành này đâu."
+        },
+        {
+          "type": "p",
+          "text": "Sức mạnh của các bà không nằm ở sự thực dụng, mà nó nằm ở \"quyền lực của trái tim\" siêu đẳng có khả năng chữa lành cho cả những người quanh mình nghen:"
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "1. Năng Lực \"Chữa Lành Bằng Tình Yêu\" Cấp Độ Max (Master of Healing Love)"
+        },
+        {
+          "type": "item",
+          "title": "Nguồn năng lượng ấm áp lan tỏa",
+          "text": "Các bà có khả năng khiến người khác cảm thấy được yêu thương, được trân trọng chỉ bằng sự hiện diện chân thành của mình."
+        },
+        {
+          "type": "item",
+          "title": "Khả năng thấu cảm sâu sắc",
+          "text": "Vì luôn cảm nhận cảm xúc của người khác một cách tinh tế, các bà có thể mang lại sự an ủi đúng lúc, đúng cách mà người khác cần."
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "2. Sự Cống Hiến Là Vũ Khí Tối Thượng"
+        },
+        {
+          "type": "item",
+          "title": "Soft outside, devoted inside",
+          "text": "Nhìn giao diện bên ngoài có vẻ mềm yếu, nhạy cảm, nhưng đụng chuyện thì The Lover lại là những người kiên định nhất trong việc bảo vệ và vun đắp cho những mối quan hệ mình trân trọng."
+        },
+        {
+          "type": "item",
+          "title": "Tạo ra sự gắn kết bền chặt (The Bond Builder)",
+          "text": "Mấy bà có khả năng biến những mối quan hệ hời hợt thành những kết nối sâu sắc, ý nghĩa nhờ sự chân thành và đầu tư trọn vẹn."
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "3. \"Chất Keo\" Gắn Kết Trong Tập Thể"
+        },
+        {
+          "type": "item",
+          "title": "Người nuôi dưỡng tinh thần đồng đội",
+          "text": "Trong một tập thể đang rời rạc, các bà chính là người tạo ra sự gắn bó, khiến mọi người cảm thấy được quan tâm và thuộc về."
+        },
+        {
+          "type": "item",
+          "title": "Nuôi dưỡng lòng tin và sự thân mật (The Trust Cultivator)",
+          "text": "Điểm sáng rực rỡ nhất là khả năng khiến người khác cảm thấy an toàn để mở lòng, chia sẻ những điều sâu kín nhất."
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "4. Sự Chân Thành Trong Tình Cảm Nguyên Bản (Radical Emotional Honesty)"
+        },
+        {
+          "type": "p",
+          "text": "Giữa một thế giới đầy sự dè dặt, sợ tổn thương và \"giữ khoảng cách an toàn\", việc các bà vẫn dám yêu hết mình, dám thể hiện cảm xúc chân thật chính là một loại dũng khí cực kỳ lớn. Sự nồng nhiệt của các bà không phải là sự yếu đuối, mà đó là một sự lựa chọn đầy kiêu hãnh và bản lĩnh!"
+        }
+      ]
+    },
+    {
+      "id": "blindspots",
+      "title": "Những điểm mù cần để ý",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Sự nồng nhiệt của Người Tình đôi khi lại chính là con dao hai lưỡi tự cứa vào mình và cả người khác, nếu mấy bà lỡ sa vào những điểm mù này:"
+        },
+        {
+          "type": "item",
+          "title": "Bẫy \"Yêu là phải hy sinh bản thân\" (Self-Sacrifice as Love)",
+          "text": "Mấy bà cứ tưởng từ bỏ mọi thứ của bản thân là đang thể hiện tình yêu chân thành. Nhưng không! Điểm mù lớn nhất là các bà đang dần đánh mất chính con người mình trong quá trình đó."
+        },
+        {
+          "type": "item",
+          "title": "Nhầm lẫn giữa cường độ cảm xúc và tình yêu đích thực (Intensity vs. Love)",
+          "text": "Đây là điểm mù đáng sợ nhất mà Lover thường không tự nhận ra. Những mối quan hệ đầy kịch tính, đau khổ không đồng nghĩa với tình yêu sâu sắc — đôi khi đó chỉ là sự độc hại được ngụy trang."
+        },
+        {
+          "type": "item",
+          "title": "Hội chứng \"Cứu vớt người yêu\" (The Fixer Complex)",
+          "text": "Khả năng nhận diện ranh giới lành mạnh của The Lover đôi khi bị nhòe đi vì quá muốn \"cứu\" người mình yêu khỏi những vấn đề của họ, dù điều đó không phải trách nhiệm của bà."
+        },
+        {
+          "type": "item",
+          "title": "Cái tôi của sự \"Được yêu\" (Ego Tied to Being Loved)",
+          "text": "Các bà vô thức dính chặt giá trị bản thân vào việc \"mình có đang được yêu thương không\". Điều này khiến bà khó chấp nhận những giai đoạn độc thân hoặc những mối quan hệ không hoàn hảo."
+        },
+        {
+          "type": "item",
+          "title": "Bỏ qua các dấu hiệu không tương thích vì quá yêu (Ignoring Incompatibility)",
+          "text": "Vì quá đắm chìm trong cảm xúc, đôi khi các bà vô tình bỏ qua những dấu hiệu rõ ràng rằng mối quan hệ không phù hợp, tiếp tục đầu tư vào một điều không còn khả thi."
+        }
+      ]
+    },
+    {
+      "id": "conflict",
+      "title": "Mâu thuẫn lớn nhất",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Mâu thuẫn kinh điển nhất cấu xé tâm can của một Lover mỗi đêm muộn chính là sự giằng xé giữa: Khao khát được YÊU và ĐƯỢC YÊU trọn vẹn VÀ Nỗi sợ hãi rằng nếu là CHÍNH MÌNH, bà sẽ KHÔNG ĐỦ ĐÁNG YÊU để giữ chân bất cứ ai."
+        },
+        {
+          "type": "item",
+          "title": "Vừa muốn được yêu vì con người thật, lại vừa sợ con người thật không đủ tốt",
+          "text": "Tận sâu bên trong, The Lover cực kỳ khao khát được yêu thương vì chính bản thân mình. Nhưng ác nỗi, nỗi sợ không đủ đáng yêu lại khiến bà liên tục thay đổi để làm hài lòng người khác."
+        },
+        {
+          "type": "item",
+          "title": "Nỗi sợ cô đơn (Fear of Being Alone)",
+          "text": "Vì sao các bà lại cố gắng yêu thương, cống hiến nhiều đến vậy? Mâu thuẫn ở đây là: Các bà dùng tình yêu để lấp đầy nỗi sợ cô đơn sâu thẳm bên trong. Sâu thẳm là một nỗi sợ tột cùng: \"Nếu không có ai bên cạnh, liệu cuộc sống của mình còn ý nghĩa gì?\"."
+        },
+        {
+          "type": "item",
+          "title": "Khao khát độc lập nhưng lại sợ tự đứng một mình",
+          "text": "Bà có thể vừa mong muốn có không gian riêng, sự tự chủ trong cuộc sống, vừa cảm thấy hoang mang, mất phương hướng khi không có một mối quan hệ để neo giữ cảm xúc của mình."
+        },
+        {
+          "type": "p",
+          "text": "Cuộc chiến lớn nhất của The Lover là học cách chấp nhận sự thật rớt nước mắt này: Tình yêu đích thực nhất mà bà cần học trước tiên, không phải là tình yêu dành cho người khác, mà là tình yêu bà dành cho chính mình."
+        }
+      ]
+    },
+    {
+      "id": "challenges",
+      "title": "Những thách thức nào bạn có thể sẽ gặp phải trong các mối quan hệ",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Mang hệ điều hành The Lover (Người Tình) vào các mối quan hệ (từ tình yêu, bạn bè đến đồng nghiệp) thì đúng kiểu \"trái tim nồng nhiệt nhưng dễ bị lợi dụng\". Sự cống hiến vô bờ bến của các bà nếu không có \"ranh giới rõ ràng\" thì rất dễ va phải những \"kiếp nạn\" cực kỳ đặc thù sau đây:"
+        },
+        {
+          "type": "sub",
+          "icon": "🛑",
+          "title": "1. \"Yêu Quá Nhiều, Nhận Lại Quá Ít\" (Over-Giving Dynamic)"
+        },
+        {
+          "type": "item",
+          "title": "Bản chất",
+          "text": "Vì các bà luôn sẵn sàng cho đi vô điều kiện, mấy đối tượng ích kỷ hoặc thiếu trách nhiệm sẽ tự động tận dụng sự hào phóng cảm xúc đó mà không đáp lại tương xứng."
+        },
+        {
+          "type": "item",
+          "title": "Biểu hiện",
+          "text": "Thay vì một mối quan hệ cân bằng, các bà lại hay vướng vào những mối tình mà bà luôn là người chủ động, người hy sinh nhiều hơn, trong khi đối phương chỉ nhận mà không cho đi."
+        },
+        {
+          "type": "sub",
+          "icon": "🛑",
+          "title": "2. Đánh Mất Bản Thân Trong Mối Quan Hệ (Losing Identity)"
+        },
+        {
+          "type": "item",
+          "title": "Bản chất",
+          "text": "Các bà có xu hướng dần dần thay đổi sở thích, thói quen, thậm chí cả quan điểm sống để phù hợp với người yêu, đến mức không còn nhận ra chính mình."
+        },
+        {
+          "type": "item",
+          "title": "Biểu hiện",
+          "text": "Ban đầu thì đối phương thấy bà dễ thương, chiều chuộng đó, nhưng dần dà họ sẽ mất đi sự tôn trọng khi thấy bà không còn cá tính, không còn ý kiến riêng."
+        },
+        {
+          "type": "sub",
+          "icon": "🛑",
+          "title": "3. Quả Bom Nổ Chậm \"Ghen Tuông Vô Cớ\" (Jealousy Triggers)"
+        },
+        {
+          "type": "item",
+          "title": "Bản chất",
+          "text": "Nỗi sợ mất mát sâu thẳm khiến các bà đôi khi phản ứng thái quá với những tình huống bình thường, nghi ngờ và kiểm soát đối phương một cách vô lý."
+        },
+        {
+          "type": "item",
+          "title": "Biểu hiện",
+          "text": "Khi cảm giác bất an trỗi dậy, thay vì giao tiếp thẳng thắn, bà có thể kiểm tra tin nhắn, chất vấn liên tục, khiến đối phương cảm thấy ngột ngạt và mất niềm tin."
+        },
+        {
+          "type": "sub",
+          "icon": "🛑",
+          "title": "4. Yêu Say Đắm Nhưng Bỏ Qua Red Flags (Love is Blind)"
+        },
+        {
+          "type": "item",
+          "title": "Bản chất",
+          "text": "Tính cách lãng mạn, dễ rung động khiến The Lover rất dễ bỏ qua những dấu hiệu cảnh báo rõ ràng về sự không phù hợp hoặc độc hại trong mối quan hệ."
+        },
+        {
+          "type": "item",
+          "title": "Biểu hiện",
+          "text": "Bạn bè có thể nhìn thấy rõ những vấn đề trong mối quan hệ của bà, nhưng bà lại khó lòng chấp nhận sự thật vì đã quá đầu tư cảm xúc vào đó."
+        },
+        {
+          "type": "sub",
+          "icon": "🛑",
+          "title": "5. Nỗi Sợ \"Bị Bỏ Rơi\" Khóa Chặt Sự Tự Chủ"
+        },
+        {
+          "type": "item",
+          "title": "Bản chất",
+          "text": "Bà sợ cô đơn, sợ bị từ chối, và nỗi sợ lớn nhất là không ai muốn ở lại với con người thật của mình."
+        },
+        {
+          "type": "item",
+          "title": "Biểu hiện",
+          "text": "Dù mối quan hệ không còn lành mạnh, bà vẫn cố gắng bám víu, vì nỗi sợ cô đơn còn lớn hơn cả nỗi đau khi ở trong một mối quan hệ không hạnh phúc."
+        },
+        {
+          "type": "tip",
+          "text": "Tip sinh tồn cho các bà hệ Lover: Hãy nhớ, tình yêu và tình bạn khỏe mạnh cần có SỰ CÂN BẰNG. Đừng để trái tim nồng nhiệt của mình trở thành cánh cửa mở toang cho bất cứ ai bước vào lợi dụng lòng tốt. Bà hoàn toàn xứng đáng được yêu thương bởi những người biết trân trọng và đáp lại tình cảm ấy!"
+        }
+      ]
+    },
+    {
+      "id": "growth",
+      "title": "Hướng phát triển",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Để lột xác và nâng cấp năng lượng The Lover (Người Tình) lên một tầm cao mới, hành trình của mấy bà không phải là ngừng yêu hết mình hay trở nên lãnh cảm. Sự trưởng thành của một Lover là biến tình yêu vô điều kiện, thiếu ranh giới thành tình yêu có ý thức, và học cách yêu bản thân song song với yêu người khác."
+        },
+        {
+          "type": "p",
+          "text": "Dưới đây là hướng phát triển để các bà vừa giữ được \"hào quang\" nồng nhiệt, vừa không bị đánh mất chính mình:"
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "1. Chuyển từ \"Yêu Để Được Chấp Nhận\" sang \"Yêu Từ Sự Đủ Đầy\" (Loving from Wholeness)"
+        },
+        {
+          "type": "item",
+          "title": "Nâng cấp bộ lọc động cơ",
+          "text": "Trước khi lao vào một mối quan hệ, hãy hỏi bản thân: \"Mình đang yêu vì mình muốn, hay vì mình sợ cô đơn?\". Sự khác biệt này quyết định bà có đang yêu một cách lành mạnh hay không."
+        },
+        {
+          "type": "item",
+          "title": "Xây dựng giá trị bản thân độc lập với tình yêu",
+          "text": "Tìm kiếm ý nghĩa, niềm vui từ những nguồn khác ngoài mối quan hệ — sự nghiệp, sở thích, tình bạn — để không phụ thuộc hoàn toàn vào một người."
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "2. Ngừng \"Hy Sinh Vô Điều Kiện\", hãy học \"Yêu Có Ranh Giới\" (Loving with Boundaries)"
+        },
+        {
+          "type": "item",
+          "title": "Học cách nói không với những gì làm tổn hại bản thân",
+          "text": "Yêu thương ai đó không có nghĩa là bà phải chấp nhận mọi yêu cầu của họ, kể cả khi điều đó gây hại cho chính mình."
+        },
+        {
+          "type": "item",
+          "title": "Đòi hỏi sự công bằng trong tình cảm",
+          "text": "Đừng ngại yêu cầu đối phương đáp lại tình cảm tương xứng với những gì bà đã trao đi."
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "3. Tự Xây Dựng \"Tình Yêu Bản Thân\" Vững Chắc (Self-Love Foundation)"
+        },
+        {
+          "type": "item",
+          "title": "Luật \"Yêu mình trước khi yêu người\"",
+          "text": "Khắc cốt ghi tâm nguyên tắc này: Bà không thể cho đi từ một chiếc cốc rỗng. Hãy dành thời gian, sự quan tâm cho chính bản thân mình như cách bà làm với người khác."
+        },
+        {
+          "type": "item",
+          "title": "Dám ở một mình mà không cảm thấy thiếu sót",
+          "text": "Ngừng coi việc độc thân là một trạng thái cần được \"sửa chữa\". Học cách tận hưởng thời gian một mình như một cơ hội để hiểu rõ bản thân hơn."
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "4. Tích hợp thêm năng lượng bổ trợ (Nâng cấp giao diện)"
+        },
+        {
+          "type": "item",
+          "title": "Mượn năng lượng Nhà Cai Trị (The Ruler)",
+          "text": "Học cách thiết lập ranh giới rõ ràng và đưa ra quyết định dứt khoát khi cần bảo vệ bản thân trong tình yêu."
+        },
+        {
+          "type": "item",
+          "title": "Mượn năng lượng Kẻ Nổi Loạn (The Rebel)",
+          "text": "Học cách giữ vững bản sắc cá nhân, không để bản thân bị hòa tan hoàn toàn vào bất kỳ mối quan hệ nào."
+        },
+        {
+          "type": "tip",
+          "text": "The Empowered Lover (Người Tình Đỉnh Cao) không phải là người yêu bằng cách đánh mất chính mình, mà là một người phụ nữ sở hữu trái tim nồng nhiệt nhất nhưng cũng có bản sắc vững vàng nhất. Khi bà biết yêu từ sự đủ đầy, thứ năng lượng tỏa ra không còn là sự phụ thuộc, mà là một sức hút quyền lực khiến ai cũng phải trân trọng!"
+        }
+      ]
+    },
+    {
+      "id": "relationships",
+      "title": "Làm sao để cải thiện các mối quan hệ xã hội",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Okela mấy bà, tới phần cốt lõi để \"cứu giá\" các mối quan hệ cho hệ Người Tình đây!"
+        },
+        {
+          "type": "p",
+          "text": "Lấy sổ ra note lại ngay chiến lược để vừa giữ được sự nồng nhiệt, vừa không bị đánh mất chính mình nha:"
+        },
+        {
+          "type": "sub",
+          "icon": "🌟",
+          "title": "PHẦN 1: Cứu Vãn Các Mối Quan Hệ Xã Hội (Bạn bè, Đồng nghiệp)"
+        },
+        {
+          "type": "p",
+          "text": "Để không bị biến thành \"người dễ bị lợi dụng lòng tốt\" hay \"người thiếu ranh giới\" của thiên hạ, các bà Lover phải setup lại hệ điều hành giao tiếp liền:"
+        },
+        {
+          "type": "item",
+          "title": "Dẹp ngay cái nết \"Cho đi không giới hạn\" (Stop Boundless Giving)",
+          "text": "Bà có quyền quan tâm người khác, nhưng hãy học cách đặt giới hạn: \"Tui có thể giúp đến mức này thôi\" thay vì cho đi đến kiệt sức."
+        },
+        {
+          "type": "item",
+          "title": "Luật \"Kiểm tra sự công bằng trong mối quan hệ\" (Check for Reciprocity)",
+          "text": "Thanh lọc lại vòng tròn bạn bè đi mấy bà. Với những mối quan hệ chỉ toàn một chiều cho đi, hãy cân nhắc lại mức độ đầu tư cảm xúc."
+        },
+        {
+          "type": "item",
+          "title": "Có gì cần nói cứ nói, ngưng hy sinh trong im lặng (Direct Communication)",
+          "text": "Bà cảm thấy không được đáp lại tương xứng, làm ơn NÓI RA. Dùng cấu trúc: \"Mình cảm thấy... mình cần...\". Ngừng ngay việc âm thầm chịu đựng để giữ mối quan hệ."
+        },
+        {
+          "type": "sub",
+          "icon": "💕",
+          "title": "PHẦN 2: \"Trị Bệnh\" Trong Tình Yêu (Yêu sao cho đừng đánh mất mình?)"
+        },
+        {
+          "type": "p",
+          "text": "Tình yêu của Lover rất đẹp, nhưng toàn tự mình làm khổ mình. Muốn có một mối tình cân bằng, bền vững và slay, thì phải chấn chỉnh ngay:"
+        },
+        {
+          "type": "item",
+          "title": "Giữ lại những sở thích, mối quan hệ riêng của bản thân",
+          "text": "Đừng để tình yêu chiếm trọn toàn bộ cuộc sống của bà. Duy trì những đam mê, tình bạn ngoài mối quan hệ để giữ vững bản sắc cá nhân."
+        },
+        {
+          "type": "item",
+          "title": "Học cách nhận biết dấu hiệu mối quan hệ độc hại",
+          "text": "Tìm hiểu về ranh giới lành mạnh trong tình yêu để có thể nhận ra sớm khi một mối quan hệ đang gây hại thay vì nuôi dưỡng bà."
+        },
+        {
+          "type": "item",
+          "title": "Đi tìm \"Sự Đồng Hành Cân Bằng\" chứ không tìm \"Sự Hy Sinh\"",
+          "text": "Bỏ ngay khát khao chứng minh tình yêu bằng sự hy sinh vô hạn. Hãy chọn yêu một người sẵn sàng cho đi tương xứng với những gì bà trao đi."
+        },
+        {
+          "type": "item",
+          "title": "Dám bày tỏ nhu cầu và mong muốn của bản thân",
+          "text": "Bà giỏi quan tâm người khác rồi, nhưng đừng quên nói ra những gì bà cần từ mối quan hệ. Tình yêu là sự trao đổi hai chiều, không phải một chiều lắng nghe."
+        },
+        {
+          "type": "tip",
+          "text": "Chốt hạ: Bí quyết lớn nhất để Lover hạnh phúc là học cách YÊU BẢN THÂN TRƯỚC TIÊN. Hãy tin rằng bà xứng đáng có một tình yêu cân bằng, nơi cả hai cùng cho đi và nhận lại, chứ không phải chỉ có bà luôn hy sinh!"
+        }
+      ]
+    },
+    {
+      "id": "career",
+      "title": "Bạn cần làm gì để thăng tiến trong công việc",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Alo mấy bà, đến cái chuyên mục quan trọng nhất để \"lột xác\" chốn công sở đây! The Lover (Người Tình) bình thường đi làm rất hay bị rơi vào cái bẫy \"quá quan tâm đến cảm xúc đồng nghiệp mà quên việc chính\" hoặc \"khó nói không với những yêu cầu ngoài công việc\". Muốn thăng tiến, lên sếp hay tự làm chủ mà vẫn giữ được vibe \"ấm áp\" thì phải rèn ngay mấy skill cốt lõi này nha:"
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "1. Từ \"Người Chăm Sóc Cảm Xúc Văn Phòng\" Thành \"Nhà Lãnh Đạo Giàu Cảm Hứng\""
+        },
+        {
+          "type": "item",
+          "title": "Ngưng chỉ chăm lo cảm xúc, hãy dẫn dắt bằng cả trái tim lẫn kết quả",
+          "text": "Sự ấm áp không nằm ở việc bà chỉ quan tâm đến cảm xúc mọi người, mà ở việc bà dùng sự thấu cảm đó để tạo ra một đội ngũ gắn kết, hiệu quả."
+        },
+        {
+          "type": "item",
+          "title": "Học cách kết hợp cảm xúc và mục tiêu công việc",
+          "text": "Dùng khả năng kết nối của mình để xây dựng tinh thần đồng đội hướng đến kết quả chung, không chỉ là sự hài lòng cảm xúc."
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "2. Đóng Gói Sự Thấu Cảm Bằng Hiệu Quả (Empathy Meets Results)"
+        },
+        {
+          "type": "p",
+          "text": "Khả năng kết nối cảm xúc là thiên phú, nhưng để ngồi vào ghế sếp hay vận hành trơn tru một mô hình kinh doanh, bà bắt buộc phải chứng minh được giá trị kinh doanh cụ thể từ sự thấu cảm đó."
+        },
+        {
+          "type": "p",
+          "text": "Hãy tập thói quen liên kết những cải thiện về mặt cảm xúc trong đội ngũ với những chỉ số kết quả cụ thể. Đừng chỉ nói \"Em quan tâm đến mọi người trong team\". Hãy đổi thành: \"Nhờ xây dựng văn hóa gắn kết, tỷ lệ giữ chân nhân sự của team đã tăng X%\". Sự thấu cảm đi kèm với kết quả đo lường được chính là \"vũ khí hủy diệt\" chốn công sở."
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "3. Thiết Lập Ranh Giới Chuyên Nghiệp (Professional Boundaries)"
+        },
+        {
+          "type": "p",
+          "text": "Căn bệnh trầm kha của The Lover là khó từ chối những yêu cầu cá nhân từ đồng nghiệp, dẫn đến việc bị lợi dụng thiện chí trong môi trường công sở."
+        },
+        {
+          "type": "p",
+          "text": "Đừng để lòng tốt của bà trở thành công cụ bị lạm dụng! Hãy học cách phân biệt rõ ràng giữa việc hỗ trợ đồng nghiệp và việc gánh vác trách nhiệm không thuộc về mình."
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "4. Tự Tin Thể Hiện Năng Lực Chuyên Môn (Assertive Competence)"
+        },
+        {
+          "type": "p",
+          "text": "Năng lượng của bà là để xây dựng những kết nối giá trị, không phải để bị đánh giá thấp vì vẻ ngoài mềm mại, giàu cảm xúc."
+        },
+        {
+          "type": "p",
+          "text": "Học cách trình bày thành tích công việc một cách tự tin, không rụt rè. Phải phân bổ rạch ròi: thời gian nào để kết nối cảm xúc, thời gian nào để chứng minh năng lực chuyên môn."
+        },
+        {
+          "type": "p",
+          "text": "Tóm lại, thăng tiến không có nghĩa là bà phải trở nên lạnh lùng, thực dụng hay từ bỏ sự ấm áp vốn có. Phiên bản nâng cấp đỉnh cao nhất của Lover chính là người dùng trái tim nồng nhiệt để xây dựng những kết nối bền vững, nhưng lại dùng sự tự tin để chứng minh giá trị chuyên môn của chính mình."
+        }
+      ]
+    },
+    {
+      "id": "journey",
+      "title": "Vận trình cuộc đời",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Hành trình của Lover là một chuỗi ngày vật vã chuyển hóa từ việc \"yêu để được chấp nhận\" sang cảnh giới \"yêu từ sự đủ đầy\"."
+        },
+        {
+          "type": "p",
+          "text": "Lưu ngay 3 giai đoạn \"tiến hóa\" này để xem mấy bà đang kẹt ở level nào nè:"
+        },
+        {
+          "type": "sub",
+          "icon": "🌱",
+          "title": "Dưới 25 Tuổi: Lover Tập Sự (The All-In Romantic)"
+        },
+        {
+          "type": "item",
+          "title": "Vibe lúc này",
+          "text": "Yêu hết mình ngay từ mối tình đầu tiên, sẵn sàng thay đổi bản thân để phù hợp với người mình yêu. Nhiệt tình cộng ngây thơ trong tình cảm. Ai cũng có thể trở thành \"định mệnh\" chỉ sau vài lần gặp gỡ. Năng lượng yêu đương tràn trề nhưng chưa có ranh giới."
+        },
+        {
+          "type": "item",
+          "title": "Thực trạng",
+          "text": "Đây là giai đoạn mấy bà rất dễ đánh mất bản thân trong các mối quan hệ, thay đổi sở thích, giá trị sống để làm hài lòng người yêu. Trong tình bạn thì dễ cho đi quá nhiều mà không nhận lại tương xứng, dễ bị lợi dụng lòng tốt."
+        },
+        {
+          "type": "item",
+          "title": "Bài học cốt lõi",
+          "text": "Dính vô vàn cuộc tình đau khổ và những lần đánh mất chính mình để nhận ra rằng: Yêu mà không có ranh giới thì chỉ là con đường ngắn nhất dẫn đến sự tan vỡ của cả hai."
+        },
+        {
+          "type": "sub",
+          "icon": "🌸",
+          "title": "Từ 25 Đến 40 Tuổi: Lover Thức Tỉnh (The Balanced Devotee)"
+        },
+        {
+          "type": "item",
+          "title": "Vibe lúc này",
+          "text": "Đã nếm đủ \"trái đắng\" của việc yêu thiếu ranh giới. Giao diện vẫn nồng nhiệt, ấm áp nhưng bên trong đã bắt đầu rèn được khả năng yêu bản thân song song với yêu người khác."
+        },
+        {
+          "type": "item",
+          "title": "Thực trạng",
+          "text": "Ở độ tuổi này, các bà bắt đầu ngộ ra chân lý cốt lõi: Đừng cố hy sinh tất cả nữa, hãy học cách yêu có ranh giới! Thay vì đánh mất bản thân trong mọi mối quan hệ, mấy bà chuyển sang giữ vững bản sắc cá nhân trong khi vẫn yêu thương sâu sắc. Các bà biết cách đòi hỏi sự công bằng, tương xứng trong tình cảm."
+        },
+        {
+          "type": "item",
+          "title": "Bài học cốt lõi",
+          "text": "Chấp nhận buông bỏ nỗi sợ cô đơn. Dám sống một mình mà không cảm thấy thiếu sót, học cách xây dựng giá trị bản thân độc lập với các mối quan hệ."
+        },
+        {
+          "type": "sub",
+          "icon": "👑",
+          "title": "Sau 40 Tuổi: \"Người Tình Minh Triết\" (The Wise Beloved)"
+        },
+        {
+          "type": "item",
+          "title": "Vibe lúc này",
+          "text": "An tọa vững chãi trong chính tình yêu bản thân, khí chất ấm áp và vững vàng. Không còn hoảng loạn sợ cô đơn hay bồn chồn vì thiếu vắng một mối quan hệ nữa. Sự nồng nhiệt lúc này tỏa ra tự nhiên như hơi thở, không cần phải chứng minh bằng sự hy sinh liên tục."
+        },
+        {
+          "type": "item",
+          "title": "Thực trạng",
+          "text": "Các bà lùi lại một bước khỏi việc phải liên tục tìm kiếm tình yêu để cảm thấy trọn vẹn. Thay vì phụ thuộc vào các mối quan hệ, các bà vươn tầm thành những người truyền cảm hứng về tình yêu lành mạnh, giúp thế hệ trẻ hiểu được giá trị của việc yêu bản thân trước khi yêu người khác."
+        },
+        {
+          "type": "item",
+          "title": "Bài học cốt lõi",
+          "text": "Đạt đến cảnh giới cao nhất của tình yêu: Hiểu rằng tình yêu đích thực không phải là sự hòa tan vào người khác, mà là hai cá thể trọn vẹn cùng nhau lựa chọn đồng hành, tôn trọng và nâng đỡ lẫn nhau."
+        }
+      ]
+    },
+    {
+      "id": "advice",
+      "title": "Lời khuyên",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Tóm lại nha mấy bà, chốt sổ nguyên mẫu Người Tình (The Lover) bằng một câu cốt lõi thôi: Bà là một trái tim ấm áp của nhân gian, nhưng trái tim thì cũng cần được yêu thương từ chính chủ nhân của nó!"
+        },
+        {
+          "type": "tip",
+          "text": "Lời khuyên \"xương máu\" ghim ngay vào tim nè:"
+        },
+        {
+          "type": "item",
+          "title": "Nghỉ làm \"Người Hy Sinh Vô Điều Kiện\"",
+          "text": "Bà không có nghĩa vụ phải từ bỏ chính mình để chứng minh tình yêu. Hãy học cách yêu thương mà vẫn giữ vững bản sắc riêng."
+        },
+        {
+          "type": "item",
+          "title": "Chân lý sinh tồn để không bị \"đánh mất mình\"",
+          "text": "Thay vì cứ liên tục cho đi để cố gắng được yêu thương, hãy khắc cốt ghi tâm điều này: hãy yêu bản thân trước, rồi mới yêu người khác. Tình yêu từ sự đủ đầy luôn bền vững hơn tình yêu từ sự thiếu thốn."
+        },
+        {
+          "type": "item",
+          "title": "Nồng nhiệt thì phải có ranh giới",
+          "text": "Áp dụng chuẩn xác nguyên tắc: \"Trái tim rộng mở, ranh giới rõ ràng\". Yêu thương hết mình, nhưng cũng phải biết bảo vệ chính mình."
+        },
+        {
+          "type": "item",
+          "title": "Setup \"Sự công bằng trong tình cảm\"",
+          "text": "Cho đi mà không nhận lại tương xứng là tự chuốc lấy tổn thương. Dám thẳng tay rời xa những mối quan hệ chỉ toàn một chiều."
+        },
+        {
+          "type": "tip",
+          "text": "Chốt hạ: Sự nồng nhiệt, sâu sắc của Lover là một siêu năng lực bẩm sinh, là thứ vũ khí sống động nhưng có khả năng chữa lành đỉnh cao nhất. Miễn là bà biết yêu bản thân đủ nhiều trước khi trao trọn trái tim cho người khác, thì vibe của bà lúc nào cũng sẽ ấm áp và tỏa sáng rực rỡ!"
+        }
+      ]
+    }
+  ]
+}

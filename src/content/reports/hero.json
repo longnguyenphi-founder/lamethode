@@ -1,0 +1,933 @@
+{
+  "slug": "hero",
+  "code": "AH",
+  "english": "The Hero",
+  "name": "Chiến Binh",
+  "intro": [
+    "Bà là đứa mà mỗi khi có deadline khó nhằn, dự án bất khả thi hay một trận \"khủng hoảng\" nào đó ập đến, cả nhóm đều tự động nhìn về phía bà với ánh mắt \"cứu tui với\". Và bà không bao giờ né tránh — bà xắn tay áo lên, lao vào giải quyết, chiến đấu đến cùng cho đến khi mọi thứ được xử lý ổn thỏa. Nhưng có một sự thật mà bà giấu kỹ hơn cả huy chương thành tích: bà đang dần kiệt sức vì cứ phải liên tục chứng minh mình đủ mạnh mẽ để không bao giờ được phép gục ngã.",
+    "Sự thật đau lòng nhất là bà thường gắn chặt giá trị bản thân với những chiến thắng, những thành tích, những lần \"cân\" được mọi khó khăn. Tận sâu bên trong, bà luôn mang một nỗi sợ hoang mang: \"Nếu một ngày mình thất bại, mình yếu đuối, liệu người ta có còn cần đến mình, còn tôn trọng mình nữa không?\". Bà cứ liên tục lao vào những cuộc chiến mới, để rồi quên mất rằng đôi khi, việc dừng lại nghỉ ngơi cũng cần một loại dũng khí không kém gì việc chiến đấu."
+  ],
+  "population": 11,
+  "celebrities": [
+    {
+      "name": "Simone Biles",
+      "text": "Vận động viên thể dục dụng cụ vĩ đại nhất lịch sử, Biles là biểu tượng của sự kiên cường, kỷ luật thép, nhưng cũng là người dũng cảm lên tiếng về giới hạn sức khỏe tinh thần của chính mình tại Olympic Tokyo."
+    },
+    {
+      "name": "Serena Williams",
+      "text": "Với tinh thần chiến binh bất khuất trên sân đấu suốt hơn hai thập kỷ, Serena luôn được nhắc đến như biểu tượng của ý chí chinh phục và không bao giờ bỏ cuộc trước nghịch cảnh."
+    },
+    {
+      "name": "Jennie (BLACKPINK)",
+      "text": "Kỷ luật khổ luyện, tinh thần cầu toàn trong từng buổi biểu diễn, Jennie thường được nhắc đến với hình ảnh một nghệ sĩ luôn nỗ lực hết mình để đạt đến sự hoàn hảo trên sân khấu."
+    },
+    {
+      "name": "Michelle Yeoh",
+      "text": "Từ diễn viên hành động đến biểu tượng điện ảnh toàn cầu với giải Oscar lịch sử, Michelle Yeoh là minh chứng sống cho tinh thần không ngừng chiến đấu để chứng minh bản thân qua nhiều thập kỷ sự nghiệp."
+    }
+  ],
+  "powers": [
+    {
+      "title": "Bà có Ý Chí Sắt Đá Không Gì Khuất Phục Được",
+      "english": "Unbreakable Willpower",
+      "lead": null,
+      "points": [
+        {
+          "title": "Không bao giờ bỏ cuộc giữa chừng",
+          "text": "Khác với những người dễ nản lòng, The Hero có một sức bền tâm lý đáng kinh ngạc — càng khó khăn, các bà lại càng quyết tâm chứng minh mình có thể vượt qua."
+        },
+        {
+          "title": "Kỷ luật thép trong hành động",
+          "text": "Các bà không chỉ nói suông, mà luôn biến mục tiêu thành kế hoạch cụ thể, từng bước một kiên trì thực hiện cho đến khi đạt được kết quả."
+        }
+      ]
+    },
+    {
+      "title": "Năng Lượng \"Chiến Đấu Vì Điều Đúng Đắn\"",
+      "english": "The Righteous Fighter",
+      "lead": null,
+      "points": [
+        {
+          "title": "Sẵn sàng đứng ra bảo vệ người yếu thế",
+          "text": "Điểm nổi bật nhất của Hero là tinh thần trách nhiệm cao. Bà không đứng nhìn khi thấy bất công, mà luôn là người xông lên đầu tiên để giải quyết vấn đề."
+        },
+        {
+          "title": "Vibe truyền động lực tự nhiên",
+          "text": "Ở cạnh một Hero, người ta cảm thấy được tiếp thêm sức mạnh để đối mặt với thử thách của chính mình, vì tinh thần chiến đấu của bà lan tỏa rất tự nhiên."
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "id": "portrait",
+      "title": "Chân dung của bạn – Bạn thực sự là ai",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Để tui chẻ nhỏ hai phần \"ăn tiền\" nhưng cũng dễ làm mấy bà \"suy\" nhất: Năng lực cốt lõi (Flex nhẹ skill ẩn) và Góc tối tâm lý (Red flag tự thân)."
+        },
+        {
+          "type": "p",
+          "text": "Bà nào thấy quen quen thì chuẩn bị sẵn giấy bút note lại để tự chấn chỉnh mình nghen!"
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "1. Năng Lực Cốt Lõi (Những thứ làm nên thương hiệu \"chiến binh bất khuất\")"
+        },
+        {
+          "type": "p",
+          "text": "Đây là những siêu năng lực bẩm sinh khiến The Hero luôn là \"trụ cột\" của rất nhiều người, vì ai cũng cần một người dám đứng ra gánh vác khi khó khăn ập đến:"
+        },
+        {
+          "type": "item",
+          "title": "Ý chí kiên cường (Unyielding Determination)",
+          "text": "Các bà không có khái niệm \"bỏ cuộc\" trong từ điển sống của mình. Dù thất bại bao nhiêu lần, bà vẫn đứng dậy, điều chỉnh chiến lược và tiếp tục chiến đấu."
+        },
+        {
+          "type": "item",
+          "title": "Tinh thần trách nhiệm cao độ (High Sense of Duty)",
+          "text": "Một khi đã nhận nhiệm vụ, các bà coi đó là danh dự cá nhân phải hoàn thành, dù có phải hy sinh thời gian, sức lực của bản thân."
+        },
+        {
+          "type": "item",
+          "title": "Khả năng hành động dưới áp lực (Grace Under Pressure)",
+          "text": "Trong khi người khác hoảng loạn, The Hero lại có khả năng giữ được sự tập trung, đưa ra hành động quyết đoán ngay giữa tâm bão khủng hoảng."
+        },
+        {
+          "type": "item",
+          "title": "Nguồn cảm hứng về sự dũng cảm (Courage Personified)",
+          "text": "Chỉ cần nhìn cách bà đối mặt với khó khăn, người xung quanh tự động cảm thấy được tiếp thêm can đảm để đối diện với những thử thách của riêng họ."
+        },
+        {
+          "type": "sub",
+          "icon": "🛑",
+          "title": "2. Góc Tối (Red flag tự thân – Đọc để tỉnh táo nha mấy bà!)"
+        },
+        {
+          "type": "p",
+          "text": "Mạnh mẽ thì giỏi, nhưng tâm lý của Chiến Binh lại rất dễ bị hổng lỗ chỗ vì những \"cái bẫy\" tự mình giăng ra:"
+        },
+        {
+          "type": "item",
+          "title": "Hội chứng \"Không được phép yếu đuối\" (The Invincibility Trap)",
+          "text": "Đây là bẫy dễ sập nhất! Bà tự đặt ra một tiêu chuẩn phi thực tế rằng mình phải luôn mạnh mẽ, không bao giờ được than vãn hay thể hiện sự tổn thương trước người khác."
+        },
+        {
+          "type": "item",
+          "title": "Nghiện chiến đấu, không biết nghỉ ngơi (Battle Addiction)",
+          "text": "Vì lòng khao khát chứng minh bản thân vô đáy, các bà cực kỳ hay lao vào hết thử thách này đến thử thách khác mà không cho mình thời gian để phục hồi năng lượng."
+        },
+        {
+          "type": "item",
+          "title": "Kiêu ngạo vì thành tích (Achievement-Based Arrogance)",
+          "text": "Góc tối \"độc hại\" nhất của Hero là đôi khi coi thường những người không có cùng ý chí chiến đấu như mình, cho rằng họ \"yếu đuối\" hoặc \"không cố gắng đủ\"."
+        },
+        {
+          "type": "item",
+          "title": "Kiệt sức vì luôn phải là người mạnh nhất (Chronic Burnout)",
+          "text": "Cứ liên tục gồng gánh trách nhiệm, chiến đấu không ngừng nghỉ mà quên mất việc chăm sóc bản thân, đến lúc gục ngã thì không còn ai đủ mạnh để đỡ bà."
+        },
+        {
+          "type": "item",
+          "title": "Các bà hệ Hero nhớ kỹ nha",
+          "text": "Sức mạnh không có sự nghỉ ngơi chính là con đường ngắn nhất dẫn đến kiệt quệ. Hãy chiến đấu bằng một ý chí sắt đá, nhưng phải biết dừng lại để hồi phục bằng một trái tim biết lắng nghe chính mình!"
+        }
+      ]
+    },
+    {
+      "id": "core",
+      "title": "Lõi Tính Cách (Bản chất thật sự bên trong)",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Nếu lõi của The Sage là Khát Vọng Thấu Hiểu Sự Thật, thì lõi của The Hero chính là Khát Vọng Chứng Minh Giá Trị Bản Thân (The Need to Prove Worth). Động lực sâu thẳm nhất của các bà được xây dựng trên 3 trụ cột này:"
+        },
+        {
+          "type": "item",
+          "title": "Bản năng chinh phục thử thách (The Mastery Instinct)",
+          "text": "Các bà nhìn thế giới như một chuỗi những thử thách cần được vượt qua để chứng minh năng lực của bản thân. Sự trì trệ, an nhàn khiến các bà cảm thấy bồn chồn, thiếu ý nghĩa."
+        },
+        {
+          "type": "item",
+          "title": "Nỗi sợ bị coi là yếu đuối (Fear of Weakness)",
+          "text": "Nghe hơi \"suy\" nhưng đây là sự thật. Nỗi sợ lớn nhất của Hero không phải là thất bại trong một trận chiến cụ thể, mà là bị nhìn nhận như một người không đủ mạnh mẽ, không đủ giá trị."
+        },
+        {
+          "type": "item",
+          "title": "Niềm tin vào sức mạnh của nỗ lực (Faith in Hard Work)",
+          "text": "Với các bà, mọi vấn đề đều có thể được giải quyết nếu đủ quyết tâm và nỗ lực. Đây là động lực khiến bà không bao giờ ngừng cố gắng, nhưng cũng là gánh nặng khi mọi thứ không nằm trong tầm kiểm soát."
+        },
+        {
+          "type": "sub",
+          "icon": "🛑",
+          "title": "Những Điểm Cần Lưu Ý (Đọc để chấn chỉnh lại nết, bớt khổ nha!)"
+        },
+        {
+          "type": "p",
+          "text": "Mang năng lượng Hero là một điều tuyệt vời, nhưng nếu không biết cách kiểm soát, các bà sẽ tự biến cuộc đời mình thành một chuỗi trận chiến không hồi kết. Nhớ kỹ những cẩm nang sinh tồn này:"
+        },
+        {
+          "type": "item",
+          "title": "Học cách xin giúp đỡ khi cần (Ask for Help)",
+          "text": "Không phải lúc nào bà cũng phải là người giải quyết mọi thứ một mình. Nhờ vả người khác không làm bà kém mạnh mẽ đi, mà là dấu hiệu của sự khôn ngoan."
+        },
+        {
+          "type": "item",
+          "title": "Phân biệt nghỉ ngơi và bỏ cuộc",
+          "text": "Dừng lại để phục hồi năng lượng không đồng nghĩa với việc bà là kẻ thua cuộc. Đây là hai khái niệm hoàn toàn khác nhau mà Hero cần học cách phân biệt rõ."
+        },
+        {
+          "type": "item",
+          "title": "Định nghĩa lại giá trị bản thân ngoài thành tích",
+          "text": "Bà xứng đáng được yêu thương không chỉ vì những gì bà đạt được, mà vì chính con người bà, kể cả khi không chiến đấu, không thành tích gì."
+        },
+        {
+          "type": "item",
+          "title": "Chấp nhận: thất bại không đồng nghĩa với vô giá trị",
+          "text": "Một lần vấp ngã không xóa bỏ toàn bộ những nỗ lực trước đó. Học cách nhìn thất bại như một phần của hành trình, không phải là bản án cuối cùng."
+        },
+        {
+          "type": "p",
+          "text": "Trưởng thành thực sự của một Hero không phải là ngừng chiến đấu, mà là biết phân biệt giữa những trận chiến đáng để dốc sức và những trận chiến nên buông bỏ để bảo vệ chính mình."
+        }
+      ]
+    },
+    {
+      "id": "love",
+      "title": "Bạn muốn một tình yêu như nào",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "nếu đã mang trong mình hệ điều hành The Hero (Chiến Binh), thì gu tình yêu và những mong cầu sâu thẳm của các bà thường đi theo một hệ tư tưởng rất đặc thù. Chuyên mục \"Bạn muốn một tình yêu như nào\" lên sóng, lấy sổ tay ra note lại để tỉnh táo lúc yêu nha!"
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "1. Cái các bà TƯỞNG mình muốn (Và rất dễ sập bẫy)"
+        },
+        {
+          "type": "item",
+          "title": "Hệ \"Yêu là phải chứng minh\"",
+          "text": "Trái tim của The Hero rất dễ bị hấp dẫn bởi việc phải \"giành lấy\" tình yêu bằng nỗ lực, thành tích, sự hy sinh không ngừng để chứng minh mình xứng đáng được yêu."
+        },
+        {
+          "type": "item",
+          "title": "Ngược lại, thỏi nam châm hút người cần được \"cứu\"",
+          "text": "Đôi khi các bà lại bị cuốn vào những mối quan hệ với người đang gặp khó khăn, vì bản năng muốn giải cứu, chiến đấu vì họ khiến bà cảm thấy mình có giá trị."
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "2. Cái các bà THỰC SỰ khao khát (Tình yêu lý tưởng giúp bà không bị \"kiệt sức\")"
+        },
+        {
+          "type": "p",
+          "text": "Sự thật là, nếu cứ theo đuổi những thứ ở mục 1, các bà sẽ rất nhanh thấy kiệt quệ. Sâu thẳm bên trong, đây mới là thứ một Hero thực sự cần để thấy an toàn:"
+        },
+        {
+          "type": "item",
+          "title": "Một tình yêu \"Vô Điều Kiện\" chứ không phải \"Phải Xứng Đáng\"",
+          "text": "Các bà cần một người yêu thương mình ngay cả khi không chiến thắng, không thành tích gì — một tình yêu không đòi hỏi bà phải liên tục chứng minh giá trị bản thân."
+        },
+        {
+          "type": "item",
+          "title": "Một Đối Tác (Partner) chứ không phải Người Cần Cứu",
+          "text": "Explorer... à Hero rất dễ rơi vào vai trò \"người giải cứu\". Các bà cần một mối quan hệ cân bằng, nơi cả hai cùng nhau vững vàng, không ai phải gánh vác một mình."
+        },
+        {
+          "type": "item",
+          "title": "Không gian an toàn để thể hiện sự yếu đuối (A Safe Space to Be Vulnerable)",
+          "text": "Các bà cần một người cho phép mình được mệt mỏi, được thất bại, được khóc mà không sợ bị đánh giá là kém cỏi."
+        },
+        {
+          "type": "item",
+          "title": "Sự công nhận không cần phải giành giật (Effortless Appreciation)",
+          "text": "Một tình yêu mà bà không cần phải nỗ lực gấp đôi để chứng minh mình xứng đáng được trân trọng — chỉ cần là chính mình đã đủ."
+        },
+        {
+          "type": "tip",
+          "text": "Lời khuyên chốt hạ: Đừng đi tìm người để \"chứng minh bản thân\" nữa mấy bà ơi! Tình yêu lý tưởng nhất của The Hero là tìm được một người yêu thương bà kể cả trong những ngày bà không đủ mạnh mẽ, kể cả khi bà thất bại."
+        }
+      ]
+    },
+    {
+      "id": "perception",
+      "title": "Người khác nghĩ gì về bạn",
+      "blocks": [
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "1. Ấn tượng tích cực (Aura chói lóa, điểm 10 uy tín)"
+        },
+        {
+          "type": "item",
+          "title": "\"Trụ cột vững chãi\" của cả nhóm",
+          "text": "Trong nhóm bạn, bà đích thị là người mà ai cũng tin tưởng giao phó những nhiệm vụ khó khăn nhất, vì biết chắc bà sẽ không bao giờ bỏ cuộc giữa chừng."
+        },
+        {
+          "type": "item",
+          "title": "\"Nguồn động lực sống\" biết đi",
+          "text": "Khí chất của bà tỏa ra sự mạnh mẽ, kiên cường. Người ngoài nhìn vào luôn thấy bà là một tấm gương truyền cảm hứng để họ dám đối mặt với khó khăn của chính mình."
+        },
+        {
+          "type": "item",
+          "title": "\"Người hùng thầm lặng\" nơi công sở",
+          "text": "Sếp và đồng nghiệp cực kỳ tin tưởng giao cho bà những dự án khó nhằn vì biết bà sẽ chiến đấu đến cùng để hoàn thành nhiệm vụ, không bao giờ bỏ cuộc nửa chừng."
+        },
+        {
+          "type": "sub",
+          "icon": "🛑",
+          "title": "2. Những điểm dễ bị \"hiểu lầm\" (Nghe hơi chạnh lòng nha)"
+        },
+        {
+          "type": "item",
+          "title": "Dễ bị gán mác \"Cứng nhắc, hiếu thắng\"",
+          "text": "Vì tinh thần chiến đấu quá cao, đối phương sẽ dễ cảm thấy bà lúc nào cũng phải thắng, khó chấp nhận thất bại hay ý kiến trái chiều."
+        },
+        {
+          "type": "item",
+          "title": "Bị xem là \"Không cần ai giúp đỡ\"",
+          "text": "Việc luôn tự mình gánh vác mọi thứ đôi khi khiến người xung quanh nghĩ rằng bà không cần sự hỗ trợ, dẫn đến việc họ ngần ngại đề nghị giúp đỡ khi bà thực sự cần."
+        },
+        {
+          "type": "item",
+          "title": "Mang tiếng \"Quá nghiêm túc, khó thư giãn\"",
+          "text": "Đôi khi vì luôn trong trạng thái \"chiến đấu\", người ta sẽ thấy bà thiếu sự nhẹ nhàng, khó buông bỏ để tận hưởng những khoảnh khắc đơn giản của cuộc sống."
+        },
+        {
+          "type": "tip",
+          "text": "Chốt lại nè: Giao diện của The Hero trong mắt thiên hạ luôn là một người MẠNH MẼ. Nhưng mấy bà ơi, mạnh mẽ thôi chưa đủ, phải là \"Mạnh mẽ có sự mềm mại\". Hãy để tinh thần chiến đấu của mình là một nguồn cảm hứng, chứ đừng biến nó thành một gánh nặng tự mình mang vác nha!"
+        }
+      ]
+    },
+    {
+      "id": "reactions",
+      "title": "Cách chúng mình phản ứng",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Nếu The Sage thường chọn cách phân tích khi có biến, thì hệ điều hành The Hero (Chiến Binh) lại \"nhảy số\" theo một hệ tư tưởng hoàn toàn khác."
+        },
+        {
+          "type": "p",
+          "text": "Đọc ngay cách các bà đối mặt với 3 tình huống \"sóng gió\" này để coi tui nói có chuẩn tim đen không nha:"
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "1. Cách Bà Xử Lý Khi Mọi Thứ Rối Tung Lên (Khủng Hoảng ập đến)"
+        },
+        {
+          "type": "item",
+          "title": "Bật mode \"Xông pha giải quyết\" (Full Combat Mode)",
+          "text": "Càng rối, các bà lại càng lao vào hành động. Trong khi người khác chần chừ thì Hero lập tức xắn tay áo lên, tìm cách giải quyết vấn đề bằng mọi giá."
+        },
+        {
+          "type": "item",
+          "title": "Đặt cảm xúc sang một bên để tập trung xử lý",
+          "text": "Các bà có xu hướng dồn nén cảm xúc thật của mình lại, ưu tiên hành động thực tế trước, để rồi xử lý cảm xúc sau khi mọi chuyện đã ổn thỏa (hoặc không bao giờ xử lý)."
+        },
+        {
+          "type": "item",
+          "title": "Dễ ôm đồm quá nhiều trách nhiệm một lúc",
+          "text": "Vì tinh thần trách nhiệm quá cao, đôi khi các bà tự nhận về mình những gánh nặng không thuộc phạm vi của mình, dẫn đến quá tải."
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "2. Khi Ở Trong Một Tập Thể (Teamwork, Nhóm bạn)"
+        },
+        {
+          "type": "item",
+          "title": "\"Đầu tàu\" xông pha trong mọi dự án",
+          "text": "Bà chính là người tình nguyện nhận những phần việc khó khăn nhất, luôn đi đầu trong những tình huống cần sự quyết đoán. Cả nhóm dựa vào bà như một chỗ dựa vững chắc."
+        },
+        {
+          "type": "item",
+          "title": "Khó chấp nhận khi đội nhóm không đủ nỗ lực",
+          "text": "Các bà có tiêu chuẩn cao về sự cố gắng, nên dễ cảm thấy thất vọng, thậm chí bực bội khi thấy đồng đội không nỗ lực hết mình như bà."
+        },
+        {
+          "type": "item",
+          "title": "Thánh \"ôm việc\" thay vì phân chia hợp lý",
+          "text": "Vì cái tính không tin tưởng giao việc cho người khác, các bà đôi khi tự mình gánh vác quá nhiều, khiến bản thân kiệt sức trong khi đồng đội lại không có cơ hội phát triển."
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "3. Khi Không Được Hiểu / Bị Nghi Ngờ Năng Lực (Góc tổn thương ngầm)"
+        },
+        {
+          "type": "p",
+          "text": "Đây là lúc The Hero dễ bộc lộ những góc tối tâm lý nhất nè:"
+        },
+        {
+          "type": "item",
+          "title": "Bật mode \"Chứng minh gấp đôi\" (Overcompensating)",
+          "text": "Khi cảm thấy năng lực bị nghi ngờ, các bà sẽ KHÔNG giải thích dài dòng đâu. Thay vào đó, bà lao vào làm việc chăm chỉ hơn gấp đôi để chứng minh bằng kết quả thực tế."
+        },
+        {
+          "type": "item",
+          "title": "Gặm nhấm cảm giác bị coi thường (Silent Resentment)",
+          "text": "Trong đầu các bà sẽ liên tục nảy số những suy nghĩ: \"Mình đã cố gắng như vậy mà vẫn không đủ sao?\". Cảm giác này bào mòn động lực chiến đấu của bà mỗi ngày."
+        },
+        {
+          "type": "item",
+          "title": "Cơ chế tự vệ độc hại (Refusing Support)",
+          "text": "Thay vì giao tiếp thẳng thắn về cảm giác tổn thương, các bà đôi khi lại từ chối mọi sự giúp đỡ đề nghị đến, tự cô lập mình trong cuộc chiến một mình để chứng minh \"tui không cần ai cả\"."
+        },
+        {
+          "type": "tip",
+          "text": "Chốt hạ cho The Hero nè: Mạnh mẽ là tốt, nhưng lúc mọi thứ rối ren hay khi không được thấu hiểu, hãy nhớ rằng chấp nhận sự giúp đỡ không làm bà yếu đi! Nếu người ta nghi ngờ năng lực của bà, thì việc bà cần làm là TIN VÀO GIÁ TRỊ BẢN THÂN, chứ không phải là cố gắng đến kiệt sức để chứng minh đâu nha!"
+        }
+      ]
+    },
+    {
+      "id": "strengths",
+      "title": "Điểm mạnh thật sự",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Điểm mạnh thật sự (True Strengths) làm nên thương hiệu của The Hero nha! Không phải tự nhiên mà ai cũng muốn có một người bạn, người đồng nghiệp hay người yêu mang hệ điều hành này đâu."
+        },
+        {
+          "type": "p",
+          "text": "Sức mạnh của các bà không nằm ở sự hoàn hảo tuyệt đối, mà nó nằm ở \"quyền lực của ý chí\" siêu đẳng có khả năng truyền cảm hứng cho cả những người quanh mình nghen:"
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "1. Năng Lực \"Vực Dậy Tinh Thần\" Cấp Độ Max (Master of Resilience)"
+        },
+        {
+          "type": "item",
+          "title": "Nguồn năng lượng bất khuất",
+          "text": "Các bà có khả năng khiến người khác tin rằng khó khăn nào cũng có thể vượt qua chỉ bằng cách chứng kiến bà chiến đấu không ngừng nghỉ."
+        },
+        {
+          "type": "item",
+          "title": "Khả năng biến áp lực thành động lực",
+          "text": "Trong khi người khác sụp đổ trước áp lực, các bà lại có khả năng chuyển hóa nó thành nhiên liệu để tiến về phía trước mạnh mẽ hơn."
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "2. Khả Năng Lãnh Đạo Bằng Hành Động"
+        },
+        {
+          "type": "item",
+          "title": "Soft outside, iron will inside",
+          "text": "Nhìn giao diện bên ngoài có vẻ bình thường, nhưng đụng chuyện thì The Hero là những người có sức chịu đựng và ý chí đáng kinh ngạc nhất."
+        },
+        {
+          "type": "item",
+          "title": "Dẫn dắt bằng gương mẫu (Lead by Example)",
+          "text": "Mấy bà không bao giờ chỉ ra lệnh mà không tự mình hành động. Điểm mạnh thực sự là bà luôn là người xông pha đầu tiên, làm gương cho cả tập thể."
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "3. \"Chỗ Dựa Vững Chắc\" Cho Cả Tập Thể"
+        },
+        {
+          "type": "item",
+          "title": "Người mang lại cảm giác an toàn",
+          "text": "Trong một tập thể đang hoang mang vì khủng hoảng, các bà chính là điểm tựa khiến mọi người tin rằng \"còn có bà ở đây, mọi thứ sẽ ổn\"."
+        },
+        {
+          "type": "item",
+          "title": "Khơi dậy tinh thần chiến đấu ở người khác (The Motivator)",
+          "text": "Điểm sáng rực rỡ nhất là khả năng khiến người khác dám đối mặt với thử thách mà họ từng nghĩ mình không đủ sức làm được."
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "4. Sự Kiên Cường Nguyên Bản (Radical Perseverance)"
+        },
+        {
+          "type": "p",
+          "text": "Giữa một thế giới đầy sự dễ dàng bỏ cuộc, sợ thất bại và \"chưa thử đã nản\", việc các bà vẫn kiên trì chiến đấu đến cùng cho những gì mình tin tưởng chính là một loại dũng khí cực kỳ lớn. Sự mạnh mẽ của các bà không phải là sự cứng nhắc, mà đó là một sự lựa chọn đầy kiêu hãnh và bản lĩnh!"
+        }
+      ]
+    },
+    {
+      "id": "blindspots",
+      "title": "Những điểm mù cần để ý",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Sức mạnh của Chiến Binh đôi khi lại chính là con dao hai lưỡi tự cứa vào mình và cả người khác, nếu mấy bà lỡ sa vào những điểm mù này:"
+        },
+        {
+          "type": "item",
+          "title": "Bẫy \"Không bao giờ nghỉ ngơi\" (Never Resting)",
+          "text": "Mấy bà cứ tưởng liên tục chiến đấu là đang thể hiện sự mạnh mẽ. Nhưng không! Điểm mù lớn nhất là các bà đang tự bào mòn sức khỏe thể chất lẫn tinh thần của mình đến mức kiệt quệ."
+        },
+        {
+          "type": "item",
+          "title": "Trốn tránh cảm xúc bằng hành động (Action as Avoidance)",
+          "text": "Đây là điểm mù đáng sợ nhất mà Hero thường không tự nhận ra. Dù miệng nói \"tui đang bận giải quyết việc\", nhưng sâu thẳm các bà đang dùng công việc để né tránh những cảm xúc chưa được xử lý."
+        },
+        {
+          "type": "item",
+          "title": "Hội chứng \"Kiểm soát mọi thứ\" (Control Obsession)",
+          "text": "Khả năng tin tưởng và giao phó của The Hero cực kỳ mờ nhạt. Điểm mù ở đây là các bà thường không tin ai có thể làm tốt bằng mình, dẫn đến việc ôm đồm quá tải."
+        },
+        {
+          "type": "item",
+          "title": "Cái tôi của sự \"Bất khả chiến bại\" (Ego of Invincibility)",
+          "text": "Các bà vô thức dính chặt giá trị bản thân vào việc \"mình có mạnh mẽ hơn người khác không\". Nếu một ngày phải thừa nhận yếu đuối, bà lại đâm ra hoảng loạn vì sợ đánh mất hình ảnh chiến binh của mình."
+        }
+      ]
+    },
+    {
+      "id": "conflict",
+      "title": "Mâu thuẫn lớn nhất",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Mâu thuẫn kinh điển nhất cấu xé tâm can của một Hero mỗi đêm muộn chính là sự giằng xé giữa: Khao khát được nghỉ ngơi, được YẾU ĐUỐI một lần VÀ Nỗi sợ hãi rằng nếu dừng lại, bà sẽ MẤT ĐI GIÁ TRỊ mà mình đã dày công xây dựng."
+        },
+        {
+          "type": "item",
+          "title": "Vừa thèm được dựa dẫm, lại vừa không cho phép mình yếu đuối",
+          "text": "Tận sâu bên trong, The Hero cực kỳ khao khát có một ai đó để dựa vào, để không phải luôn là người mạnh mẽ nhất. Nhưng ác nỗi, mỗi khi có cơ hội thể hiện sự yếu đuối, bản năng \"phải chiến đấu\" lại tự động bật lên."
+        },
+        {
+          "type": "item",
+          "title": "Nỗi sợ đánh mất bản sắc (Fear of Losing Identity)",
+          "text": "Vì sao các bà lại phải cố gắng chiến đấu nhiều đến vậy? Mâu thuẫn ở đây là: Các bà dùng những chiến thắng để xây dựng nên bản sắc của mình. Sâu thẳm bên trong là một nỗi sợ tột cùng: \"Nếu mình không còn chiến đấu, liệu mình còn là chính mình không?\"."
+        },
+        {
+          "type": "item",
+          "title": "Khao khát được yêu vô điều kiện nhưng lại chỉ biết thể hiện qua thành tích",
+          "text": "Bà mong muốn được yêu thương vì chính con người mình, nhưng lại vô thức chỉ biết chứng tỏ giá trị bản thân qua những chiến công, khiến người khác khó nhìn thấy con người thật đằng sau lớp áo giáp."
+        },
+        {
+          "type": "p",
+          "text": "Cuộc chiến lớn nhất của The Hero là học cách chấp nhận sự thật rớt nước mắt này: Giá trị thật sự của bà không nằm ở những gì bà CHIẾN THẮNG, mà nằm ở việc bà DÁM là chính mình, kể cả khi yếu đuối."
+        }
+      ]
+    },
+    {
+      "id": "challenges",
+      "title": "Những thách thức nào bạn có thể sẽ gặp phải trong các mối quan hệ",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Mang hệ điều hành The Hero (Chiến Binh) vào các mối quan hệ (từ tình yêu, bạn bè đến đồng nghiệp) thì đúng kiểu \"trái tim mạnh mẽ nhưng dễ tự làm tổn thương mình\". Sức chiến đấu vô bờ bến của các bà nếu không có \"khoảng lặng để nghỉ ngơi\" thì rất dễ va phải những \"kiếp nạn\" cực kỳ đặc thù sau đây:"
+        },
+        {
+          "type": "sub",
+          "icon": "🛑",
+          "title": "1. \"Người Giải Cứu\" Trong Mọi Mối Quan Hệ (The Rescuer Complex)"
+        },
+        {
+          "type": "item",
+          "title": "Bản chất",
+          "text": "Vì bản năng muốn chiến đấu vì người khác, các bà thường bị hút về phía những người đang gặp khó khăn, biến tình yêu thành một sứ mệnh giải cứu thay vì một mối quan hệ bình đẳng."
+        },
+        {
+          "type": "item",
+          "title": "Biểu hiện",
+          "text": "Thay vì xây dựng một mối quan hệ cân bằng, các bà lại hay vướng vào việc gánh vác mọi vấn đề của đối phương, đến khi kiệt sức mới nhận ra mình đã quên chăm sóc bản thân."
+        },
+        {
+          "type": "sub",
+          "icon": "🛑",
+          "title": "2. Yêu Đương Hay Đang Chiến Đấu Để Chứng Minh? (Proving Love Through Effort)"
+        },
+        {
+          "type": "item",
+          "title": "Bản chất",
+          "text": "Các bà thể hiện tình yêu bằng hành động, sự hy sinh, nỗ lực không ngừng, nhưng lại khó khăn trong việc thể hiện sự dịu dàng, mềm mại đơn thuần."
+        },
+        {
+          "type": "item",
+          "title": "Biểu hiện",
+          "text": "Đối phương có thể cảm thấy được chăm sóc về mặt vật chất, hành động, nhưng lại thiếu đi sự kết nối cảm xúc sâu sắc mà một mối quan hệ cần có."
+        },
+        {
+          "type": "sub",
+          "icon": "🛑",
+          "title": "3. Quả Bom Nổ Chậm \"Không Bao Giờ Nhờ Giúp Đỡ\" (Refusing Support)"
+        },
+        {
+          "type": "item",
+          "title": "Bản chất",
+          "text": "Các bà lúc nào cũng muốn tự mình xử lý mọi thứ, kể cả trong các mối quan hệ, khiến đối phương cảm thấy không được cần đến, không có vai trò gì trong cuộc sống của bà."
+        },
+        {
+          "type": "item",
+          "title": "Biểu hiện",
+          "text": "Khi có vấn đề xảy ra, thay vì chia sẻ để cùng giải quyết, bà chọn cách tự mình gánh vác, khiến khoảng cách cảm xúc giữa hai người ngày càng lớn."
+        },
+        {
+          "type": "sub",
+          "icon": "🛑",
+          "title": "4. Đánh Mất Sự Mềm Mại Trong Giao Tiếp (Losing Tenderness)"
+        },
+        {
+          "type": "item",
+          "title": "Bản chất",
+          "text": "Tính cách luôn trong trạng thái \"chiến đấu\" khiến The Hero rất dễ giao tiếp bằng giọng điệu cứng nhắc, thẳng thừng, thiếu đi sự dịu dàng cần thiết."
+        },
+        {
+          "type": "item",
+          "title": "Biểu hiện",
+          "text": "Bạn bè, người yêu có thể cảm thấy bị áp lực khi ở cạnh bà, vì lúc nào cũng phải \"chiến đấu\" thay vì được thư giãn, tận hưởng những khoảnh khắc bình yên."
+        },
+        {
+          "type": "sub",
+          "icon": "🛑",
+          "title": "5. Nỗi Sợ \"Bị Xem Thường\" Khóa Chặt Sự Thân Mật"
+        },
+        {
+          "type": "item",
+          "title": "Bản chất",
+          "text": "Bà sợ sự yếu đuối, sợ bị nhìn nhận là kém cỏi, và nỗi sợ lớn nhất là mất đi sự tôn trọng nếu để người khác thấy mình cũng có lúc mong manh."
+        },
+        {
+          "type": "item",
+          "title": "Biểu hiện",
+          "text": "Dù thật lòng cần được an ủi, bà vẫn giữ khoảng cách, không dám thể hiện tổn thương thật sự vì sợ rằng một khi đã yếu đuối, bà sẽ không còn được xem là \"người mạnh mẽ\" nữa."
+        },
+        {
+          "type": "tip",
+          "text": "Tip sinh tồn cho các bà hệ Hero: Hãy nhớ, tình yêu và tình bạn khỏe mạnh không đòi hỏi bà phải luôn chiến thắng, chỉ đòi hỏi bà học cách cho phép mình được yếu đuối đôi khi. Bà hoàn toàn xứng đáng có một mối quan hệ mà bà không cần chiến đấu để được yêu thương!"
+        }
+      ]
+    },
+    {
+      "id": "growth",
+      "title": "Hướng phát triển",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Để lột xác và nâng cấp năng lượng The Hero (Chiến Binh) lên một tầm cao mới, hành trình của mấy bà không phải là ngừng chiến đấu hay trở nên yếu đuối. Sự trưởng thành của một Hero là biến sức mạnh cứng nhắc thành sức mạnh có sự mềm mại, và học cách chiến đấu một cách khôn ngoan thay vì kiệt sức."
+        },
+        {
+          "type": "p",
+          "text": "Dưới đây là hướng phát triển để các bà vừa giữ được \"hào quang\" mạnh mẽ, vừa không bị cuộc đời vắt kiệt:"
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "1. Chuyển từ \"Chiến Đấu Mọi Lúc\" sang \"Chọn Trận Chiến Đáng Giá\" (Strategic Battles)"
+        },
+        {
+          "type": "item",
+          "title": "Nâng cấp bộ lọc năng lượng",
+          "text": "Trước mỗi lần muốn lao vào giải quyết, hãy dừng lại và tự hỏi: \"Trận chiến này có thực sự cần mình không, hay mình đang chiến đấu chỉ vì thói quen?\"."
+        },
+        {
+          "type": "item",
+          "title": "Học cách ủy thác và tin tưởng người khác",
+          "text": "Tập cho người khác cơ hội để gánh vác một phần trách nhiệm, thay vì luôn tự mình ôm đồm tất cả."
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "2. Ngừng \"Chối Bỏ Cảm Xúc\", hãy học \"Chăm Sóc Bản Thân\" (Self-Care as Strategy)"
+        },
+        {
+          "type": "item",
+          "title": "Coi nghỉ ngơi là một phần của chiến lược",
+          "text": "Thay vì xem nghỉ ngơi là dấu hiệu của sự yếu đuối, hãy hiểu rằng phục hồi năng lượng chính là cách để bà chiến đấu bền bỉ và hiệu quả hơn."
+        },
+        {
+          "type": "item",
+          "title": "Chấp nhận đối diện với cảm xúc thay vì né tránh",
+          "text": "Đừng để công việc là cái cớ để né tránh nỗi buồn, sự mệt mỏi hay tổn thương. Hãy cho phép mình ngồi yên với cảm xúc đó."
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "3. Tự Xây Dựng \"Giá Trị Bản Thân Độc Lập Với Thành Tích\" (Worth Beyond Achievement)"
+        },
+        {
+          "type": "item",
+          "title": "Luật \"Nghỉ ngơi không phải là thất bại\"",
+          "text": "Khắc cốt ghi tâm nguyên tắc này: Bà vẫn có giá trị ngay cả khi không chiến đấu, không đạt được thành tích gì trong khoảnh khắc đó."
+        },
+        {
+          "type": "item",
+          "title": "Dám thể hiện sự yếu đuối trước người tin cậy",
+          "text": "Ngừng dùng vẻ ngoài mạnh mẽ để che giấu những tổn thương thật sự. Khi cảm xúc khó chịu ập đến, hãy cho phép mình chia sẻ với người mà bà tin tưởng."
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "4. Tích hợp thêm năng lượng bổ trợ (Nâng cấp giao diện)"
+        },
+        {
+          "type": "item",
+          "title": "Mượn năng lượng Người Chăm Sóc (The Caregiver)",
+          "text": "Học cách chăm sóc bản thân với sự dịu dàng giống như cách bà chăm sóc người khác, thay vì chỉ biết cho đi mà không nhận lại."
+        },
+        {
+          "type": "item",
+          "title": "Mượn năng lượng Thiếu Nữ Ngây Thơ (The Innocent)",
+          "text": "Học cách tận hưởng những khoảnh khắc đơn giản, nhẹ nhàng của cuộc sống mà không cần phải \"chiến đấu\" hay chứng minh điều gì."
+        },
+        {
+          "type": "tip",
+          "text": "The Empowered Hero (Chiến Binh Đỉnh Cao) không phải là người luôn luôn chiến thắng mọi trận chiến, mà là một người phụ nữ sở hữu ý chí kiên cường nhất nhưng cũng biết khi nào cần dừng lại để hồi phục. Khi bà biết chiến đấu một cách khôn ngoan, thứ năng lượng tỏa ra không còn là sự kiệt sức, mà là một sức hút quyền lực khiến ai cũng phải nể trọng!"
+        }
+      ]
+    },
+    {
+      "id": "relationships",
+      "title": "Làm sao để cải thiện các mối quan hệ xã hội",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Okela mấy bà, tới phần cốt lõi để \"cứu giá\" các mối quan hệ cho hệ Chiến Binh đây!"
+        },
+        {
+          "type": "p",
+          "text": "Lấy sổ ra note lại ngay chiến lược để vừa giữ được sức mạnh, vừa không bị cuộc đời \"bào mòn\" nha:"
+        },
+        {
+          "type": "sub",
+          "icon": "🌟",
+          "title": "PHẦN 1: Cứu Vãn Các Mối Quan Hệ Xã Hội (Bạn bè, Đồng nghiệp)"
+        },
+        {
+          "type": "p",
+          "text": "Để không bị biến thành \"cỗ máy làm việc không cảm xúc\" hay \"người luôn phải gánh vác\" của thiên hạ, các bà Hero phải setup lại hệ điều hành giao tiếp liền:"
+        },
+        {
+          "type": "item",
+          "title": "Dẹp ngay cái nết \"Ôm hết việc về mình\" (Stop Overworking)",
+          "text": "Bà có quyền cần được nghỉ ngơi, nhưng hãy học cách chia sẻ gánh nặng: \"Mình đang cần hỗ trợ ở phần này\" thay vì im lặng gánh vác một mình."
+        },
+        {
+          "type": "item",
+          "title": "Luật \"Cho người khác cơ hội tỏa sáng\" (Delegate & Trust)",
+          "text": "Thanh lọc lại thói quen ôm việc đi mấy bà. Với những nhiệm vụ có thể giao cho người khác, hãy tin tưởng và trao quyền, để cả nhóm cùng phát triển."
+        },
+        {
+          "type": "item",
+          "title": "Có gì mệt mỏi cứ nói, ngưng gồng mình trong im lặng (Direct Communication)",
+          "text": "Bà cảm thấy kiệt sức chuyện gì, làm ơn MỞ MIỆNG RA NÓI. Dùng cấu trúc: \"Mình đang cảm thấy quá tải, mình cần...\". Ngừng ngay việc chịu đựng một mình khiến bản thân dần kiệt quệ."
+        },
+        {
+          "type": "sub",
+          "icon": "💕",
+          "title": "PHẦN 2: \"Trị Bệnh\" Trong Tình Yêu (Yêu sao cho đừng kiệt sức?)"
+        },
+        {
+          "type": "p",
+          "text": "Tình yêu của Hero rất mãnh liệt, nhưng toàn tự mình làm khó mình. Muốn có một mối tình bền vững, cân bằng và slay, thì phải chấn chỉnh ngay:"
+        },
+        {
+          "type": "item",
+          "title": "Ngừng biến tình yêu thành sứ mệnh giải cứu",
+          "text": "Đừng chọn yêu ai đó chỉ vì họ cần được cứu giúp. Hãy tìm một mối quan hệ nơi cả hai đều vững vàng, cùng nhau phát triển thay vì một người luôn phải gánh vác."
+        },
+        {
+          "type": "item",
+          "title": "Học cách nhận sự chăm sóc, không chỉ cho đi",
+          "text": "Bà giỏi chăm sóc người khác rồi, nhưng hãy cho phép người yêu được chăm sóc lại bà. Tình yêu là sự trao đổi hai chiều, không phải một chiều hy sinh."
+        },
+        {
+          "type": "item",
+          "title": "Đi tìm \"Người Đồng Hành\" chứ không tìm \"Người Cần Cứu\"",
+          "text": "Bỏ ngay việc đi tìm những người cần bà giải cứu. Hãy chọn yêu một người đủ vững vàng để cùng bà xây dựng một mối quan hệ bình đẳng, hai chiều."
+        },
+        {
+          "type": "item",
+          "title": "Dừng lại đủ lâu để người ta chạm được vào sự yếu đuối của bà",
+          "text": "Bà chiến đấu giỏi rồi, nhưng thỉnh thoảng hãy tỏ ra dễ tổn thương một chút. Chia sẻ nỗi mệt mỏi thật, cho người yêu cơ hội được chăm sóc bà."
+        },
+        {
+          "type": "tip",
+          "text": "Chốt hạ: Bí quyết lớn nhất để Hero hạnh phúc là học cách CHO PHÉP MÌNH ĐƯỢC YẾU ĐUỐI. Hãy tin rằng bà xứng đáng có một tình yêu không đòi hỏi bà phải luôn mạnh mẽ, chứ không phải đánh đổi sức khỏe tinh thần để chứng minh giá trị bản thân!"
+        }
+      ]
+    },
+    {
+      "id": "career",
+      "title": "Bạn cần làm gì để thăng tiến trong công việc",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Alo mấy bà, đến cái chuyên mục quan trọng nhất để \"lột xác\" chốn công sở đây! The Hero (Chiến Binh) bình thường đi làm rất hay bị rơi vào cái bẫy \"ôm việc đến kiệt sức\" hoặc \"khó tin tưởng giao việc cho người khác\". Muốn thăng tiến, lên sếp hay tự làm chủ mà vẫn giữ được vibe \"chiến binh\" thì phải rèn ngay mấy skill cốt lõi này nha:"
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "1. Từ \"Chiến Binh Đơn Độc\" Thành \"Nhà Lãnh Đạo Truyền Cảm Hứng\""
+        },
+        {
+          "type": "item",
+          "title": "Ngưng tự mình gánh hết",
+          "text": "Sức mạnh không nằm ở việc bà làm mọi thứ một mình, mà ở việc bà truyền được tinh thần chiến đấu cho cả đội ngũ. Muốn bứt phá, hãy học cách xây dựng và dẫn dắt một đội nhóm mạnh."
+        },
+        {
+          "type": "item",
+          "title": "Hệ thống hóa sự kiên cường",
+          "text": "Thay vì chỉ có ý chí cá nhân, hãy biến tinh thần không bỏ cuộc đó thành văn hóa, quy trình mà cả tổ chức có thể noi theo."
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "2. Biến Nỗ Lực Thành \"Kết Quả Đo Lường Được\" (Outcome Over Effort)"
+        },
+        {
+          "type": "p",
+          "text": "Sự chăm chỉ và kỷ luật là thiên phú, nhưng để ngồi vào ghế sếp hay vận hành trơn tru một mô hình kinh doanh, bà bắt buộc phải chứng minh được hiệu quả công việc chứ không chỉ là thời gian đã bỏ ra."
+        },
+        {
+          "type": "p",
+          "text": "Hãy tập thói quen đánh giá công việc theo kết quả thay vì theo mức độ vất vả. Khi báo cáo thành tích, đừng chỉ nói \"Em đã làm việc rất chăm chỉ\". Hãy đổi thành: \"Kết quả đạt được là X, đây là cách em tối ưu quy trình để đạt hiệu suất đó\". Sự chăm chỉ đi kèm với kết quả cụ thể chính là \"vũ khí hủy diệt\" chốn công sở."
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "3. Xây Dựng Đội Ngũ Thay Vì Làm Một Mình (Team Building)"
+        },
+        {
+          "type": "p",
+          "text": "Căn bệnh trầm kha của The Hero là không tin tưởng giao việc, dẫn đến việc trở thành nút thắt cổ chai cho sự phát triển của cả đội."
+        },
+        {
+          "type": "p",
+          "text": "Đừng để mọi quyết định quan trọng chỉ mình bà nắm giữ! Hãy chủ động đào tạo, trao quyền cho người khác, xây dựng một đội ngũ có thể vận hành độc lập."
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "4. Thiết Lập \"Giới Hạn Sức Chịu Đựng\" Rõ Ràng"
+        },
+        {
+          "type": "p",
+          "text": "Năng lượng của bà là để chiến đấu cho những mục tiêu lớn, không phải để kiệt sức vì ôm đồm mọi việc vặt vãnh."
+        },
+        {
+          "type": "p",
+          "text": "Học cách đặt ra giới hạn công việc rõ ràng cho bản thân — ví dụ \"mình sẽ không làm việc quá X giờ mỗi ngày\". Phải phân bổ rạch ròi: việc nào cần đích thân bà xử lý, việc nào có thể giao cho người khác."
+        },
+        {
+          "type": "p",
+          "text": "Tóm lại, thăng tiến không có nghĩa là bà phải gánh vác nhiều hơn, làm việc cật lực hơn đến kiệt sức. Phiên bản nâng cấp đỉnh cao nhất của Hero chính là người dùng tinh thần chiến đấu để truyền cảm hứng cho cả một đội ngũ, nhưng lại dùng sự khôn ngoan để không tự mình kiệt quệ."
+        }
+      ]
+    },
+    {
+      "id": "journey",
+      "title": "Vận trình cuộc đời",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Hành trình của Hero là một chuỗi ngày vật vã chuyển hóa từ việc \"chiến đấu để chứng minh\" sang cảnh giới \"sức mạnh có sự khôn ngoan\"."
+        },
+        {
+          "type": "p",
+          "text": "Lưu ngay 3 giai đoạn \"tiến hóa\" này để xem mấy bà đang kẹt ở level nào nè:"
+        },
+        {
+          "type": "sub",
+          "icon": "🌱",
+          "title": "Dưới 25 Tuổi: Hero Tập Sự (The Relentless Fighter)"
+        },
+        {
+          "type": "item",
+          "title": "Vibe lúc này",
+          "text": "Lao vào mọi thử thách để chứng minh bản thân. Nhiệt tình cộng hiếu thắng. Việc gì cũng muốn làm tốt nhất, cuộc thi nào cũng muốn giành chiến thắng. Năng lượng chiến đấu tràn trề nhưng chưa biết giới hạn của bản thân."
+        },
+        {
+          "type": "item",
+          "title": "Thực trạng",
+          "text": "Đây là giai đoạn mấy bà rất dễ kiệt sức vì ôm đồm quá nhiều mục tiêu cùng lúc. Nếu có chập chững làm kinh doanh, các bà sẽ làm việc không ngừng nghỉ, hy sinh sức khỏe để đạt được thành công nhanh nhất có thể. Trong tình yêu thì dễ vướng vào những mối quan hệ nơi bà luôn là người cho đi, gánh vác nhiều hơn."
+        },
+        {
+          "type": "item",
+          "title": "Bài học cốt lõi",
+          "text": "Dính vô vàn lần kiệt sức và những mối quan hệ mất cân bằng để nhận ra rằng: Sức mạnh mà không có sự nghỉ ngơi thì chỉ là một ngọn lửa cháy hết mình rồi tắt lịm."
+        },
+        {
+          "type": "sub",
+          "icon": "🌸",
+          "title": "Từ 25 Đến 40 Tuổi: Hero Thức Tỉnh (The Wise Warrior)"
+        },
+        {
+          "type": "item",
+          "title": "Vibe lúc này",
+          "text": "Đã nếm đủ \"trái đắng\" của việc chiến đấu không ngừng nghỉ. Giao diện vẫn mạnh mẽ, kiên cường nhưng bên trong đã bắt đầu rèn được khả năng phân biệt trận chiến nào đáng để dốc sức."
+        },
+        {
+          "type": "item",
+          "title": "Thực trạng",
+          "text": "Ở độ tuổi này, các bà bắt đầu ngộ ra chân lý cốt lõi: Đừng cố chiến đấu mọi lúc nữa, hãy học cách chọn trận chiến khôn ngoan! Thay vì lao đầu vào mọi thử thách xuất hiện, mấy bà chuyển sang chọn lọc kỹ càng những mục tiêu xứng đáng để đầu tư năng lượng. Các bà biết cách xây dựng đội ngũ, tin tưởng giao việc thay vì tự mình ôm hết."
+        },
+        {
+          "type": "item",
+          "title": "Bài học cốt lõi",
+          "text": "Chấp nhận buông bỏ nỗi sợ bị coi là yếu đuối. Dám thể hiện sự mệt mỏi và học cách nghỉ ngơi mà không cảm thấy tội lỗi."
+        },
+        {
+          "type": "sub",
+          "icon": "👑",
+          "title": "Sau 40 Tuổi: \"Chiến Binh Minh Triết\" (The Seasoned Champion)"
+        },
+        {
+          "type": "item",
+          "title": "Vibe lúc này",
+          "text": "An tọa vững chãi trong chính sức mạnh của mình, khí chất ngút ngàn. Không còn cần phải chứng minh giá trị bản thân qua từng trận chiến nữa. Sự mạnh mẽ lúc này tỏa ra tự nhiên như hơi thở, không cần phải gồng mình lên nữa."
+        },
+        {
+          "type": "item",
+          "title": "Thực trạng",
+          "text": "Các bà lùi lại một bước khỏi việc phải liên tục chiến đấu để chứng minh bản thân. Thay vì tự mình xông pha mọi mặt trận, các bà vươn tầm thành những mentor xịn xò, truyền tinh thần kiên cường cho thế hệ sau. Lúc này, các bà hoàn toàn có thể xây dựng và dẫn dắt những đội ngũ, tổ chức lớn dựa trên chính những bài học chiến đấu đã trải qua."
+        },
+        {
+          "type": "item",
+          "title": "Bài học cốt lõi",
+          "text": "Đạt đến cảnh giới cao nhất của sức mạnh: Hiểu rằng chiến thắng thật sự không nằm ở việc luôn luôn thắng, mà nằm ở việc dám nghỉ ngơi khi cần và biết mình xứng đáng được yêu thương ngay cả khi không chiến đấu."
+        }
+      ]
+    },
+    {
+      "id": "advice",
+      "title": "Lời khuyên",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Tóm lại nha mấy bà, chốt sổ nguyên mẫu Chiến Binh (The Hero) bằng một câu cốt lõi thôi: Bà là một ngọn lửa kiên cường của nhân gian, nhưng ngọn lửa thì cũng cần được tiếp thêm nhiên liệu để không tắt lịm!"
+        },
+        {
+          "type": "tip",
+          "text": "Lời khuyên \"xương máu\" ghim ngay vào tim nè:"
+        },
+        {
+          "type": "item",
+          "title": "Nghỉ làm \"Chiến Binh Bất Khả Chiến Bại\"",
+          "text": "Bà không có nghĩa vụ phải luôn mạnh mẽ, luôn chiến thắng. Hãy học cách chấp nhận sự yếu đuối như một phần tự nhiên của con người, không phải là điểm yếu cần che giấu."
+        },
+        {
+          "type": "item",
+          "title": "Chân lý sinh tồn để không bị kiệt sức",
+          "text": "Thay vì cứ liên tục chiến đấu để chứng minh giá trị, hãy khắc cốt ghi tâm điều này: nghỉ ngơi cũng là một chiến lược, không phải là sự bỏ cuộc. Sức mạnh thật sự đến từ sự bền bỉ, không phải từ việc gồng mình liên tục."
+        },
+        {
+          "type": "item",
+          "title": "Mạnh mẽ thì phải có sự mềm mại",
+          "text": "Áp dụng chuẩn xác nguyên tắc: \"Ý chí sắt đá, trái tim biết lắng nghe\". Chiến đấu vì những điều quan trọng, nhưng cũng phải biết chăm sóc chính mình."
+        },
+        {
+          "type": "item",
+          "title": "Setup \"Ranh giới cho sự hy sinh\"",
+          "text": "Hy sinh không giới hạn là tự chuốc lấy kiệt quệ. Dám thẳng tay từ chối những trận chiến không thực sự cần đến sự có mặt của bà."
+        },
+        {
+          "type": "tip",
+          "text": "Chốt hạ: Sự mạnh mẽ, kiên cường của Hero là một siêu năng lực bẩm sinh, là thứ vũ khí sống động nhưng có khả năng truyền cảm hứng đỉnh cao nhất. Miễn là bà biết chiến đấu một cách khôn ngoan, không phải vì sợ hãi bị coi thường, thì vibe của bà lúc nào cũng sẽ mạnh mẽ và tỏa sáng rực rỡ!"
+        }
+      ]
+    }
+  ]
+}

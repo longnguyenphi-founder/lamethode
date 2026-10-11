@@ -1,0 +1,15 @@
+﻿THƯ MỤC ẢNH: The Caregiver — Người Chăm Sóc
+
+Bỏ 5 ảnh vào thư mục này, đặt ĐÚNG tên file bên dưới
+(đuôi .webp / .jpg / .png đều được, riêng symbol nên dùng .png nền trong suốt):
+
+  hero      ->  ảnh chân dung bìa đầu trang    dọc 4:5
+  portrait  ->  chân dung đời thường           dọc 4:5
+  core      ->  khoảnh khắc nội tâm            dọc 4:5
+  love      ->  ảnh tình yêu (cặp đôi)         ngang 4:3
+  symbol    ->  vật thể 3D, nền trong suốt     vuông 1:1
+
+Ví dụ: hero.webp, portrait.jpg, core.jpg, love.webp, symbol.png
+
+Prompt để tạo từng ảnh: docs/image-prompts/11-caregiver.md
+Kiểm tra ảnh đã đủ chưa: chạy  npm run images:status

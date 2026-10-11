@@ -1,0 +1,938 @@
+{
+  "slug": "creator",
+  "code": "NST",
+  "english": "The Creator",
+  "name": "Nhà Sáng Tạo",
+  "intro": [
+    "Bà là đứa mà đầu óc lúc nào cũng đang ấp ủ một ý tưởng gì đó — một bức tranh chưa vẽ, một dự án chưa bắt đầu, một câu chuyện chưa được kể. Với bà, thế giới này thiếu quá nhiều thứ đẹp đẽ mà chỉ có bà mới có thể tạo ra. Ai nhìn vào cũng trầm trồ trước khả năng biến những ý tưởng mơ hồ thành hiện thực sống động của bà. Nhưng có một sự thật mà bà giấu kỹ hơn cả bản nháp đầu tiên chưa ai được xem: bà thường xuyên bị mắc kẹt trong nỗi sợ hãi rằng tác phẩm của mình sẽ không bao giờ đủ hoàn hảo để được đưa ra ánh sáng.",
+    "Sự thật đau lòng nhất là bà thường dùng sự cầu toàn như một lá chắn để né tránh việc phải đối mặt với sự phán xét của người khác. Tận sâu bên trong, bà luôn mang một nỗi sợ hoang mang: \"Nếu mình đưa tác phẩm này ra thế giới và nó không được đón nhận, liệu điều đó có nghĩa là chính con người mình cũng không đủ giá trị?\". Bà cứ liên tục trì hoãn việc hoàn thiện, để rồi có những dự án dang dở nằm im lìm trong ngăn kéo, không bao giờ được nhìn thấy ánh sáng."
+  ],
+  "population": 9,
+  "celebrities": [
+    {
+      "name": "Taylor Swift",
+      "text": "Từ ca sĩ đồng quê đến biểu tượng âm nhạc toàn cầu, Taylor Swift luôn chủ động viết, sản xuất và tái tạo lại chính những tác phẩm của mình, thể hiện tinh thần sáng tạo không ngừng nghỉ qua từng album."
+    },
+    {
+      "name": "Billie Eilish",
+      "text": "Cùng anh trai FINNEAS tự sản xuất âm nhạc ngay trong phòng ngủ của mình, Billie Eilish là minh chứng cho việc sức sáng tạo không cần phụ thuộc vào những studio hào nhoáng để tạo ra những tác phẩm mang tính đột phá."
+    },
+    {
+      "name": "Rihanna",
+      "text": "Không chỉ dừng lại ở âm nhạc, Rihanna còn xây dựng đế chế mỹ phẩm và thời trang Fenty với tầm nhìn sáng tạo đột phá, thể hiện khả năng biến ý tưởng thành những sản phẩm mang tính cách mạng của ngành."
+    },
+    {
+      "name": "Lisa (BLACKPINK)",
+      "text": "Ngoài âm nhạc, Lisa còn tự tay tham gia vào việc sáng tạo vũ đạo, hình ảnh và phong cách trình diễn độc đáo của riêng mình, luôn tìm tòi những cách thể hiện nghệ thuật mới mẻ."
+    }
+  ],
+  "powers": [
+    {
+      "title": "Bà có Trí Tưởng Tượng Không Giới Hạn",
+      "english": "The Boundless Imagination",
+      "lead": null,
+      "points": [
+        {
+          "title": "Nhìn thấy những gì chưa tồn tại",
+          "text": "Khác với những người chỉ chấp nhận thực tại, The Creator luôn có khả năng hình dung ra những điều mới mẻ, những khả năng chưa từng được khám phá."
+        },
+        {
+          "title": "Biến ý tưởng thành hiện thực",
+          "text": "Các bà không chỉ mơ mộng, mà còn có khả năng hành động để biến những ý tưởng trừu tượng thành những sản phẩm, tác phẩm cụ thể mà người khác có thể cảm nhận được."
+        }
+      ]
+    },
+    {
+      "title": "Nguồn Cảm Hứng Sáng Tạo Bất Tận",
+      "english": "The Endless Wellspring",
+      "lead": null,
+      "points": [
+        {
+          "title": "Khả năng kết nối những điều tưởng chừng không liên quan",
+          "text": "Điểm nổi bật nhất của Creator là tư duy liên tưởng độc đáo. Bà có thể nhìn ra mối liên hệ giữa những ý tưởng hoàn toàn khác biệt để tạo ra điều gì đó mới mẻ."
+        },
+        {
+          "title": "Vibe truyền cảm hứng sáng tạo",
+          "text": "Ở cạnh một Creator, người ta cảm thấy được khích lệ để thử nghiệm những ý tưởng táo bạo của riêng mình, vì tinh thần sáng tạo của bà rất dễ lan tỏa."
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "id": "portrait",
+      "title": "Chân dung của bạn – Bạn thực sự là ai",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Để tui chẻ nhỏ hai phần \"ăn tiền\" nhưng cũng dễ làm mấy bà \"suy\" nhất: Năng lực cốt lõi (Flex nhẹ skill ẩn) và Góc tối tâm lý (Red flag tự thân)."
+        },
+        {
+          "type": "p",
+          "text": "Bà nào thấy quen quen thì chuẩn bị sẵn giấy bút note lại để tự chấn chỉnh mình nghen!"
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "1. Năng Lực Cốt Lõi (Những thứ làm nên thương hiệu \"phù thủy sáng tạo\")"
+        },
+        {
+          "type": "p",
+          "text": "Đây là những siêu năng lực bẩm sinh khiến The Creator luôn là \"nguồn cảm hứng\" của rất nhiều người, vì ai cũng ngưỡng mộ khả năng tạo ra những điều mới mẻ, độc đáo:"
+        },
+        {
+          "type": "item",
+          "title": "Trí tưởng tượng phong phú (Boundless Imagination)",
+          "text": "Các bà có khả năng hình dung ra những ý tưởng, những khả năng mà người khác chưa từng nghĩ tới, mở ra những chân trời mới trong mọi lĩnh vực."
+        },
+        {
+          "type": "item",
+          "title": "Khả năng biến ý tưởng thành hiện thực (Manifestation Ability)",
+          "text": "Không chỉ dừng lại ở việc mơ mộng, các bà có kỷ luật và kỹ năng để biến những ý tưởng trừu tượng thành sản phẩm cụ thể, hữu hình."
+        },
+        {
+          "type": "item",
+          "title": "Sự nhạy cảm với cái đẹp và tính nguyên bản (Originality Sense)",
+          "text": "Các bà có khả năng nhận ra điều gì là mới mẻ, độc đáo, và điều gì chỉ là sự sao chép nhàm chán, từ đó tạo ra những tác phẩm mang dấu ấn cá nhân."
+        },
+        {
+          "type": "item",
+          "title": "Khả năng tự thể hiện chân thực (Authentic Self-Expression)",
+          "text": "Mỗi tác phẩm của các bà đều mang một phần con người thật, một góc nhìn độc nhất mà không ai khác có thể sao chép được."
+        },
+        {
+          "type": "sub",
+          "icon": "🛑",
+          "title": "2. Góc Tối (Red flag tự thân – Đọc để tỉnh táo nha mấy bà!)"
+        },
+        {
+          "type": "p",
+          "text": "Sáng tạo thì giỏi, nhưng tâm lý của Nhà Sáng Tạo lại rất dễ bị hổng lỗ chỗ vì những \"cái bẫy\" tự mình giăng ra:"
+        },
+        {
+          "type": "item",
+          "title": "Hội chứng \"Cầu toàn đến mức tê liệt\" (Perfectionism Paralysis)",
+          "text": "Đây là bẫy dễ sập nhất! Các bà cứ mãi chỉnh sửa, hoàn thiện một tác phẩm mà không bao giờ cảm thấy nó đủ tốt để công bố, khiến dự án mãi mãi dang dở."
+        },
+        {
+          "type": "item",
+          "title": "Gắn chặt giá trị bản thân với tác phẩm (Identity Fused with Work)",
+          "text": "Vì lòng đam mê sáng tạo vô đáy, các bà cực kỳ hay coi mỗi lời phê bình về tác phẩm như một sự phủ nhận chính con người mình, dẫn đến phản ứng phòng thủ thái quá."
+        },
+        {
+          "type": "item",
+          "title": "Bắt đầu nhiều nhưng không hoàn thành (Chronic Unfinished Projects)",
+          "text": "Góc tối \"độc hại\" nhất của Creator là hứng thú với việc bắt đầu ý tưởng mới hơn là hoàn thiện những gì đã có, dẫn đến vô số dự án dang dở."
+        },
+        {
+          "type": "item",
+          "title": "Cô lập trong quá trình sáng tạo (Creative Isolation)",
+          "text": "Cứ liên tục đắm chìm trong thế giới sáng tạo riêng mà quên mất việc kết nối với người khác, đến lúc cần phản hồi hay hỗ trợ thì lại thấy mình đơn độc."
+        },
+        {
+          "type": "item",
+          "title": "Các bà hệ Creator nhớ kỹ nha",
+          "text": "Sự sáng tạo không có điểm dừng chính là con đường ngắn nhất dẫn đến sự trì trệ vô tận. Hãy sáng tạo bằng một trí tưởng tượng bay bổng, nhưng phải biết khi nào nên dừng lại và công bố tác phẩm!"
+        }
+      ]
+    },
+    {
+      "id": "core",
+      "title": "Lõi Tính Cách (Bản chất thật sự bên trong)",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Nếu lõi của The Lover là Khát Vọng Kết Nối Sâu Sắc, thì lõi của The Creator chính là Khát Vọng Tạo Ra Điều Có Giá Trị Lâu Dài (The Need to Create Enduring Value). Động lực sâu thẳm nhất của các bà được xây dựng trên 3 trụ cột này:"
+        },
+        {
+          "type": "item",
+          "title": "Bản năng kiến tạo (The Building Instinct)",
+          "text": "Các bà nhìn thế giới qua lăng kính của những khả năng chưa được khai phá. Sự trống rỗng, thiếu vắng sáng tạo khiến các bà cảm thấy bồn chồn, muốn lấp đầy nó bằng điều gì đó mới."
+        },
+        {
+          "type": "item",
+          "title": "Nỗi sợ tầm thường, thiếu bản sắc (Fear of Mediocrity)",
+          "text": "Nghe hơi \"suy\" nhưng đây là sự thật. Nỗi sợ lớn nhất của Creator không phải là thất bại, mà là tạo ra một điều gì đó tầm thường, không có dấu ấn cá nhân riêng biệt."
+        },
+        {
+          "type": "item",
+          "title": "Niềm tin vào sức mạnh của sự thể hiện bản thân (Faith in Self-Expression)",
+          "text": "Với các bà, việc thể hiện con người thật qua tác phẩm là cách để khẳng định sự tồn tại có ý nghĩa của mình trên thế giới này."
+        },
+        {
+          "type": "sub",
+          "icon": "🛑",
+          "title": "Những Điểm Cần Lưu Ý (Đọc để chấn chỉnh lại nết, bớt khổ nha!)"
+        },
+        {
+          "type": "p",
+          "text": "Mang năng lượng Creator là một điều tuyệt vời, nhưng nếu không biết cách kiểm soát, các bà sẽ tự biến mình thành một người mãi mãi không hoàn thành được gì. Nhớ kỹ những cẩm nang sinh tồn này:"
+        },
+        {
+          "type": "item",
+          "title": "Học cách chấp nhận \"đủ tốt\" thay vì \"hoàn hảo\"",
+          "text": "Sự hoàn hảo tuyệt đối là một ảo tưởng không có điểm dừng. Đặt ra tiêu chuẩn \"đủ tốt để công bố\" và tôn trọng giới hạn đó."
+        },
+        {
+          "type": "item",
+          "title": "Tách biệt giá trị bản thân khỏi tác phẩm",
+          "text": "Một lời phê bình về tác phẩm không phải là lời phê bình về con người bà. Học cách tiếp nhận phản hồi một cách khách quan."
+        },
+        {
+          "type": "item",
+          "title": "Hoàn thành trước khi bắt đầu điều mới",
+          "text": "Rèn luyện kỷ luật để đưa mỗi dự án đến đích trước khi lao vào ý tưởng tiếp theo, dù ý tưởng mới có hấp dẫn đến đâu."
+        },
+        {
+          "type": "item",
+          "title": "Chia sẻ quá trình sáng tạo với người khác",
+          "text": "Đừng đóng cửa làm việc một mình mãi mãi. Học cách chia sẻ tác phẩm dang dở để nhận phản hồi, kết nối với cộng đồng cùng chí hướng."
+        },
+        {
+          "type": "p",
+          "text": "Trưởng thành thực sự của một Creator không phải là tạo ra tác phẩm hoàn hảo tuyệt đối, mà là biết khi nào nên dừng lại, buông tay và để tác phẩm của mình được sống một cuộc đời riêng."
+        }
+      ]
+    },
+    {
+      "id": "love",
+      "title": "Bạn muốn một tình yêu như nào",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "nếu đã mang trong mình hệ điều hành The Creator (Nhà Sáng Tạo), thì gu tình yêu và những mong cầu sâu thẳm của các bà thường đi theo một hệ tư tưởng rất đặc thù. Chuyên mục \"Bạn muốn một tình yêu như nào\" lên sóng, lấy sổ tay ra note lại để tỉnh táo lúc yêu nha!"
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "1. Cái các bà TƯỞNG mình muốn (Và rất dễ sập bẫy)"
+        },
+        {
+          "type": "item",
+          "title": "Hệ \"Yêu như một nguồn cảm hứng sáng tạo\"",
+          "text": "Trái tim của The Creator rất dễ bị hấp dẫn bởi những mối tình đầy chất thơ, kịch tính, coi người yêu như một nàng thơ hay nguồn cảm hứng cho tác phẩm của mình."
+        },
+        {
+          "type": "item",
+          "title": "Tình yêu kiểu \"Chỉ yêu khi đang trong trạng thái sáng tạo cao độ\"",
+          "text": "Các bà đôi khi vô thức gắn tình yêu với những giai đoạn cảm hứng dâng trào, dẫn đến sự thất thường trong cách thể hiện tình cảm."
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "2. Cái các bà THỰC SỰ khao khát (Tình yêu lý tưởng giúp bà không bị \"cô lập\")"
+        },
+        {
+          "type": "p",
+          "text": "Sự thật là, nếu cứ theo đuổi những thứ ở mục 1, các bà sẽ rất nhanh thấy mối quan hệ thiếu ổn định. Sâu thẳm bên trong, đây mới là thứ một Creator thực sự cần để thấy an toàn:"
+        },
+        {
+          "type": "item",
+          "title": "Một tình yêu \"Tôn Trọng Không Gian Sáng Tạo\" chứ không phải \"Đòi Hỏi Sự Chú Ý Liên Tục\"",
+          "text": "Các bà cần một người hiểu rằng đôi khi bà cần thời gian một mình để đắm chìm trong quá trình sáng tạo, không coi đó là sự xa cách."
+        },
+        {
+          "type": "item",
+          "title": "Sự Ủng Hộ Không Điều Kiện (Unconditional Support)",
+          "text": "Creator cần một người tin tưởng vào tầm nhìn của bà, ủng hộ những ý tưởng táo bạo dù chúng có vẻ điên rồ ban đầu."
+        },
+        {
+          "type": "item",
+          "title": "Một người khích lệ bà hoàn thành thay vì chỉ mơ mộng (An Accountability Partner)",
+          "text": "Không cần ai áp đặt deadline khắc nghiệt, chỉ cần một người nhẹ nhàng khích lệ bà đưa những ý tưởng vào hiện thực."
+        },
+        {
+          "type": "item",
+          "title": "Sự ổn định làm nền tảng cho sự sáng tạo (Stability as Foundation)",
+          "text": "Các bà luôn khao khát một tình yêu đủ vững chãi để bà có thể tự do bay bổng trong sáng tạo mà không lo lắng về sự bất ổn trong mối quan hệ."
+        },
+        {
+          "type": "tip",
+          "text": "Lời khuyên chốt hạ: Đừng đi tìm người để \"làm nàng thơ tạm thời\" nữa mấy bà ơi! Tình yêu lý tưởng nhất của The Creator là tìm được một người đủ vững vàng để làm nền tảng cho bà bay bổng, và đủ kiên nhẫn để chờ đợi những tác phẩm đẹp nhất của bà ra đời."
+        }
+      ]
+    },
+    {
+      "id": "perception",
+      "title": "Người khác nghĩ gì về bạn",
+      "blocks": [
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "1. Ấn tượng tích cực (Aura chói lóa, điểm 10 uy tín)"
+        },
+        {
+          "type": "item",
+          "title": "\"Nguồn cảm hứng bất tận\" của cả nhóm",
+          "text": "Trong nhóm bạn, bà đích thị là người luôn có những ý tưởng độc đáo, khiến mọi hoạt động trở nên thú vị và khác biệt hơn."
+        },
+        {
+          "type": "item",
+          "title": "\"Nghệ sĩ tài hoa\" biết đi",
+          "text": "Khí chất của bà tỏa ra sự sáng tạo, độc đáo. Người ngoài nhìn vào luôn thấy bà là một người có gu thẩm mỹ tinh tế, có khả năng tạo ra những điều đẹp đẽ."
+        },
+        {
+          "type": "item",
+          "title": "\"Bộ não đổi mới\" của tập thể",
+          "text": "Sếp và đồng nghiệp cực kỳ thích làm việc với bà vì biết bà luôn mang đến những giải pháp sáng tạo, khác biệt so với lối mòn thông thường."
+        },
+        {
+          "type": "sub",
+          "icon": "🛑",
+          "title": "2. Những điểm dễ bị \"hiểu lầm\" (Nghe hơi chạnh lòng nha)"
+        },
+        {
+          "type": "item",
+          "title": "Dễ bị gán mác \"Mơ mộng, thiếu thực tế\"",
+          "text": "Vì bản tính sống trong thế giới ý tưởng, đối phương sẽ dễ cảm thấy bà xa rời thực tế, khó áp dụng những ý tưởng của mình vào cuộc sống thực tế."
+        },
+        {
+          "type": "item",
+          "title": "Bị xem là \"Khó đoán, thất thường\"",
+          "text": "Đây là cái giá của việc cảm xúc gắn liền với quá trình sáng tạo. Người khác đôi khi cảm thấy khó nắm bắt tâm trạng của bà, lúc hào hứng lúc lại chán nản."
+        },
+        {
+          "type": "item",
+          "title": "Mang tiếng \"Không đáng tin cậy vì hay bỏ dở\"",
+          "text": "Đôi khi vì thói quen bắt đầu nhiều dự án nhưng không hoàn thành, người ta sẽ nhìn bà như một người thiếu cam kết, khó dựa vào lâu dài."
+        },
+        {
+          "type": "item",
+          "title": "Bị coi là \"Quá nhạy cảm với phê bình\"",
+          "text": "Vì gắn chặt giá trị bản thân với tác phẩm, đôi khi người ta sẽ thấy bà phản ứng thái quá trước những góp ý, dù chỉ mang tính xây dựng."
+        },
+        {
+          "type": "tip",
+          "text": "Chốt lại nè: Giao diện của The Creator trong mắt thiên hạ luôn là một người SÁNG TẠO. Nhưng mấy bà ơi, sáng tạo thôi chưa đủ, phải là \"Sáng tạo có kỷ luật\". Hãy để trí tưởng tượng của mình là một nguồn cảm hứng, chứ đừng biến nó thành một cái cớ để trì hoãn nha!"
+        }
+      ]
+    },
+    {
+      "id": "reactions",
+      "title": "Cách chúng mình phản ứng",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Nếu The Lover thường chọn cách tìm kiếm sự an ủi khi có biến, thì hệ điều hành The Creator (Nhà Sáng Tạo) lại \"nhảy số\" theo một hệ tư tưởng hoàn toàn khác."
+        },
+        {
+          "type": "p",
+          "text": "Đọc ngay cách các bà đối mặt với 3 tình huống \"sóng gió\" này để coi tui nói có chuẩn tim đen không nha:"
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "1. Cách Bà Xử Lý Khi Mọi Thứ Rối Tung Lên (Khủng Hoảng ập đến)"
+        },
+        {
+          "type": "item",
+          "title": "Bật mode \"Sáng tạo để giải tỏa\" (Creative Processing)",
+          "text": "Càng rối, các bà lại càng tìm đến việc sáng tạo như một cách để xử lý cảm xúc — viết, vẽ, làm nhạc, hoặc bất kỳ hình thức thể hiện nào giúp bà giải tỏa nội tâm."
+        },
+        {
+          "type": "item",
+          "title": "Cần không gian riêng để \"tiêu hóa\" cảm xúc",
+          "text": "Các bà không thích chia sẻ ngay lập tức khi đang trong khủng hoảng, mà cần một khoảng thời gian riêng tư để xử lý cảm xúc qua lăng kính sáng tạo trước."
+        },
+        {
+          "type": "item",
+          "title": "Dễ trốn vào thế giới tưởng tượng để né tránh vấn đề",
+          "text": "Vì quá quen với việc sống trong thế giới ý tưởng, đôi khi các bà dùng việc sáng tạo như một cách để trốn tránh thực tế thay vì đối mặt trực tiếp với vấn đề."
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "2. Khi Ở Trong Một Tập Thể (Teamwork, Nhóm bạn)"
+        },
+        {
+          "type": "item",
+          "title": "\"Nguồn ý tưởng\" không bao giờ cạn",
+          "text": "Bà chính là người luôn đóng góp những giải pháp sáng tạo, những góc nhìn mới lạ giúp cả nhóm thoát khỏi lối mòn tư duy."
+        },
+        {
+          "type": "item",
+          "title": "Khó làm việc theo quy trình cứng nhắc",
+          "text": "Các bà thường cảm thấy ngột ngạt khi phải tuân theo những quy trình làm việc quá cứng nhắc, thiếu không gian cho sự sáng tạo tự do."
+        },
+        {
+          "type": "item",
+          "title": "Thánh \"đề xuất ý tưởng mới\" giữa chừng dự án",
+          "text": "Vì cái tính luôn nảy ra ý tưởng mới, các bà đôi khi khiến dự án bị gián đoạn vì liên tục muốn thay đổi hướng đi giữa chừng."
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "3. Khi Không Được Hiểu / Bị Phê Bình Tác Phẩm (Góc tổn thương ngầm)"
+        },
+        {
+          "type": "p",
+          "text": "Đây là lúc The Creator dễ bộc lộ những góc tối tâm lý nhất nè:"
+        },
+        {
+          "type": "item",
+          "title": "Bật mode \"Phòng thủ sáng tạo\" (Creative Defensiveness)",
+          "text": "Khi tác phẩm bị phê bình, các bà sẽ KHÔNG dễ dàng chấp nhận đâu. Phản ứng đầu tiên thường là cảm thấy bị tổn thương sâu sắc, như thể chính con người mình bị phủ nhận."
+        },
+        {
+          "type": "item",
+          "title": "Gặm nhấm sự nghi ngờ bản thân (Creative Self-Doubt)",
+          "text": "Trong đầu các bà sẽ liên tục nảy số những suy nghĩ: \"Có phải mình không đủ tài năng?\", \"Liệu tác phẩm này có thực sự tệ như họ nói?\". Cảm giác này bào mòn động lực sáng tạo của bà."
+        },
+        {
+          "type": "item",
+          "title": "Cơ chế tự vệ độc hại (Abandoning the Work)",
+          "text": "Thay vì tiếp nhận phản hồi để cải thiện, các bà đôi khi lại chọn cách từ bỏ hoàn toàn dự án, coi đó như một thất bại không thể cứu vãn thay vì một cơ hội để học hỏi."
+        },
+        {
+          "type": "tip",
+          "text": "Chốt hạ cho The Creator nè: Sáng tạo là tốt, nhưng lúc mọi thứ rối ren hay khi tác phẩm bị phê bình, hãy nhớ rằng con người bà không phải là tác phẩm của bà! Nếu người ta góp ý về tác phẩm, thì việc bà cần làm là TÁCH BIỆT PHẢN HỒI KHỎI GIÁ TRỊ BẢN THÂN, chứ không phải là từ bỏ hoàn toàn đâu nha!"
+        }
+      ]
+    },
+    {
+      "id": "strengths",
+      "title": "Điểm mạnh thật sự",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Điểm mạnh thật sự (True Strengths) làm nên thương hiệu của The Creator nha! Không phải tự nhiên mà ai cũng ngưỡng mộ một người bạn, người đồng nghiệp hay người yêu mang hệ điều hành này đâu."
+        },
+        {
+          "type": "p",
+          "text": "Sức mạnh của các bà không nằm ở sự thực dụng, mà nó nằm ở \"quyền lực của trí tưởng tượng\" siêu đẳng có khả năng tạo ra những điều chưa từng tồn tại nghen:"
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "1. Năng Lực \"Biến Không Thành Có\" Cấp Độ Max (Master of Manifestation)"
+        },
+        {
+          "type": "item",
+          "title": "Nguồn năng lượng kiến tạo",
+          "text": "Các bà có khả năng biến những ý tưởng mơ hồ nhất thành những sản phẩm, tác phẩm cụ thể mà người khác có thể trải nghiệm và cảm nhận được."
+        },
+        {
+          "type": "item",
+          "title": "Tư duy đột phá không giới hạn",
+          "text": "Vì luôn nhìn thế giới qua lăng kính của những khả năng chưa được khai phá, các bà thường tìm ra những giải pháp mà người khác không nghĩ tới."
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "2. Khả Năng Tự Thể Hiện Bản Thân Chân Thực"
+        },
+        {
+          "type": "item",
+          "title": "Soft outside, visionary inside",
+          "text": "Nhìn giao diện bên ngoài có vẻ mơ mộng, nhưng đụng chuyện thì The Creator là những người có tầm nhìn sâu sắc và khả năng thực thi bền bỉ."
+        },
+        {
+          "type": "item",
+          "title": "Tạo ra dấu ấn cá nhân độc nhất (The Signature Style)",
+          "text": "Mấy bà không bao giờ tạo ra những thứ sao chép, rập khuôn. Điểm mạnh thực sự là mỗi tác phẩm của bà đều mang một dấu ấn riêng không thể nhầm lẫn."
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "3. \"Chất Xúc Tác\" Đổi Mới Trong Tập Thể"
+        },
+        {
+          "type": "item",
+          "title": "Người mở ra những khả năng mới",
+          "text": "Trong một tập thể đang bế tắc vì thiếu ý tưởng, các bà chính là nguồn cảm hứng mang đến những góc nhìn hoàn toàn mới mẻ."
+        },
+        {
+          "type": "item",
+          "title": "Khơi dậy tinh thần sáng tạo ở người khác (The Creativity Igniter)",
+          "text": "Điểm sáng rực rỡ nhất là khả năng khiến người khác dám thử nghiệm, dám thể hiện những ý tưởng táo bạo của riêng họ."
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "4. Sự Chân Thật Trong Sáng Tạo Nguyên Bản (Radical Creative Authenticity)"
+        },
+        {
+          "type": "p",
+          "text": "Giữa một thế giới đầy sự sao chép, rập khuôn và \"làm theo công thức an toàn\", việc các bà vẫn dám tạo ra những điều mới mẻ, mang đậm dấu ấn cá nhân chính là một loại dũng khí cực kỳ lớn. Sự sáng tạo của các bà không phải là sự lập dị, mà đó là một sự lựa chọn đầy kiêu hãnh và bản lĩnh!"
+        }
+      ]
+    },
+    {
+      "id": "blindspots",
+      "title": "Những điểm mù cần để ý",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Sự sáng tạo của Nhà Sáng Tạo đôi khi lại chính là con dao hai lưỡi tự cứa vào mình và cả người khác, nếu mấy bà lỡ sa vào những điểm mù này:"
+        },
+        {
+          "type": "item",
+          "title": "Bẫy \"Không bao giờ đủ tốt\" (Never Good Enough)",
+          "text": "Mấy bà cứ tưởng liên tục hoàn thiện là đang thể hiện sự chuyên nghiệp. Nhưng không! Điểm mù lớn nhất là các bà đang tự tước đi cơ hội chia sẻ tác phẩm của mình với thế giới."
+        },
+        {
+          "type": "item",
+          "title": "Trốn tránh hoàn thành bằng danh nghĩa sáng tạo (Avoidance Disguised as Ideation)",
+          "text": "Đây là điểm mù đáng sợ nhất mà Creator thường không tự nhận ra. Dù miệng nói \"tui đang cần thêm thời gian để sáng tạo\", nhưng sâu thẳm các bà đang né tránh nỗi sợ bị phán xét khi công bố tác phẩm."
+        },
+        {
+          "type": "item",
+          "title": "Hội chứng \"So sánh bản thân với người khác\" (Comparison Trap)",
+          "text": "Khả năng tự tin vào giá trị riêng của The Creator cực kỳ mờ nhạt khi nhìn vào thành công của người khác. Điểm mù ở đây là các bà lầm tưởng rằng tác phẩm của mình phải \"hay hơn\" người khác mới có giá trị."
+        },
+        {
+          "type": "item",
+          "title": "Cái tôi của sự \"Độc đáo\" (Ego of Originality)",
+          "text": "Các bà vô thức dính chặt giá trị bản thân vào việc \"mình có sáng tạo, có khác biệt không\". Nếu một ngày phải làm điều gì đó thông thường, bà lại đâm ra khó chịu vì sợ đánh mất bản sắc sáng tạo của mình."
+        }
+      ]
+    },
+    {
+      "id": "conflict",
+      "title": "Mâu thuẫn lớn nhất",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Mâu thuẫn kinh điển nhất cấu xé tâm can của một Creator mỗi đêm muộn chính là sự giằng xé giữa: Khao khát tạo ra một TÁC PHẨM HOÀN HẢO, xứng đáng để đời VÀ Nỗi sợ hãi rằng nếu CÔNG BỐ nó, thế giới sẽ THẤY RÕ những khiếm khuyết của bà."
+        },
+        {
+          "type": "item",
+          "title": "Vừa muốn chia sẻ, lại vừa sợ bị phán xét",
+          "text": "Tận sâu bên trong, The Creator cực kỳ khao khát được thế giới nhìn thấy và công nhận tác phẩm của mình. Nhưng ác nỗi, mỗi khi gần đến lúc công bố, nỗi sợ bị phán xét lại khiến bà muốn giấu nó đi mãi mãi."
+        },
+        {
+          "type": "item",
+          "title": "Nỗi sợ đánh mất bản sắc khi hòa nhập (Fear of Losing Uniqueness)",
+          "text": "Vì sao các bà lại cố gắng tạo ra những điều độc đáo nhiều đến vậy? Mâu thuẫn ở đây là: Các bà dùng sự sáng tạo để khẳng định bản sắc riêng biệt của mình. Sâu thẳm bên trong là một nỗi sợ tột cùng: \"Nếu mình không còn khác biệt, liệu mình còn ý nghĩa gì?\"."
+        },
+        {
+          "type": "item",
+          "title": "Muốn được công nhận nhưng lại sợ sự chú ý",
+          "text": "Bà khao khát được người khác nhìn thấy và trân trọng tài năng của mình, nhưng đồng thời cũng cảm thấy lo lắng, không thoải mái khi trở thành trung tâm của sự chú ý."
+        },
+        {
+          "type": "p",
+          "text": "Cuộc chiến lớn nhất của The Creator là học cách chấp nhận sự thật rớt nước mắt này: Giá trị của một tác phẩm không nằm ở việc nó có HOÀN HẢO hay không, mà nằm ở việc bà DÁM chia sẻ nó với thế giới."
+        }
+      ]
+    },
+    {
+      "id": "challenges",
+      "title": "Những thách thức nào bạn có thể sẽ gặp phải trong các mối quan hệ",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Mang hệ điều hành The Creator (Nhà Sáng Tạo) vào các mối quan hệ (từ tình yêu, bạn bè đến đồng nghiệp) thì đúng kiểu \"tâm hồn bay bổng nhưng dễ tự cô lập\". Sự sáng tạo vô bờ bến của các bà nếu không có \"kết nối vững chắc\" thì rất dễ va phải những \"kiếp nạn\" cực kỳ đặc thù sau đây:"
+        },
+        {
+          "type": "sub",
+          "icon": "🛑",
+          "title": "1. \"Người Yêu Tâm Trạng Thất Thường\" (The Moody Creative)"
+        },
+        {
+          "type": "item",
+          "title": "Bản chất",
+          "text": "Vì cảm xúc của các bà thường gắn liền với quá trình sáng tạo, tâm trạng có thể thay đổi thất thường tùy theo việc dự án đang thuận lợi hay bế tắc."
+        },
+        {
+          "type": "item",
+          "title": "Biểu hiện",
+          "text": "Đối phương có thể cảm thấy khó nắm bắt, không biết hôm nay sẽ gặp phiên bản hào hứng hay phiên bản chán nản, u sầu của bà."
+        },
+        {
+          "type": "sub",
+          "icon": "🛑",
+          "title": "2. Yêu Đương Nhưng Luôn \"Nửa Người Ở Đây, Nửa Người Trong Thế Giới Sáng Tạo\""
+        },
+        {
+          "type": "item",
+          "title": "Bản chất",
+          "text": "Các bà thường bị cuốn vào thế giới ý tưởng của riêng mình đến mức quên mất sự hiện diện trọn vẹn trong mối quan hệ."
+        },
+        {
+          "type": "item",
+          "title": "Biểu hiện",
+          "text": "Đối phương có thể cảm thấy dù đang ở cạnh bà, nhưng tâm trí bà lại đang ở một nơi khác, khiến họ cảm thấy không được ưu tiên."
+        },
+        {
+          "type": "sub",
+          "icon": "🛑",
+          "title": "3. Quả Bom Nổ Chậm \"Phản Ứng Thái Quá Với Phê Bình\" (Overreacting to Criticism)"
+        },
+        {
+          "type": "item",
+          "title": "Bản chất",
+          "text": "Vì gắn chặt giá trị bản thân với tác phẩm, các bà có thể phản ứng cực đoan khi nhận được góp ý, dù là góp ý mang tính xây dựng từ người thân yêu."
+        },
+        {
+          "type": "item",
+          "title": "Biểu hiện",
+          "text": "Khi bị phê bình, thay vì lắng nghe một cách cởi mở, bà có thể trở nên phòng thủ, tổn thương sâu sắc hoặc thậm chí né tránh người đã đưa ra góp ý đó."
+        },
+        {
+          "type": "sub",
+          "icon": "🛑",
+          "title": "4. Khó Duy Trì Sự Ổn Định Trong Cam Kết (Commitment Inconsistency)"
+        },
+        {
+          "type": "item",
+          "title": "Bản chất",
+          "text": "Tính cách luôn tìm kiếm sự mới mẻ khiến The Creator đôi khi khó duy trì sự nhất quán trong các mối quan hệ dài hạn, dễ cảm thấy nhàm chán khi mọi thứ trở nên quen thuộc."
+        },
+        {
+          "type": "item",
+          "title": "Biểu hiện",
+          "text": "Bạn bè, người yêu có thể lo lắng về sự bền vững của mối quan hệ khi thấy bà liên tục tìm kiếm những trải nghiệm, những kết nối mới mẻ."
+        },
+        {
+          "type": "sub",
+          "icon": "🛑",
+          "title": "5. Nỗi Sợ \"Bị Hiểu Lầm\" Khóa Chặt Sự Chia Sẻ"
+        },
+        {
+          "type": "item",
+          "title": "Bản chất",
+          "text": "Bà sợ rằng thế giới nội tâm phức tạp, đầy ắp ý tưởng của mình sẽ không được người khác thấu hiểu, nên đôi khi chọn cách giữ kín thay vì chia sẻ."
+        },
+        {
+          "type": "item",
+          "title": "Biểu hiện",
+          "text": "Dù đang có những cảm xúc, ý tưởng sâu sắc muốn bày tỏ, bà vẫn giữ khoảng cách vì sợ rằng người khác sẽ không đủ kiên nhẫn hoặc khả năng để hiểu được thế giới của bà."
+        },
+        {
+          "type": "tip",
+          "text": "Tip sinh tồn cho các bà hệ Creator: Hãy nhớ, tình yêu và tình bạn khỏe mạnh cần sự HIỆN DIỆN TRỌN VẸN bên cạnh sự sáng tạo. Đừng để thế giới ý tưởng của mình trở thành bức tường ngăn cách bà với những người thực sự quan tâm. Bà hoàn toàn xứng đáng có những mối quan hệ vừa tôn trọng không gian sáng tạo, vừa đủ sâu sắc để kết nối thật sự!"
+        }
+      ]
+    },
+    {
+      "id": "growth",
+      "title": "Hướng phát triển",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Để lột xác và nâng cấp năng lượng The Creator (Nhà Sáng Tạo) lên một tầm cao mới, hành trình của mấy bà không phải là ngừng sáng tạo hay từ bỏ sự cầu toàn hoàn toàn. Sự trưởng thành của một Creator là biến sự cầu toàn tê liệt thành kỷ luật sáng tạo, và học cách hoàn thành thay vì mãi mãi hoàn thiện."
+        },
+        {
+          "type": "p",
+          "text": "Dưới đây là hướng phát triển để các bà vừa giữ được \"hào quang\" sáng tạo, vừa không bị mắc kẹt trong sự trì hoãn:"
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "1. Chuyển từ \"Cầu Toàn Tuyệt Đối\" sang \"Hoàn Thành Có Chủ Đích\" (Purposeful Completion)"
+        },
+        {
+          "type": "item",
+          "title": "Nâng cấp bộ lọc hoàn thiện",
+          "text": "Trước khi tiếp tục chỉnh sửa, hãy dừng lại và tự hỏi: \"Việc chỉnh sửa này thực sự cải thiện tác phẩm, hay chỉ là nỗi sợ công bố đang che giấu dưới danh nghĩa cầu toàn?\"."
+        },
+        {
+          "type": "item",
+          "title": "Đặt deadline cứng cho mỗi dự án",
+          "text": "Tập cho bản thân thói quen ấn định thời điểm hoàn thành cụ thể, và tôn trọng nó dù tác phẩm chưa \"hoàn hảo\" theo tiêu chuẩn của bà."
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "2. Ngừng \"Gắn Chặt Bản Thân Với Tác Phẩm\", hãy học \"Tách Biệt Giá Trị\" (Separating Self from Work)"
+        },
+        {
+          "type": "item",
+          "title": "Tiếp nhận phản hồi như dữ liệu, không phải bản án",
+          "text": "Khi nhận được góp ý, hãy nhắc nhở bản thân rằng đó là ý kiến về sản phẩm, không phải phán xét về giá trị con người bà."
+        },
+        {
+          "type": "item",
+          "title": "Chấp nhận rằng không phải tác phẩm nào cũng cần hoàn hảo",
+          "text": "Đôi khi, việc hoàn thành và công bố quan trọng hơn việc đạt đến sự hoàn hảo tuyệt đối."
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "3. Tự Xây Dựng Kỷ Luật Sáng Tạo (Creative Discipline)"
+        },
+        {
+          "type": "item",
+          "title": "Luật \"Sáng tạo đều đặn hơn là chờ cảm hứng\"",
+          "text": "Khắc cốt ghi tâm nguyên tắc này: Đừng chờ đợi cảm hứng đến mới bắt tay vào làm việc. Xây dựng thói quen sáng tạo đều đặn mỗi ngày, dù chỉ một chút."
+        },
+        {
+          "type": "item",
+          "title": "Dám chia sẻ tác phẩm dang dở để nhận phản hồi sớm",
+          "text": "Ngừng đợi đến khi hoàn thiện 100% mới chia sẻ. Học cách công bố sớm hơn để nhận được góp ý giá trị trong quá trình sáng tạo."
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "4. Tích hợp thêm năng lượng bổ trợ (Nâng cấp giao diện)"
+        },
+        {
+          "type": "item",
+          "title": "Mượn năng lượng Chiến Binh (The Hero)",
+          "text": "Học cách kỷ luật, kiên trì hoàn thành mục tiêu đến cùng, thay vì bỏ dở khi gặp khó khăn hoặc khi có ý tưởng mới hấp dẫn hơn xuất hiện."
+        },
+        {
+          "type": "item",
+          "title": "Mượn năng lượng Nhà Cai Trị (The Ruler)",
+          "text": "Học cách quản lý thời gian, nguồn lực một cách có hệ thống để biến những ý tưởng sáng tạo thành những dự án thành công thực tế."
+        },
+        {
+          "type": "tip",
+          "text": "The Empowered Creator (Nhà Sáng Tạo Đỉnh Cao) không phải là người tạo ra những tác phẩm hoàn hảo tuyệt đối, mà là một người phụ nữ sở hữu trí tưởng tượng bay bổng nhất nhưng cũng có kỷ luật vững vàng nhất. Khi bà biết hoàn thành và chia sẻ, thứ năng lượng tỏa ra không còn là sự trì hoãn, mà là một sức hút quyền lực khiến ai cũng phải nể trọng!"
+        }
+      ]
+    },
+    {
+      "id": "relationships",
+      "title": "Làm sao để cải thiện các mối quan hệ xã hội",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Okela mấy bà, tới phần cốt lõi để \"cứu giá\" các mối quan hệ cho hệ Nhà Sáng Tạo đây!"
+        },
+        {
+          "type": "p",
+          "text": "Lấy sổ ra note lại ngay chiến lược để vừa giữ được sự sáng tạo, vừa không bị cuộc đời \"cô lập\" nha:"
+        },
+        {
+          "type": "sub",
+          "icon": "🌟",
+          "title": "PHẦN 1: Cứu Vãn Các Mối Quan Hệ Xã Hội (Bạn bè, Đồng nghiệp)"
+        },
+        {
+          "type": "p",
+          "text": "Để không bị biến thành \"người khó nắm bắt\" hay \"kẻ thất thường\" của thiên hạ, các bà Creator phải setup lại hệ điều hành giao tiếp liền:"
+        },
+        {
+          "type": "item",
+          "title": "Dẹp ngay cái nết \"Biến mất vào thế giới riêng\" (Stop Creative Isolation)",
+          "text": "Bà có quyền cần không gian sáng tạo, nhưng hãy thông báo trước: \"Tui cần thời gian riêng để tập trung sáng tạo, sẽ quay lại sau nha\" thay vì im lặng biến mất."
+        },
+        {
+          "type": "item",
+          "title": "Luật \"Chia sẻ quá trình, không chỉ kết quả\" (Share the Journey)",
+          "text": "Thanh lọc lại cách giao tiếp đi mấy bà. Chia sẻ những gì bà đang làm, đang nghĩ với những người quan trọng, thay vì chỉ xuất hiện khi đã có thành phẩm."
+        },
+        {
+          "type": "item",
+          "title": "Có gì cảm thấy chán nản cứ nói, ngưng chịu đựng trong im lặng (Direct Communication)",
+          "text": "Bà cảm thấy bế tắc sáng tạo, làm ơn CHIA SẺ RA. Dùng cấu trúc: \"Mình đang cảm thấy... mình cần...\". Đừng để tâm trạng thất thường ảnh hưởng đến người xung quanh mà không giải thích."
+        },
+        {
+          "type": "sub",
+          "icon": "💕",
+          "title": "PHẦN 2: \"Trị Bệnh\" Trong Tình Yêu (Yêu sao cho đừng cô lập?)"
+        },
+        {
+          "type": "p",
+          "text": "Tình yêu của Creator rất cuốn hút, nhưng toàn tự mình làm khó mình vì thế giới riêng quá rộng lớn. Muốn có một mối tình gắn kết, bền vững và slay, thì phải chấn chỉnh ngay:"
+        },
+        {
+          "type": "item",
+          "title": "Dành thời gian chất lượng, hiện diện trọn vẹn",
+          "text": "Khi ở bên người yêu, hãy tạm gác lại thế giới ý tưởng để thực sự hiện diện, lắng nghe và kết nối với họ."
+        },
+        {
+          "type": "item",
+          "title": "Giải thích về nhịp điệu cảm xúc gắn liền với sáng tạo",
+          "text": "Giúp người yêu hiểu rằng tâm trạng thất thường đôi khi đến từ quá trình sáng tạo, không phải vì họ đã làm gì sai."
+        },
+        {
+          "type": "item",
+          "title": "Đi tìm \"Người Ủng Hộ\" chứ không tìm \"Nàng Thơ Tạm Thời\"",
+          "text": "Bỏ ngay việc coi người yêu chỉ như nguồn cảm hứng nhất thời. Hãy chọn yêu một người thực sự ủng hộ hành trình sáng tạo lâu dài của bà."
+        },
+        {
+          "type": "item",
+          "title": "Mời người yêu vào thế giới sáng tạo của bà",
+          "text": "Bà giỏi sáng tạo một mình rồi, nhưng thỉnh thoảng hãy chia sẻ quá trình đó với người yêu, để họ cảm thấy được là một phần trong hành trình của bà."
+        },
+        {
+          "type": "tip",
+          "text": "Chốt hạ: Bí quyết lớn nhất để Creator hạnh phúc là học cách CÂN BẰNG GIỮA THẾ GIỚI SÁNG TẠO VÀ KẾT NỐI THẬT. Hãy tin rằng bà xứng đáng có một tình yêu vừa tôn trọng không gian sáng tạo, vừa đủ sâu sắc để không cảm thấy cô đơn!"
+        }
+      ]
+    },
+    {
+      "id": "career",
+      "title": "Bạn cần làm gì để thăng tiến trong công việc",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Alo mấy bà, đến cái chuyên mục quan trọng nhất để \"lột xác\" chốn công sở đây! The Creator (Nhà Sáng Tạo) bình thường đi làm rất hay bị rơi vào cái bẫy \"ý tưởng nhiều nhưng không hoàn thành\" hoặc \"khó làm việc trong khuôn khổ\". Muốn thăng tiến, lên sếp hay tự làm chủ mà vẫn giữ được vibe \"sáng tạo\" thì phải rèn ngay mấy skill cốt lõi này nha:"
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "1. Từ \"Người Có Nhiều Ý Tưởng\" Thành \"Người Thực Thi Xuất Sắc\""
+        },
+        {
+          "type": "item",
+          "title": "Ngưng chỉ dừng ở ý tưởng, hãy hoàn thành",
+          "text": "Sự sáng tạo không nằm ở việc bà có bao nhiêu ý tưởng, mà ở việc bà biến được bao nhiêu trong số đó thành hiện thực. Muốn bứt phá, hãy chọn MỘT ý tưởng đủ tiềm năng và theo đến cùng."
+        },
+        {
+          "type": "item",
+          "title": "Hệ thống hóa quy trình sáng tạo",
+          "text": "Xây dựng một quy trình làm việc rõ ràng từ ý tưởng đến hoàn thiện, giúp bà không bị mắc kẹt ở giai đoạn brainstorm mãi mãi."
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "2. Biến Sự Sáng Tạo Thành \"Giá Trị Kinh Doanh\" (Creativity Meets Business)"
+        },
+        {
+          "type": "p",
+          "text": "Trí tưởng tượng phong phú là thiên phú, nhưng để ngồi vào ghế sếp hay vận hành trơn tru một mô hình kinh doanh, bà bắt buộc phải chứng minh được giá trị thực tế mà sự sáng tạo đó mang lại."
+        },
+        {
+          "type": "p",
+          "text": "Hãy tập thói quen liên kết mỗi ý tưởng sáng tạo với một mục tiêu kinh doanh cụ thể. Đừng chỉ nói \"Em có một ý tưởng thú vị lắm\". Hãy đổi thành: \"Ý tưởng này có thể giải quyết vấn đề X, mang lại giá trị Y cho khách hàng\". Sự sáng tạo đi kèm với tư duy kinh doanh chính là \"vũ khí hủy diệt\" chốn công sở."
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "3. Học Cách Làm Việc Trong Giới Hạn (Creativity within Constraints)"
+        },
+        {
+          "type": "p",
+          "text": "Căn bệnh trầm kha của The Creator là cảm thấy ngột ngạt khi phải làm việc trong khuôn khổ, deadline hay ngân sách giới hạn."
+        },
+        {
+          "type": "p",
+          "text": "Đừng để giới hạn trở thành lý do để trì hoãn! Hãy học cách coi những ràng buộc đó như một thử thách sáng tạo thú vị, thay vì một rào cản."
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "4. Thiết Lập \"Quy Trình Hoàn Thành\" Rõ Ràng"
+        },
+        {
+          "type": "p",
+          "text": "Năng lượng của bà là để tạo ra những sản phẩm giá trị, không phải để mãi mãi ở trong giai đoạn \"đang phát triển ý tưởng\"."
+        },
+        {
+          "type": "p",
+          "text": "Học cách chia nhỏ dự án lớn thành các cột mốc cụ thể, có deadline rõ ràng. Phải phân bổ rạch ròi: giai đoạn nào để sáng tạo tự do, giai đoạn nào để hoàn thiện và giao nộp."
+        },
+        {
+          "type": "p",
+          "text": "Tóm lại, thăng tiến không có nghĩa là bà phải từ bỏ sự sáng tạo hay trở nên khô khan, máy móc. Phiên bản nâng cấp đỉnh cao nhất của Creator chính là người dùng trí tưởng tượng để mở đường, nhưng lại dùng kỷ luật để biến những ý tưởng đó thành hiện thực có giá trị."
+        }
+      ]
+    },
+    {
+      "id": "journey",
+      "title": "Vận trình cuộc đời",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Hành trình của Creator là một chuỗi ngày vật vã chuyển hóa từ việc \"mơ mộng không hồi kết\" sang cảnh giới \"sáng tạo có kỷ luật\"."
+        },
+        {
+          "type": "p",
+          "text": "Lưu ngay 3 giai đoạn \"tiến hóa\" này để xem mấy bà đang kẹt ở level nào nè:"
+        },
+        {
+          "type": "sub",
+          "icon": "🌱",
+          "title": "Dưới 25 Tuổi: Creator Tập Sự (The Dreaming Ideator)"
+        },
+        {
+          "type": "item",
+          "title": "Vibe lúc này",
+          "text": "Đầu óc tràn ngập ý tưởng, nhưng thiếu kỷ luật để hoàn thành. Nhiệt tình cộng mơ mộng. Bắt đầu rất nhiều dự án nhưng hiếm khi hoàn thành trọn vẹn. Năng lượng sáng tạo tràn trề nhưng chưa có định hướng rõ ràng."
+        },
+        {
+          "type": "item",
+          "title": "Thực trạng",
+          "text": "Đây là giai đoạn mấy bà rất dễ có một ngăn kéo đầy những dự án dang dở. Nếu có chập chững làm kinh doanh, các bà sẽ có rất nhiều ý tưởng sản phẩm nhưng khó đưa ra thị trường vì mãi cầu toàn. Trong tình yêu thì dễ coi người yêu như nguồn cảm hứng nhất thời, thiếu sự cam kết ổn định."
+        },
+        {
+          "type": "item",
+          "title": "Bài học cốt lõi",
+          "text": "Dính vô vàn dự án dang dở và những cơ hội bị bỏ lỡ vì sự cầu toàn quá mức để nhận ra rằng: Sáng tạo mà không hoàn thành thì chỉ là những giấc mơ mãi mãi nằm trên giấy."
+        },
+        {
+          "type": "sub",
+          "icon": "🌸",
+          "title": "Từ 25 Đến 40 Tuổi: Creator Thức Tỉnh (The Disciplined Artist)"
+        },
+        {
+          "type": "item",
+          "title": "Vibe lúc này",
+          "text": "Đã nếm đủ \"trái đắng\" của việc mãi mãi không hoàn thành. Giao diện vẫn sáng tạo, giàu trí tưởng tượng nhưng bên trong đã bắt đầu rèn được kỷ luật và khả năng đưa dự án đến đích."
+        },
+        {
+          "type": "item",
+          "title": "Thực trạng",
+          "text": "Ở độ tuổi này, các bà bắt đầu ngộ ra chân lý cốt lõi: Đừng cố hoàn hảo nữa, hãy học cách hoàn thành! Thay vì mãi mãi chỉnh sửa, mấy bà chuyển sang đặt deadline, công bố tác phẩm và học hỏi từ phản hồi thực tế. Các bà biết cách cân bằng giữa sự sáng tạo tự do và kỷ luật thực thi."
+        },
+        {
+          "type": "item",
+          "title": "Bài học cốt lõi",
+          "text": "Chấp nhận buông bỏ nỗi sợ bị phán xét. Dám chia sẻ tác phẩm dù chưa hoàn hảo tuyệt đối, và học cách tách biệt giá trị bản thân khỏi những lời phê bình."
+        },
+        {
+          "type": "sub",
+          "icon": "👑",
+          "title": "Sau 40 Tuổi: \"Bậc Thầy Sáng Tạo\" (The Master Creator)"
+        },
+        {
+          "type": "item",
+          "title": "Vibe lúc này",
+          "text": "An tọa vững chãi trong chính khả năng sáng tạo của mình, khí chất ngút ngàn. Không còn hoảng loạn vì sợ phán xét hay bồn chồn vì sự cầu toàn nữa. Sự sáng tạo lúc này tỏa ra tự nhiên như hơi thở, đi kèm với sự tự tin của người đã có nhiều tác phẩm được công nhận."
+        },
+        {
+          "type": "item",
+          "title": "Thực trạng",
+          "text": "Các bà lùi lại một bước khỏi việc phải chứng minh tài năng qua mỗi tác phẩm. Thay vì chỉ tạo ra sản phẩm cho riêng mình, các bà vươn tầm thành những mentor xịn xò, truyền cảm hứng sáng tạo và kỷ luật cho thế hệ sau. Lúc này, các bà hoàn toàn có thể xây dựng những nền tảng, doanh nghiệp sáng tạo có quy mô lớn dựa trên di sản đã tích lũy."
+        },
+        {
+          "type": "item",
+          "title": "Bài học cốt lõi",
+          "text": "Đạt đến cảnh giới cao nhất của sự sáng tạo: Hiểu rằng giá trị thực sự không nằm ở sự hoàn hảo của từng tác phẩm riêng lẻ, mà nằm ở việc dám liên tục tạo ra và chia sẻ, để lại dấu ấn ý nghĩa cho thế giới."
+        }
+      ]
+    },
+    {
+      "id": "advice",
+      "title": "Lời khuyên",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Tóm lại nha mấy bà, chốt sổ nguyên mẫu Nhà Sáng Tạo (The Creator) bằng một câu cốt lõi thôi: Bà là một ngọn nguồn cảm hứng của nhân gian, nhưng ngọn nguồn thì cũng cần chảy ra biển lớn để có ý nghĩa!"
+        },
+        {
+          "type": "tip",
+          "text": "Lời khuyên \"xương máu\" ghim ngay vào tim nè:"
+        },
+        {
+          "type": "item",
+          "title": "Nghỉ làm \"Người Theo Đuổi Sự Hoàn Hảo Tuyệt Đối\"",
+          "text": "Bà không có nghĩa vụ phải tạo ra tác phẩm hoàn hảo 100%. Hãy học cách chấp nhận \"đủ tốt\" và chia sẻ nó với thế giới."
+        },
+        {
+          "type": "item",
+          "title": "Chân lý sinh tồn để không bị \"mắc kẹt\"",
+          "text": "Thay vì cứ mãi chỉnh sửa để tìm kiếm sự hoàn hảo, hãy khắc cốt ghi tâm điều này: hoàn thành quan trọng hơn hoàn hảo. Một tác phẩm được chia sẻ luôn có giá trị hơn một tác phẩm mãi mãi nằm trong ngăn kéo."
+        },
+        {
+          "type": "item",
+          "title": "Sáng tạo thì phải có kỷ luật",
+          "text": "Áp dụng chuẩn xác nguyên tắc: \"Trí tưởng tượng bay bổng, kỷ luật vững vàng\". Dùng sự sáng tạo của mình để mở đường, nhưng dùng kỷ luật để đi đến đích."
+        },
+        {
+          "type": "item",
+          "title": "Setup \"Deadline cho sự cầu toàn\"",
+          "text": "Chờ đợi sự hoàn hảo tuyệt đối là tự chuốc lấy sự trì trệ. Dám công bố tác phẩm dù chưa hoàn hảo 100% trong mắt bà."
+        },
+        {
+          "type": "tip",
+          "text": "Chốt hạ: Sự sáng tạo, độc đáo của Creator là một siêu năng lực bẩm sinh, là thứ nguồn cảm hứng nhưng có khả năng tạo ra giá trị đỉnh cao nhất. Miễn là bà biết hoàn thành và chia sẻ, thì vibe của bà lúc nào cũng sẽ độc đáo và tỏa sáng rực rỡ!"
+        }
+      ]
+    }
+  ]
+}

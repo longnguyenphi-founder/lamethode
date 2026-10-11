@@ -1,0 +1,938 @@
+{
+  "slug": "magician",
+  "code": "PTS",
+  "english": "The Magician",
+  "name": "Pháp Sư / Nhà Giả Kim",
+  "intro": [
+    "Bà là đứa mà mỗi khi nhìn vào một vấn đề, luôn thấy được những khả năng mà người khác không nhìn ra. Bà có một trực giác đặc biệt về cách mọi thứ vận hành — không chỉ ở bề mặt, mà ở tầng sâu của nguyên nhân và hệ quả. Với bà, cuộc sống là một hệ thống có thể được hiểu, được điều chỉnh, và được biến đổi nếu ai đó đủ hiểu biết để nắm giữ những quy luật ẩn giấu đằng sau nó. Nhưng có một sự thật mà bà giấu kỹ hơn cả một công thức bí mật: khả năng nhìn thấu và tạo ra sự thay đổi đó đôi khi khiến bà cảm thấy cô đơn, vì không phải ai cũng theo kịp cách bà nhìn thế giới.",
+    "Sự thật đau lòng nhất là bà thường dùng khả năng kiểm soát tình huống như một cách để né tránh cảm giác bất lực trước những điều nằm ngoài tầm với của mình. Tận sâu bên trong, bà luôn mang một nỗi sợ hoang mang: \"Nếu mình không thể biến đổi hay kiểm soát một tình huống nào đó, liệu điều đó có nghĩa là mình yếu kém, mình không đủ khả năng?\". Bà cứ liên tục tìm cách nắm bắt, điều chỉnh mọi thứ xung quanh, để rồi có những lúc quên mất rằng không phải mọi điều trong cuộc sống đều cần, hoặc nên, được kiểm soát."
+  ],
+  "population": 7,
+  "celebrities": [
+    {
+      "name": "Beyoncé",
+      "text": "Với khả năng tái tạo hình ảnh bản thân qua từng giai đoạn sự nghiệp và tầm nhìn nghệ thuật vượt trội, Beyoncé thường được nhắc đến như một nghệ sĩ có khả năng biến những ý tưởng táo bạo thành hiện thực đầy sức ảnh hưởng."
+    },
+    {
+      "name": "Oprah Winfrey",
+      "text": "Từ một người dẫn chương trình đến một đế chế truyền thông toàn cầu, Oprah là hình mẫu tiêu biểu cho khả năng biến đổi hoàn cảnh và truyền cảm hứng chuyển hóa cho hàng triệu người thông qua chính câu chuyện của mình."
+    },
+    {
+      "name": "Lady Gaga",
+      "text": "Nổi tiếng với khả năng liên tục tái tạo hình ảnh nghệ thuật của bản thân qua từng album, Lady Gaga thể hiện một tầm nhìn nghệ thuật độc đáo có khả năng biến những khái niệm trừu tượng thành trải nghiệm thị giác đầy ấn tượng."
+    },
+    {
+      "name": "CL (2NE1)",
+      "text": "Được biết đến với vai trò định hình phong cách và tầm nhìn nghệ thuật cho cả nhóm nhạc, CL thể hiện khả năng nhìn xa trông rộng trong việc xây dựng hình ảnh và âm nhạc có tính đột phá."
+    }
+  ],
+  "powers": [
+    {
+      "title": "Bà có Trực Giác Nhìn Thấu Quy Luật Vận Hành",
+      "english": "The Systems Insight",
+      "lead": null,
+      "points": [
+        {
+          "title": "Nhìn ra mối liên hệ ẩn giấu",
+          "text": "Khác với những người chỉ thấy bề mặt sự việc, The Magician luôn có khả năng nhận ra những mối liên hệ nhân quả sâu xa mà người khác không nhận thấy."
+        },
+        {
+          "title": "Khả năng biến ý tưởng thành hiện thực",
+          "text": "Các bà không chỉ hiểu cách mọi thứ vận hành, mà còn biết cách tác động vào đúng điểm để tạo ra sự thay đổi mong muốn."
+        }
+      ]
+    },
+    {
+      "title": "Năng Lực Truyền Cảm Hứng Chuyển Hóa",
+      "english": "The Transformation Catalyst",
+      "lead": null,
+      "points": [
+        {
+          "title": "Khả năng truyền năng lượng thay đổi",
+          "text": "Điểm nổi bật nhất của Magician là sức ảnh hưởng đặc biệt. Bà có thể khiến người khác tin vào khả năng thay đổi của chính họ."
+        },
+        {
+          "title": "Vibe bí ẩn nhưng cuốn hút",
+          "text": "Ở cạnh một Magician, người ta cảm thấy như đang được tiếp xúc với một nguồn năng lượng đặc biệt, khơi dậy niềm tin vào những khả năng chưa được khai phá."
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "id": "portrait",
+      "title": "Chân dung của bạn – Bạn thực sự là ai",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Để tui chẻ nhỏ hai phần \"ăn tiền\" nhưng cũng dễ làm mấy bà \"suy\" nhất: Năng lực cốt lõi (Flex nhẹ skill ẩn) và Góc tối tâm lý (Red flag tự thân)."
+        },
+        {
+          "type": "p",
+          "text": "Bà nào thấy quen quen thì chuẩn bị sẵn giấy bút note lại để tự chấn chỉnh mình nghen!"
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "1. Năng Lực Cốt Lõi (Những thứ làm nên thương hiệu \"nhà giả kim tài ba\")"
+        },
+        {
+          "type": "p",
+          "text": "Đây là những siêu năng lực bẩm sinh khiến The Magician luôn là \"người kiến tạo phép màu\" của rất nhiều người, vì ai cũng cần một người dám tin vào những khả năng chưa được khai phá:"
+        },
+        {
+          "type": "item",
+          "title": "Tầm nhìn xa và khả năng chiến lược (Visionary Thinking)",
+          "text": "Các bà có khả năng nhìn thấy bức tranh toàn cảnh, dự đoán được xu hướng và kết quả trước khi chúng thực sự xảy ra."
+        },
+        {
+          "type": "item",
+          "title": "Khả năng biến ý tưởng thành hiện thực (Manifestation Mastery)",
+          "text": "Không chỉ dừng lại ở tầm nhìn, các bà có kỹ năng thực tế để biến những ý tưởng táo bạo thành những kết quả cụ thể, hữu hình."
+        },
+        {
+          "type": "item",
+          "title": "Sức ảnh hưởng và khả năng truyền cảm hứng (Influential Charisma)",
+          "text": "Các bà có một sức hút đặc biệt khiến người khác tin tưởng vào tầm nhìn của mình, sẵn sàng đồng hành trong hành trình thay đổi."
+        },
+        {
+          "type": "item",
+          "title": "Khả năng thích nghi và biến đổi (Adaptive Transformation)",
+          "text": "Các bà không sợ hãi trước sự thay đổi, mà còn coi đó là cơ hội để tái tạo, cải thiện bản thân và những gì xung quanh."
+        },
+        {
+          "type": "sub",
+          "icon": "🛑",
+          "title": "2. Góc Tối (Red flag tự thân – Đọc để tỉnh táo nha mấy bà!)"
+        },
+        {
+          "type": "p",
+          "text": "Kiến tạo thay đổi thì giỏi, nhưng tâm lý của Pháp Sư lại rất dễ bị hổng lỗ chỗ vì những \"cái bẫy\" tự mình giăng ra:"
+        },
+        {
+          "type": "item",
+          "title": "Hội chứng \"Kiểm soát mọi thứ\" (Control Obsession)",
+          "text": "Đây là bẫy dễ sập nhất! Vì luôn muốn nắm rõ quy luật vận hành, các bà cực kỳ khó chịu khi không thể kiểm soát hoặc dự đoán được một tình huống nào đó."
+        },
+        {
+          "type": "item",
+          "title": "Sử dụng ảnh hưởng một cách không lành mạnh (Manipulation Risk)",
+          "text": "Vì sức ảnh hưởng lớn, các bà đôi khi vô thức (hoặc cố ý) sử dụng khả năng thuyết phục của mình để đạt được mục đích riêng, thay vì vì lợi ích chung."
+        },
+        {
+          "type": "item",
+          "title": "Ảo tưởng về khả năng của bản thân (Delusions of Grandeur)",
+          "text": "Góc tối \"độc hại\" nhất của Magician là đôi khi đánh giá quá cao khả năng kiểm soát hoặc thay đổi mọi thứ của mình, dẫn đến những quyết định thiếu thực tế."
+        },
+        {
+          "type": "item",
+          "title": "Né tránh sự thật đau lòng bằng cách \"tái định hình\" mọi thứ (Spiritual Bypassing)",
+          "text": "Cứ liên tục tìm cách nhìn nhận tích cực, biến hóa mọi vấn đề mà quên mất việc thực sự đối diện với những cảm xúc, sự thật khó chịu cần được xử lý."
+        },
+        {
+          "type": "item",
+          "title": "Các bà hệ Magician nhớ kỹ nha",
+          "text": "Khả năng kiểm soát không có giới hạn chính là con đường ngắn nhất dẫn đến sự ngạo mạn và cô lập. Hãy kiến tạo thay đổi bằng một tầm nhìn sắc bén, nhưng phải biết chấp nhận những điều nằm ngoài tầm kiểm soát!"
+        }
+      ]
+    },
+    {
+      "id": "core",
+      "title": "Lõi Tính Cách (Bản chất thật sự bên trong)",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Nếu lõi của The Jester là Khát Vọng Sống Trọn Vẹn Trong Niềm Vui, thì lõi của The Magician chính là Khát Vọng Hiểu Và Làm Chủ Quy Luật Vũ Trụ (The Need to Understand and Master Systems). Động lực sâu thẳm nhất của các bà được xây dựng trên 3 trụ cột này:"
+        },
+        {
+          "type": "item",
+          "title": "Bản năng tìm hiểu cách mọi thứ vận hành (The Understanding Instinct)",
+          "text": "Các bà nhìn thế giới qua lăng kính của những quy luật, những nguyên nhân và hệ quả. Sự hỗn loạn, thiếu logic khiến các bà cảm thấy khó chịu, muốn tìm ra trật tự ẩn giấu bên trong."
+        },
+        {
+          "type": "item",
+          "title": "Nỗi sợ bất lực trước những điều không thể kiểm soát (Fear of Powerlessness)",
+          "text": "Nghe hơi \"suy\" nhưng đây là sự thật. Nỗi sợ lớn nhất của Magician không phải là thất bại, mà là cảm giác hoàn toàn bất lực, không thể tác động hay thay đổi được điều gì."
+        },
+        {
+          "type": "item",
+          "title": "Niềm tin vào khả năng chuyển hóa của con người (Faith in Transformation)",
+          "text": "Với các bà, mọi thứ đều có thể được cải thiện, thay đổi nếu hiểu đúng cách. Đây là động lực khiến bà luôn tìm cách kiến tạo, nhưng cũng là gánh nặng khi một số điều thực sự nằm ngoài khả năng kiểm soát của con người."
+        },
+        {
+          "type": "sub",
+          "icon": "🛑",
+          "title": "Những Điểm Cần Lưu Ý (Đọc để chấn chỉnh lại nết, bớt khổ nha!)"
+        },
+        {
+          "type": "p",
+          "text": "Mang năng lượng Magician là một điều tuyệt vời, nhưng nếu không biết cách kiểm soát, các bà sẽ tự biến mình thành một người luôn cố gắng nắm giữ những thứ không thể nắm giữ. Nhớ kỹ những cẩm nang sinh tồn này:"
+        },
+        {
+          "type": "item",
+          "title": "Học cách chấp nhận những điều nằm ngoài tầm kiểm soát",
+          "text": "Không phải mọi tình huống đều có thể được điều chỉnh hay thay đổi. Học cách buông bỏ những gì không thuộc thẩm quyền của bà."
+        },
+        {
+          "type": "item",
+          "title": "Sử dụng sức ảnh hưởng một cách có đạo đức",
+          "text": "Trước khi dùng khả năng thuyết phục của mình, hãy tự hỏi: \"Điều này có thực sự vì lợi ích của người khác, hay chỉ vì mục đích cá nhân của mình?\"."
+        },
+        {
+          "type": "item",
+          "title": "Đối diện với sự thật dù nó khó chịu",
+          "text": "Đừng dùng khả năng \"tái định hình\" tích cực để né tránh những cảm xúc, sự thật đau lòng cần được xử lý một cách trực diện."
+        },
+        {
+          "type": "item",
+          "title": "Chấp nhận: không phải lúc nào cũng cần một giải pháp",
+          "text": "Đôi khi, việc đơn giản là ở bên cạnh, lắng nghe có giá trị hơn việc cố gắng \"sửa chữa\" hay biến đổi một tình huống."
+        },
+        {
+          "type": "p",
+          "text": "Trưởng thành thực sự của một Magician không phải là kiểm soát được mọi thứ, mà là biết phân biệt giữa những gì mình có thể thay đổi và những gì cần được chấp nhận."
+        }
+      ]
+    },
+    {
+      "id": "love",
+      "title": "Bạn muốn một tình yêu như nào",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "nếu đã mang trong mình hệ điều hành The Magician (Pháp Sư / Nhà Giả Kim), thì gu tình yêu và những mong cầu sâu thẳm của các bà thường đi theo một hệ tư tưởng rất đặc thù. Chuyên mục \"Bạn muốn một tình yêu như nào\" lên sóng, lấy sổ tay ra note lại để tỉnh táo lúc yêu nha!"
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "1. Cái các bà TƯỞNG mình muốn (Và rất dễ sập bẫy)"
+        },
+        {
+          "type": "item",
+          "title": "Hệ \"Yêu là phải thay đổi đối phương\"",
+          "text": "Trái tim của The Magician rất dễ tin rằng tình yêu đích thực là khả năng giúp người mình yêu trở thành phiên bản tốt hơn, đôi khi vượt quá mong muốn thực sự của đối phương."
+        },
+        {
+          "type": "item",
+          "title": "Tình yêu kiểu \"Kiểm soát để bảo vệ mối quan hệ\"",
+          "text": "Các bà đôi khi vô thức cố gắng kiểm soát các yếu tố trong mối quan hệ để đảm bảo mọi thứ diễn ra theo đúng kế hoạch, thay vì để mọi thứ phát triển tự nhiên."
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "2. Cái các bà THỰC SỰ khao khát (Tình yêu lý tưởng giúp bà không bị \"ngạt thở vì kiểm soát\")"
+        },
+        {
+          "type": "p",
+          "text": "Sự thật là, nếu cứ theo đuổi những thứ ở mục 1, các bà sẽ rất nhanh thấy mối quan hệ trở nên ngột ngạt. Sâu thẳm bên trong, đây mới là thứ một Magician thực sự cần để thấy an toàn:"
+        },
+        {
+          "type": "item",
+          "title": "Một tình yêu \"Đồng Kiến Tạo\" chứ không phải \"Một Chiều Điều Khiển\"",
+          "text": "Các bà cần một người cùng bà xây dựng, phát triển mối quan hệ, thay vì để bà một mình gánh vác việc \"thiết kế\" mọi thứ."
+        },
+        {
+          "type": "item",
+          "title": "Sự Tin Tưởng Vào Quá Trình Tự Nhiên (Trust in Natural Unfolding)",
+          "text": "Magician cần một người giúp bà học cách buông bỏ nhu cầu kiểm soát, tin tưởng rằng không phải mọi thứ đều cần được sắp đặt hoàn hảo."
+        },
+        {
+          "type": "item",
+          "title": "Một người thách thức tầm nhìn của bà một cách xây dựng (A Constructive Challenger)",
+          "text": "Không cần ai chỉ răm rắp nghe theo, mà cần một người đủ bản lĩnh để đặt câu hỏi, phản biện những ý tưởng của bà một cách xây dựng."
+        },
+        {
+          "type": "item",
+          "title": "Sự chấp nhận khi bà không thể \"sửa chữa\" mọi thứ (Acceptance of Limitations)",
+          "text": "Các bà luôn khao khát một tình yêu đủ bao dung để chấp nhận những lúc bà cảm thấy bất lực, không phải lúc nào cũng có giải pháp hoàn hảo."
+        },
+        {
+          "type": "tip",
+          "text": "Lời khuyên chốt hạ: Đừng đi tìm người để \"thay đổi hoàn thiện\" nữa mấy bà ơi! Tình yêu lý tưởng nhất của The Magician là tìm được một người cùng bà đồng kiến tạo một mối quan hệ, thay vì để bà một mình gánh vác trách nhiệm biến mọi thứ trở nên hoàn hảo."
+        }
+      ]
+    },
+    {
+      "id": "perception",
+      "title": "Người khác nghĩ gì về bạn",
+      "blocks": [
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "1. Ấn tượng tích cực (Aura chói lóa, điểm 10 uy tín)"
+        },
+        {
+          "type": "item",
+          "title": "\"Người có tầm nhìn\" của cả nhóm",
+          "text": "Trong nhóm bạn, bà đích thị là người luôn nhìn xa hơn, thấy được những khả năng mà người khác chưa nghĩ tới, dẫn dắt cả nhóm đến những quyết định sáng suốt."
+        },
+        {
+          "type": "item",
+          "title": "\"Nguồn cảm hứng chuyển hóa\" biết đi",
+          "text": "Khí chất của bà tỏa ra sự bí ẩn, cuốn hút. Người ngoài nhìn vào luôn thấy bà là một người có khả năng đặc biệt trong việc biến những điều tưởng chừng bất khả thi thành hiện thực."
+        },
+        {
+          "type": "item",
+          "title": "\"Chiến lược gia tài ba\" trong công việc",
+          "text": "Sếp và đồng nghiệp cực kỳ tin tưởng những đề xuất chiến lược của bà vì biết bà có khả năng nhìn thấy bức tranh toàn cảnh mà người khác dễ bỏ lỡ."
+        },
+        {
+          "type": "sub",
+          "icon": "🛑",
+          "title": "2. Những điểm dễ bị \"hiểu lầm\" (Nghe hơi chạnh lòng nha)"
+        },
+        {
+          "type": "item",
+          "title": "Dễ bị gán mác \"Thao túng, khó đoán\"",
+          "text": "Vì sức ảnh hưởng và khả năng thuyết phục mạnh mẽ, đối phương đôi khi cảm thấy khó phân biệt liệu bà đang thực sự quan tâm hay đang cố gắng đạt được điều gì đó từ họ."
+        },
+        {
+          "type": "item",
+          "title": "Bị xem là \"Kiểm soát, độc đoán\"",
+          "text": "Việc luôn muốn nắm rõ và điều chỉnh mọi thứ đôi khi khiến người xung quanh cảm thấy ngột ngạt, không có không gian để tự quyết định."
+        },
+        {
+          "type": "item",
+          "title": "Mang tiếng \"Bí ẩn, khó gần\"",
+          "text": "Đôi khi vì luôn giữ một khoảng cách nhất định, không dễ dàng chia sẻ hết mọi suy nghĩ, người ta sẽ thấy khó để thực sự hiểu và gần gũi với bà."
+        },
+        {
+          "type": "item",
+          "title": "Bị nghi ngờ về động cơ thực sự (Questioned Motives)",
+          "text": "Vì khả năng đạt được điều mình muốn quá xuất sắc, đôi khi người khác sẽ tự hỏi liệu những hành động của bà có ẩn chứa mục đích cá nhân nào khác không."
+        },
+        {
+          "type": "tip",
+          "text": "Chốt lại nè: Giao diện của The Magician trong mắt thiên hạ luôn là một người CÓ TẦM NHÌN. Nhưng mấy bà ơi, tầm nhìn thôi chưa đủ, phải là \"Tầm nhìn có sự minh bạch\". Hãy để khả năng kiến tạo của mình là một nguồn cảm hứng, chứ đừng biến nó thành một công cụ khiến người khác nghi ngờ nha!"
+        }
+      ]
+    },
+    {
+      "id": "reactions",
+      "title": "Cách chúng mình phản ứng",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Nếu The Jester thường chọn cách pha trò khi có biến, thì hệ điều hành The Magician (Pháp Sư) lại \"nhảy số\" theo một hệ tư tưởng hoàn toàn khác."
+        },
+        {
+          "type": "p",
+          "text": "Đọc ngay cách các bà đối mặt với 3 tình huống \"sóng gió\" này để coi tui nói có chuẩn tim đen không nha:"
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "1. Cách Bà Xử Lý Khi Mọi Thứ Rối Tung Lên (Khủng Hoảng ập đến)"
+        },
+        {
+          "type": "item",
+          "title": "Bật mode \"Phân tích và tái định hình\" (Reframe & Strategize)",
+          "text": "Càng rối, các bà lại càng nhanh chóng phân tích tình huống, tìm ra cách để \"biến hóa\" khủng hoảng thành cơ hội hoặc ít nhất là một hướng giải quyết khả thi."
+        },
+        {
+          "type": "item",
+          "title": "Tìm cách kiểm soát những yếu tố có thể kiểm soát được",
+          "text": "Các bà có xu hướng tập trung năng lượng vào những gì mình có thể tác động, thay vì lo lắng về những yếu tố nằm ngoài tầm với."
+        },
+        {
+          "type": "item",
+          "title": "Dễ cảm thấy bất lực khi không thể tìm ra giải pháp",
+          "text": "Vì quá quen với việc luôn có cách để xử lý mọi thứ, đôi khi các bà rơi vào trạng thái hoang mang tột độ khi gặp một tình huống thực sự nằm ngoài khả năng kiểm soát."
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "2. Khi Ở Trong Một Tập Thể (Teamwork, Nhóm bạn)"
+        },
+        {
+          "type": "item",
+          "title": "\"Kiến trúc sư chiến lược\" của mọi kế hoạch",
+          "text": "Bà chính là người đưa ra những chiến lược sắc bén, nhìn thấy được những cơ hội và rủi ro mà người khác chưa nhận ra."
+        },
+        {
+          "type": "item",
+          "title": "Khó chấp nhận khi kế hoạch không được thực hiện đúng như dự tính",
+          "text": "Các bà có xu hướng khó chịu khi người khác không làm theo đúng tầm nhìn hoặc kế hoạch mà bà đã vạch ra một cách tỉ mỉ."
+        },
+        {
+          "type": "item",
+          "title": "Thánh \"gây ảnh hưởng\" trong mọi cuộc thảo luận",
+          "text": "Vì cái tính có sức thuyết phục mạnh mẽ, các bà thường xuyên dẫn dắt được hướng đi của cả nhóm theo tầm nhìn của mình, đôi khi khiến ý kiến khác bị lu mờ."
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "3. Khi Không Được Hiểu / Cảm Thấy Bất Lực (Góc tổn thương ngầm)"
+        },
+        {
+          "type": "p",
+          "text": "Đây là lúc The Magician dễ bộc lộ những góc tối tâm lý nhất nè:"
+        },
+        {
+          "type": "item",
+          "title": "Bật mode \"Rút lui vào thế giới nội tâm\" (Retreating into Analysis)",
+          "text": "Khi cảm thấy bất lực hoặc không được thấu hiểu, các bà sẽ KHÔNG bộc lộ ra ngoài đâu. Thay vào đó, bà rút lui vào không gian riêng để phân tích, tìm cách xử lý theo cách của riêng mình."
+        },
+        {
+          "type": "item",
+          "title": "Gặm nhấm cảm giác thất bại trong việc kiểm soát (Rumination on Powerlessness)",
+          "text": "Trong đầu các bà sẽ liên tục nảy số những suy nghĩ: \"Tại sao mình không thể thay đổi được tình huống này?\", \"Có phải mình đã làm sai điều gì đó?\". Cảm giác này bào mòn sự tự tin của bà."
+        },
+        {
+          "type": "item",
+          "title": "Cơ chế tự vệ độc hại (Over-Controlling to Compensate)",
+          "text": "Thay vì chấp nhận sự bất lực, các bà đôi khi lại cố gắng kiểm soát chặt chẽ hơn những khía cạnh khác trong cuộc sống để bù đắp cho cảm giác mất kiểm soát đó."
+        },
+        {
+          "type": "tip",
+          "text": "Chốt hạ cho The Magician nè: Kiến tạo thay đổi là tốt, nhưng lúc mọi thứ rối ren hay khi cảm thấy bất lực, hãy nhớ rằng không phải mọi thứ đều cần được kiểm soát! Nếu tình huống nằm ngoài khả năng của bà, thì việc bà cần làm là CHẤP NHẬN VÀ BUÔNG BỎ, chứ không phải là cố gắng kiểm soát nhiều hơn đâu nha!"
+        }
+      ]
+    },
+    {
+      "id": "strengths",
+      "title": "Điểm mạnh thật sự",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Điểm mạnh thật sự (True Strengths) làm nên thương hiệu của The Magician nha! Không phải tự nhiên mà ai cũng ngưỡng mộ một người bạn, người đồng nghiệp hay người yêu mang hệ điều hành này đâu."
+        },
+        {
+          "type": "p",
+          "text": "Sức mạnh của các bà không nằm ở sự may mắn, mà nó nằm ở \"quyền lực của tầm nhìn\" siêu đẳng có khả năng biến những điều tưởng chừng bất khả thi thành hiện thực nghen:"
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "1. Năng Lực \"Biến Hóa\" Cấp Độ Max (Master of Transformation)"
+        },
+        {
+          "type": "item",
+          "title": "Nguồn năng lượng kiến tạo mạnh mẽ",
+          "text": "Các bà có khả năng nhìn thấy tiềm năng ẩn giấu trong mọi tình huống, biến những thách thức thành cơ hội phát triển."
+        },
+        {
+          "type": "item",
+          "title": "Khả năng dự đoán chính xác",
+          "text": "Nhờ vào việc hiểu sâu sắc các quy luật vận hành, các bà thường có khả năng nhìn trước được xu hướng, kết quả trước khi chúng thực sự xảy ra."
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "2. Sức Ảnh Hưởng Là Vũ Khí Tối Thượng"
+        },
+        {
+          "type": "item",
+          "title": "Soft outside, powerful inside",
+          "text": "Nhìn giao diện bên ngoài có vẻ bí ẩn, trầm lặng, nhưng đụng chuyện thì The Magician là những người có sức ảnh hưởng và khả năng dẫn dắt đáng kinh ngạc."
+        },
+        {
+          "type": "item",
+          "title": "Khả năng truyền cảm hứng cho sự thay đổi (The Change Inspirer)",
+          "text": "Mấy bà có khả năng khiến người khác tin vào tiềm năng của chính họ, dám thực hiện những thay đổi mà họ chưa từng nghĩ tới trước đây."
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "3. \"Kiến Trúc Sư\" Chiến Lược Trong Tập Thể"
+        },
+        {
+          "type": "item",
+          "title": "Người nhìn xa trông rộng",
+          "text": "Trong một tập thể đang loay hoay không biết hướng đi, các bà chính là người vạch ra tầm nhìn, chiến lược rõ ràng để dẫn dắt mọi người tiến về phía trước."
+        },
+        {
+          "type": "item",
+          "title": "Khơi dậy niềm tin vào khả năng thay đổi (The Belief Builder)",
+          "text": "Điểm sáng rực rỡ nhất là khả năng khiến người khác tin rằng những mục tiêu tưởng chừng bất khả thi hoàn toàn có thể đạt được."
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "4. Sự Sâu Sắc Trong Hiểu Biết Nguyên Bản (Radical Depth of Understanding)"
+        },
+        {
+          "type": "p",
+          "text": "Giữa một thế giới đầy sự hời hợt, thiếu tầm nhìn dài hạn và \"chỉ nhìn thấy vấn đề trước mắt\", việc các bà vẫn kiên trì tìm hiểu sâu sắc, nhìn xa hơn hiện tại chính là một loại dũng khí cực kỳ lớn. Khả năng kiến tạo của các bà không phải là sự thao túng, mà đó là một sự lựa chọn đầy kiêu hãnh và bản lĩnh!"
+        }
+      ]
+    },
+    {
+      "id": "blindspots",
+      "title": "Những điểm mù cần để ý",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Khả năng kiến tạo của Pháp Sư đôi khi lại chính là con dao hai lưỡi tự cứa vào mình và cả người khác, nếu mấy bà lỡ sa vào những điểm mù này:"
+        },
+        {
+          "type": "item",
+          "title": "Bẫy \"Nghĩ mình luôn đúng\" (Believing You Always Know Best)",
+          "text": "Mấy bà cứ tưởng tầm nhìn xa là luôn chính xác. Nhưng không! Điểm mù lớn nhất là các bà đôi khi bỏ qua những góc nhìn khác, những thông tin quan trọng chỉ vì quá tự tin vào phán đoán của mình."
+        },
+        {
+          "type": "item",
+          "title": "Sử dụng sức ảnh hưởng để phục vụ mục đích cá nhân (Self-Serving Influence)",
+          "text": "Đây là điểm mù đáng sợ nhất mà Magician thường không tự nhận ra. Dù miệng nói \"tui đang giúp mọi người thấy rõ tiềm năng\", nhưng đôi khi các bà đang dùng sức ảnh hưởng để đạt được điều mình muốn."
+        },
+        {
+          "type": "item",
+          "title": "Hội chứng \"Không thể chấp nhận thất bại\" (Inability to Accept Failure)",
+          "text": "Khả năng chấp nhận giới hạn của The Magician cực kỳ mờ nhạt khi một kế hoạch không thành công. Điểm mù ở đây là các bà thường cố gắng \"sửa chữa\" thay vì chấp nhận và học hỏi từ thất bại."
+        },
+        {
+          "type": "item",
+          "title": "Cái tôi của sự \"Kiểm soát\" (Ego of Control)",
+          "text": "Các bà vô thức dính chặt giá trị bản thân vào việc \"mình có thể kiểm soát, thay đổi được tình huống không\". Nếu một ngày phải thừa nhận bất lực, bà lại đâm ra hoảng loạn vì sợ đánh mất hình ảnh người kiến tạo của mình."
+        }
+      ]
+    },
+    {
+      "id": "conflict",
+      "title": "Mâu thuẫn lớn nhất",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Mâu thuẫn kinh điển nhất cấu xé tâm can của một Magician mỗi đêm muộn chính là sự giằng xé giữa: Khao khát KIỂM SOÁT và HIỂU RÕ mọi thứ xung quanh VÀ Sự thật rằng CUỘC SỐNG luôn tồn tại những điều nằm ngoài khả năng nắm bắt của con người."
+        },
+        {
+          "type": "item",
+          "title": "Vừa muốn buông bỏ, lại vừa sợ mất kiểm soát hoàn toàn",
+          "text": "Tận sâu bên trong, The Magician cực kỳ khao khát được thư giãn, để mọi thứ diễn ra tự nhiên mà không cần can thiệp. Nhưng ác nỗi, mỗi khi có cơ hội buông bỏ, nỗi sợ về những hậu quả không lường trước lại khiến bà muốn nắm giữ chặt hơn."
+        },
+        {
+          "type": "item",
+          "title": "Nỗi sợ trở nên bất lực và vô nghĩa (Fear of Insignificance)",
+          "text": "Vì sao các bà lại cố gắng kiểm soát, kiến tạo nhiều đến vậy? Mâu thuẫn ở đây là: Các bà dùng khả năng tác động lên mọi thứ để khẳng định giá trị bản thân. Sâu thẳm bên trong là một nỗi sợ tột cùng: \"Nếu mình không thể thay đổi được gì, liệu sự tồn tại của mình còn ý nghĩa gì?\"."
+        },
+        {
+          "type": "item",
+          "title": "Muốn được tin tưởng nhưng lại khó tin tưởng người khác",
+          "text": "Bà khao khát một mối quan hệ dựa trên sự tin tưởng tuyệt đối, nhưng chính bản năng muốn kiểm soát mọi thứ lại khiến bà khó lòng thực sự tin tưởng và trao quyền cho người khác."
+        },
+        {
+          "type": "p",
+          "text": "Cuộc chiến lớn nhất của The Magician là học cách chấp nhận sự thật rớt nước mắt này: Sức mạnh thật sự không nằm ở việc KIỂM SOÁT mọi thứ, mà nằm ở việc biết khi nào nên buông tay và TIN TƯỞNG vào quá trình tự nhiên của cuộc sống."
+        }
+      ]
+    },
+    {
+      "id": "challenges",
+      "title": "Những thách thức nào bạn có thể sẽ gặp phải trong các mối quan hệ",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Mang hệ điều hành The Magician (Pháp Sư) vào các mối quan hệ (từ tình yêu, bạn bè đến đồng nghiệp) thì đúng kiểu \"tầm nhìn sắc bén nhưng dễ khiến người khác cảm thấy bị kiểm soát\". Khả năng kiến tạo vô bờ bến của các bà nếu không có \"sự khiêm nhường làm nền tảng\" thì rất dễ va phải những \"kiếp nạn\" cực kỳ đặc thù sau đây:"
+        },
+        {
+          "type": "sub",
+          "icon": "🛑",
+          "title": "1. \"Người Yêu Luôn Muốn Sửa Chữa Đối Phương\" (The Fixer in Love)"
+        },
+        {
+          "type": "item",
+          "title": "Bản chất",
+          "text": "Vì bản năng muốn cải thiện mọi thứ, các bà thường vô thức cố gắng \"nâng cấp\" người yêu theo tầm nhìn của mình, thay vì chấp nhận họ như hiện tại."
+        },
+        {
+          "type": "item",
+          "title": "Biểu hiện",
+          "text": "Thay vì một mối quan hệ dựa trên sự chấp nhận, các bà lại hay vướng vào việc liên tục đưa ra góp ý, kỳ vọng thay đổi, khiến đối phương cảm thấy không được yêu thương vì chính con người thật của họ."
+        },
+        {
+          "type": "sub",
+          "icon": "🛑",
+          "title": "2. Yêu Đương Hay Đang Thiết Kế Một Kế Hoạch? (Engineering the Relationship)"
+        },
+        {
+          "type": "item",
+          "title": "Bản chất",
+          "text": "Các bà có xu hướng lên kế hoạch chi tiết cho mối quan hệ, từ cách hai người nên phát triển đến những mục tiêu cần đạt được, thay vì để mọi thứ diễn ra tự nhiên."
+        },
+        {
+          "type": "item",
+          "title": "Biểu hiện",
+          "text": "Ban đầu thì đối phương thấy bà có định hướng rõ ràng, chín chắn đó, nhưng dần dà họ sẽ cảm thấy ngột ngạt vì thiếu đi sự tự nhiên, ngẫu hứng trong tình yêu."
+        },
+        {
+          "type": "sub",
+          "icon": "🛑",
+          "title": "3. Quả Bom Nổ Chậm \"Khó Chấp Nhận Khi Mất Kiểm Soát\" (Difficulty with Loss of Control)"
+        },
+        {
+          "type": "item",
+          "title": "Bản chất",
+          "text": "Khi mối quan hệ không diễn ra theo đúng những gì bà mong đợi hoặc lên kế hoạch, các bà có thể phản ứng bằng sự lo lắng, thất vọng quá mức."
+        },
+        {
+          "type": "item",
+          "title": "Biểu hiện",
+          "text": "Khi có vấn đề phát sinh ngoài dự tính, thay vì chấp nhận sự bất định, bà có thể cố gắng kiểm soát tình huống chặt chẽ hơn, khiến đối phương cảm thấy bị áp lực."
+        },
+        {
+          "type": "sub",
+          "icon": "🛑",
+          "title": "4. Giữ Khoảng Cách Vì Sợ Bị Nhìn Thấu (Maintaining Mystery as Defense)"
+        },
+        {
+          "type": "item",
+          "title": "Bản chất",
+          "text": "Tính cách thích giữ một chút bí ẩn khiến The Magician đôi khi khó mở lòng hoàn toàn, ngay cả với những người thân thiết nhất."
+        },
+        {
+          "type": "item",
+          "title": "Biểu hiện",
+          "text": "Bạn bè, người yêu có thể cảm thấy dù đã ở bên bà rất lâu, họ vẫn chưa thực sự hiểu hết con người thật đằng sau lớp vỏ bí ẩn đó."
+        },
+        {
+          "type": "sub",
+          "icon": "🛑",
+          "title": "5. Nỗi Sợ \"Bất Lực\" Khóa Chặt Sự Yếu Đuối"
+        },
+        {
+          "type": "item",
+          "title": "Bản chất",
+          "text": "Bà sợ cảm giác không thể kiểm soát hay giải quyết được vấn đề, và nỗi sợ lớn nhất là bị nhìn nhận là kém cỏi, thiếu năng lực."
+        },
+        {
+          "type": "item",
+          "title": "Biểu hiện",
+          "text": "Dù đang gặp khó khăn thực sự, bà vẫn cố tỏ ra mình đang nắm quyền kiểm soát, khiến người thân không biết cách để thực sự hỗ trợ bà."
+        },
+        {
+          "type": "tip",
+          "text": "Tip sinh tồn cho các bà hệ Magician: Hãy nhớ, tình yêu và tình bạn khỏe mạnh cần cả TẦM NHÌN lẫn SỰ KHIÊM NHƯỜNG. Đừng để khả năng kiến tạo của mình trở thành áp lực khiến người khác cảm thấy bị kiểm soát. Bà hoàn toàn xứng đáng có những mối quan hệ vừa tôn trọng tầm nhìn của bà, vừa đủ tự nhiên để cả hai cùng phát triển!"
+        }
+      ]
+    },
+    {
+      "id": "growth",
+      "title": "Hướng phát triển",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Để lột xác và nâng cấp năng lượng The Magician (Pháp Sư) lên một tầm cao mới, hành trình của mấy bà không phải là từ bỏ khả năng kiến tạo hay tầm nhìn xa. Sự trưởng thành của một Magician là biến sự kiểm soát tuyệt đối thành sự dẫn dắt khiêm nhường, và học cách tin tưởng vào quá trình tự nhiên của cuộc sống."
+        },
+        {
+          "type": "p",
+          "text": "Dưới đây là hướng phát triển để các bà vừa giữ được \"hào quang\" tầm nhìn, vừa không bị cuốn vào cảm giác phải kiểm soát mọi thứ:"
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "1. Chuyển từ \"Kiểm Soát Tuyệt Đối\" sang \"Dẫn Dắt Có Sự Tin Tưởng\" (Empowering Leadership)"
+        },
+        {
+          "type": "item",
+          "title": "Nâng cấp bộ lọc can thiệp",
+          "text": "Trước khi muốn điều chỉnh một tình huống, hãy dừng lại và tự hỏi: \"Đây có thực sự cần sự can thiệp của mình, hay mình chỉ đang cố kiểm soát vì thói quen?\"."
+        },
+        {
+          "type": "item",
+          "title": "Học cách trao quyền cho người khác",
+          "text": "Tập cho người khác cơ hội tự đưa ra quyết định, tự giải quyết vấn đề của họ, thay vì luôn muốn \"sửa chữa\" thay họ."
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "2. Ngừng \"Né Tránh Sự Thật\", hãy học \"Đối Diện Trực Tiếp\" (Facing Reality)"
+        },
+        {
+          "type": "item",
+          "title": "Chấp nhận cảm xúc khó chịu thay vì tái định hình ngay lập tức",
+          "text": "Khi có điều gì đó không như ý, thay vì lập tức tìm cách nhìn nhận tích cực, hãy cho phép mình cảm nhận sự thất vọng, buồn bã trước."
+        },
+        {
+          "type": "item",
+          "title": "Đối diện với những giới hạn của bản thân",
+          "text": "Chấp nhận rằng có những điều nằm ngoài khả năng của bà, và điều đó không làm giảm đi giá trị con người bà."
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "3. Tự Xây Dựng \"Sự Minh Bạch\" Trong Mọi Hành Động (Radical Transparency)"
+        },
+        {
+          "type": "item",
+          "title": "Luật \"Chia sẻ động cơ thực sự\"",
+          "text": "Khắc cốt ghi tâm nguyên tắc này: Khi đưa ra đề xuất hay tác động đến ai đó, hãy minh bạch về động cơ và mục đích thực sự của mình."
+        },
+        {
+          "type": "item",
+          "title": "Dám thể hiện sự bất lực khi cần",
+          "text": "Ngừng dùng vẻ ngoài luôn có giải pháp để che giấu những lúc bà thực sự không biết phải làm gì. Sự chân thật này tạo ra kết nối sâu sắc hơn."
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "4. Tích hợp thêm năng lượng bổ trợ (Nâng cấp giao diện)"
+        },
+        {
+          "type": "item",
+          "title": "Mượn năng lượng Thiếu Nữ Ngây Thơ (The Innocent)",
+          "text": "Học cách tin tưởng vào sự tốt đẹp của quá trình tự nhiên, không phải lúc nào cũng cần kiểm soát để đảm bảo kết quả tốt."
+        },
+        {
+          "type": "item",
+          "title": "Mượn năng lượng Người Chăm Sóc (The Caregiver)",
+          "text": "Học cách quan tâm đến người khác từ sự thấu cảm, không chỉ từ mong muốn \"sửa chữa\" hay cải thiện họ."
+        },
+        {
+          "type": "tip",
+          "text": "The Empowered Magician (Pháp Sư Đỉnh Cao) không phải là người kiểm soát được mọi thứ xung quanh, mà là một người phụ nữ sở hữu tầm nhìn sâu sắc nhất nhưng cũng biết khi nào cần buông bỏ và tin tưởng. Khi bà biết dẫn dắt bằng sự khiêm nhường, thứ năng lượng tỏa ra không còn là sự kiểm soát, mà là một sức hút quyền lực khiến ai cũng phải nể trọng!"
+        }
+      ]
+    },
+    {
+      "id": "relationships",
+      "title": "Làm sao để cải thiện các mối quan hệ xã hội",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Okela mấy bà, tới phần cốt lõi để \"cứu giá\" các mối quan hệ cho hệ Pháp Sư / Nhà Giả Kim đây!"
+        },
+        {
+          "type": "p",
+          "text": "Lấy sổ ra note lại ngay chiến lược để vừa giữ được tầm nhìn, vừa không bị cuộc đời thấy \"khó gần\" nha:"
+        },
+        {
+          "type": "sub",
+          "icon": "🌟",
+          "title": "PHẦN 1: Cứu Vãn Các Mối Quan Hệ Xã Hội (Bạn bè, Đồng nghiệp)"
+        },
+        {
+          "type": "p",
+          "text": "Để không bị biến thành \"kẻ thao túng\" hay \"người khó đoán\" của thiên hạ, các bà Magician phải setup lại hệ điều hành giao tiếp liền:"
+        },
+        {
+          "type": "item",
+          "title": "Dẹp ngay cái nết \"Luôn muốn dẫn dắt mọi thứ\" (Stop Over-Directing)",
+          "text": "Bà có tầm nhìn tốt, nhưng không phải ai cũng cần được \"dẫn dắt\"! Trước khi đưa ra đề xuất, hãy hỏi: \"Bạn có muốn nghe góc nhìn của mình không?\"."
+        },
+        {
+          "type": "item",
+          "title": "Luật \"Minh bạch về động cơ\" (Be Transparent)",
+          "text": "Thanh lọc lại cách giao tiếp đi mấy bà. Khi muốn tác động đến một tình huống, hãy chia sẻ rõ ràng lý do và mục đích của mình."
+        },
+        {
+          "type": "item",
+          "title": "Có gì cảm thấy bất lực cứ chia sẻ, ngưng giả vờ luôn kiểm soát (Direct Communication)",
+          "text": "Bà đang cảm thấy khó khăn, làm ơn CHIA SẺ RA. Dùng cấu trúc: \"Mình đang cảm thấy... mình cần...\". Đừng chỉ luôn thể hiện vẻ ngoài luôn có giải pháp cho mọi thứ."
+        },
+        {
+          "type": "sub",
+          "icon": "💕",
+          "title": "PHẦN 2: \"Trị Bệnh\" Trong Tình Yêu (Yêu sao cho đừng khiến đối phương ngột ngạt?)"
+        },
+        {
+          "type": "p",
+          "text": "Tình yêu của Magician rất sâu sắc, nhưng toàn tự mình làm khó mình vì quá muốn kiểm soát. Muốn có một mối tình tự nhiên, bền vững và slay, thì phải chấn chỉnh ngay:"
+        },
+        {
+          "type": "item",
+          "title": "Ngừng cố gắng \"sửa chữa\" người yêu",
+          "text": "Hãy chấp nhận con người thật của đối phương, thay vì liên tục tìm cách cải thiện hay thay đổi họ theo tầm nhìn của bà."
+        },
+        {
+          "type": "item",
+          "title": "Học cách để mối quan hệ phát triển tự nhiên",
+          "text": "Không phải mọi thứ trong tình yêu đều cần được lên kế hoạch chi tiết. Đôi khi hãy để sự ngẫu hứng, tự nhiên dẫn dắt mối quan hệ."
+        },
+        {
+          "type": "item",
+          "title": "Đi tìm \"Người Đồng Hành\" chứ không tìm \"Dự Án Cần Hoàn Thiện\"",
+          "text": "Bỏ ngay xu hướng coi mối quan hệ như một dự án cần được tối ưu hóa. Hãy chọn yêu một người mà bà chấp nhận trọn vẹn, không cần thay đổi."
+        },
+        {
+          "type": "item",
+          "title": "Chia sẻ sự yếu đuối thay vì luôn tỏ ra kiểm soát được mọi thứ",
+          "text": "Bà giỏi giải quyết vấn đề rồi, nhưng thỉnh thoảng hãy cho phép mình nói \"Mình không biết phải làm sao\" để người yêu có cơ hội được ở bên cạnh, hỗ trợ bà."
+        },
+        {
+          "type": "tip",
+          "text": "Chốt hạ: Bí quyết lớn nhất để Magician hạnh phúc là học cách BUÔNG BỎ NHU CẦU KIỂM SOÁT. Hãy tin rằng bà xứng đáng có một tình yêu tự nhiên, nơi cả hai cùng phát triển mà không ai cần phải \"thiết kế\" người còn lại!"
+        }
+      ]
+    },
+    {
+      "id": "career",
+      "title": "Bạn cần làm gì để thăng tiến trong công việc",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Alo mấy bà, đến cái chuyên mục quan trọng nhất để \"lột xác\" chốn công sở đây! The Magician (Pháp Sư) bình thường đi làm rất hay bị rơi vào cái bẫy \"quá tập trung vào tầm nhìn dài hạn mà bỏ quên chi tiết thực thi\" hoặc \"khó hợp tác vì luôn muốn kiểm soát dự án\". Muốn thăng tiến, lên sếp hay tự làm chủ mà vẫn giữ được vibe \"chiến lược gia\" thì phải rèn ngay mấy skill cốt lõi này nha:"
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "1. Từ \"Người Có Tầm Nhìn\" Thành \"Nhà Lãnh Đạo Thực Thi Xuất Sắc\""
+        },
+        {
+          "type": "item",
+          "title": "Ngưng chỉ dừng ở chiến lược, hãy chú trọng thực thi",
+          "text": "Tầm nhìn không có giá trị nếu không được biến thành hành động cụ thể. Muốn bứt phá, hãy học cách chia nhỏ tầm nhìn lớn thành các bước thực hiện chi tiết."
+        },
+        {
+          "type": "item",
+          "title": "Hệ thống hóa quá trình chuyển hóa ý tưởng",
+          "text": "Xây dựng quy trình rõ ràng từ tầm nhìn đến thực thi, giúp cả đội ngũ hiểu và thực hiện được những gì bà hình dung."
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "2. Biến Tầm Nhìn Thành \"Kết Quả Đo Lường Được\" (Vision Meets Metrics)"
+        },
+        {
+          "type": "p",
+          "text": "Khả năng nhìn xa là thiên phú, nhưng để ngồi vào ghế sếp hay vận hành trơn tru một mô hình kinh doanh, bà bắt buộc phải chứng minh được giá trị thực tế của tầm nhìn đó qua những con số cụ thể."
+        },
+        {
+          "type": "p",
+          "text": "Hãy tập thói quen gắn mỗi chiến lược với những chỉ số đo lường được. Đừng chỉ nói \"Em thấy hướng đi này có tiềm năng lắm\". Hãy đổi thành: \"Đây là dự đoán tác động cụ thể nếu chúng ta đi theo hướng này, dựa trên các yếu tố sau\". Tầm nhìn đi kèm với dữ liệu cụ thể chính là \"vũ khí hủy diệt\" chốn công sở."
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "3. Học Cách Trao Quyền Thay Vì Kiểm Soát Chi Tiết (Delegation over Micromanagement)"
+        },
+        {
+          "type": "p",
+          "text": "Căn bệnh trầm kha của The Magician là muốn kiểm soát mọi chi tiết trong quá trình thực thi tầm nhìn của mình, dẫn đến việc trở thành nút thắt cổ chai."
+        },
+        {
+          "type": "p",
+          "text": "Đừng để mọi quyết định nhỏ đều cần thông qua bà! Hãy chủ động trao quyền cho đội ngũ thực thi theo cách riêng của họ, miễn là đạt được mục tiêu chung."
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "4. Xây Dựng Sự Tin Tưởng Qua Tính Minh Bạch (Trust through Transparency)"
+        },
+        {
+          "type": "p",
+          "text": "Năng lượng của bà là để dẫn dắt sự thay đổi, không phải để bị nghi ngờ về động cơ thực sự."
+        },
+        {
+          "type": "p",
+          "text": "Học cách chia sẻ rõ ràng lý do đằng sau mỗi quyết định chiến lược. Phải phân bổ rạch ròi: điều gì cần được giữ kín vì tính bảo mật, điều gì nên minh bạch để xây dựng lòng tin."
+        },
+        {
+          "type": "p",
+          "text": "Tóm lại, thăng tiến không có nghĩa là bà phải kiểm soát mọi chi tiết hay từ bỏ tầm nhìn chiến lược của mình. Phiên bản nâng cấp đỉnh cao nhất của Magician chính là người dùng tầm nhìn sắc bén để dẫn dắt, nhưng lại dùng sự tin tưởng và minh bạch để xây dựng một đội ngũ vững mạnh."
+        }
+      ]
+    },
+    {
+      "id": "journey",
+      "title": "Vận trình cuộc đời",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Hành trình của Magician là một chuỗi ngày vật vã chuyển hóa từ việc \"kiểm soát để an toàn\" sang cảnh giới \"dẫn dắt bằng sự tin tưởng\"."
+        },
+        {
+          "type": "p",
+          "text": "Lưu ngay 3 giai đoạn \"tiến hóa\" này để xem mấy bà đang kẹt ở level nào nè:"
+        },
+        {
+          "type": "sub",
+          "icon": "🌱",
+          "title": "Dưới 25 Tuổi: Magician Tập Sự (The Controlling Strategist)"
+        },
+        {
+          "type": "item",
+          "title": "Vibe lúc này",
+          "text": "Luôn cố gắng hiểu, kiểm soát và điều chỉnh mọi thứ xung quanh để đạt được kết quả mong muốn. Nhiệt tình cộng cầu toàn chiến lược. Mọi tình huống đều cần có một kế hoạch, một lời giải thích logic. Năng lượng kiến tạo tràn trề nhưng chưa biết giới hạn của bản thân."
+        },
+        {
+          "type": "item",
+          "title": "Thực trạng",
+          "text": "Đây là giai đoạn mấy bà rất dễ khiến người xung quanh cảm thấy ngột ngạt vì luôn muốn kiểm soát. Nếu có chập chững làm kinh doanh, các bà sẽ cố gắng lên kế hoạch cho mọi khả năng, dẫn đến sự trì trệ vì không dám hành động khi chưa chắc chắn 100%. Trong tình yêu thì dễ vô thức cố gắng \"sửa chữa\" người yêu theo tiêu chuẩn của mình."
+        },
+        {
+          "type": "item",
+          "title": "Bài học cốt lõi",
+          "text": "Dính vô vàn lần thất bại vì cố kiểm soát những điều không thể kiểm soát để nhận ra rằng: Kiến tạo mà không có sự buông bỏ thì chỉ là một nỗ lực kiệt sức không hồi kết."
+        },
+        {
+          "type": "sub",
+          "icon": "🌸",
+          "title": "Từ 25 Đến 40 Tuổi: Magician Thức Tỉnh (The Wise Visionary)"
+        },
+        {
+          "type": "item",
+          "title": "Vibe lúc này",
+          "text": "Đã nếm đủ \"trái đắng\" của việc cố gắng kiểm soát mọi thứ. Giao diện vẫn sắc bén, có tầm nhìn nhưng bên trong đã bắt đầu rèn được khả năng phân biệt điều gì cần kiểm soát và điều gì nên buông bỏ."
+        },
+        {
+          "type": "item",
+          "title": "Thực trạng",
+          "text": "Ở độ tuổi này, các bà bắt đầu ngộ ra chân lý cốt lõi: Đừng cố kiểm soát mọi thứ nữa, hãy học cách dẫn dắt bằng sự tin tưởng! Thay vì cố gắng nắm giữ mọi chi tiết, mấy bà chuyển sang trao quyền, tin tưởng vào quá trình tự nhiên. Các bà biết cách sử dụng sức ảnh hưởng một cách có đạo đức, minh bạch hơn."
+        },
+        {
+          "type": "item",
+          "title": "Bài học cốt lõi",
+          "text": "Chấp nhận buông bỏ nỗi sợ bất lực. Dám thể hiện sự yếu đuối và học cách chấp nhận những điều nằm ngoài khả năng kiểm soát của mình."
+        },
+        {
+          "type": "sub",
+          "icon": "👑",
+          "title": "Sau 40 Tuổi: \"Pháp Sư Minh Triết\" (The Enlightened Sage-Magician)"
+        },
+        {
+          "type": "item",
+          "title": "Vibe lúc này",
+          "text": "An tọa vững chãi trong chính khả năng kiến tạo của mình, khí chất ngút ngàn. Không còn hoảng loạn vì sợ mất kiểm soát hay bồn chồn vì những điều chưa được lý giải nữa. Tầm nhìn lúc này tỏa ra tự nhiên như hơi thở, đi kèm với sự khiêm nhường của trải nghiệm sống."
+        },
+        {
+          "type": "item",
+          "title": "Thực trạng",
+          "text": "Các bà lùi lại một bước khỏi việc phải chứng minh khả năng kiểm soát mọi thứ. Thay vì cố gắng thay đổi tất cả, các bà vươn tầm thành những mentor xịn xò, truyền cảm hứng về khả năng chuyển hóa và sự khôn ngoan trong việc biết khi nào nên hành động, khi nào nên buông bỏ cho thế hệ sau."
+        },
+        {
+          "type": "item",
+          "title": "Bài học cốt lõi",
+          "text": "Đạt đến cảnh giới cao nhất của sự kiến tạo: Hiểu rằng sức mạnh thực sự không nằm ở việc kiểm soát mọi thứ, mà nằm ở khả năng tin tưởng vào một quá trình lớn hơn bản thân mình, và biết rằng đôi khi buông bỏ cũng là một hình thức của sự khôn ngoan."
+        }
+      ]
+    },
+    {
+      "id": "advice",
+      "title": "Lời khuyên",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Tóm lại nha mấy bà, chốt sổ nguyên mẫu Pháp Sư (The Magician) bằng một câu cốt lõi thôi: Bà là một nhà kiến tạo tài ba của nhân gian, nhưng nhà kiến tạo giỏi nhất cũng cần biết khi nào nên đặt công cụ xuống!"
+        },
+        {
+          "type": "tip",
+          "text": "Lời khuyên \"xương máu\" ghim ngay vào tim nè:"
+        },
+        {
+          "type": "item",
+          "title": "Nghỉ làm \"Người Kiểm Soát Mọi Thứ\"",
+          "text": "Bà không có nghĩa vụ phải nắm rõ và điều khiển mọi tình huống. Hãy học cách chấp nhận rằng có những điều nằm ngoài khả năng của con người."
+        },
+        {
+          "type": "item",
+          "title": "Chân lý sinh tồn để không bị \"kiệt sức vì kiểm soát\"",
+          "text": "Thay vì cứ liên tục cố gắng nắm giữ mọi thứ, hãy khắc cốt ghi tâm điều này: buông bỏ không phải là thất bại, mà là một hình thức của sự khôn ngoan. Sức mạnh thật sự đến từ việc biết khi nào nên hành động, khi nào nên tin tưởng."
+        },
+        {
+          "type": "item",
+          "title": "Tầm nhìn thì phải có sự khiêm nhường",
+          "text": "Áp dụng chuẩn xác nguyên tắc: \"Tầm nhìn sắc bén, trái tim khiêm tốn\". Dẫn dắt bằng tầm nhìn của mình, nhưng cũng phải lắng nghe và tôn trọng góc nhìn của người khác."
+        },
+        {
+          "type": "item",
+          "title": "Setup \"Ranh giới cho sự can thiệp\"",
+          "text": "Cố gắng kiểm soát mọi thứ là tự chuốc lấy kiệt quệ. Dám thẳng tay buông bỏ những gì không thuộc thẩm quyền hoặc trách nhiệm của bà."
+        },
+        {
+          "type": "tip",
+          "text": "Chốt hạ: Khả năng kiến tạo, tầm nhìn của Magician là một siêu năng lực bẩm sinh, là thứ vũ khí sống động nhưng có khả năng biến đổi đỉnh cao nhất. Miễn là bà biết dẫn dắt bằng sự tin tưởng, không phải nỗi sợ mất kiểm soát, thì vibe của bà lúc nào cũng sẽ sâu sắc và tỏa sáng rực rỡ!"
+        }
+      ]
+    }
+  ]
+}

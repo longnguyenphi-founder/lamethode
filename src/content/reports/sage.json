@@ -1,0 +1,943 @@
+{
+  "slug": "sage",
+  "code": "HGI",
+  "english": "The Sage",
+  "name": "Nhà Hiền Triết",
+  "intro": [
+    "Bà là đứa mà cả nhóm bạn hễ có chuyện gì rối ren, mông lung là lập tức nhắn tin hỏi \"mày nghĩ sao?\", vì ai cũng tin rằng bà sẽ phân tích vấn đề thấu đáo hơn cả một cuốn sách self-help. Đầu óc bà lúc nào cũng đang chạy những phép tính logic, kết nối những mảnh ghép thông tin mà người khác chẳng buồn để ý. Nhưng có một sự thật mà bà giấu kỹ hơn cả một cuốn nhật ký khóa: càng hiểu nhiều về thế giới, bà lại càng thấy cô đơn giữa những người không cùng tần số suy nghĩ.",
+    "Sự thật đau lòng nhất là bà thường dùng việc phân tích, lý giải mọi thứ như một cách để né tránh việc phải CẢM NHẬN chúng. Tận sâu bên trong, bà luôn mang một nỗi sợ hoang mang: \"Nếu mình không phải là người hiểu biết nhất, người có câu trả lời cho mọi vấn đề, thì mình còn giá trị gì trong mắt người khác?\". Bà cứ liên tục đắm mình trong sách vở, dữ liệu và lý thuyết, để rồi có những lúc quên mất rằng cuộc sống không phải lúc nào cũng cần một lời giải thích hợp lý."
+  ],
+  "population": 9,
+  "celebrities": [
+    {
+      "name": "IU (Lee Ji-eun)",
+      "text": "Nổi tiếng với sự tinh tế trong âm nhạc lẫn tư duy quản lý sự nghiệp cực kỳ bài bản, IU luôn được xem là một trong những nghệ sĩ có chiều sâu tri thức và khả năng tự phản tư mạnh mẽ nhất Kpop."
+    },
+    {
+      "name": "Emma Watson",
+      "text": "Từ diễn viên nhí đến cử nhân Văn học tại Đại học Brown, Emma Watson luôn gắn liền hình ảnh với việc đọc sách, học hỏi không ngừng và những phát biểu sâu sắc về bình đẳng giới."
+    },
+    {
+      "name": "Natalie Portman",
+      "text": "Sở hữu tấm bằng tâm lý học tại Harvard trong khi vẫn duy trì sự nghiệp diễn xuất đỉnh cao, Portman là hình mẫu tiêu biểu cho trí tuệ song hành cùng tài năng nghệ thuật."
+    },
+    {
+      "name": "Rosé (BLACKPINK)",
+      "text": "Được biết đến với phong thái điềm tĩnh, sâu sắc và cách trả lời phỏng vấn luôn có chiều sâu suy nghĩ, Rosé thường được người hâm mộ nhận xét là có một nội tâm già dặn hơn tuổi."
+    }
+  ],
+  "powers": [
+    {
+      "title": "Bà có Bộ Não Xử Lý Thông Tin Siêu Tốc",
+      "english": "The Analytical Mind",
+      "lead": null,
+      "points": [
+        {
+          "title": "Nhìn thấu bản chất vấn đề",
+          "text": "Khác với những người chỉ nhìn bề mặt, The Sage luôn có xu hướng đào sâu vào gốc rễ của mọi việc, kết nối các dữ kiện rời rạc thành một bức tranh tổng thể có logic."
+        },
+        {
+          "title": "Khả năng phản biện sắc bén",
+          "text": "Các bà có một tư duy độc lập cực kỳ mạnh, không dễ bị dắt mũi bởi đám đông hay những lập luận thiếu căn cứ, luôn đặt câu hỏi \"tại sao\" trước khi tin vào bất cứ điều gì."
+        }
+      ]
+    },
+    {
+      "title": "Nguồn Tri Thức Đáng Tin Cậy",
+      "english": "The Trusted Advisor",
+      "lead": null,
+      "points": [
+        {
+          "title": "Lời khuyên luôn có căn cứ",
+          "text": "Điểm nổi bật nhất của Sage là sự khách quan. Bà không đưa ra ý kiến theo cảm tính, mà luôn cân nhắc nhiều góc độ trước khi kết luận, khiến lời khuyên của bà luôn đáng tin cậy."
+        },
+        {
+          "title": "Vibe điềm tĩnh, đáng nương tựa",
+          "text": "Ở cạnh một Sage, người ta cảm thấy an tâm vì biết rằng dù chuyện gì xảy ra, bà cũng sẽ có một cách nhìn nhận sáng suốt, không hoảng loạn."
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "id": "portrait",
+      "title": "Chân dung của bạn – Bạn thực sự là ai",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Để tui chẻ nhỏ hai phần \"ăn tiền\" nhưng cũng dễ làm mấy bà \"suy\" nhất: Năng lực cốt lõi (Flex nhẹ skill ẩn) và Góc tối tâm lý (Red flag tự thân)."
+        },
+        {
+          "type": "p",
+          "text": "Bà nào thấy quen quen thì chuẩn bị sẵn giấy bút note lại để tự chấn chỉnh mình nghen!"
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "1. Năng Lực Cốt Lõi (Những thứ làm nên thương hiệu \"cuốn từ điển sống\")"
+        },
+        {
+          "type": "p",
+          "text": "Đây là những siêu năng lực bẩm sinh khiến The Sage luôn là \"kim chỉ nam\" của rất nhiều người, vì ai cũng cần một góc nhìn tỉnh táo giữa một thế giới hỗn loạn thông tin:"
+        },
+        {
+          "type": "item",
+          "title": "Tư duy phân tích sắc bén (Analytical Thinking)",
+          "text": "Các bà có khả năng bóc tách một vấn đề phức tạp thành từng lớp nhỏ dễ hiểu, nhìn ra được mối liên hệ nhân quả mà người khác thường bỏ sót."
+        },
+        {
+          "type": "item",
+          "title": "Sự khách quan hiếm có (Radical Objectivity)",
+          "text": "Không để cảm xúc cá nhân chi phối phán đoán. Các bà có khả năng nhìn một vấn đề từ nhiều góc độ khác nhau trước khi đưa ra kết luận, kể cả khi điều đó đi ngược lại mong muốn ban đầu của bản thân."
+        },
+        {
+          "type": "item",
+          "title": "Khao khát học hỏi không giới hạn (Insatiable Curiosity)",
+          "text": "Luôn đọc, luôn tìm hiểu, luôn đặt câu hỏi. Với các bà, việc ngừng học hỏi cũng đáng sợ như việc ngừng thở vậy."
+        },
+        {
+          "type": "item",
+          "title": "Khả năng truyền đạt tri thức dễ hiểu (The Translator of Complexity)",
+          "text": "Dù hiểu những điều phức tạp, các bà lại có khả năng giải thích chúng theo cách đơn giản, dễ tiếp cận, khiến người nghe cảm thấy \"à, hóa ra là vậy\"."
+        },
+        {
+          "type": "sub",
+          "icon": "🛑",
+          "title": "2. Góc Tối (Red flag tự thân – Đọc để tỉnh táo nha mấy bà!)"
+        },
+        {
+          "type": "p",
+          "text": "Hiểu biết nhiều thì giỏi, nhưng tâm lý của Nhà Hiền Triết lại rất dễ bị hổng lỗ chỗ vì những \"cái bẫy\" tự mình giăng ra:"
+        },
+        {
+          "type": "item",
+          "title": "Hội chứng \"Phân tích quá liều\" (Analysis Paralysis)",
+          "text": "Đây là bẫy dễ sập nhất! Cứ mãi cân nhắc, so sánh, tìm kiếm thêm dữ liệu mà không bao giờ đưa ra được quyết định cuối cùng, khiến cơ hội trôi qua trong lúc bà vẫn đang \"nghiên cứu thêm\"."
+        },
+        {
+          "type": "item",
+          "title": "Xa cách cảm xúc (Emotional Detachment)",
+          "text": "Vì quá quen với việc phân tích lý trí, các bà cực kỳ hay gặp khó khăn trong việc kết nối cảm xúc, đôi khi vô tình khiến người khác cảm thấy bà lạnh lùng, xa cách dù không cố ý."
+        },
+        {
+          "type": "item",
+          "title": "Cái tôi \"Biết tuốt\" (Intellectual Arrogance)",
+          "text": "Góc tối \"độc hại\" nhất của Sage là vô thức coi thường những người có quan điểm khác hoặc ít hiểu biết hơn mình, dùng kiến thức như một công cụ để chứng tỏ bản thân hơn người."
+        },
+        {
+          "type": "item",
+          "title": "Cô lập trong tháp ngà tri thức (Ivory Tower Isolation)",
+          "text": "Cho đi mải mê nghiên cứu, đọc sách, phân tích mà quên mất việc thiết lập những kết nối cảm xúc thật sự với người xung quanh, đến lúc cần một ai đó thấu hiểu thì lại thấy trống trải."
+        },
+        {
+          "type": "item",
+          "title": "Các bà hệ Sage nhớ kỹ nha",
+          "text": "Tri thức không có sự đồng cảm chính là một bức tường vô hình ngăn cách bà với thế giới. Hãy dùng cái đầu để hiểu, nhưng đừng quên dùng trái tim để kết nối!"
+        }
+      ]
+    },
+    {
+      "id": "core",
+      "title": "Lõi Tính Cách (Bản chất thật sự bên trong)",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Nếu lõi của The Innocent là Niềm Tin Vào Sự Tốt Đẹp, thì lõi của The Sage chính là Khát Vọng Thấu Hiểu Sự Thật (The Pursuit of Truth). Động lực sâu thẳm nhất của các bà được xây dựng trên 3 trụ cột này:"
+        },
+        {
+          "type": "item",
+          "title": "Bản năng tìm kiếm sự thật (The Truth-Seeking Instinct)",
+          "text": "Các bà nhìn thế giới không phải qua lăng kính cảm xúc, mà qua đôi mắt của một người luôn muốn hiểu \"tại sao mọi thứ lại như vậy\". Sự mơ hồ, thiếu logic khiến các bà khó chịu tột độ."
+        },
+        {
+          "type": "item",
+          "title": "Nhu cầu được công nhận là \"người hiểu biết\" (The Need for Intellectual Validation)",
+          "text": "Nghe hơi \"suy\" nhưng đây là sự thật. Định vị giá trị bản thân của Sage thường gắn liền với việc \"mình có kiến thức, có hiểu biết hay không\". Cảm giác hạnh phúc nhất của bà là khi được công nhận vì trí tuệ."
+        },
+        {
+          "type": "item",
+          "title": "Niềm tin vào sức mạnh của tri thức (Faith in Reason)",
+          "text": "Ego của các bà rất thấp trước lý lẽ đúng đắn — sẵn sàng thay đổi quan điểm nếu có bằng chứng thuyết phục hơn, vì với bà, sự thật quan trọng hơn cái tôi."
+        },
+        {
+          "type": "sub",
+          "icon": "🛑",
+          "title": "Những Điểm Cần Lưu Ý (Đọc để chấn chỉnh lại nết, bớt khổ nha!)"
+        },
+        {
+          "type": "p",
+          "text": "Mang năng lượng Sage là một điều tuyệt vời, nhưng nếu không biết cách kiểm soát, các bà sẽ tự biến mình thành \"cỗ máy phân tích\" thiếu cảm xúc. Nhớ kỹ những cẩm nang sinh tồn này:"
+        },
+        {
+          "type": "item",
+          "title": "Học cách quyết định dù chưa có đủ 100% thông tin",
+          "text": "Sự hoàn hảo trong việc thu thập dữ liệu là một cái bẫy vô tận. Đặt ra giới hạn thời gian cho việc phân tích, rồi buộc bản thân phải hành động."
+        },
+        {
+          "type": "item",
+          "title": "Cho phép mình cảm nhận trước khi phân tích",
+          "text": "Không phải cảm xúc nào cũng cần được lý giải ngay lập tức. Đôi khi chỉ cần cho phép mình buồn, mình vui mà không cần tìm nguyên nhân logic đằng sau."
+        },
+        {
+          "type": "item",
+          "title": "Chia sẻ kiến thức với sự khiêm tốn",
+          "text": "Đừng biến những cuộc trò chuyện thành bài giảng. Học cách lắng nghe quan điểm khác trước khi vội vàng \"sửa sai\" cho người khác."
+        },
+        {
+          "type": "item",
+          "title": "Chủ động kết nối, đừng chờ người khác tìm đến",
+          "text": "Vì bản tính hướng nội, hãy tạo thói quen chủ động dành thời gian cho những mối quan hệ thật sự quan trọng, thay vì để chúng nguội lạnh vì mải mê nghiên cứu."
+        },
+        {
+          "type": "p",
+          "text": "Trưởng thành thực sự của một Sage không phải là biết tất cả mọi thứ, mà là biết đưa trí tuệ của mình đến gần hơn với trái tim của những người xung quanh."
+        }
+      ]
+    },
+    {
+      "id": "love",
+      "title": "Bạn muốn một tình yêu như nào",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "nếu đã mang trong mình hệ điều hành The Sage (Nhà Hiền Triết), thì gu tình yêu và những mong cầu sâu thẳm của các bà thường đi theo một hệ tư tưởng rất đặc thù. Chuyên mục \"Bạn muốn một tình yêu như nào\" lên sóng, lấy sổ tay ra note lại để tỉnh táo lúc yêu nha!"
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "1. Cái các bà TƯỞNG mình muốn (Và rất dễ sập bẫy)"
+        },
+        {
+          "type": "item",
+          "title": "Hệ \"Yêu bằng lý trí thuần túy\"",
+          "text": "Trái tim của The Sage rất dễ tin rằng một mối quan hệ tốt phải được xây dựng hoàn toàn trên nền tảng logic — cùng chung quan điểm, cùng trình độ hiểu biết, không có drama cảm xúc."
+        },
+        {
+          "type": "item",
+          "title": "Tình yêu kiểu \"Chỉ cần hiểu nhau về mặt trí tuệ là đủ\"",
+          "text": "Các bà thấy hấp dẫn bởi những cuộc trò chuyện sâu sắc, thông minh, nhưng đôi khi lại nhầm lẫn sự kết nối trí tuệ với sự kết nối cảm xúc thật sự cần thiết cho một tình yêu bền vững."
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "2. Cái các bà THỰC SỰ khao khát (Tình yêu lý tưởng giúp bà không bị \"khô khan\")"
+        },
+        {
+          "type": "p",
+          "text": "Sự thật là, nếu cứ theo đuổi những thứ ở mục 1, các bà sẽ rất nhanh thấy mối quan hệ thiếu hơi ấm. Sâu thẳm bên trong, đây mới là thứ một Sage thực sự cần để thấy an toàn:"
+        },
+        {
+          "type": "item",
+          "title": "Một mối quan hệ \"Kích Thích Trí Tuệ LẪN Cảm Xúc\"",
+          "text": "Các bà cần một người vừa có thể tranh luận sôi nổi về mọi chủ đề, vừa biết cách chạm vào cảm xúc của bà, không để mọi cuộc trò chuyện chỉ dừng lại ở mức độ lý trí."
+        },
+        {
+          "type": "item",
+          "title": "Không gian để suy nghĩ một mình (Solitude Respected)",
+          "text": "Quan tâm người khác là bản năng, nhưng Sage rất cần một người hiểu rằng đôi khi bà cần thời gian một mình để xử lý suy nghĩ, không coi đó là sự xa cách hay lạnh nhạt."
+        },
+        {
+          "type": "item",
+          "title": "Một người dạy bà cách kết nối với cảm xúc (An Emotional Guide)",
+          "text": "Bình thường luôn phân tích mọi thứ bằng lý trí, nhưng thực ra các bà rất cần một người kiên nhẫn giúp bà học cách nhận diện và thể hiện cảm xúc của chính mình."
+        },
+        {
+          "type": "item",
+          "title": "Sự tôn trọng trí tuệ (Intellectual Respect)",
+          "text": "Các bà khao khát một người không cảm thấy bị đe dọa bởi kiến thức của bà, mà ngược lại, trân trọng và học hỏi cùng bà."
+        },
+        {
+          "type": "tip",
+          "text": "Lời khuyên chốt hạ: Đừng đi tìm người để \"tranh luận cho vui\" nữa mấy bà ơi! Tình yêu lý tưởng nhất của The Sage là tìm được một người vừa đủ thông minh để bà nể phục, vừa đủ ấm áp để dạy bà cách yêu bằng cả trái tim chứ không chỉ bằng cái đầu."
+        }
+      ]
+    },
+    {
+      "id": "perception",
+      "title": "Người khác nghĩ gì về bạn",
+      "blocks": [
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "1. Ấn tượng tích cực (Aura chói lóa, điểm 10 uy tín)"
+        },
+        {
+          "type": "item",
+          "title": "\"Cuốn từ điển sống\" của cả nhóm",
+          "text": "Trong nhóm bạn, bà đích thị là người mà ai cũng hỏi ý kiến trước khi đưa ra quyết định quan trọng. Có biến là réo tên bà đầu tiên để \"phân tích tình hình\"."
+        },
+        {
+          "type": "item",
+          "title": "\"Cột thu lôi lý trí\" giữa cơn bão cảm xúc",
+          "text": "Khí chất của bà tỏa ra sự điềm tĩnh. Người ngoài nhìn vào luôn thấy bà là một người sáng suốt, đáng tin cậy, không dễ bị cuốn theo đám đông hay tin đồn thất thiệt."
+        },
+        {
+          "type": "item",
+          "title": "\"Bảo chứng của sự chính xác\"",
+          "text": "Sếp và đồng nghiệp cực kỳ thích làm việc với bà vì biết bà luôn kiểm chứng thông tin kỹ càng trước khi hành động, không bao giờ để cảm tính chi phối quyết định quan trọng."
+        },
+        {
+          "type": "sub",
+          "icon": "🛑",
+          "title": "2. Những điểm dễ bị \"hiểu lầm\" (Nghe hơi chạnh lòng nha)"
+        },
+        {
+          "type": "item",
+          "title": "Dễ bị gán mác \"Khô khan, lạnh lùng\"",
+          "text": "Vì bản tính ưu tiên lý trí hơn cảm xúc, đối phương (đặc biệt là người yêu hoặc bạn thân) sẽ dễ cảm thấy bà thiếu sự ấm áp, khó gần, không biết cách an ủi khi họ cần."
+        },
+        {
+          "type": "item",
+          "title": "Bị xem là \"Kiêu ngạo, tự cho mình đúng\"",
+          "text": "Đây là cái giá của việc luôn có lý lẽ vững chắc. Người khác đôi khi cảm thấy bị coi thường khi bà liên tục chỉ ra lỗ hổng logic trong quan điểm của họ."
+        },
+        {
+          "type": "item",
+          "title": "Mang tiếng \"Sống trong đầu, xa rời thực tế\"",
+          "text": "Đôi khi vì quá mải mê phân tích lý thuyết, người ta sẽ nhìn bà như một người thiếu kỹ năng thực hành, chỉ giỏi nói mà không giỏi làm."
+        },
+        {
+          "type": "item",
+          "title": "Bị coi là \"Khó gần, kén bạn\"",
+          "text": "Vì lúc nào cũng cần không gian riêng để suy nghĩ, đôi khi người ta sẽ thấy bà hơi xa cách, khó tiếp cận trong những buổi giao lưu xã hội đông người."
+        },
+        {
+          "type": "tip",
+          "text": "Chốt lại nè: Giao diện của The Sage trong mắt thiên hạ luôn là một người THÔNG THÁI. Nhưng mấy bà ơi, thông thái thôi chưa đủ, phải là \"Thông thái có trái tim\". Hãy để trí tuệ của mình là một cây cầu kết nối, chứ đừng biến nó thành một bức tường ngăn cách nha!"
+        }
+      ]
+    },
+    {
+      "id": "reactions",
+      "title": "Cách chúng mình phản ứng",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Nếu The Innocent thường chọn cách né tránh khi có biến, thì hệ điều hành The Sage (Nhà Hiền Triết) lại \"nhảy số\" theo một hệ tư tưởng hoàn toàn khác."
+        },
+        {
+          "type": "p",
+          "text": "Đọc ngay cách các bà đối mặt với 3 tình huống \"sóng gió\" này để coi tui nói có chuẩn tim đen không nha:"
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "1. Cách Bà Xử Lý Khi Mọi Thứ Rối Tung Lên (Khủng Hoảng ập đến)"
+        },
+        {
+          "type": "item",
+          "title": "Bật mode \"Phân tích tình hình\" (Rational Assessment)",
+          "text": "Càng rối, các bà lại càng... bình tĩnh lạ thường. Trong khi người ta hoảng loạn thì Sage sẽ lập tức lùi lại một bước, thu thập thông tin và phân tích các phương án khả thi."
+        },
+        {
+          "type": "item",
+          "title": "Cần thời gian một mình để xử lý",
+          "text": "Các bà không thích ra quyết định vội vàng dưới áp lực đám đông. Cần một khoảng lặng để suy nghĩ thấu đáo trước khi đưa ra hành động cụ thể."
+        },
+        {
+          "type": "item",
+          "title": "Đôi khi phân tích quá lâu mà quên hành động",
+          "text": "Vì quá sợ đưa ra quyết định sai lầm, đôi khi các bà mất quá nhiều thời gian cân nhắc mọi khía cạnh mà bỏ lỡ thời điểm vàng để hành động."
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "2. Khi Ở Trong Một Tập Thể (Teamwork, Nhóm bạn)"
+        },
+        {
+          "type": "item",
+          "title": "\"Cố vấn chiến lược\" thầm lặng",
+          "text": "Bà chính là người đứng sau đưa ra những phân tích sắc bén giúp cả nhóm tránh được những quyết định sai lầm. Không cần nói nhiều, nhưng khi nói là có trọng lượng."
+        },
+        {
+          "type": "item",
+          "title": "Ngại tham gia vào những cuộc trò chuyện phiếm",
+          "text": "Các bà thường cảm thấy lạc lõng trong những buổi tán gẫu không có nội dung sâu sắc, dễ bị coi là \"khó gần\" hoặc \"lập dị\" trong mắt đồng nghiệp."
+        },
+        {
+          "type": "item",
+          "title": "Thánh \"phản biện\" trong mọi cuộc họp",
+          "text": "Vì cái tính luôn muốn tìm ra lỗ hổng logic, các bà thường xuyên đóng vai người đặt câu hỏi khó, đôi khi khiến không khí cuộc họp trở nên căng thẳng hơn cần thiết."
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "3. Khi Không Được Hiểu / Bị Coi Thường Trí Tuệ (Góc tổn thương ngầm)"
+        },
+        {
+          "type": "p",
+          "text": "Đây là lúc The Sage dễ bộc lộ những góc tối tâm lý nhất nè:"
+        },
+        {
+          "type": "item",
+          "title": "Bật mode \"Thu mình vào thế giới riêng\" (Intellectual Withdrawal)",
+          "text": "Khi cảm thấy không được lắng nghe hay bị coi thường, các bà sẽ KHÔNG tranh cãi ầm ĩ đâu. Thay vào đó, bà chọn cách rút lui vào thế giới sách vở, dữ liệu của riêng mình."
+        },
+        {
+          "type": "item",
+          "title": "Gặm nhấm cảm giác bị đánh giá thấp (Overthinking Rejection)",
+          "text": "Trong đầu các bà sẽ liên tục nảy số những suy nghĩ: \"Tại sao họ không hiểu điều mình đang cố giải thích?\", \"Có phải mình đang lãng phí thời gian không?\". Cảm giác này bào mòn động lực chia sẻ của bà."
+        },
+        {
+          "type": "item",
+          "title": "Cơ chế tự vệ độc hại (Intellectual Condescension)",
+          "text": "Thay vì giao tiếp thẳng thắn về cảm giác bị tổn thương, các bà đôi khi lại chuyển sang thái độ trịch thượng, dùng ngôn từ phức tạp hoặc lý lẽ áp đảo để \"thắng\" trong cuộc tranh luận, thay vì thực sự kết nối."
+        },
+        {
+          "type": "tip",
+          "text": "Chốt hạ cho The Sage nè: Hiểu biết là tốt, nhưng lúc mọi thứ rối ren hay khi không được thấu hiểu, hãy nhớ rằng không phải ai cũng cần một lời giải thích logic! Nếu người ta không hiểu quan điểm của bà, thì việc bà cần làm là TÌM CÁCH KẾT NỐI CẢM XÚC trước, chứ không phải là cố chứng minh mình đúng bằng lý lẽ đâu nha!"
+        }
+      ]
+    },
+    {
+      "id": "strengths",
+      "title": "Điểm mạnh thật sự",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Điểm mạnh thật sự (True Strengths) làm nên thương hiệu của The Sage nha! Không phải tự nhiên mà ai cũng muốn có một người bạn, người đồng nghiệp hay người yêu mang hệ điều hành này đâu."
+        },
+        {
+          "type": "p",
+          "text": "Sức mạnh của các bà không nằm ở sự nhiệt huyết ồn ào, mà nó nằm ở \"quyền lực của tri thức\" siêu đẳng có khả năng soi sáng con đường cho người khác nghen:"
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "1. Năng Lực \"Nhìn Thấu\" Cấp Độ Max (Master of Insight)"
+        },
+        {
+          "type": "item",
+          "title": "Bộ óc phân tích siêu việt",
+          "text": "Các bà có khả năng nhìn ra bản chất của vấn đề mà người khác không nhận thấy, kết nối những chi tiết tưởng chừng không liên quan thành một bức tranh có ý nghĩa."
+        },
+        {
+          "type": "item",
+          "title": "Khả năng dự đoán chính xác",
+          "text": "Nhờ vào việc phân tích dữ liệu và xu hướng một cách khách quan, các bà thường có khả năng nhìn trước được hậu quả của một quyết định trước khi nó xảy ra."
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "2. Cột Trụ Của Sự Sáng Suốt - \"Đầu Lạnh\" Trong Mọi Tình Huống"
+        },
+        {
+          "type": "item",
+          "title": "Soft outside, sharp inside",
+          "text": "Nhìn giao diện bên ngoài có vẻ trầm lặng, ít nói, nhưng đụng chuyện thì The Sage là người có khả năng giữ bình tĩnh và đưa ra quyết định sáng suốt nhất trong cả nhóm."
+        },
+        {
+          "type": "item",
+          "title": "Ra quyết định dựa trên bằng chứng (Evidence > Emotion)",
+          "text": "Mấy bà không bao giờ đưa ra lựa chọn quan trọng chỉ dựa vào cảm tính nhất thời. Điểm mạnh thực sự là khả năng cân nhắc kỹ lưỡng trước khi hành động."
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "3. \"Người Thầy\" Âm Thầm Của Cả Tập Thể"
+        },
+        {
+          "type": "item",
+          "title": "Bậc thầy truyền đạt tri thức",
+          "text": "Trong một tập thể đang bối rối vì thiếu thông tin, các bà chính là người có khả năng giải thích mọi thứ một cách rõ ràng, dễ hiểu, giúp mọi người cùng nhìn thấy bức tranh tổng thể."
+        },
+        {
+          "type": "item",
+          "title": "Nuôi dưỡng tư duy phản biện (The Critical Thinking Mentor)",
+          "text": "Điểm sáng rực rỡ nhất là khả năng khuyến khích người khác tự đặt câu hỏi, tự tìm ra câu trả lời thay vì chỉ tiếp nhận thông tin một chiều."
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "4. Sự Trung Thực Trí Tuệ Nguyên Bản (Intellectual Integrity)"
+        },
+        {
+          "type": "p",
+          "text": "Giữa một thế giới đầy sự mơ hồ, tin giả và \"ai nói to hơn là thắng\", việc các bà vẫn kiên trì tìm kiếm sự thật, sẵn sàng thay đổi quan điểm khi có bằng chứng mới chính là một loại dũng khí cực kỳ lớn. Sự thông thái của các bà không phải là sự phô trương, mà đó là một sự lựa chọn đầy kiêu hãnh và bản lĩnh!"
+        }
+      ]
+    },
+    {
+      "id": "blindspots",
+      "title": "Những điểm mù cần để ý",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Sự thông thái của Nhà Hiền Triết đôi khi lại chính là con dao hai lưỡi tự cứa vào mình và cả người khác, nếu mấy bà lỡ sa vào những điểm mù này:"
+        },
+        {
+          "type": "item",
+          "title": "Bẫy \"Biết hết mọi thứ\" (The Know-It-All Trap)",
+          "text": "Mấy bà cứ tưởng chia sẻ kiến thức là đang giúp đỡ người khác. Nhưng không! Điểm mù lớn nhất là các bà đôi khi khiến người khác cảm thấy bị coi thường, bị dạy đời thay vì được tôn trọng."
+        },
+        {
+          "type": "item",
+          "title": "Trốn tránh cảm xúc bằng lý luận (Intellectualizing Emotions)",
+          "text": "Đây là điểm mù đáng sợ nhất mà Sage thường không tự nhận ra. Dù miệng nói \"tui đang phân tích vấn đề khách quan\", nhưng sâu thẳm các bà đang dùng lý trí để né tránh việc phải cảm nhận nỗi đau thật sự."
+        },
+        {
+          "type": "item",
+          "title": "Hội chứng \"Chờ đủ thông tin mới hành động\" mãi mãi",
+          "text": "Khả năng ra quyết định nhanh của The Sage cực kỳ mờ nhạt khi thiếu dữ liệu hoàn hảo. Điểm mù ở đây là các bà lầm tưởng rằng cần biết 100% mọi thứ trước khi có thể bắt đầu."
+        },
+        {
+          "type": "item",
+          "title": "Cái tôi của sự \"Đúng\" (Ego of Being Right)",
+          "text": "Các bà vô thức dính chặt giá trị bản thân vào việc \"mình có đúng không\". Nếu một ngày bị chứng minh là sai, bà lại đâm ra khó chịu, phòng thủ thay vì cởi mở tiếp nhận."
+        },
+        {
+          "type": "item",
+          "title": "Đánh giá thấp trí tuệ cảm xúc của người khác",
+          "text": "Vì quá coi trọng lý trí, đôi khi các bà vô tình xem nhẹ những quyết định dựa trên trực giác hay cảm xúc của người khác, cho rằng đó là \"thiếu logic\" mà không nhận ra giá trị riêng của nó."
+        }
+      ]
+    },
+    {
+      "id": "conflict",
+      "title": "Mâu thuẫn lớn nhất",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Mâu thuẫn kinh điển nhất cấu xé tâm can của một Sage mỗi đêm muộn chính là sự giằng xé giữa: Khao khát được HIỂU BIẾT tuyệt đối, kiểm soát mọi biến số VÀ Sự thật rằng CUỘC SỐNG luôn tồn tại những điều không thể lý giải hết bằng logic."
+        },
+        {
+          "type": "item",
+          "title": "Vừa muốn kết nối, lại vừa rút lui vào thế giới riêng",
+          "text": "Tận sâu bên trong, The Sage cực kỳ khao khát được thấu hiểu, được có những mối quan hệ sâu sắc. Nhưng ác nỗi, mỗi khi có cơ hội mở lòng, bản năng phân tích lại khiến bà lùi lại để \"quan sát\" thay vì thực sự tham gia."
+        },
+        {
+          "type": "item",
+          "title": "Nỗi sợ trở nên tầm thường (Fear of Being Ordinary)",
+          "text": "Vì sao các bà lại cố gắng học hỏi, tích lũy kiến thức nhiều đến vậy? Mâu thuẫn ở đây là: Các bà dùng tri thức để khẳng định giá trị bản thân. Sâu thẳm bên trong là một nỗi sợ tột cùng: \"Nếu mình không còn là người hiểu biết nhất, liệu mình còn ý nghĩa gì trong mắt người khác?\"."
+        },
+        {
+          "type": "item",
+          "title": "Muốn được yêu vì con người thật nhưng lại thể hiện qua trí tuệ",
+          "text": "Bà khao khát được yêu thương vì chính con người mình, nhưng lại vô thức chỉ thể hiện bản thân qua những cuộc trò chuyện thông minh, khiến người khác khó nhìn thấy con người thật đằng sau lớp vỏ trí thức."
+        },
+        {
+          "type": "p",
+          "text": "Cuộc chiến lớn nhất của The Sage là học cách chấp nhận sự thật rớt nước mắt này: Giá trị của bà không nằm ở việc BÀ BIẾT BAO NHIÊU, mà nằm ở việc BÀ DÁM KẾT NỐI VÀ CẢM NHẬN sâu sắc đến đâu."
+        }
+      ]
+    },
+    {
+      "id": "challenges",
+      "title": "Những thách thức nào bạn có thể sẽ gặp phải trong các mối quan hệ",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Mang hệ điều hành The Sage (Nhà Hiền Triết) vào các mối quan hệ (từ tình yêu, bạn bè đến đồng nghiệp) thì đúng kiểu \"cái đầu quá tải, trái tim bỏ quên\". Sự thông thái vô bờ bến của các bà nếu không có \"cầu nối cảm xúc\" thì rất dễ va phải những \"kiếp nạn\" cực kỳ đặc thù sau đây:"
+        },
+        {
+          "type": "sub",
+          "icon": "🛑",
+          "title": "1. \"Nhà Phân Tích\" Trong Chính Tình Yêu Của Mình (Overanalyzing Love)"
+        },
+        {
+          "type": "item",
+          "title": "Bản chất",
+          "text": "Vì thói quen phân tích mọi thứ, các bà thường mổ xẻ từng lời nói, hành động của người yêu để tìm ra \"ý nghĩa thực sự\", đôi khi khiến những điều đơn giản trở nên phức tạp không cần thiết."
+        },
+        {
+          "type": "item",
+          "title": "Biểu hiện",
+          "text": "Thay vì tận hưởng khoảnh khắc lãng mạn, bà lại bận suy nghĩ \"Tại sao họ nói câu đó?\", \"Điều này có ý nghĩa gì?\", khiến bản thân và đối phương đều mệt mỏi."
+        },
+        {
+          "type": "sub",
+          "icon": "🛑",
+          "title": "2. Yêu Đương Hay Đang Giảng Bài? (The Lecturing Trap)"
+        },
+        {
+          "type": "item",
+          "title": "Bản chất",
+          "text": "Các bà có xu hướng muốn \"sửa sai\" hoặc giải thích logic cho mọi vấn đề của đối phương, kể cả khi họ chỉ cần được lắng nghe."
+        },
+        {
+          "type": "item",
+          "title": "Biểu hiện",
+          "text": "Ban đầu thì đối phương thấy bà thông minh, sâu sắc đó, nhưng dần dà họ sẽ cảm thấy mệt mỏi vì lúc nào cũng bị \"phân tích\" thay vì được đồng cảm."
+        },
+        {
+          "type": "sub",
+          "icon": "🛑",
+          "title": "3. Quả Bom Nổ Chậm \"Xa Cách Trong Im Lặng\" (Silent Withdrawal)"
+        },
+        {
+          "type": "item",
+          "title": "Bản chất",
+          "text": "Các bà lúc nào cũng cần không gian riêng để xử lý cảm xúc, nhưng đôi khi lại rút lui quá lâu, quá xa mà không giải thích rõ lý do."
+        },
+        {
+          "type": "item",
+          "title": "Biểu hiện",
+          "text": "Khi đối phương cảm thấy bị bỏ rơi, họ sẽ không hiểu được rằng bà không hề lạnh nhạt, mà chỉ đang cần thời gian để sắp xếp lại suy nghĩ của mình."
+        },
+        {
+          "type": "sub",
+          "icon": "🛑",
+          "title": "4. Đánh Giá Thấp Nhu Cầu Cảm Xúc Của Đối Phương (Dismissing Feelings)"
+        },
+        {
+          "type": "item",
+          "title": "Bản chất",
+          "text": "Vì quen với việc giải quyết vấn đề bằng logic, các bà đôi khi vô tình gạt bỏ cảm xúc của người khác bằng cách nói \"đừng nghĩ nhiều, việc này đơn giản mà\"."
+        },
+        {
+          "type": "item",
+          "title": "Biểu hiện",
+          "text": "Đối phương có thể cảm thấy không được thấu hiểu, vì với họ vấn đề không đơn giản như những gì bà phân tích được trên lý thuyết."
+        },
+        {
+          "type": "sub",
+          "icon": "🛑",
+          "title": "5. Nỗi Sợ Bị Coi Là \"Kém Cỏi\" Khóa Chặt Sự Chia Sẻ"
+        },
+        {
+          "type": "item",
+          "title": "Bản chất",
+          "text": "Bà sợ thể hiện sự yếu đuối, sợ bị nhìn nhận là người không có câu trả lời, nên thường che giấu những khó khăn thực sự của bản thân."
+        },
+        {
+          "type": "item",
+          "title": "Biểu hiện",
+          "text": "Dù đang gặp vấn đề nghiêm trọng, bà vẫn cố tỏ ra mình đang kiểm soát được mọi thứ, khiến người thân không biết cách để giúp đỡ bà."
+        },
+        {
+          "type": "tip",
+          "text": "Tip sinh tồn cho các bà hệ Sage: Hãy nhớ, tình yêu và tình bạn khỏe mạnh cần cả LÝ TRÍ lẫn CẢM XÚC. Đừng để bộ não phân tích của mình trở thành rào cản ngăn người khác chạm đến trái tim bà. Bà hoàn toàn xứng đáng được yêu thương vì cả con người thật lẫn trí tuệ của mình!"
+        }
+      ]
+    },
+    {
+      "id": "growth",
+      "title": "Hướng phát triển",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Để lột xác và nâng cấp năng lượng The Sage (Nhà Hiền Triết) lên một tầm cao mới, hành trình của mấy bà không phải là ngừng suy nghĩ hay từ bỏ tình yêu tri thức. Sự trưởng thành của một Sage là biến sự phân tích vô cảm thành trí tuệ có trái tim, và học cách kết nối bằng cả lý trí lẫn cảm xúc."
+        },
+        {
+          "type": "p",
+          "text": "Dưới đây là hướng phát triển để các bà vừa giữ được \"hào quang\" thông thái, vừa không bị thiên hạ xa lánh:"
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "1. Chuyển từ \"Phân Tích Vô Cảm\" sang \"Thấu Hiểu Có Trái Tim\" (Empathic Reasoning)"
+        },
+        {
+          "type": "item",
+          "title": "Nâng cấp bộ lọc giao tiếp",
+          "text": "Trước khi đưa ra lời khuyên logic, hãy hỏi bản thân: \"Người này đang cần một giải pháp, hay chỉ cần được lắng nghe?\". Không phải lúc nào lý trí cũng là điều người khác cần trước tiên."
+        },
+        {
+          "type": "item",
+          "title": "Học cách ngồi cùng cảm xúc của người khác",
+          "text": "Tập thói quen nói \"Nghe có vẻ khó khăn quá\" trước khi đưa ra bất kỳ phân tích hay giải pháp nào."
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "2. Ngừng \"Chờ Hoàn Hảo\", hãy học \"Hành Động Với Thông Tin Đủ Dùng\" (Good Enough Decision-Making)"
+        },
+        {
+          "type": "item",
+          "title": "Đặt giới hạn cho việc nghiên cứu",
+          "text": "Cho bản thân một khung thời gian cụ thể để thu thập thông tin, sau đó buộc mình phải đưa ra quyết định, ngay cả khi chưa biết 100% mọi thứ."
+        },
+        {
+          "type": "item",
+          "title": "Chấp nhận rủi ro của sự không chắc chắn",
+          "text": "Không phải quyết định nào cũng cần được tính toán hoàn hảo. Đôi khi hành động với 80% thông tin còn tốt hơn chờ đợi 100% mà bỏ lỡ thời cơ."
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "3. Tự Kết Nối Với Cảm Xúc Của Chính Mình (Emotional Literacy)"
+        },
+        {
+          "type": "item",
+          "title": "Luật \"Cảm nhận trước, phân tích sau\"",
+          "text": "Khắc cốt ghi tâm nguyên tắc này: Khi có điều gì đó xảy ra, hãy cho phép mình cảm nhận nó trước, rồi mới dùng lý trí để hiểu nó sau."
+        },
+        {
+          "type": "item",
+          "title": "Dám đối mặt với cảm xúc thay vì lý giải chúng",
+          "text": "Ngừng biến mọi cảm xúc thành một bài toán cần giải. Đôi khi buồn chỉ đơn giản là buồn, không cần một lời giải thích logic."
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "4. Tích hợp thêm năng lượng bổ trợ (Nâng cấp giao diện)"
+        },
+        {
+          "type": "item",
+          "title": "Mượn năng lượng Người Chăm Sóc (The Caregiver)",
+          "text": "Học cách thể hiện sự quan tâm bằng hành động ấm áp, không chỉ bằng những lời khuyên lý trí. Đôi khi một cái ôm có giá trị hơn cả ngàn lời phân tích."
+        },
+        {
+          "type": "item",
+          "title": "Mượn năng lượng Chú Hề (The Jester)",
+          "text": "Học cách không quá nghiêm túc với mọi thứ. Cho phép bản thân vui đùa, thư giãn mà không cần phải tìm ý nghĩa sâu xa trong từng khoảnh khắc."
+        },
+        {
+          "type": "tip",
+          "text": "The Empowered Sage (Nhà Hiền Triết Đỉnh Cao) không phải là người biết tất cả mọi câu trả lời, mà là một người phụ nữ sở hữu trí tuệ sâu sắc nhất nhưng cũng có trái tim ấm áp nhất. Khi bà biết kết hợp cả hai, thứ năng lượng tỏa ra không còn là sự xa cách, mà là một sức hút của sự thông thái đầy nhân văn khiến ai cũng phải nể trọng!"
+        }
+      ]
+    },
+    {
+      "id": "relationships",
+      "title": "Làm sao để cải thiện các mối quan hệ xã hội",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Okela mấy bà, tới phần cốt lõi để \"cứu giá\" các mối quan hệ cho hệ Nhà Hiền Triết đây!"
+        },
+        {
+          "type": "p",
+          "text": "Lấy sổ ra note lại ngay chiến lược để vừa giữ được sự thông thái, vừa không bị thiên hạ thấy \"khó gần\" nha:"
+        },
+        {
+          "type": "sub",
+          "icon": "🌟",
+          "title": "PHẦN 1: Cứu Vãn Các Mối Quan Hệ Xã Hội (Bạn bè, Đồng nghiệp)"
+        },
+        {
+          "type": "p",
+          "text": "Để không bị biến thành \"cỗ máy phân tích vô cảm\" hay \"người khó gần\" của thiên hạ, các bà Sage phải setup lại hệ điều hành giao tiếp liền:"
+        },
+        {
+          "type": "item",
+          "title": "Dẹp ngay cái nết \"Giảng bài mọi lúc\" (Stop Unsolicited Lecturing)",
+          "text": "Bà thông thái, nhưng không phải ai cũng cần một bài phân tích! Trước khi chia sẻ kiến thức, hãy hỏi: \"Bạn có muốn nghe góc nhìn của mình về việc này không?\"."
+        },
+        {
+          "type": "item",
+          "title": "Luật \"Lắng nghe trước, phân tích sau\" (Listen First)",
+          "text": "Thanh lọc lại cách giao tiếp đi mấy bà. Dành thời gian thực sự lắng nghe cảm xúc của người khác trước khi vội vàng đưa ra giải pháp logic."
+        },
+        {
+          "type": "item",
+          "title": "Có gì cảm nhận cứ chia sẻ, ngưng chỉ nói lý thuyết (Share Feelings, Not Just Facts)",
+          "text": "Bà nghĩ gì, cảm thấy sao, làm ơn CHIA SẺ RA. Dùng cấu trúc: \"Mình cảm thấy... và mình nghĩ rằng...\". Đừng chỉ đưa ra sự thật khô khan mà quên mất cảm xúc đằng sau nó."
+        },
+        {
+          "type": "sub",
+          "icon": "💕",
+          "title": "PHẦN 2: \"Trị Bệnh\" Trong Tình Yêu (Yêu sao cho đừng quá lý trí?)"
+        },
+        {
+          "type": "p",
+          "text": "Tình yêu của Sage rất sâu sắc, nhưng toàn tự mình làm khó mình vì quá phân tích. Muốn có một mối tình ấm áp, gắn kết và bền vững, thì phải chấn chỉnh ngay:"
+        },
+        {
+          "type": "item",
+          "title": "Ngừng phân tích mọi hành động của người yêu",
+          "text": "Không phải mọi cử chỉ đều cần một lời giải thích logic. Đôi khi hãy đơn giản tận hưởng khoảnh khắc mà không cố \"giải mã\" ý nghĩa đằng sau nó."
+        },
+        {
+          "type": "item",
+          "title": "Học cách thể hiện tình cảm bằng hành động, không chỉ lời nói thông minh",
+          "text": "Thay vì chỉ trò chuyện sâu sắc, hãy thử những cử chỉ ấm áp đơn giản — một cái ôm, một bữa ăn nấu cùng nhau, những khoảnh khắc không cần lời."
+        },
+        {
+          "type": "item",
+          "title": "Đi tìm \"Sự Kết Nối\" chứ không tìm \"Đối Tác Tranh Luận\"",
+          "text": "Bỏ ngay xu hướng chọn người yêu chỉ dựa trên việc họ có \"cùng trình độ trí tuệ\" hay không. Hãy chọn một người khiến bà cảm thấy được thấu hiểu và an toàn về mặt cảm xúc."
+        },
+        {
+          "type": "item",
+          "title": "Chia sẻ sự yếu đuối thay vì luôn tỏ ra kiểm soát được mọi thứ",
+          "text": "Bà giỏi giải quyết vấn đề rồi, nhưng thỉnh thoảng hãy cho phép mình nói \"Mình không biết phải làm sao\" để người yêu có cơ hội được ở bên cạnh, hỗ trợ bà."
+        },
+        {
+          "type": "tip",
+          "text": "Chốt hạ: Bí quyết lớn nhất để Sage hạnh phúc là học cách CẢM NHẬN TRƯỚC KHI PHÂN TÍCH. Hãy tin rằng bà xứng đáng được yêu thương vì cả trí tuệ lẫn trái tim của mình, chứ không chỉ vì những gì bà biết!"
+        }
+      ]
+    },
+    {
+      "id": "career",
+      "title": "Bạn cần làm gì để thăng tiến trong công việc",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Alo mấy bà, đến cái chuyên mục quan trọng nhất để \"lột xác\" chốn công sở đây! The Sage (Nhà Hiền Triết) bình thường đi làm rất hay bị rơi vào cái bẫy \"chuyên gia hậu trường\" hoặc \"quá cầu toàn nên chậm ra quyết định\". Muốn thăng tiến, lên sếp hay tự làm chủ mà vẫn giữ được vibe \"thông thái\" thì phải rèn ngay mấy skill cốt lõi này nha:"
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "1. Từ \"Nhà Nghiên Cứu Thầm Lặng\" Thành \"Nhà Lãnh Đạo Có Tầm Nhìn\""
+        },
+        {
+          "type": "item",
+          "title": "Ngưng chỉ phân tích, hãy dám đề xuất",
+          "text": "Sự thông thái không nằm ở việc bà biết nhiều thứ, mà ở việc bà dám dùng kiến thức đó để dẫn dắt hành động. Muốn bứt phá, hãy chủ động đưa ra đề xuất thay vì chỉ chỉ ra vấn đề."
+        },
+        {
+          "type": "item",
+          "title": "Học cách quyết định nhanh hơn với thông tin có sẵn",
+          "text": "Trong môi trường công sở, tốc độ đôi khi quan trọng hơn sự hoàn hảo. Rèn khả năng đưa ra quyết định đủ tốt trong thời gian giới hạn."
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "2. Đóng Gói Trí Tuệ Bằng Khả Năng Thuyết Trình (Communicate to Influence)"
+        },
+        {
+          "type": "p",
+          "text": "Kiến thức sâu rộng là thiên phú, nhưng để ngồi vào ghế sếp hay vận hành trơn tru một mô hình kinh doanh, bà bắt buộc phải biết cách truyền đạt nó một cách thuyết phục, dễ hiểu cho nhiều đối tượng khác nhau."
+        },
+        {
+          "type": "p",
+          "text": "Hãy tập thói quen đơn giản hóa những ý tưởng phức tạp khi trình bày trước tập thể. Đừng chỉ nói \"Dữ liệu cho thấy...\". Hãy đổi thành: \"Đây là điều quan trọng nhất bạn cần biết, và đây là lý do tại sao nó ảnh hưởng đến chúng ta\". Sự sâu sắc đi kèm với khả năng truyền đạt dễ hiểu chính là \"vũ khí hủy diệt\" chốn công sở."
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "3. Tự Tin Thể Hiện Quan Điểm Cá Nhân (Assertive Expertise)"
+        },
+        {
+          "type": "p",
+          "text": "Căn bệnh trầm kha của The Sage là ngại chia sẻ quan điểm mạnh mẽ vì sợ chưa đủ dữ liệu hoặc sợ sai."
+        },
+        {
+          "type": "p",
+          "text": "Đừng chờ đợi có đủ 100% bằng chứng mới lên tiếng! Hãy chủ động chia sẻ góc nhìn chuyên môn của mình một cách tự tin, kể cả khi nó chỉ dựa trên 80% thông tin."
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "4. Thiết Lập \"Ranh Giới Thép\" Về Thời Gian Nghiên Cứu"
+        },
+        {
+          "type": "p",
+          "text": "Năng lượng của bà là để tạo ra những phân tích giá trị, không phải để mãi mãi \"nghiên cứu thêm\" mà không bao giờ hoàn thành."
+        },
+        {
+          "type": "p",
+          "text": "Học cách đặt deadline cứng cho bản thân trong việc ra quyết định. Phải phân bổ rạch ròi: thời gian nào để thu thập thông tin, thời gian nào để hành động dứt khoát."
+        },
+        {
+          "type": "p",
+          "text": "Tóm lại, thăng tiến không có nghĩa là bà phải trở nên hời hợt, vội vàng hay từ bỏ sự chính xác vốn có. Phiên bản nâng cấp đỉnh cao nhất của Sage chính là người dùng trí tuệ sâu sắc để soi đường, nhưng lại dùng sự quyết đoán để dẫn dắt hành động."
+        }
+      ]
+    },
+    {
+      "id": "journey",
+      "title": "Vận trình cuộc đời",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Hành trình của Sage là một chuỗi ngày vật vã chuyển hóa từ việc \"biết nhiều nhưng cô đơn\" sang cảnh giới \"trí tuệ đi cùng sự kết nối\"."
+        },
+        {
+          "type": "p",
+          "text": "Lưu ngay 3 giai đoạn \"tiến hóa\" này để xem mấy bà đang kẹt ở level nào nè:"
+        },
+        {
+          "type": "sub",
+          "icon": "🌱",
+          "title": "Dưới 25 Tuổi: Sage Tập Sự (The Overthinking Bookworm)"
+        },
+        {
+          "type": "item",
+          "title": "Vibe lúc này",
+          "text": "Đọc mọi thứ, hỏi mọi thứ, phân tích mọi thứ. Nhiệt tình cộng cầu toàn trí tuệ. Ai nói gì cũng muốn kiểm chứng, việc gì cũng muốn hiểu tận gốc. Năng lượng tri thức tràn trề nhưng chưa biết cách kết nối với người khác."
+        },
+        {
+          "type": "item",
+          "title": "Thực trạng",
+          "text": "Đây là giai đoạn mấy bà rất dễ bị cô lập vì cảm thấy \"không ai hiểu được mình\". Nếu có chập chững ra làm kinh doanh, các bà sẽ dành quá nhiều thời gian nghiên cứu thị trường mà chậm trễ trong việc hành động thực tế. Trong tình yêu thì dễ đẩy người khác ra xa vì liên tục phân tích thay vì cảm nhận."
+        },
+        {
+          "type": "item",
+          "title": "Bài học cốt lõi",
+          "text": "Dính vô vàn cuộc trò chuyện dang dở và những mối quan hệ hời hợt để nhận ra rằng: Tri thức mà không có sự kết nối cảm xúc thì chỉ là một hòn đảo cô đơn giữa biển người."
+        },
+        {
+          "type": "sub",
+          "icon": "🌸",
+          "title": "Từ 25 Đến 40 Tuổi: Sage Thức Tỉnh (The Grounded Thinker)"
+        },
+        {
+          "type": "item",
+          "title": "Vibe lúc này",
+          "text": "Đã nếm đủ \"trái đắng\" của sự cô lập trí tuệ. Giao diện vẫn sâu sắc, ham học hỏi nhưng bên trong đã bắt đầu rèn được khả năng kết nối cảm xúc và lắng nghe thấu cảm."
+        },
+        {
+          "type": "item",
+          "title": "Thực trạng",
+          "text": "Ở độ tuổi này, các bà bắt đầu ngộ ra chân lý cốt lõi: Đừng cố biết hết mọi thứ nữa, hãy học cách kết nối sâu sắc! Thay vì chỉ tích lũy kiến thức, mấy bà chuyển sang chia sẻ nó theo cách dễ hiểu, ấm áp hơn. Các bà biết cách cân bằng giữa việc phân tích và việc cảm nhận, giữa lý trí và trái tim."
+        },
+        {
+          "type": "item",
+          "title": "Bài học cốt lõi",
+          "text": "Chấp nhận buông bỏ nhu cầu phải luôn đúng. Dám thể hiện sự yếu đuối và học cách xây dựng những mối quan hệ sâu sắc thay vì chỉ những cuộc trò chuyện thông minh hời hợt."
+        },
+        {
+          "type": "sub",
+          "icon": "👑",
+          "title": "Sau 40 Tuổi: \"Bậc Hiền Triết\" Thấu Đạt (The True Sage)"
+        },
+        {
+          "type": "item",
+          "title": "Vibe lúc này",
+          "text": "An tọa vững chãi, khí chất thâm trầm nhưng ấm áp. Không còn cần phải chứng minh mình biết nhiều hay đúng nữa. Trí tuệ lúc này tỏa ra tự nhiên như hơi thở, đi kèm với sự bao dung của trải nghiệm sống."
+        },
+        {
+          "type": "item",
+          "title": "Thực trạng",
+          "text": "Các bà lùi lại một bước khỏi việc phải là người thông minh nhất trong phòng. Thay vì thể hiện kiến thức, các bà vươn tầm thành những mentor xịn xò, dùng trí tuệ đã tích lũy để truyền cảm hứng, dẫn dắt và nuôi dưỡng thế hệ sau bằng cả lý trí lẫn sự thấu cảm."
+        },
+        {
+          "type": "item",
+          "title": "Bài học cốt lõi",
+          "text": "Đạt đến cảnh giới cao nhất của sự thông thái: Hiểu rằng có những điều không thể lý giải hết bằng logic, và sự khôn ngoan thực sự nằm ở việc biết khi nào nên phân tích, khi nào chỉ cần lặng lẽ ở bên cạnh ai đó."
+        }
+      ]
+    },
+    {
+      "id": "advice",
+      "title": "Lời khuyên",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Tóm lại nha mấy bà, chốt sổ nguyên mẫu Nhà Hiền Triết (The Sage) bằng một câu cốt lõi thôi: Bà là một ngọn hải đăng trí tuệ của nhân gian, nhưng ngọn hải đăng thì cũng cần hơi ấm để không trở nên lạnh lẽo!"
+        },
+        {
+          "type": "tip",
+          "text": "Lời khuyên \"xương máu\" ghim ngay vào tim nè:"
+        },
+        {
+          "type": "item",
+          "title": "Nghỉ làm \"Cỗ Máy Phân Tích\"",
+          "text": "Bà không có nghĩa vụ phải lý giải mọi thứ bằng logic. Hãy cho phép mình cảm nhận cuộc sống mà không cần một lời giải thích hợp lý cho tất cả."
+        },
+        {
+          "type": "item",
+          "title": "Chân lý sinh tồn để không bị \"cô lập\"",
+          "text": "Thay vì cứ mãi tìm kiếm thêm thông tin để hoàn thiện phân tích, hãy khắc cốt ghi tâm điều này: kết nối quan trọng hơn là đúng. Đôi khi một cái ôm có giá trị hơn một bài phân tích hoàn hảo."
+        },
+        {
+          "type": "item",
+          "title": "Thông thái thì phải đi kèm sự ấm áp",
+          "text": "Áp dụng chuẩn xác nguyên tắc: \"Trí tuệ sắc bén, trái tim rộng mở\". Dùng kiến thức của mình để nâng đỡ người khác, chứ không phải để chứng tỏ bản thân."
+        },
+        {
+          "type": "item",
+          "title": "Setup \"Thời hạn cho sự cầu toàn\"",
+          "text": "Chờ đợi sự hoàn hảo tuyệt đối là tự chuốc lấy sự trì trệ. Dám hành động, dám kết nối dù chưa có đủ 100% thông tin trong tay."
+        },
+        {
+          "type": "tip",
+          "text": "Chốt hạ: Sự thông thái, sâu sắc của Sage là một siêu năng lực bẩm sinh, là thứ ánh sáng trí tuệ nhưng có khả năng soi đường đỉnh cao nhất. Miễn là bà biết kết hợp nó với một trái tim rộng mở, thì vibe của bà lúc nào cũng sẽ sáng suốt và tỏa sáng rực rỡ!"
+        }
+      ]
+    }
+  ]
+}

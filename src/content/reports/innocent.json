@@ -1,0 +1,943 @@
+{
+  "slug": "innocent",
+  "code": "NNT",
+  "english": "The Innocent",
+  "name": "Thiếu Nữ Ngây Thơ",
+  "intro": [
+    "Bà là đứa luôn tin rằng thế giới này về cơ bản là tốt đẹp, rằng nếu mình sống tử tế thì mọi chuyện rồi sẽ ổn. Nhìn bà ai cũng thấy dễ chịu, trong veo như một buổi sáng chưa vướng bụi đời — cười dễ, tin người dễ, và luôn có một niềm hy vọng lấp lánh dù mọi thứ xung quanh có tối tăm cỡ nào. Nhưng có một sự thật mà bà giấu kỹ hơn cả filter trên story: đằng sau nụ cười lạc quan đó là một nỗi sợ khủng khiếp về việc phải đối diện với mặt xấu của cuộc đời.",
+    "Sự thật đau lòng nhất là bà thường chọn cách nhắm mắt làm ngơ trước những dấu hiệu rõ ràng của một mối quan hệ độc hại, một quyết định sai lầm, hay một sự thật phũ phàng — chỉ vì thừa nhận nó đồng nghĩa với việc bà phải từ bỏ cái thế giới màu hồng mà mình đã dày công xây dựng. Tận sâu bên trong, bà luôn mang một nỗi sợ hoang mang: \"Nếu mình nhìn thẳng vào những điều xấu xa, tồi tệ của cuộc đời, liệu mình có còn giữ được sự bình yên, còn tin vào điều tốt đẹp nữa không?\". Bà cứ liên tục né tránh những mâu thuẫn, những sự thật khó nhằn, để rồi vô tình cho phép người khác lợi dụng chính sự trong sáng của mình."
+  ],
+  "population": 13,
+  "celebrities": [
+    {
+      "name": "Suzy (Bae Suzy)",
+      "text": "Được mệnh danh là \"em gái quốc dân\" nhờ hình ảnh trong trẻo, gần gũi và nụ cười ấm áp, Suzy luôn giữ được sự chân thành tự nhiên qua nhiều năm hoạt động nghệ thuật."
+    },
+    {
+      "name": "Ryujin (ITZY)",
+      "text": "Với năng lượng tươi sáng, hồn nhiên và sự lạc quan lan tỏa trên sân khấu, Ryujin đại diện cho một thế hệ thần tượng trẻ luôn tin vào những điều tích cực."
+    },
+    {
+      "name": "Sydney Sweeney",
+      "text": "Dù sự nghiệp gắn liền với nhiều vai diễn phức tạp, hình ảnh công chúng của Sweeney vẫn toát lên sự chân thành, gần gũi và một niềm tin vững vàng vào giá trị bản thân."
+    },
+    {
+      "name": "Selena Gomez",
+      "text": "Trải qua nhiều sóng gió trong showbiz nhưng vẫn giữ được sự chân thành, lạc quan và niềm tin vào lòng tốt, Selena thường chia sẻ công khai về hành trình chữa lành và giữ vững hy vọng của mình."
+    }
+  ],
+  "powers": [
+    {
+      "title": "Bà có Niềm Tin Ngây Thơ Không Gì Lay Chuyển Được",
+      "english": "Unshakeable Faith",
+      "lead": null,
+      "points": [
+        {
+          "title": "Luôn thấy mặt tốt trước tiên",
+          "text": "Khác với những người mặc định phòng thủ, The Innocent luôn cho người khác cơ hội, luôn tin rằng đối phương \"chắc không cố ý đâu\" trước khi nghĩ đến điều xấu nhất."
+        },
+        {
+          "title": "Năng lượng chữa lành từ sự lạc quan",
+          "text": "Các bà có khả năng nhìn thấy ánh sáng cuối đường hầm ngay cả khi mọi thứ đang tối tăm nhất, khiến người xung quanh tự động cảm thấy nhẹ nhõm hơn khi ở cạnh bà."
+        }
+      ]
+    },
+    {
+      "title": "Trái Tim Trong Veo Không Vướng Bụi Đời",
+      "english": "The Pure Heart",
+      "lead": null,
+      "points": [
+        {
+          "title": "Không tính toán, không mưu mô",
+          "text": "Điểm nổi bật nhất của Innocent là sự chân thành tuyệt đối. Bà không biết cách sống hai mặt, không biết giả vờ vui khi buồn, không biết nói dối khéo léo."
+        },
+        {
+          "title": "Vibe an toàn tự nhiên",
+          "text": "Ở cạnh một Innocent, người ta cảm thấy được là chính mình mà không sợ bị phán xét hay lợi dụng, vì bà chưa từng có ý định làm hại ai."
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "id": "portrait",
+      "title": "Chân dung của bạn – Bạn thực sự là ai",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Để tui chẻ nhỏ hai phần \"ăn tiền\" nhưng cũng dễ làm mấy bà \"suy\" nhất: Năng lực cốt lõi (Flex nhẹ skill ẩn) và Góc tối tâm lý (Red flag tự thân)."
+        },
+        {
+          "type": "p",
+          "text": "Bà nào thấy quen quen thì chuẩn bị sẵn giấy bút note lại để tự chấn chỉnh mình nghen!"
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "1. Năng Lực Cốt Lõi (Những thứ làm nên thương hiệu \"tâm hồn trong trẻo\")"
+        },
+        {
+          "type": "p",
+          "text": "Đây là những siêu năng lực bẩm sinh khiến The Innocent luôn là \"nguồn năng lượng sạch\" của rất nhiều người, vì ai cũng khao khát có được sự đơn thuần như bà:"
+        },
+        {
+          "type": "item",
+          "title": "Niềm tin vào điều tốt đẹp (Radical Optimism)",
+          "text": "Các bà không nhìn đời qua lăng kính hoài nghi. Dù bị lừa dối bao nhiêu lần, bà vẫn giữ được khả năng tin tưởng lại, tin rằng phần lớn con người trên đời này đều tử tế."
+        },
+        {
+          "type": "item",
+          "title": "Sự chân thành tuyệt đối (Radical Honesty)",
+          "text": "Không có khái niệm \"nói giảm nói tránh\" hay \"chơi trò tâm lý\". Cái bà nghĩ là cái bà nói, cái bà cảm là cái bà thể hiện, khiến người xung quanh luôn biết chắc mình đang đối diện với ai."
+        },
+        {
+          "type": "item",
+          "title": "Khả năng tha thứ nhanh (Fast Forgiveness)",
+          "text": "Trong khi người khác ôm mối hận cả năm trời, The Innocent có thể tha thứ chỉ sau một lời xin lỗi chân thành, vì bà không muốn giữ lại năng lượng tiêu cực trong lòng."
+        },
+        {
+          "type": "item",
+          "title": "Nguồn cảm hứng sống tích cực (Hope Bringer)",
+          "text": "Chỉ cần bà xuất hiện và nói \"mọi chuyện rồi sẽ ổn thôi\", người nghe tự động thấy nhẹ lòng hơn, vì niềm tin của bà có một sức lan tỏa rất thật, không giả tạo."
+        },
+        {
+          "type": "sub",
+          "icon": "🛑",
+          "title": "2. Góc Tối (Red flag tự thân – Đọc để tỉnh táo nha mấy bà!)"
+        },
+        {
+          "type": "p",
+          "text": "Sống lạc quan thì giỏi, nhưng tâm lý của Thiếu Nữ Ngây Thơ lại rất dễ bị hổng lỗ chỗ vì những \"cái bẫy\" tự mình giăng ra:"
+        },
+        {
+          "type": "item",
+          "title": "Hội chứng \"Nhắm mắt cho qua\" (Denial)",
+          "text": "Đây là bẫy dễ sập nhất! Thấy dấu hiệu xấu rõ ràng nhưng vẫn tự nhủ \"chắc không sao đâu\", \"chắc mình nghĩ nhiều quá thôi\", để rồi tự đẩy mình vào những tình huống nguy hiểm mà lẽ ra có thể tránh được."
+        },
+        {
+          "type": "item",
+          "title": "Ngây thơ đến mức dễ bị lợi dụng (Naive Trust)",
+          "text": "Vì lòng tin vô điều kiện, các bà cực kỳ dễ trở thành mục tiêu của những kẻ thao túng, lừa đảo. Sẵn sàng tin ngay cả khi bằng chứng phản bác đã bày ra trước mắt."
+        },
+        {
+          "type": "item",
+          "title": "Từ chối trưởng thành (Refusal to Grow Up)",
+          "text": "Góc tối \"độc hại\" nhất của Innocent là dùng sự ngây thơ như một cái khiên để né tránh những trách nhiệm của người lớn — những cuộc đối thoại khó, những quyết định đau đầu, những mâu thuẫn cần giải quyết."
+        },
+        {
+          "type": "item",
+          "title": "Sụp đổ toàn phần khi vỡ mộng (Total Collapse)",
+          "text": "Vì đặt niềm tin quá tuyệt đối, khi một điều xấu thực sự xảy ra, các bà không có \"bộ giáp\" tâm lý nào để đỡ đòn, dẫn đến cú sốc và tổn thương sâu hơn nhiều so với người đã có sự chuẩn bị tâm lý trước."
+        },
+        {
+          "type": "item",
+          "title": "Các bà hệ Innocent nhớ kỹ nha",
+          "text": "Sự trong sáng không có nhận thức chính là mảnh đất màu mỡ cho kẻ xấu gieo mầm. Hãy giữ trái tim ấm áp, nhưng phải mở to đôi mắt tỉnh táo!"
+        }
+      ]
+    },
+    {
+      "id": "core",
+      "title": "Lõi Tính Cách (Bản chất thật sự bên trong)",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Nếu lõi của The Explorer là Khát Vọng Tự Trị, thì lõi của The Innocent chính là Niềm Tin Vào Sự Tốt Đẹp (Faith in Goodness). Động lực sâu thẳm nhất của các bà được xây dựng trên 3 trụ cột này:"
+        },
+        {
+          "type": "item",
+          "title": "Khát khao một thiên đường an toàn (The Paradise Instinct)",
+          "text": "Các bà nhìn thế giới qua lăng kính của một người luôn tìm kiếm sự bình yên tuyệt đối, một nơi không có xung đột, không có tổn thương, không có sự phản bội."
+        },
+        {
+          "type": "item",
+          "title": "Nỗi sợ làm điều sai (Fear of Wrongdoing)",
+          "text": "Nghe hơi \"suy\" nhưng đây là sự thật. Định vị giá trị bản thân của Innocent thường gắn liền với việc \"mình có phải là người tốt không\". Cảm giác tội lỗi khi làm gì đó \"sai\" khiến bà luôn cố gắng làm hài lòng chuẩn mực đạo đức mà mình tin tưởng."
+        },
+        {
+          "type": "item",
+          "title": "Sự đơn giản hóa mọi thứ (Radical Simplicity)",
+          "text": "Ego của các bà rất thấp khi đối diện với sự phức tạp. Thay vì phân tích sâu một vấn đề nhiều lớp lang, bà thường chọn cách nhìn nó theo hướng đơn giản nhất, dễ chịu nhất."
+        },
+        {
+          "type": "sub",
+          "icon": "🛑",
+          "title": "Những Điểm Cần Lưu Ý (Đọc để chấn chỉnh lại nết, bớt khổ nha!)"
+        },
+        {
+          "type": "p",
+          "text": "Mang năng lượng Innocent là một điều tuyệt vời, nhưng nếu không biết cách kiểm soát, các bà sẽ tự biến mình thành \"con mồi ngon\" cho những kẻ xấu. Nhớ kỹ những cẩm nang sinh tồn này:"
+        },
+        {
+          "type": "item",
+          "title": "Học cách nhìn thẳng vào sự thật (Face Reality)",
+          "text": "Sự lạc quan chân chính không phải là né tránh sự thật, mà là đối diện với nó rồi vẫn giữ được hy vọng. Tập thói quen hỏi \"Điều gì đang thực sự xảy ra?\" thay vì \"Mình muốn tin điều gì?\"."
+        },
+        {
+          "type": "item",
+          "title": "Xây dựng \"radar cảnh giác\" (Build Discernment)",
+          "text": "Không cần trở nên đa nghi, chỉ cần học cách nhận diện những dấu hiệu cảnh báo sớm (red flags) để bảo vệ bản thân trước khi mọi chuyện đi quá xa."
+        },
+        {
+          "type": "item",
+          "title": "Chấp nhận rằng thế giới có cả tốt lẫn xấu",
+          "text": "Đừng cố ép bản thân tin rằng mọi người đều tử tế. Thế giới vừa có ánh sáng vừa có bóng tối, và việc nhìn thấy cả hai không làm bà bớt tốt đẹp đi."
+        },
+        {
+          "type": "item",
+          "title": "Tập chịu trách nhiệm thay vì chờ được cứu",
+          "text": "Đừng chờ đợi một phép màu hay một ai đó đến giải quyết vấn đề giúp mình. Học cách tự đứng lên xử lý những rắc rối của chính cuộc đời bà."
+        },
+        {
+          "type": "p",
+          "text": "Trưởng thành thực sự của một Innocent không phải là đánh mất sự trong sáng, mà là biết giữ một trái tim ấm áp bên trong một cái đầu đã nhìn thấu sự đời."
+        }
+      ]
+    },
+    {
+      "id": "love",
+      "title": "Bạn muốn một tình yêu như nào",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "nếu đã mang trong mình hệ điều hành The Innocent (Thiếu Nữ Ngây Thơ), thì gu tình yêu và những mong cầu sâu thẳm của các bà thường đi theo một hệ tư tưởng rất đặc thù. Chuyên mục \"Bạn muốn một tình yêu như nào\" lên sóng, lấy sổ tay ra note lại để tỉnh táo lúc yêu nha!"
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "1. Cái các bà TƯỞNG mình muốn (Và rất dễ sập bẫy)"
+        },
+        {
+          "type": "item",
+          "title": "Hệ \"Chuyện cổ tích có thật\"",
+          "text": "Trái tim của The Innocent rất dễ tin vào tình yêu kiểu \"định mệnh\", \"soulmate hoàn hảo\" ngay từ cái nhìn đầu tiên. Các bà thích cảm giác được cuốn vào một câu chuyện tình lãng mạn như phim, bỏ qua những dấu hiệu thực tế phũ phàng."
+        },
+        {
+          "type": "item",
+          "title": "Tình yêu kiểu \"Chỉ cần yêu là đủ\"",
+          "text": "Các bà tin rằng chỉ cần đủ yêu thương, mọi vấn đề (dù là sự khác biệt giá trị sống, thói quen độc hại của đối phương) rồi cũng sẽ tự động biến mất theo thời gian."
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "2. Cái các bà THỰC SỰ khao khát (Tình yêu lý tưởng giúp bà không bị \"lụy mộng\")"
+        },
+        {
+          "type": "p",
+          "text": "Sự thật là, nếu cứ theo đuổi những thứ ở mục 1, các bà sẽ rất nhanh vỡ mộng đau đớn. Sâu thẳm bên trong, đây mới là thứ một Innocent thực sự cần để thấy an toàn:"
+        },
+        {
+          "type": "item",
+          "title": "Một tình yêu \"An Toàn Thật Sự\" chứ không phải \"Ảo Tưởng Màu Hồng\"",
+          "text": "Các bà cần một người trung thực, minh bạch — người dám nói sự thật kể cả khi nó không dễ nghe, thay vì chỉ nói những lời ngọt ngào để làm bà vui."
+        },
+        {
+          "type": "item",
+          "title": "Sự Ổn Định (Stability) làm nền tảng",
+          "text": "Đối phương cần là một người đáng tin cậy, nhất quán giữa lời nói và hành động, để bà có thể đặt niềm tin vào mà không sợ bị phản bội."
+        },
+        {
+          "type": "item",
+          "title": "Một người sẵn sàng \"đồng hành trưởng thành\" cùng bà",
+          "text": "Không phải người bảo vệ bà khỏi mọi sự thật của cuộc đời, mà là người cùng bà đối diện với những khó khăn, giúp bà lớn lên mà không đánh mất sự lạc quan vốn có."
+        },
+        {
+          "type": "item",
+          "title": "Sự Kiên Nhẫn (Patience) với nhịp độ cảm xúc của bà",
+          "text": "Các bà cần thời gian để chấp nhận những sự thật khó khăn. Một người yêu tốt sẽ không thúc ép bà phải \"tỉnh ngộ\" ngay lập tức, mà kiên nhẫn đồng hành cùng quá trình đó."
+        },
+        {
+          "type": "tip",
+          "text": "Lời khuyên chốt hạ: Đừng đi tìm một hoàng tử/công chúa trong truyện cổ tích nữa mấy bà ơi! Tình yêu lý tưởng nhất của The Innocent là tìm được một người thật lòng, đủ trung thực để nói cả những điều khó nghe, và đủ kiên nhẫn để cùng bà xây một tình yêu thật, không phải một giấc mơ."
+        }
+      ]
+    },
+    {
+      "id": "perception",
+      "title": "Người khác nghĩ gì về bạn",
+      "blocks": [
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "1. Ấn tượng tích cực (Aura chói lóa, điểm 10 uy tín)"
+        },
+        {
+          "type": "item",
+          "title": "\"Ánh nắng của cả nhóm\"",
+          "text": "Trong nhóm bạn, bà đích thị là người luôn tìm ra điểm sáng trong mọi tình huống tệ nhất, luôn động viên mọi người bằng sự lạc quan chân thành. Có bà ở đó, không khí luôn dễ chịu hơn."
+        },
+        {
+          "type": "item",
+          "title": "\"Chứng nhân của lòng tốt\"",
+          "text": "Khí chất của bà tỏa ra sự trong trẻo. Người ngoài nhìn vào luôn thấy bà là một người thật thà, dễ mến, không có mưu đồ gì, khiến ai cũng muốn bảo vệ và che chở cho bà."
+        },
+        {
+          "type": "item",
+          "title": "\"Người bạn dễ thương nhất hội\"",
+          "text": "Sếp và đồng nghiệp (những người tử tế) cực kỳ thích làm việc với bà vì sự nhiệt tình, chân thành không toan tính. Giao việc cho bà là an tâm về thái độ, dù đôi khi cần hướng dẫn thêm về kinh nghiệm."
+        },
+        {
+          "type": "sub",
+          "icon": "🛑",
+          "title": "2. Những điểm dễ bị \"hiểu lầm\" (Nghe hơi chạnh lòng nha)"
+        },
+        {
+          "type": "item",
+          "title": "Dễ bị gán mác \"Ngây thơ, thiếu thực tế\"",
+          "text": "Vì bản tính luôn nhìn vào mặt tốt, đối phương (đặc biệt là những người từng trải) sẽ dễ cảm thấy bà \"sống trên mây\", không hiểu chuyện đời, dễ bị dắt mũi."
+        },
+        {
+          "type": "item",
+          "title": "Bị xem là \"Dễ dãi, thiếu chính kiến\"",
+          "text": "Đây là cái giá của việc luôn nhường nhịn để giữ hòa khí. Những kẻ toxic hoặc cơ hội sẽ nhìn sự dễ tin của bà thành cơ hội để thao túng, lợi dụng."
+        },
+        {
+          "type": "item",
+          "title": "Mang tiếng \"Trẻ con, chưa lớn\"",
+          "text": "Đôi khi vì né tránh những cuộc đối thoại khó khăn hay những trách nhiệm nặng nề, người ta sẽ nhìn bà như một đứa trẻ chưa sẵn sàng đối diện với thế giới người lớn."
+        },
+        {
+          "type": "item",
+          "title": "Bị đánh giá thấp về năng lực (Underestimated)",
+          "text": "Vì vẻ ngoài hiền lành, ngây thơ, đôi khi người khác sẽ vô tình xem nhẹ khả năng thực sự của bà, không tin tưởng giao cho bà những trọng trách lớn."
+        },
+        {
+          "type": "tip",
+          "text": "Chốt lại nè: Giao diện của The Innocent trong mắt thiên hạ luôn là một người TRONG SÁNG. Nhưng mấy bà ơi, trong sáng thôi chưa đủ, phải là \"Trong sáng có bản lĩnh\". Hãy để sự chân thành của mình là một điểm mạnh, chứ đừng biến nó thành lý do để bị coi nhẹ nha!"
+        }
+      ]
+    },
+    {
+      "id": "reactions",
+      "title": "Cách chúng mình phản ứng",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Nếu The Explorer thường chọn cách bỏ chạy khi có biến, thì hệ điều hành The Innocent (Thiếu Nữ Ngây Thơ) lại \"nhảy số\" theo một hệ tư tưởng hoàn toàn khác."
+        },
+        {
+          "type": "p",
+          "text": "Đọc ngay cách các bà đối mặt với 3 tình huống \"sóng gió\" này để coi tui nói có chuẩn tim đen không nha:"
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "1. Cách Bà Xử Lý Khi Mọi Thứ Rối Tung Lên (Khủng Hoảng ập đến)"
+        },
+        {
+          "type": "item",
+          "title": "Bật mode \"Từ chối tin\" (Denial First)",
+          "text": "Càng rối, phản ứng đầu tiên của các bà là không muốn tin đó là sự thật. Trong khi người khác lập tức hành động thì Innocent sẽ mất một khoảng thời gian dài để chấp nhận rằng \"điều tồi tệ này thực sự đang xảy ra\"."
+        },
+        {
+          "type": "item",
+          "title": "Tìm nơi trú ẩn cảm xúc (Seeking Comfort)",
+          "text": "Các bà có xu hướng tìm đến những điều quen thuộc, an toàn để trấn an bản thân — nghe nhạc cũ, xem lại phim yêu thích, nhắn tin cho người thân tin cậy — trước khi có thể bình tĩnh xử lý vấn đề."
+        },
+        {
+          "type": "item",
+          "title": "Dễ đóng băng, khó ra quyết định (Freeze Response)",
+          "text": "Vì thiếu kinh nghiệm đối diện với khủng hoảng thực sự, đôi khi các bà sẽ bị choáng ngợp và không biết nên bắt đầu từ đâu, cần một người đủ tin tưởng để định hướng giúp."
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "2. Khi Ở Trong Một Tập Thể (Teamwork, Nhóm bạn)"
+        },
+        {
+          "type": "item",
+          "title": "\"Linh hồn tích cực\" của nhóm",
+          "text": "Bà chính là người luôn động viên tinh thần cả đội khi mọi thứ căng thẳng. Một câu nói lạc quan của bà có thể xoay chuyển cả bầu không khí u ám của cả nhóm."
+        },
+        {
+          "type": "item",
+          "title": "Ngại đưa ra quyết định khó khăn",
+          "text": "Các bà sẵn sàng để người khác dẫn dắt, đưa ra những quyết định gai góc, vì bản thân không muốn phải là người mang tin xấu hay từ chối ai đó."
+        },
+        {
+          "type": "item",
+          "title": "Dễ bị cuốn theo ý kiến số đông",
+          "text": "Vì cái tính không muốn gây mâu thuẫn, các bà thường có xu hướng đồng ý với đám đông ngay cả khi trong lòng không hoàn toàn đồng tình, để giữ hòa khí chung."
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "3. Khi Không Được Hiểu / Bị Vỡ Mộng (Góc tổn thương ngầm)"
+        },
+        {
+          "type": "p",
+          "text": "Đây là lúc The Innocent dễ bộc lộ những góc tối tâm lý nhất nè:"
+        },
+        {
+          "type": "item",
+          "title": "Bật mode \"Thu mình\" (Withdraw quietly)",
+          "text": "Khi niềm tin bị phản bội, các bà sẽ KHÔNG bùng nổ giận dữ đâu. Thay vào đó, bà chọn cách im lặng, tổn thương âm thầm, và mất một khoảng thời gian dài để lấy lại niềm tin vào cuộc sống."
+        },
+        {
+          "type": "item",
+          "title": "Gặm nhấm sự vỡ mộng (Rumination on Betrayal)",
+          "text": "Trong đầu các bà sẽ liên tục nảy số những suy nghĩ: \"Tại sao mình lại tin người đó?\", \"Có phải mình quá ngây thơ không?\". Cảm giác tự trách này bào mòn sự tự tin của bà mỗi đêm."
+        },
+        {
+          "type": "item",
+          "title": "Cơ chế tự vệ độc hại (Over-idealizing the Past)",
+          "text": "Thay vì đối diện với thực tế đau lòng, các bà đôi khi lại chọn cách hoài niệm, lý tưởng hóa quá khứ, hoặc trốn vào một thế giới tưởng tượng an toàn hơn thay vì xử lý vấn đề trước mắt."
+        },
+        {
+          "type": "tip",
+          "text": "Chốt hạ cho The Innocent nè: Tin người là tốt, nhưng lúc mọi thứ rối ren hay khi niềm tin bị phản bội, hãy nhớ cho mình thời gian để chữa lành, đồng thời rút ra bài học thực tế! Nếu người ta lợi dụng lòng tin của bà, thì việc bà cần làm là HỌC CÁCH NHẬN DIỆN sớm hơn, chứ không phải là tiếp tục tin tưởng mù quáng đâu nha!"
+        }
+      ]
+    },
+    {
+      "id": "strengths",
+      "title": "Điểm mạnh thật sự",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Điểm mạnh thật sự (True Strengths) làm nên thương hiệu của The Innocent nha! Không phải tự nhiên mà ai cũng muốn có một người bạn, người đồng nghiệp hay người yêu mang hệ điều hành này đâu."
+        },
+        {
+          "type": "p",
+          "text": "Sức mạnh của các bà không nằm ở sự khôn ngoan lọc lõi, mà nó nằm ở \"quyền lực của sự chân thành\" siêu đẳng có khả năng thu phục nhân tâm nghen:"
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "1. Năng Lực \"Lan Tỏa Hy Vọng\" Cấp Độ Max (Master of Hope)"
+        },
+        {
+          "type": "item",
+          "title": "Nguồn năng lượng chữa lành",
+          "text": "Các bà có khả năng khiến người khác tin lại vào những điều tốt đẹp chỉ bằng cách hiện diện. Người ta đang mất niềm tin vào cuộc sống mà nói chuyện với bà xong lại thấy nhen nhóm hy vọng."
+        },
+        {
+          "type": "item",
+          "title": "Khả năng tha thứ và buông bỏ nhanh",
+          "text": "Không giữ mối hận thù, không ôm oán trách. Đây là siêu năng lực khiến các bà luôn nhẹ nhõm hơn rất nhiều so với người khác trong hành trình chữa lành nội tâm."
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "2. Sự Chân Thành Là Vũ Khí Tối Thượng"
+        },
+        {
+          "type": "item",
+          "title": "Soft outside, honest inside",
+          "text": "Nhìn giao diện bên ngoài có vẻ mong manh, dễ tổn thương, nhưng đụng chuyện thì The Innocent lại là những người trung thực nhất, không bao giờ dùng mưu mẹo để đạt được mục đích."
+        },
+        {
+          "type": "item",
+          "title": "Hành động xuất phát từ tâm (Pure Intentions)",
+          "text": "Mấy bà không bao giờ làm gì với động cơ xấu. Điểm mạnh thực sự là mọi hành động của bà đều xuất phát từ sự tử tế thật lòng, không toan tính."
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "3. \"Chất Kết Dính\" Niềm Tin Trong Tập Thể"
+        },
+        {
+          "type": "item",
+          "title": "Người duy trì tinh thần",
+          "text": "Trong một tập thể đang mất động lực, các bà chính là nguồn năng lượng giữ cho mọi người không bỏ cuộc, luôn nhắc nhở rằng \"chúng ta vẫn còn cơ hội\"."
+        },
+        {
+          "type": "item",
+          "title": "Nuôi dưỡng lòng tin trong nhóm (The Trust Builder)",
+          "text": "Điểm sáng rực rỡ nhất là khả năng khiến người khác cảm thấy an toàn để chia sẻ, vì họ biết bà sẽ không phán xét hay lợi dụng điều đó."
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "4. Sự Trong Sáng Nguyên Bản (Radical Purity)"
+        },
+        {
+          "type": "p",
+          "text": "Giữa một thế giới đầy sự hoài nghi, tính toán và \"ai cũng phải đề phòng ai đó\", việc các bà vẫn giữ được trái tim trong trẻo, tin vào điều tốt đẹp chính là một loại dũng khí cực kỳ lớn. Sự ngây thơ của các bà không phải là sự dại dột, mà đó là một sự lựa chọn đầy kiêu hãnh và bản lĩnh!"
+        }
+      ]
+    },
+    {
+      "id": "blindspots",
+      "title": "Những điểm mù cần để ý",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Sự trong sáng của Thiếu Nữ Ngây Thơ đôi khi lại chính là con dao hai lưỡi tự cứa vào mình và cả người khác, nếu mấy bà lỡ sa vào những điểm mù này:"
+        },
+        {
+          "type": "item",
+          "title": "Bẫy \"Bỏ qua dấu hiệu cảnh báo\" (Ignoring Red Flags)",
+          "text": "Mấy bà cứ tưởng cho người khác cơ hội là đang thể hiện lòng bao dung. Nhưng không! Điểm mù lớn nhất là các bà đang tự đặt mình vào nguy hiểm khi phớt lờ những bằng chứng rõ ràng về ý đồ xấu của đối phương."
+        },
+        {
+          "type": "item",
+          "title": "Trốn tránh thực tế bằng danh nghĩa lạc quan (Toxic Positivity)",
+          "text": "Đây là điểm mù đáng sợ nhất mà Innocent thường không tự nhận ra. Dù miệng nói \"mọi chuyện sẽ ổn thôi\", nhưng sâu thẳm các bà đang né tránh việc phải xử lý một vấn đề thực sự nghiêm trọng."
+        },
+        {
+          "type": "item",
+          "title": "Hội chứng \"Không dám nói không\" với những điều sai trái",
+          "text": "Khả năng nhận diện ranh giới đạo đức của The Innocent đôi khi bị nhòe đi vì quá muốn giữ hòa khí. Điểm mù ở đây là các bà đôi khi im lặng trước cái sai chỉ vì không muốn làm mất lòng ai."
+        },
+        {
+          "type": "item",
+          "title": "Cái tôi của sự \"Vô tội\" (Ego of Innocence)",
+          "text": "Các bà vô thức dính chặt hình ảnh bản thân vào việc \"mình luôn là người tốt, không làm gì sai\". Điều này khiến bà khó chấp nhận khi chính mình cũng có phần trách nhiệm trong một vấn đề nào đó."
+        },
+        {
+          "type": "item",
+          "title": "Dễ trở thành công cụ cho người khác lợi dụng lòng tốt",
+          "text": "Vì quá tin tưởng vào thiện chí của mọi người, đôi khi các bà vô tình trở thành lá chắn hoặc bình phong cho những hành vi sai trái của người khác mà không hề hay biết."
+        }
+      ]
+    },
+    {
+      "id": "conflict",
+      "title": "Mâu thuẫn lớn nhất",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Mâu thuẫn kinh điển nhất cấu xé tâm can của một Innocent mỗi đêm muộn chính là sự giằng xé giữa: Khao khát được sống trong một THẾ GIỚI HOÀN HẢO, an toàn tuyệt đối VÀ Sự thật rằng THẾ GIỚI THỰC luôn tồn tại cả điều tốt lẫn điều xấu."
+        },
+        {
+          "type": "item",
+          "title": "Vừa muốn tin, lại vừa sợ bị lừa lần nữa",
+          "text": "Tận sâu bên trong, The Innocent cực kỳ khao khát được tin tưởng ai đó trọn vẹn một lần nữa. Nhưng ác nỗi, mỗi lần định mở lòng, ký ức về những lần bị phản bội lại ùa về, khiến bà vừa muốn tin vừa sợ hãi."
+        },
+        {
+          "type": "item",
+          "title": "Nỗi sợ mất đi bản chất tốt đẹp (Fear of Losing Innocence)",
+          "text": "Vì sao các bà lại cố bám víu vào sự lạc quan nhiều đến vậy? Mâu thuẫn ở đây là: Các bà sợ rằng nếu mình trở nên thực tế, cảnh giác hơn, mình sẽ đánh mất chính con người tốt đẹp mà mình luôn tự hào."
+        },
+        {
+          "type": "item",
+          "title": "Muốn được bảo vệ nhưng cũng muốn tự đứng vững",
+          "text": "Bà có thể vừa khao khát một ai đó che chở mình khỏi những điều xấu của cuộc đời, vừa muốn tự mình chứng minh rằng mình đủ mạnh mẽ để đối diện với thế giới thực mà không cần ai bảo bọc."
+        },
+        {
+          "type": "p",
+          "text": "Cuộc chiến lớn nhất của The Innocent là học cách chấp nhận sự thật rớt nước mắt này: Trở nên tỉnh táo và cảnh giác hơn không có nghĩa là bà đánh mất sự trong sáng, mà là bà đang bảo vệ nó bằng một cách khôn ngoan hơn."
+        }
+      ]
+    },
+    {
+      "id": "challenges",
+      "title": "Những thách thức nào bạn có thể sẽ gặp phải trong các mối quan hệ",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Mang hệ điều hành The Innocent (Thiếu Nữ Ngây Thơ) vào các mối quan hệ (từ tình yêu, bạn bè đến đồng nghiệp) thì đúng kiểu \"trái tim trong veo dễ bị vấy bẩn\". Sự chân thành vô bờ bến của các bà nếu không có \"lớp giáp tỉnh táo\" thì rất dễ va phải những \"kiếp nạn\" cực kỳ đặc thù sau đây:"
+        },
+        {
+          "type": "sub",
+          "icon": "🛑",
+          "title": "1. \"Thỏi Nam Châm\" Hút Kẻ Lợi Dụng (Predator Magnet)"
+        },
+        {
+          "type": "item",
+          "title": "Bản chất",
+          "text": "Vì các bà tỏa ra năng lượng dễ tin, thiếu cảnh giác, mấy đối tượng cơ hội hoặc thao túng (manipulator) sẽ tự động \"đánh hơi\" thấy và tiếp cận bà như một mục tiêu dễ dàng."
+        },
+        {
+          "type": "item",
+          "title": "Biểu hiện",
+          "text": "Thay vì thu hút những mối quan hệ lành mạnh, các bà lại hay vướng vào những người biết cách lợi dụng lòng tốt, vẽ ra những lời hứa hẹn đẹp đẽ để đạt được mục đích riêng."
+        },
+        {
+          "type": "sub",
+          "icon": "🛑",
+          "title": "2. Yêu Đương Hay Đang Sống Trong Truyện Cổ Tích? (Fantasy Bonding)"
+        },
+        {
+          "type": "item",
+          "title": "Bản chất",
+          "text": "Các bà thích lý tưởng hóa người mình yêu, nhìn thấy tiềm năng tốt đẹp nhất mà bỏ qua những vấn đề thực tế đang tồn tại."
+        },
+        {
+          "type": "item",
+          "title": "Biểu hiện",
+          "text": "Ban đầu thì ngọt ngào đó, nhưng dần dà khi lớp vỏ hoàn hảo vỡ ra, bà sẽ đau đớn nhận ra người mình yêu không hề giống với hình ảnh mà bà đã vẽ ra trong đầu."
+        },
+        {
+          "type": "sub",
+          "icon": "🛑",
+          "title": "3. Sợ Xung Đột Đến Mức Im Lặng Chịu Đựng (Conflict Avoidance)"
+        },
+        {
+          "type": "item",
+          "title": "Bản chất",
+          "text": "Các bà ghét cảm giác căng thẳng, đối đầu, nên thường chọn cách nhượng bộ hoặc lảng tránh mỗi khi có bất đồng xảy ra."
+        },
+        {
+          "type": "item",
+          "title": "Biểu hiện",
+          "text": "Khi bị đối xử không công bằng, thay vì lên tiếng, bà chọn cách im lặng chịu đựng, hy vọng mọi chuyện sẽ tự động tốt lên mà không cần đối thoại thẳng thắn."
+        },
+        {
+          "type": "sub",
+          "icon": "🛑",
+          "title": "4. Dễ Bị Thao Túng Bằng Cảm Giác Tội Lỗi (Guilt Manipulation)"
+        },
+        {
+          "type": "item",
+          "title": "Bản chất",
+          "text": "Vì luôn muốn là người tốt, các bà rất dễ bị người khác lợi dụng cảm giác tội lỗi để ép buộc làm theo ý họ."
+        },
+        {
+          "type": "item",
+          "title": "Biểu hiện",
+          "text": "Những câu nói như \"Nếu bà thực sự tốt thì bà sẽ...\" có thể khiến bà làm những điều không thực sự muốn, chỉ vì sợ bị coi là người xấu, ích kỷ."
+        },
+        {
+          "type": "sub",
+          "icon": "🛑",
+          "title": "5. Trì Hoãn Trưởng Thành Cảm Xúc (Delayed Emotional Maturity)"
+        },
+        {
+          "type": "item",
+          "title": "Bản chất",
+          "text": "Việc né tránh những sự thật khó khăn khiến các bà đôi khi bị \"kẹt lại\" ở một giai đoạn cảm xúc non nớt hơn so với tuổi thực."
+        },
+        {
+          "type": "item",
+          "title": "Biểu hiện",
+          "text": "Bạn bè, người yêu có thể cảm thấy bà chưa đủ sẵn sàng để cùng họ đối diện với những vấn đề nghiêm túc của một mối quan hệ trưởng thành."
+        },
+        {
+          "type": "tip",
+          "text": "Tip sinh tồn cho các bà hệ Innocent: Hãy nhớ, tình yêu và tình bạn khỏe mạnh cần cả sự chân thành LẪN sự tỉnh táo. Đừng để lòng tin của mình trở thành cánh cửa mở toang cho bất cứ ai bước vào lợi dụng. Bà hoàn toàn xứng đáng được yêu thương bởi những người biết trân trọng sự trong sáng ấy, chứ không phải lợi dụng nó!"
+        }
+      ]
+    },
+    {
+      "id": "growth",
+      "title": "Hướng phát triển",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Để lột xác và nâng cấp năng lượng The Innocent (Thiếu Nữ Ngây Thơ) lên một tầm cao mới, hành trình của mấy bà không phải là trở nên hoài nghi hay mất niềm tin vào cuộc sống. Sự trưởng thành của một Innocent là biến sự ngây thơ mù quáng thành sự lạc quan có nhận thức, và học cách giữ trái tim ấm áp bên trong một cái đầu tỉnh táo."
+        },
+        {
+          "type": "p",
+          "text": "Dưới đây là hướng phát triển để các bà vừa giữ được \"hào quang\" trong sáng, vừa không bị thiên hạ lợi dụng:"
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "1. Chuyển từ \"Tin Mù Quáng\" sang \"Tin Có Kiểm Chứng\" (Discernment)"
+        },
+        {
+          "type": "item",
+          "title": "Nâng cấp bộ lọc niềm tin",
+          "text": "Lòng tin của bà là một món quà quý giá, không phải là hàng free ai muốn lấy thì lấy. Hãy bắt đầu quan sát hành động thay vì chỉ tin vào lời nói của người khác."
+        },
+        {
+          "type": "item",
+          "title": "Học cách đặt câu hỏi thay vì chấp nhận ngay",
+          "text": "Tập thói quen hỏi \"Tại sao?\" và \"Có bằng chứng nào không?\" trước khi hoàn toàn tin tưởng vào một điều gì đó — không phải để trở nên đa nghi, mà để bảo vệ chính mình."
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "2. Ngừng Trốn Tránh, Hãy Học Cách Đối Diện (Facing Reality)"
+        },
+        {
+          "type": "item",
+          "title": "Chấp nhận sự thật dù nó khó chịu",
+          "text": "Khi có dấu hiệu bất ổn, thay vì tự nhủ \"chắc không sao\", hãy dũng cảm nhìn thẳng vào vấn đề và hỏi bản thân: \"Nếu điều này là thật thì mình cần làm gì?\"."
+        },
+        {
+          "type": "item",
+          "title": "Rèn luyện khả năng chịu đựng sự thất vọng",
+          "text": "Không phải mọi thứ đều diễn ra như bà mong muốn. Học cách chấp nhận điều đó mà không sụp đổ hoàn toàn là một bước trưởng thành quan trọng."
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "3. Tự Xây Dựng \"Lá Chắn Nội Tâm\" (Inner Resilience)"
+        },
+        {
+          "type": "item",
+          "title": "Luật \"Tin nhưng phải xác minh\"",
+          "text": "Khắc cốt ghi tâm nguyên tắc này: Bà có thể vẫn giữ trái tim ấm áp, nhưng hãy để hành động và thời gian chứng minh trước khi trao trọn niềm tin."
+        },
+        {
+          "type": "item",
+          "title": "Dám đối mặt với cảm xúc tiêu cực",
+          "text": "Ngừng gạt bỏ sự tức giận, thất vọng hay tổn thương khi bị đối xử tệ. Hãy cho phép mình cảm nhận những cảm xúc đó thay vì vội vàng tha thứ và quên đi."
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "4. Tích hợp thêm năng lượng bổ trợ (Nâng cấp giao diện)"
+        },
+        {
+          "type": "item",
+          "title": "Mượn năng lượng Nhà Hiền Triết (The Sage)",
+          "text": "Học cách phân tích, đánh giá tình huống bằng lý trí trước khi để cảm xúc dẫn dắt quyết định. Sự khôn ngoan không làm mất đi lòng tốt của bà."
+        },
+        {
+          "type": "item",
+          "title": "Mượn năng lượng Nhà Cai Trị (The Ruler)",
+          "text": "Rèn luyện khả năng thiết lập ranh giới và đưa ra quyết định dứt khoát khi cần bảo vệ bản thân, thay vì luôn nhường nhịn để giữ hòa khí."
+        },
+        {
+          "type": "tip",
+          "text": "The Empowered Innocent (Thiếu Nữ Đỉnh Cao) không phải là người ngây thơ tin vào tất cả mọi thứ, mà là một người phụ nữ sở hữu trái tim trong sáng nhất nhưng cũng có đôi mắt tinh tường nhất. Khi bà biết giữ mình tỉnh táo, thứ năng lượng tỏa ra không còn là sự dễ bị lợi dụng, mà là một sức hút thuần khiết khiến ai cũng phải trân trọng!"
+        }
+      ]
+    },
+    {
+      "id": "relationships",
+      "title": "Làm sao để cải thiện các mối quan hệ xã hội",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Okela mấy bà, tới phần cốt lõi để \"cứu giá\" các mối quan hệ cho hệ Thiếu Nữ Ngây Thơ đây!"
+        },
+        {
+          "type": "p",
+          "text": "Lấy sổ ra note lại ngay chiến lược để vừa giữ được sự trong sáng, vừa không bị thiên hạ \"lợi dụng\" nha:"
+        },
+        {
+          "type": "sub",
+          "icon": "🌟",
+          "title": "PHẦN 1: Cứu Vãn Các Mối Quan Hệ Xã Hội (Bạn bè, Đồng nghiệp)"
+        },
+        {
+          "type": "p",
+          "text": "Để không bị biến thành \"con mồi dễ bắt\" hay \"kẻ ngây thơ để lợi dụng\" của thiên hạ, các bà Innocent phải setup lại hệ điều hành giao tiếp liền:"
+        },
+        {
+          "type": "item",
+          "title": "Dẹp ngay cái nết \"Tin ai cũng được\" (Stop Blind Trust)",
+          "text": "Bà là người tốt, không phải người dễ bị lừa! Trước khi tin tưởng ai đó hoàn toàn, hãy dành thời gian quan sát xem lời nói và hành động của họ có nhất quán không."
+        },
+        {
+          "type": "item",
+          "title": "Luật \"Quan sát trước, tin sau\" (Observe First)",
+          "text": "Thanh lọc lại vòng tròn bạn bè đi mấy bà. Ưu tiên giữ lại những mối quan hệ đã được thời gian và hành động thực tế chứng minh là đáng tin cậy."
+        },
+        {
+          "type": "item",
+          "title": "Có gì thắc mắc nói nấy, ngưng nhắm mắt cho qua (Direct Communication)",
+          "text": "Bà cảm thấy có gì đó không ổn, đừng tự thuyết phục bản thân là \"chắc không sao\". Dùng cấu trúc: \"Mình cảm thấy hơi lo lắng về việc này, bạn có thể giải thích rõ hơn không?\"."
+        },
+        {
+          "type": "sub",
+          "icon": "💕",
+          "title": "PHẦN 2: \"Trị Bệnh\" Trong Tình Yêu (Yêu sao cho đừng dễ bị lừa?)"
+        },
+        {
+          "type": "p",
+          "text": "Tình yêu của Innocent rất đẹp, nhưng toàn tự mình làm khổ mình vì quá tin người. Muốn có một mối tình an toàn, chân thành và bền vững, thì phải chấn chỉnh ngay:"
+        },
+        {
+          "type": "item",
+          "title": "Ngừng lý tưởng hóa người yêu ngay từ đầu",
+          "text": "Đừng vội vẽ ra hình ảnh hoàn hảo về đối phương. Hãy cho họ thời gian để thể hiện con người thật qua hành động, không chỉ qua lời nói ngọt ngào."
+        },
+        {
+          "type": "item",
+          "title": "Học cách nhận diện dấu hiệu cảnh báo (Red Flag Literacy)",
+          "text": "Tìm hiểu về các dấu hiệu của một mối quan hệ độc hại — kiểm soát, ghen tuông thái quá, cô lập khỏi bạn bè — để có thể nhận ra sớm thay vì chờ mọi thứ trở nên tồi tệ."
+        },
+        {
+          "type": "item",
+          "title": "Đi tìm \"Sự Thật\" chứ không tìm \"Giấc Mơ\"",
+          "text": "Bỏ ngay khát khao một tình yêu hoàn hảo như phim ảnh. Hãy chọn yêu một người thật, có ưu điểm và khuyết điểm rõ ràng, hơn là một hình mẫu lý tưởng chỉ tồn tại trong tưởng tượng."
+        },
+        {
+          "type": "item",
+          "title": "Dám lên tiếng khi cảm thấy tổn thương",
+          "text": "Bà tin tưởng rồi, nhưng khi bị đối xử không tốt, đừng cố tự nhủ là \"chắc mình hiểu lầm\". Hãy nói thẳng cảm xúc thật của mình và quan sát phản ứng của đối phương."
+        },
+        {
+          "type": "tip",
+          "text": "Chốt hạ: Bí quyết lớn nhất để Innocent hạnh phúc là học cách TIN CÓ CHỌN LỌC (Discerning Trust). Hãy tin rằng bà xứng đáng được yêu thương bởi những người xứng đáng với lòng tin của bà, chứ không phải bất kỳ ai bước vào cuộc đời bà!"
+        }
+      ]
+    },
+    {
+      "id": "career",
+      "title": "Bạn cần làm gì để thăng tiến trong công việc",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Alo mấy bà, đến cái chuyên mục quan trọng nhất để \"lột xác\" chốn công sở đây! The Innocent (Thiếu Nữ Ngây Thơ) bình thường đi làm rất hay bị rơi vào cái bẫy \"dễ bị sai vặt\" hoặc \"không dám đấu tranh cho quyền lợi của mình\". Muốn thăng tiến, lên sếp hay tự làm chủ mà vẫn giữ được vibe \"trong sáng\" thì phải rèn ngay mấy skill cốt lõi này nha:"
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "1. Từ \"Người Dễ Bảo\" Thành \"Người Có Chính Kiến\""
+        },
+        {
+          "type": "item",
+          "title": "Ngưng đồng ý mọi thứ chỉ để tránh xung đột",
+          "text": "Sự tử tế không nằm ở việc bà luôn gật đầu với mọi yêu cầu, kể cả những yêu cầu vô lý. Muốn bứt phá, hãy học cách bày tỏ ý kiến riêng một cách lịch sự nhưng rõ ràng."
+        },
+        {
+          "type": "item",
+          "title": "Xây dựng sự tự tin vào phán đoán của bản thân",
+          "text": "Thay vì luôn nghi ngờ ý kiến của mình so với người khác, hãy tin tưởng vào trực giác và kiến thức mà bà đã tích lũy được."
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "2. Đóng Gói Sự Chân Thành Bằng \"Chuyên Nghiệp\" (Professional Warmth)"
+        },
+        {
+          "type": "p",
+          "text": "Trực giác tốt và lòng tốt là thiên phú, nhưng để ngồi vào ghế sếp hay vận hành trơn tru một mô hình kinh doanh, bà bắt buộc phải kết hợp sự chân thành với kỹ năng chuyên môn vững vàng."
+        },
+        {
+          "type": "p",
+          "text": "Hãy tập thói quen chuẩn bị kỹ lưỡng trước mỗi cuộc họp, mỗi buổi thuyết trình. Khi trình bày ý tưởng, đừng chỉ nói \"Em nghĩ cái này tốt\". Hãy đổi thành: \"Dựa trên dữ liệu này, em đề xuất phương án sau, vì lý do...\". Sự chân thành đi kèm với năng lực chính là \"vũ khí hủy diệt\" chốn công sở."
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "3. Tự Bảo Vệ Thành Quả Của Bản Thân (Self-Protection)"
+        },
+        {
+          "type": "p",
+          "text": "Căn bệnh trầm kha của The Innocent là dễ bị người khác \"nhận vơ\" công sức vì không biết cách tự bảo vệ ý tưởng và đóng góp của mình."
+        },
+        {
+          "type": "p",
+          "text": "Đừng chờ đợi ai đó tự công nhận công sức của bà! Hãy chủ động lưu lại bằng chứng về đóng góp của mình (email, tài liệu, báo cáo) và tự tin trình bày khi cần thiết."
+        },
+        {
+          "type": "sub",
+          "icon": "✨",
+          "title": "4. Thiết Lập \"Ranh Giới Rõ Ràng\" Về Công Việc"
+        },
+        {
+          "type": "p",
+          "text": "Năng lượng của bà là để tạo ra giá trị thực sự, không phải để làm \"người sai vặt\" cho mọi yêu cầu ngoài phạm vi công việc."
+        },
+        {
+          "type": "p",
+          "text": "Học cách nói \"KHÔNG\" điềm tĩnh với những yêu cầu không thuộc trách nhiệm của mình. Phải phân bổ rạch ròi: thời gian nào để làm việc chuyên môn, thời gian nào để từ chối những việc không cần thiết."
+        },
+        {
+          "type": "p",
+          "text": "Tóm lại, thăng tiến không có nghĩa là bà phải trở nên toan tính, lạnh lùng hay mất đi sự chân thành vốn có. Phiên bản nâng cấp đỉnh cao nhất của Innocent chính là người dùng trái tim trong sáng để kết nối nhân tâm, nhưng lại dùng sự tỉnh táo và chuyên nghiệp để bảo vệ giá trị của chính mình."
+        }
+      ]
+    },
+    {
+      "id": "journey",
+      "title": "Vận trình cuộc đời",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Hành trình của Innocent là một chuỗi ngày vật vã chuyển hóa từ việc \"tin tưởng mù quáng\" sang cảnh giới \"lạc quan có trí tuệ\"."
+        },
+        {
+          "type": "p",
+          "text": "Lưu ngay 3 giai đoạn \"tiến hóa\" này để xem mấy bà đang kẹt ở level nào nè:"
+        },
+        {
+          "type": "sub",
+          "icon": "🌱",
+          "title": "Dưới 25 Tuổi: Innocent Tập Sự (The Wide-Eyed Believer)"
+        },
+        {
+          "type": "item",
+          "title": "Vibe lúc này",
+          "text": "Tin vào mọi thứ, mọi người. Nhiệt tình cộng ngây thơ tuyệt đối. Ai nói gì cũng tin, ai hứa gì cũng đợi. Năng lượng lạc quan tràn trề nhưng chưa có bộ lọc."
+        },
+        {
+          "type": "item",
+          "title": "Thực trạng",
+          "text": "Đây là giai đoạn mấy bà rất dễ bị lừa gạt, lợi dụng lòng tin. Nếu có chập chững ra làm kinh doanh, các bà sẽ tin tưởng đối tác một cách vô điều kiện mà không có hợp đồng hay điều khoản rõ ràng. Trong tình yêu thì dễ lao đầu vào những mối quan hệ độc hại vì tin vào lời hứa suông."
+        },
+        {
+          "type": "item",
+          "title": "Bài học cốt lõi",
+          "text": "Dính vô vàn cú lừa và những cú vỡ mộng đau đớn để nhận ra rằng: Lòng tin mà không có sự sáng suốt thì chỉ là miếng mồi ngon cho thiên hạ lợi dụng."
+        },
+        {
+          "type": "sub",
+          "icon": "🌸",
+          "title": "Từ 25 Đến 40 Tuổi: Innocent Thức Tỉnh (The Wise Optimist)"
+        },
+        {
+          "type": "item",
+          "title": "Vibe lúc này",
+          "text": "Đã nếm đủ \"trái đắng\" của sự tin tưởng mù quáng. Giao diện vẫn ấm áp, chân thành nhưng bên trong đã bắt đầu rèn được một \"radar cảnh giác\" và khả năng phân biệt tốt xấu."
+        },
+        {
+          "type": "item",
+          "title": "Thực trạng",
+          "text": "Ở độ tuổi này, các bà bắt đầu ngộ ra chân lý cốt lõi: Đừng cố tin mù quáng nữa, hãy học cách tin có kiểm chứng! Thay vì trao trọn niềm tin ngay từ đầu, mấy bà chuyển sang quan sát hành động, kiểm tra tính nhất quán trước khi mở lòng. Sự lạc quan lúc này được kết hợp với kinh nghiệm sống thực tế."
+        },
+        {
+          "type": "item",
+          "title": "Bài học cốt lõi",
+          "text": "Chấp nhận buông bỏ ảo tưởng về một thế giới hoàn hảo. Dám thẳng tay rời xa những mối quan hệ độc hại và học cách tự bảo vệ mình trước khi tin tưởng ai đó."
+        },
+        {
+          "type": "sub",
+          "icon": "👑",
+          "title": "Sau 40 Tuổi: \"Người Mang Ánh Sáng\" Minh Triết (The Wise Light-Bringer)"
+        },
+        {
+          "type": "item",
+          "title": "Vibe lúc này",
+          "text": "An tọa vững chãi, khí chất ấm áp nhưng vững vàng. Không còn dễ bị lừa gạt hay hoang mang vì những cú sốc bất ngờ nữa. Sự lạc quan tỏa ra tự nhiên như hơi thở, đi kèm với sự khôn ngoan của trải nghiệm."
+        },
+        {
+          "type": "item",
+          "title": "Thực trạng",
+          "text": "Các bà lùi lại một bước khỏi việc phải chứng minh lòng tốt với tất cả mọi người. Thay vì trao niềm tin bừa bãi, các bà vươn tầm thành những người truyền cảm hứng, giúp thế hệ trẻ giữ được hy vọng mà vẫn tỉnh táo trước những cạm bẫy của cuộc đời."
+        },
+        {
+          "type": "item",
+          "title": "Bài học cốt lõi",
+          "text": "Đạt đến cảnh giới cao nhất của sự lạc quan: Nhìn thấy cả điều tốt lẫn điều xấu của thế giới, nhưng vẫn chọn giữ trái tim ấm áp và niềm tin vào những điều tốt đẹp — không phải vì ngây thơ, mà vì đó là một lựa chọn có ý thức."
+        }
+      ]
+    },
+    {
+      "id": "advice",
+      "title": "Lời khuyên",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Tóm lại nha mấy bà, chốt sổ nguyên mẫu Thiếu Nữ Ngây Thơ (The Innocent) bằng một câu cốt lõi thôi: Bà là một tia sáng ấm áp của nhân gian, nhưng tia sáng thì cũng cần một lớp kính bảo vệ để không bị dập tắt!"
+        },
+        {
+          "type": "tip",
+          "text": "Lời khuyên \"xương máu\" ghim ngay vào tim nè:"
+        },
+        {
+          "type": "item",
+          "title": "Nghỉ làm \"Người Tin Tưởng Vô Điều Kiện\"",
+          "text": "Bà không có nghĩa vụ phải tin tưởng mọi người mà không có bằng chứng. Hãy để hành động và thời gian chứng minh trước khi trao trọn niềm tin của mình."
+        },
+        {
+          "type": "item",
+          "title": "Chân lý sinh tồn để không bị \"lợi dụng\"",
+          "text": "Thay vì cứ nhắm mắt tin vào những lời hứa hẹn đẹp đẽ, hãy khắc cốt ghi tâm điều này: đừng chỉ nghe lời nói, hãy quan sát hành động. Sự thật luôn nằm ở những gì người ta làm, không phải những gì họ nói."
+        },
+        {
+          "type": "item",
+          "title": "Trong sáng thì phải đi kèm tỉnh táo",
+          "text": "Áp dụng chuẩn xác nguyên tắc: \"Trái tim ấm áp, cái đầu tỉnh táo\". Giữ lòng tốt của mình, nhưng học cách bảo vệ nó bằng sự sáng suốt."
+        },
+        {
+          "type": "item",
+          "title": "Setup \"Bộ lọc niềm tin\"",
+          "text": "Lòng tin trao nhầm chỗ là tự chuốc lấy khổ đau. Dám thẳng tay rời xa những mối quan hệ, những kẻ đã chứng minh rằng họ không xứng đáng với sự chân thành của bà."
+        },
+        {
+          "type": "tip",
+          "text": "Chốt hạ: Sự trong sáng, lạc quan của Innocent là một siêu năng lực bẩm sinh, là thứ ánh sáng ấm áp nhưng có khả năng chữa lành đỉnh cao nhất. Miễn là bà biết bảo vệ trái tim mình bằng sự tỉnh táo, thì vibe của bà lúc nào cũng sẽ trong trẻo và tỏa sáng rực rỡ!"
+        }
+      ]
+    }
+  ]
+}
