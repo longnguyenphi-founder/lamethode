@@ -1,3 +1,5 @@
+Deployment verification - October 2026
+
 # La Methode
 
 Website La Methode: trang giới thiệu, bài khảo sát **Aura Introspection** (15 câu hỏi) và **báo cáo nguyên mẫu** riêng cho 12 nguyên mẫu tính cách. Mỗi báo cáo có giao diện, màu sắc và hiệu ứng cuộn riêng.
